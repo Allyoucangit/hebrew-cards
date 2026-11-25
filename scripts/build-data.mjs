@@ -123,10 +123,10 @@ for (const it of items) {
   });
 }
 const needsMarks = (p) => HOMOGRAPHS.has(p) || readings.get(p)?.size > 1;
-// Per-word decisions from the pronunciation check (data/src/nikkud/audio-choice.txt): "marks" or "plain".
+// Per-word decisions from the pronunciation check (data/src/audio-choice.tsv): "marks" or "plain".
 const choice = new Map();
 try {
-  for (const line of readFileSync(join(nikDir, 'audio-choice.txt'), 'utf8').split('\n')) {
+  for (const line of readFileSync(join(srcDir, 'audio-choice.tsv'), 'utf8').split('\n')) {
     if (!line.trim() || line.startsWith('#')) continue;
     const [id, plain, what] = line.split('#')[0].split('|').map((x) => x.trim());
     for (const p of plain.split('/').map((x) => x.trim())) choice.set(`${id}|${p}`, what);

@@ -1,5 +1,5 @@
 """Decides, per word/form, whether the plain or the vowel-marked recording is closer to the
-reference recorded from the transliteration (IPA). Writes data/src/nikkud/audio-choice.txt.
+reference recorded from the transliteration (IPA). Writes data/src/audio-choice.tsv.
 Usage: python3 scripts/compare-referee.py <PCM_DIR>"""
 import json, sys, os
 import numpy as np
@@ -39,5 +39,5 @@ for p in pairs:
     tally[choice] += 1
     if choice != 'tie':
         out.append(f"{p['id']}|{p['plain']}|{choice}   # {p['tr']}: plain {dp:.1f}, marks {dn:.1f}")
-open(os.path.join(os.path.dirname(__file__), '..', 'data', 'src', 'nikkud', 'audio-choice.txt'), 'w', encoding='utf-8').write('\n'.join(out) + '\n')
+open(os.path.join(os.path.dirname(__file__), '..', 'data', 'src', 'audio-choice.tsv'), 'w', encoding='utf-8').write('\n'.join(out) + '\n')
 print(tally)
