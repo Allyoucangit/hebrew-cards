@@ -1,5 +1,6 @@
 // Generates MP3 audio for all words, forms and example sentences with Azure Text-to-Speech.
-// Usage: AZURE_REGION=westeurope AZURE_SPEECH_KEY=... node scripts/generate-audio.mjs
+// Usage: AZURE_SPEECH_KEY=... node scripts/generate-audio.mjs   (region: germanywestcentral)
+// In Claude cloud sessions the key is injected by the proxy: NODE_USE_ENV_PROXY=1 npm run audio
 // Existing files are skipped, so it can be re-run after adding words.
 import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
@@ -7,7 +8,7 @@ import { fileURLToPath } from 'node:url';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const outDir = join(root, 'public', 'audio');
-const region = process.env.AZURE_REGION || 'westeurope';
+const region = process.env.AZURE_REGION || 'germanywestcentral';
 const key = process.env.AZURE_SPEECH_KEY || 'injected-by-proxy';
 const voice = process.env.AZURE_VOICE || 'he-IL-HilaNeural';
 const limit = Number(process.env.LIMIT || Infinity);

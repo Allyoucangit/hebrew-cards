@@ -8,5 +8,6 @@ Learner: English speaker, learning Hebrew via Duolingo (course "Hebrew from Engl
   Source list of Duolingo vocabulary by unit: duome.eu/vocabulary/en/he/skills. Verify verb forms against Pealim.
 - Audio keys: FNV-1a hash of the unvocalized text (`audioKey` in `src/audio.js` and `scripts/generate-audio.mjs` must match).
 - Card ids are `${type}:${hebrew}|${kind}`; renaming a Hebrew headword resets its progress.
+- Hosting: Netlify (private GitHub repo), config in netlify.toml. Azure Speech region: germanywestcentral.
 - Before pushing: `npm run build` and test at iPhone size with Playwright.
 - Roadmap: extra everyday words (owner must approve the list), Duolingo units 32+, past/future tense, sync between devices.
