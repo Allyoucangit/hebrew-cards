@@ -123,8 +123,25 @@ for (const it of items) {
   });
 }
 const needsMarks = (p) => HOMOGRAPHS.has(p) || readings.get(p)?.size > 1;
+// Per-word decisions from the pronunciation check (data/src/nikkud/audio-choice.txt): "marks" or "plain".
+const choice = new Map();
+try {
+  for (const line of readFileSync(join(nikDir, 'audio-choice.txt'), 'utf8').split('\n')) {
+    if (!line.trim() || line.startsWith('#')) continue;
+    const [id, plain, what] = line.split('#')[0].split('|').map((x) => x.trim());
+    for (const p of plain.split('/').map((x) => x.trim())) choice.set(`${id}|${p}`, what);
+  }
+} catch (e) {
+  if (e.code !== 'ENOENT') throw e;
+}
 for (const it of items) {
-  if (it.voc) it.voc = it.voc.map((v, k) => (needsMarks(plainStrings(it)[k]) ? v : plainStrings(it)[k]));
+  if (!it.voc) continue;
+  it.voc = it.voc.map((v, k) => {
+    const p = plainStrings(it)[k];
+    const c = choice.get(`${it.id}|${p}`);
+    const useMarks = readings.get(p)?.size > 1 || (c ? c === 'marks' : HOMOGRAPHS.has(p));
+    return useMarks ? v : p;
+  });
 }
 const marked = items.reduce((n, it) => n + (it.voc || []).filter((v) => /[֑-ׇ]/.test(v)).length, 0);
 console.log(`Audio uses vowel marks for ${marked} ambiguous words/forms.`);
