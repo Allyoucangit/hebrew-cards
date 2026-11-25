@@ -13,10 +13,10 @@ const key = process.env.AZURE_SPEECH_KEY || 'injected-by-proxy';
 const voice = process.env.AZURE_VOICE || 'he-IL-HilaNeural';
 const limit = Number(process.env.LIMIT || Infinity);
 
-const stripNikkud = (s) => s.replace(/[֑-ׇ]/g, '');
-// Must match audioKey() in src/audio.js
+const stripNikkud = (s) => s.replace(/[\u0591-\u05C7]/g, '');
+// Must match audioKey() in src/audio.js (hash of the exact text, vowel marks included).
 function audioKey(text) {
-  const s = stripNikkud(text).trim();
+  const s = text.trim();
   let h = 0x811c9dc5;
   for (const ch of new TextEncoder().encode(s)) {
     h ^= ch;
@@ -25,25 +25,28 @@ function audioKey(text) {
   return h.toString(16).padStart(8, '0');
 }
 
+// Must match PRESENT_PRONOUNS (src/hebrew.js) and PRON_V (src/practice.js).
+const PRON_V = { 'את': 'אַתְּ' }; // only את is ambiguous (et / at)
 const PRESENT_PRONOUNS = [['אני', 'אתה', 'הוא'], ['אני', 'את', 'היא'], ['אנחנו', 'אתם', 'הם'], ['אנחנו', 'אתן', 'הן']];
 
+// Every text the app can play (vocalized where available, see V in src/practice.js).
 const { items } = JSON.parse(readFileSync(join(root, 'public', 'data', 'words.json'), 'utf8'));
 const texts = new Set();
 for (const it of items) {
-  texts.add(it.he);
+  texts.add(it.heV || it.he);
   texts.add(it.ex);
-  if (it.pl) texts.add(it.pl);
-  (it.forms || []).forEach((f) => texts.add(f));
-  (it.present || []).forEach((f, i) => {
+  if (it.pl) texts.add(it.plV || it.pl);
+  (it.formsV || it.forms || []).forEach((f) => texts.add(f));
+  (it.presentV || it.present || []).forEach((f, i) => {
     texts.add(f);
-    PRESENT_PRONOUNS[i].forEach((p) => texts.add(`${p} ${f}`));
+    PRESENT_PRONOUNS[i].forEach((p) => texts.add(`${PRON_V[p] || p} ${f}`));
   });
 }
 
 const escXml = (s) => s.replace(/[<>&"']/g, (c) => ({ '<': '&lt;', '>': '&gt;', '&': '&amp;', '"': '&quot;', "'": '&apos;' })[c]);
 
 async function synth(text) {
-  const spoken = stripNikkud(text).replace(/\s+\/\s+/g, ', ');
+  const spoken = text.replace(/\s*\(.*?\)/g, '').replace(/\s+\/\s+/g, ', ');
   const ssml = `<speak version="1.0" xml:lang="he-IL"><voice name="${voice}"><prosody rate="-5%">${escXml(spoken)}</prosody></voice></speak>`;
   for (let attempt = 1; attempt <= 4; attempt++) {
     const res = await fetch(`https://${region}.tts.speech.microsoft.com/cognitiveservices/v1`, {

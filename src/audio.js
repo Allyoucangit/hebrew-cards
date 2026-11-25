@@ -3,8 +3,9 @@ import { stripNikkud } from './hebrew.js';
 import { settings } from './store.js';
 
 export function audioKey(text) {
-  // FNV-1a 32-bit hash of the unvocalized text. Must match scripts/generate-audio.mjs.
-  const s = stripNikkud(text).trim();
+  // FNV-1a 32-bit hash of the exact text (vowel marks included, so ישן "yashan" and "yashen" differ).
+  // Must match scripts/generate-audio.mjs.
+  const s = text.trim();
   let h = 0x811c9dc5;
   for (const ch of new TextEncoder().encode(s)) {
     h ^= ch;
@@ -35,18 +36,25 @@ function hebrewVoice() {
 
 export const hasAnyHebrewAudio = () => available.size > 0 || !!hebrewVoice();
 
+/** Plays one text, or several texts one after another (e.g. noun + adjective). */
 export function speak(text) {
   if (!text) return;
   stop();
-  const key = audioKey(text);
+  const parts = Array.isArray(text) ? text : [text];
   const rate = settings().speechRate || 1;
-  if (available.has(key)) {
-    current = new Audio(`audio/${key}.mp3`);
-    current.playbackRate = rate;
-    current.play().catch(() => speakWithDevice(text, rate));
-    return;
-  }
-  speakWithDevice(text, rate);
+  // Recorded audio only if every part has a recording; otherwise the device voice reads the whole thing.
+  if (!parts.every((p) => available.has(audioKey(p)))) return speakWithDevice(parts.join(' '), rate);
+  const token = {};
+  current = token;
+  const playAt = (i) => {
+    if (current !== token || i >= parts.length) return;
+    const a = new Audio(`audio/${audioKey(parts[i])}.mp3`);
+    a.playbackRate = rate;
+    token.audio = a;
+    a.onended = () => playAt(i + 1);
+    a.play().catch(() => speakWithDevice(parts.join(' '), rate));
+  };
+  playAt(0);
 }
 
 function speakWithDevice(text, rate) {
@@ -61,7 +69,7 @@ function speakWithDevice(text, rate) {
 
 export function stop() {
   if (current) {
-    current.pause();
+    current.audio?.pause();
     current = null;
   }
   if ('speechSynthesis' in window) speechSynthesis.cancel();

@@ -90,6 +90,17 @@ export const dayStats = (day = today()) => state.days[day] || { reviews: 0, new:
 export const allDays = () => state.days;
 export const allCards = () => state.cards;
 
+// Words the learner marked as "audio sounds wrong".
+export const audioFlags = () => (state.flags ||= []);
+export function toggleAudioFlag(id) {
+  const f = audioFlags();
+  const i = f.indexOf(id);
+  if (i >= 0) f.splice(i, 1);
+  else f.push(id);
+  save();
+  return i < 0;
+}
+
 export const settings = () => state.settings;
 export function updateSettings(patch) {
   state.settings = { ...state.settings, ...patch };
@@ -108,6 +119,6 @@ export function importBackup(text) {
 }
 
 export function resetProgress() {
-  state = { cards: {}, days: {}, settings: state.settings };
+  state = { cards: {}, days: {}, settings: state.settings, flags: state.flags };
   save();
 }

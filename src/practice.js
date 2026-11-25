@@ -1,6 +1,6 @@
 // Practice session: picks cards, renders exercises, grades answers.
 import { items, dueCards, newCardsAvailable, newLeftToday, CATEGORY } from './deck.js';
-import { getCard, review, preview, settings, Rating } from './store.js';
+import { getCard, review, preview, settings, Rating, audioFlags, toggleAudioFlag } from './store.js';
 import { check, alternatives, PERSONS, PRESENT_PRONOUNS, FORM_LABELS } from './hebrew.js';
 import { speak, stop } from './audio.js';
 import { hebrewInput } from './keyboard.js';
@@ -16,6 +16,15 @@ const shuffle = (arr) => {
     [a[i], a[j]] = [a[j], a[i]];
   }
   return a;
+};
+// Vowel-marked versions (for the voice only; the screen shows plain text).
+const PRON_V = { 'את': 'אַתְּ' }; // only את is ambiguous (et / at)
+export const V = {
+  he: (it) => it.heV || it.he,
+  pl: (it) => it.plV || it.pl,
+  form: (it, i) => (it.formsV || it.forms)[i],
+  pres: (it, i) => (it.presentV || it.present)[i],
+  pron: (p) => PRON_V[p] || p,
 };
 const TYPE_LABEL = { n: 'noun', a: 'adjective', v: 'verb', p: 'preposition', x: '' };
 
@@ -55,27 +64,35 @@ function answerMode(card) {
 }
 
 /** Full info block about a word, shown after answering. */
+/** Handles the report button inside an info block (used by the word list too). */
+export function handleFlagClick(e) {
+  const fl = e.target.closest('[data-flag]');
+  if (fl) fl.textContent = toggleAudioFlag(fl.dataset.flag) ? '⚑ Reported – tap to undo' : '⚐ Audio sounds wrong?';
+  return !!fl;
+}
+
 export function infoBlock(it) {
   const tr = (t) => `<span class="tr">${esc(t)}</span>`;
   let extra = '';
   if (it.type === 'n') {
-    extra = `<div class="meta">${it.g === 'm' ? 'masculine' : 'feminine'}${it.pl ? ` · plural ${he(it.pl)} ${tr(it.pltr)} <button class="say mini" data-say="${esc(it.pl)}" aria-label="Play">🔊</button>` : ''}</div>`;
+    extra = `<div class="meta">${it.g === 'm' ? 'masculine' : 'feminine'}${it.pl ? ` · plural ${he(it.pl)} ${tr(it.pltr)} <button class="say mini" data-say="${esc(V.pl(it))}" aria-label="Play">🔊</button>` : ''}</div>`;
   } else if (it.type === 'a') {
-    extra = `<table class="forms">${it.forms.map((f, i) => `<tr><td>${FORM_LABELS[i]}</td><td>${he(f)}</td><td>${tr(it.trs[i])}</td><td><button class="say mini" data-say="${esc(f)}" aria-label="Play">🔊</button></td></tr>`).join('')}</table>`;
+    extra = `<table class="forms">${it.forms.map((f, i) => `<tr><td>${FORM_LABELS[i]}</td><td>${he(f)}</td><td>${tr(it.trs[i])}</td><td><button class="say mini" data-say="${esc(V.form(it, i))}" aria-label="Play">🔊</button></td></tr>`).join('')}</table>`;
   } else if (it.type === 'v') {
-    extra = `<div class="meta">root ${he(it.root)} · ${it.binyan}</div><table class="forms">${it.present.map((f, i) => `<tr><td>${PRESENT_PRONOUNS[i].map((p) => p.he).slice(1).join(' / ')}</td><td>${he(f)}</td><td>${tr(it.presentTr[i])}</td><td><button class="say mini" data-say="${esc(f)}" aria-label="Play">🔊</button></td></tr>`).join('')}</table>`;
+    extra = `<div class="meta">root ${he(it.root)} · ${it.binyan}</div><table class="forms">${it.present.map((f, i) => `<tr><td>${PRESENT_PRONOUNS[i].map((p) => p.he).slice(1).join(' / ')}</td><td>${he(f)}</td><td>${tr(it.presentTr[i])}</td><td><button class="say mini" data-say="${esc(V.pres(it, i))}" aria-label="Play">🔊</button></td></tr>`).join('')}</table>`;
   } else if (it.type === 'p') {
-    extra = `<table class="forms">${it.forms.map((f, i) => `<tr><td>${he(PERSONS[i].he)}</td><td>${he(f)}</td><td>${tr(it.trs[i])}</td><td><button class="say mini" data-say="${esc(f)}" aria-label="Play">🔊</button></td></tr>`).join('')}</table>`;
+    extra = `<table class="forms">${it.forms.map((f, i) => `<tr><td>${he(PERSONS[i].he)}</td><td>${he(f)}</td><td>${tr(it.trs[i])}</td><td><button class="say mini" data-say="${esc(V.form(it, i))}" aria-label="Play">🔊</button></td></tr>`).join('')}</table>`;
   }
   return `
     <div class="info">
-      <div class="info-head">${he(it.he, 'big')} <button class="say" data-say="${esc(it.he)}" aria-label="Play">🔊</button></div>
+      <div class="info-head">${he(it.he, 'big')} <button class="say" data-say="${esc(V.he(it))}" aria-label="Play">🔊</button></div>
       <div>${tr(it.tr)} · <b>${esc(it.en)}</b>${TYPE_LABEL[it.type] ? ` <span class="tag">${TYPE_LABEL[it.type]}</span>` : ''}</div>
       ${extra}
       <div class="example">
         <div>${he(it.ex)} <button class="say mini" data-say="${esc(it.ex)}" aria-label="Play">🔊</button></div>
         <div class="muted">${esc(it.exEn)}</div>
       </div>
+      <button class="link flag" data-flag="${esc(it.id)}">${audioFlags().includes(it.id) ? '⚑ Reported – tap to undo' : '⚐ Audio sounds wrong?'}</button>
     </div>`;
 }
 
@@ -83,19 +100,19 @@ export function infoBlock(it) {
 function buildQuestion(card) {
   const it = card.item;
   const k = card.kind;
-  const q = { card, mode: answerMode(card), reveal: infoBlock(it), sayAfter: it.he };
+  const q = { card, mode: answerMode(card), reveal: infoBlock(it), sayAfter: V.he(it) };
 
   if (k === 'rec') {
     q.mode = 'self';
     q.prompt = `<div class="prompt-he" dir="rtl">${he(it.he, 'huge')}</div>${hint(it.tr)}`;
-    q.autoplay = it.he;
+    q.autoplay = V.he(it);
     q.question = 'What does it mean?';
     return q;
   }
   if (k === 'listen') {
     q.mode = 'choice';
-    q.prompt = `<button class="say huge-say" data-say="${esc(it.he)}" aria-label="Play again">🔊</button>`;
-    q.autoplay = it.he;
+    q.prompt = `<button class="say huge-say" data-say="${esc(V.he(it))}" aria-label="Play again">🔊</button>`;
+    q.autoplay = V.he(it);
     q.question = 'What did you hear?';
     q.answer = it.en;
     q.options = shuffle([it.en, ...distractors(it.en, similarItems(it).map((x) => x.en))]);
@@ -115,7 +132,7 @@ function buildQuestion(card) {
     q.question = 'Plural?';
     q.answer = it.pl;
     q.options = shuffle([it.pl, ...distractors(it.pl, fakePlurals(it))]);
-    q.sayAfter = it.pl;
+    q.sayAfter = V.pl(it);
     return q;
   }
   if (/^f\d$/.test(k)) {
@@ -126,27 +143,29 @@ function buildQuestion(card) {
     const noun = pick(nouns);
     const nounForm = plural ? noun.pl : noun.he;
     const phrase = `${nounForm} ${it.forms[n]}`;
+    const phraseV = [plural ? V.pl(noun) : V.he(noun), V.form(it, n)];
     q.prompt = `<div class="prompt-he" dir="rtl">${he(nounForm, 'huge')} <span class="blank">___</span></div>
       <div class="muted">${esc(plural ? noun.en.split(',')[0] + ' (pl.)' : noun.en.split(',')[0])} – <b>${esc(it.en.split(',')[0])}</b></div>
       <div class="muted small">${noun.g === 'm' ? 'masculine' : 'feminine'} ${plural ? 'plural' : 'singular'} noun</div>`;
     q.question = 'Which form of the adjective?';
     q.answer = it.forms[n];
     q.options = shuffle([...new Set(it.forms)]).slice(0, 4);
-    q.sayAfter = phrase;
-    q.extraReveal = `<div class="phrase">${he(phrase, 'big')} <button class="say" data-say="${esc(phrase)}">🔊</button><div class="muted">${esc(plural ? noun.pltr : noun.tr)} ${esc(it.trs[n])}</div></div>`;
+    q.sayAfter = phraseV;
+    q.extraReveal = `<div class="phrase">${he(phrase, 'big')} <button class="say" data-say="${esc(JSON.stringify(phraseV))}">🔊</button><div class="muted">${esc(plural ? noun.pltr : noun.tr)} ${esc(it.trs[n])}</div></div>`;
     return q;
   }
   if (/^v\d$/.test(k)) {
     const n = Number(k[1]);
     const pron = pick(PRESENT_PRONOUNS[n]);
     const phrase = `${pron.he} ${it.present[n]}`;
+    const phraseV = `${V.pron(pron.he)} ${V.pres(it, n)}`;
     q.prompt = `<div class="prompt-he" dir="rtl">${he(pron.he, 'huge')} <span class="blank">___</span></div>
       <div class="muted">${he(it.he)} – ${esc(it.en)}${pron.note ? ` · <i>${pron.note}</i>` : ''}</div>`;
     q.question = 'Present tense?';
     q.answer = it.present[n];
     q.options = shuffle([...new Set(it.present)]);
-    q.sayAfter = phrase;
-    q.extraReveal = `<div class="phrase">${he(phrase, 'big')} <button class="say" data-say="${esc(phrase)}">🔊</button><div class="muted">${esc(it.presentTr[n])}</div></div>`;
+    q.sayAfter = phraseV;
+    q.extraReveal = `<div class="phrase">${he(phrase, 'big')} <button class="say" data-say="${esc(JSON.stringify(phraseV))}">🔊</button><div class="muted">${esc(it.presentTr[n])}</div></div>`;
     return q;
   }
   if (/^q\d$/.test(k)) {
@@ -155,8 +174,8 @@ function buildQuestion(card) {
     q.question = 'Combined form?';
     q.answer = it.forms[n];
     q.options = shuffle([it.forms[n], ...distractors(it.forms[n], it.forms)]);
-    q.sayAfter = it.forms[n];
-    q.extraReveal = `<div class="phrase">${he(it.forms[n], 'big')} <button class="say" data-say="${esc(it.forms[n])}">🔊</button><div class="muted">${esc(it.trs[n])}</div></div>`;
+    q.sayAfter = V.form(it, n);
+    q.extraReveal = `<div class="phrase">${he(it.forms[n], 'big')} <button class="say" data-say="${esc(V.form(it, n))}">🔊</button><div class="muted">${esc(it.trs[n])}</div></div>`;
     return q;
   }
   throw new Error(`Unknown card kind ${k}`);
@@ -337,7 +356,9 @@ export function startSession(root, { category = 'all', onExit }) {
 
     root.querySelector('.exercise').addEventListener('click', (e) => {
       const s = e.target.closest('[data-say]');
-      if (s) speak(s.dataset.say);
+      if (s) speak(s.dataset.say.startsWith('[') ? JSON.parse(s.dataset.say) : s.dataset.say);
+      const fl = e.target.closest('[data-flag]');
+      if (fl) fl.textContent = toggleAudioFlag(fl.dataset.flag) ? '⚑ Reported – tap to undo' : '⚐ Audio sounds wrong?';
       const h = e.target.closest('[data-hint]');
       if (h) h.outerHTML = `<div class="tr">${esc(h.dataset.hint)}</div>`;
     });

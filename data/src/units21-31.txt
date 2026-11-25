@@ -193,7 +193,7 @@ a|נכון,נכונה,נכונים,נכונות|nakhon,nekhona,nekhonim,nekhonot
 a|נקי,נקייה,נקיים,נקיות|naki,nekiya,nekiyim,nekiyot|clean|הבית נקי.|The house is clean.
 a|סגור,סגורה,סגורים,סגורות|sagur,sgura,sgurim,sgurot|closed|החנות סגורה.|The store is closed.
 a|עייף,עייפה,עייפים,עייפות|ayef,ayefa,ayefim,ayefot|tired|אני עייפה.|I'm tired. (f)
-a|עני,ענייה,עניים,ענייות|ani,aniya,aniyim,aniyot|poor|הוא לא עני.|He isn't poor.
+a|עני,ענייה,עניים,עניות|ani,aniya,aniyim,aniyot|poor|הוא לא עני.|He isn't poor.
 a|עצמאי,עצמאית,עצמאיים,עצמאיות|atsma'i,atsma'it,atsma'iyim,atsma'iyot|independent, self-employed|היא אישה עצמאית.|She is an independent woman.
 a|עשיר,עשירה,עשירים,עשירות|ashir,ashira,ashirim,ashirot|rich|המלך עשיר.|The king is rich.
 a|פרטי,פרטית,פרטיים,פרטיות|prati,pratit,pratiyim,pratiyot|private|זה חדר פרטי.|This is a private room.

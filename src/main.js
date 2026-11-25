@@ -1,8 +1,8 @@
 import './style.css';
 import { loadDeck, units, items, cards, dueCards, newCardsAvailable, newLeftToday, itemStatus, weakItems, CATEGORY } from './deck.js';
-import { settings, updateSettings, dayStats, allDays, exportBackup, importBackup, resetProgress, isStarted } from './store.js';
+import { settings, updateSettings, dayStats, allDays, exportBackup, importBackup, resetProgress, isStarted, audioFlags, toggleAudioFlag } from './store.js';
 import { initAudio, speak, hasAnyHebrewAudio } from './audio.js';
-import { startSession, infoBlock } from './practice.js';
+import { startSession, infoBlock, V, handleFlagClick } from './practice.js';
 import { canListen } from './speech.js';
 
 const app = document.getElementById('app');
@@ -143,7 +143,7 @@ function words() {
         return `<section class="card unit"><h3>Unit ${u.unit} · ${esc(u.title)}</h3><ul class="list">${list
           .map(
             (it) => `<li data-item="${esc(it.id)}"><i class="dot s-${itemStatus(it)}" title="${STATUS_LABEL[itemStatus(it)]}"></i>${he(it.he)}<span>${esc(it.en)}</span>
-              <button class="say mini" data-say="${esc(it.he)}" aria-label="Play">🔊</button></li>`,
+              <button class="say mini" data-say="${esc(V.he(it))}" aria-label="Play">🔊</button></li>`,
           )
           .join('')}</ul></section>`;
       })
@@ -176,6 +176,7 @@ function showItem(id) {
   dlg.addEventListener('click', (e) => {
     const s = e.target.closest('[data-say]');
     if (s) return speak(s.dataset.say);
+    if (handleFlagClick(e)) return;
     if (e.target === dlg || e.target.closest('.close')) dlg.remove();
   });
 }
@@ -204,6 +205,14 @@ function settingsView() {
         ${[0.75, 0.9, 1, 1.15].map((r) => `<option value="${r}" ${Number(s.speechRate) === r ? 'selected' : ''}>${r}×</option>`).join('')}
       </select></label>
     </section>
+    ${
+      audioFlags().length
+        ? `<section class="card form"><h3>Audio you reported (${audioFlags().length})</h3>
+      <p class="muted small">Send this list to Claude to get the pronunciation checked and fixed.</p>
+      <textarea id="flags" readonly rows="4" dir="rtl">${esc(audioFlags().map((id) => id.split(':').slice(1).join(':')).join(', '))}</textarea>
+      <div class="row"><button class="btn" id="copyFlags">Copy list</button><button class="link danger" id="clearFlags">Clear list</button></div></section>`
+        : ''
+    }
     <section class="card form">
       <h3>Backup</h3>
       <p class="muted small">Your progress is saved on this device only. Make a backup now and then.</p>
@@ -211,7 +220,7 @@ function settingsView() {
       <label class="btn">Restore backup<input type="file" id="import" accept=".json,application/json" hidden></label></div>
       <button class="link danger" id="reset">Reset all progress…</button>
     </section>
-    <p class="muted small center">Hebrew Cards v0.1</p>`);
+    <p class="muted small center">Hebrew Cards v0.2</p>`);
   const bind = (id, fn) => (app.querySelector(`#${id}`).onchange = (e) => updateSettings({ [id]: fn(e.target) }));
   bind('newPerDay', (el) => Math.max(0, Math.min(200, Number(el.value) || 0)));
   bind('answerMode', (el) => el.value);
@@ -219,6 +228,22 @@ function settingsView() {
   bind('showTranslit', (el) => el.checked);
   bind('speaking', (el) => el.checked);
   bind('speechRate', (el) => Number(el.value));
+  app.querySelector('#copyFlags')?.addEventListener('click', async () => {
+    const t = app.querySelector('#flags');
+    try {
+      await navigator.clipboard.writeText(t.value);
+    } catch {
+      t.select();
+      document.execCommand('copy');
+    }
+    alert('Copied.');
+  });
+  app.querySelector('#clearFlags')?.addEventListener('click', () => {
+    if (confirm('Clear the list of reported audio?')) {
+      [...audioFlags()].forEach((id) => toggleAudioFlag(id));
+      settingsView();
+    }
+  });
   app.querySelector('#export').onclick = () => {
     const blob = new Blob([exportBackup()], { type: 'application/json' });
     const a = Object.assign(document.createElement('a'), { href: URL.createObjectURL(blob), download: `hebrew-cards-backup-${new Date().toISOString().slice(0, 10)}.json` });

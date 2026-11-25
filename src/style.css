@@ -169,3 +169,6 @@ table.forms td .he { font-size: 1.15rem; }
 
 .modal { position: fixed; inset: 0; background: rgba(0, 0, 0, 0.45); display: flex; align-items: flex-end; justify-content: center; z-index: 10; }
 .sheet { background: var(--surface); width: 100%; max-width: 560px; max-height: 88vh; overflow: auto; border-radius: 18px 18px 0 0; padding: 16px 16px calc(24px + env(safe-area-inset-bottom)); }
+
+.flag { font-size: 0.85rem; margin-top: 6px; }
+.form textarea { width: 100%; font: inherit; font-family: var(--he-font); font-size: 1.1rem; padding: 10px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); color: var(--text); }
