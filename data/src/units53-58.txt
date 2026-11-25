@@ -1,0 +1,88 @@
+@unit 53|Refer to yourself
+p|עצמי|atsmi|-self (myself, yourself …)|עצמי,עצמך,עצמך,עצמו,עצמה,עצמנו,עצמכם,עצמכן,עצמם,עצמן|atsmi,atsmekha,atsmekh,atsmo,atsma,atsmenu,atsmekhem,atsmekhen,atsmam,atsman|הוא מדבר עם עצמו.|He's talking to himself.
+
+@unit 54|Form passive sentences
+v|להישאר|lehisha'er|ש-א-ר|nifal|נשאר,נשארת,נשארים,נשארות|nish'ar,nish'eret,nish'arim,nish'arot|to stay, to remain|אני נשאר בבית היום.|I'm staying home today.
+x|prep|על ידי|al yedey|by (someone)|הספר נכתב על ידי סופר ידוע.|The book was written by a famous writer.
+x|det|הקודם / הקודמת|hakodem / hakodemet|the previous (m / f)|בשבוע הקודם היה חם.|Last week it was hot.
+
+@unit 55|Describe nature
+n|טבע|teva|nature|m|-|-|אני אוהב לטייל בטבע.|I love hiking in nature.
+n|נוף|nof|view, scenery|m|נופים|nofim|יש פה נוף מדהים.|There's an amazing view here.
+n|הר|har|mountain|m|הרים|harim|ההר גבוה.|The mountain is high.
+n|הר געש|har ga'ash|volcano|m|הרי געש|harey ga'ash|זה הר געש פעיל.|It's an active volcano.
+n|גבעה|giv'a|hill|f|גבעות|giv'ot|הבית על הגבעה.|The house is on the hill.
+n|ים|yam|sea|m|ימים|yamim|אנחנו הולכים לים.|We're going to the beach.
+n|נהר|nahar|river|m|נהרות|neharot|הנהר ארוך.|The river is long.
+n|מדבר|midbar|desert|m|מדבריות|midbariyot|חם במדבר.|It's hot in the desert.
+n|מערה|me'ara|cave|f|מערות|me'arot|יש עטלפים במערה.|There are bats in the cave.
+n|צוק|tsuk|cliff|m|צוקים|tsukim|אל תעמוד ליד הצוק.|Don't stand near the cliff.
+n|שדה|sade|field|m|שדות|sadot|יש פרחים בשדה.|There are flowers in the field.
+n|עץ|ets|tree; wood|m|עצים|etsim|יש עץ גדול בגינה.|There's a big tree in the garden.
+n|פרח|perakh|flower|m|פרחים|prakhim|הפרח אדום.|The flower is red.
+n|ורד|vered|rose|m|ורדים|vradim|קניתי לה ורדים.|I bought her roses.
+n|שיח|si'akh|bush|m|שיחים|sikhim|הציפור בשיח.|The bird is in the bush.
+n|דשא|deshe|grass, lawn|m|-|-|הילדים משחקים על הדשא.|The children play on the grass.
+n|אבן|even|stone|f|אבנים|avanim|הבית בנוי מאבן.|The house is built of stone.
+n|חול|khol|sand|m|-|-|החול חם.|The sand is hot.
+n|אדמה|adama|soil, earth|f|אדמות|adamot|האדמה רטובה.|The soil is wet.
+n|אבק|avak|dust|m|-|-|יש אבק על השולחן.|There's dust on the table.
+n|אוויר|avir|air|m|-|-|האוויר נקי.|The air is clean.
+n|אקלים|aklim|climate|m|-|-|האקלים בישראל חם.|The climate in Israel is hot.
+n|חום|khom|heat; fever|m|-|-|יש לי חום.|I have a fever.
+n|קרח|kerakh|ice|m|-|-|אפשר קרח למים?|Can I have ice for the water?
+n|קרחון|karkhon|glacier; iceberg|m|קרחונים|karkhonim|הקרחון נמס.|The glacier is melting.
+n|אש|esh|fire|f|-|-|יש אש במדורה.|There's fire in the campfire.
+n|עשן|ashan|smoke|m|-|-|יש עשן מהמטבח!|There's smoke from the kitchen!
+n|חומר|khomer|material, substance|m|חומרים|khomarim|מאיזה חומר זה?|What material is this made of?
+n|יבול|yevul|crop, harvest|m|יבולים|yevulim|היבול טוב השנה.|The harvest is good this year.
+n|שקיעה|shki'a|sunset|f|שקיעות|shki'ot|השקיעה יפה.|The sunset is beautiful.
+n|ירח|yare'akh|moon|m|-|-|הירח מלא הלילה.|The moon is full tonight.
+n|כוכב|kokhav|star|m|כוכבים|kokhavim|יש הרבה כוכבים בשמיים.|There are many stars in the sky.
+n|כוכב לכת|kokhav lekhet|planet|m|כוכבי לכת|kokhvey lekhet|מאדים הוא כוכב לכת.|Mars is a planet.
+n|כדור הארץ|kadur ha'arets|planet Earth|m|-|-|אנחנו גרים על כדור הארץ.|We live on Earth.
+n|שמיים|shamayim|sky (pl.)|m|-|-|השמיים כחולים.|The sky is blue.
+n|חלל|khalal|space (outer)|m|-|-|הוא רוצה לטוס לחלל.|He wants to fly to space.
+n|יקום|yekum|universe|m|-|-|היקום גדול מאוד.|The universe is very big.
+
+@unit 56|Express your opinion
+n|דעה|de'a|opinion|f|דעות|de'ot|מה הדעה שלך?|What's your opinion?
+n|דיון|diyun|discussion|m|דיונים|diyunim|יש דיון בכיתה.|There's a discussion in class.
+n|ויכוח|vikuakh|argument|m|ויכוחים|vikukhim|היה ויכוח גדול.|There was a big argument.
+n|הצעה|hatsa'a|suggestion, offer|f|הצעות|hatsa'ot|יש לי הצעה.|I have a suggestion.
+n|הסכמה|haskama|agreement, consent|f|-|-|יש הסכמה בינינו.|There's agreement between us.
+n|טעות|ta'ut|mistake|f|טעויות|ta'uyot|זאת טעות.|That's a mistake.
+n|מסקנה|maskana|conclusion|f|מסקנות|maskanot|מה המסקנה?|What's the conclusion?
+n|יתרון|yitaron|advantage|m|יתרונות|yitronot|יש לזה הרבה יתרונות.|It has many advantages.
+n|חיסרון|khisaron|disadvantage|m|חסרונות|khesronot|מה החיסרון?|What's the disadvantage?
+x|phrase|לפי דעתי|lefi da'ati|in my opinion|לפי דעתי, זה רעיון טוב.|In my opinion, it's a good idea.
+x|prep|לפי|lefi|according to|לפי המפה, זה כאן.|According to the map, it's here.
+x|prep|לגבי|legabey|regarding, about|מה לגבי מחר?|What about tomorrow?
+x|modal|עדיף|adif|it's better, preferable|עדיף ללכת ברגל.|It's better to walk.
+v|להביע|lehabi'a|נ-ב-ע|hifil|מביע,מביעה,מביעים,מביעות|mabi'a,mabi'a,mabi'im,mabi'ot|to express|הוא מביע את דעתו.|He expresses his opinion.
+v|לטעות|lit'ot|ט-ע-ה|paal|טועה,טועה,טועים,טועות|to'e,to'a,to'im,to'ot|to be wrong, to make a mistake|אתה טועה.|You're wrong.
+
+@unit 57|Use commands
+x|imp|בוא נלך|bo nelekh|let's go|בוא נלך לים!|Let's go to the beach!
+x|imp|בוא ננסה|bo nenase|let's try|בוא ננסה שוב.|Let's try again.
+x|imp|בוא נגיד|bo nagid|let's say|בוא נגיד שאתה צודק.|Let's say you're right.
+x|imp|חזור / חזרי|khazor / khizri|come back! (m / f)|חזור הביתה מוקדם.|Come home early.
+x|imp|שאל / שאלי|she'al / sha'ali|ask! (m / f)|שאל את המורה.|Ask the teacher.
+x|imp|ענה / עני|ane / ani|answer! (m / f)|ענה לטלפון!|Answer the phone!
+x|imp|ספר / ספרי|saper / sapri|tell! (m / f)|ספר לי מה קרה.|Tell me what happened.
+x|imp|הישאר / הישארי|hisha'er / hisha'ari|stay! (m / f)|הישאר כאן.|Stay here.
+v|להיפגש|lehipagesh|פ-ג-ש|nifal|נפגש,נפגשת,נפגשים,נפגשות|nifgash,nifgeshet,nifgashim,nifgashot|to meet (each other)|אנחנו נפגשים בקפה.|We're meeting at the café.
+v|לכבד|lekhabed|כ-ב-ד|piel|מכבד,מכבדת,מכבדים,מכבדות|mekhabed,mekhabedet,mekhabdim,mekhabdot|to respect, to honor|אני מכבד את ההורים שלי.|I respect my parents.
+
+@unit 58|Use the past tense
+v|להפסיק|lehafsik|פ-ס-ק|hifil|מפסיק,מפסיקה,מפסיקים,מפסיקות|mafsik,mafsika,mafsikim,mafsikot|to stop (doing)|תפסיק לדבר!|Stop talking!
+v|להתקשר|lehitkasher|ק-ש-ר|hitpael|מתקשר,מתקשרת,מתקשרים,מתקשרות|mitkasher,mitkasheret,mitkashrim,mitkashrot|to call (phone)|אני מתקשר אליך מחר.|I'll call you tomorrow.
+v|להתנצל|lehitnatsel|נ-צ-ל|hitpael|מתנצל,מתנצלת,מתנצלים,מתנצלות|mitnatsel,mitnatselet,mitnatslim,mitnatslot|to apologize|אני מתנצל על האיחור.|I apologize for being late.
+v|להתלונן|lehitlonen|ל-ו-ן|hitpael|מתלונן,מתלוננת,מתלוננים,מתלוננות|mitlonen,mitlonenet,mitlonenim,mitlonenot|to complain|הוא תמיד מתלונן.|He always complains.
+v|להתנדב|lehitnadev|נ-ד-ב|hitpael|מתנדב,מתנדבת,מתנדבים,מתנדבות|mitnadev,mitnadevet,mitnadvim,mitnadvot|to volunteer|היא מתנדבת בבית חולים.|She volunteers at a hospital.
+v|להתחנן|lehitkhanen|ח-נ-ן|hitpael|מתחנן,מתחננת,מתחננים,מתחננות|mitkhanen,mitkhanenet,mitkhanenim,mitkhanenot|to beg|הכלב מתחנן לאוכל.|The dog begs for food.
+v|להתעלף|lehit'alef|ע-ל-ף|hitpael|מתעלף,מתעלפת,מתעלפים,מתעלפות|mit'alef,mit'alefet,mit'alfim,mit'alfot|to faint|הוא מתעלף מהחום.|He faints from the heat.
+v|להתפשט|lehitpashet|פ-ש-ט|hitpael|מתפשט,מתפשטת,מתפשטים,מתפשטות|mitpashet,mitpashetet,mitpashtim,mitpashtot|to undress; to spread|הילד מתפשט לפני המקלחת.|The child undresses before the shower.
+v|להתרחץ|lehitrakhets|ר-ח-צ|hitpael|מתרחץ,מתרחצת,מתרחצים,מתרחצות|mitrakhets,mitrakhetset,mitrakhtsim,mitrakhtsot|to wash oneself, to bathe|הילדים מתרחצים בים.|The children bathe in the sea.
+v|להשתכר|lehishtaker|ש-כ-ר|hitpael|משתכר,משתכרת,משתכרים,משתכרות|mishtaker,mishtakeret,mishtakrim,mishtakrot|to get drunk|הוא לא משתכר מבירה אחת.|He doesn't get drunk from one beer.
+v|לרדת|laredet|י-ר-ד|paal|יורד,יורדת,יורדים,יורדות|yored,yoredet,yordim,yordot|to go down; to get off|אני יורד בתחנה הבאה.|I'm getting off at the next stop.

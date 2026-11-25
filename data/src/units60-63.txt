@@ -1,0 +1,110 @@
+@unit 60|Express your emotions
+n|רגש|regesh|feeling, emotion|m|רגשות|regashot|קשה לו לדבר על רגשות.|It's hard for him to talk about feelings.
+n|אושר|osher|happiness|m|-|-|אושר זה דבר פשוט.|Happiness is a simple thing.
+n|דמעה|dim'a|tear (from crying)|f|דמעות|dma'ot|יש לה דמעות בעיניים.|She has tears in her eyes.
+n|הלם|helem|shock|m|-|-|אני בהלם!|I'm in shock!
+n|נשיקה|neshika|kiss|f|נשיקות|neshikot|נשיקה לילה טוב.|A goodnight kiss.
+a|מאושר,מאושרת,מאושרים,מאושרות|me'ushar,me'usheret,me'usharim,me'usharot|happy (deeply), delighted|אני מאושר!|I'm so happy!
+a|אופטימי,אופטימית,אופטימיים,אופטימיות|optimi,optimit,optimiyim,optimiyot|optimistic|היא תמיד אופטימית.|She's always optimistic.
+a|פסימי,פסימית,פסימיים,פסימיות|pesimi,pesimit,pesimiyim,pesimiyot|pessimistic|אל תהיה פסימי.|Don't be pessimistic.
+a|ביישן,ביישנית,ביישנים,ביישניות|bayshan,bayshanit,bayshanim,bayshaniyot|shy|הילד ביישן.|The boy is shy.
+a|רגוע,רגועה,רגועים,רגועות|ragu'a,regu'a,regu'im,regu'ot|calm|תהיה רגוע.|Stay calm.
+a|רגיש,רגישה,רגישים,רגישות|ragish,regisha,regishim,regishot|sensitive|היא מאוד רגישה.|She's very sensitive.
+a|מבולבל,מבולבלת,מבולבלים,מבולבלות|mevulbal,mevulbelet,mevulbalim,mevulbalot|confused|אני קצת מבולבל.|I'm a bit confused.
+a|מופתע,מופתעת,מופתעים,מופתעות|mufta,mufta'at,mufta'im,mufta'ot|surprised|אני מופתע לראות אותך!|I'm surprised to see you!
+a|משועמם,משועממת,משועממים,משועממות|meshu'amam,meshu'amemet,meshu'amamim,meshu'amamot|bored|הילדים משועממים.|The kids are bored.
+a|מדוכא,מדוכאת,מדוכאים,מדוכאות|medukha,medukhet,medukha'im,medukha'ot|depressed|הוא מדוכא היום.|He's depressed today.
+a|מאוהב,מאוהבת,מאוהבים,מאוהבות|me'ohav,me'ohevet,me'ohavim,me'ohavot|in love|הוא מאוהב בה.|He's in love with her.
+a|פגוע,פגועה,פגועים,פגועות|pagu'a,pgu'a,pgu'im,pgu'ot|hurt, offended|היא פגועה ממני.|She's hurt by me.
+a|מביך,מביכה,מביכים,מביכות|mevikh,mevikha,mevikhim,mevikhot|embarrassing|זה מביך!|That's embarrassing!
+a|דוחה,דוחה,דוחים,דוחות|dokhe,dokha,dokhim,dokhot|disgusting, repulsive|האוכל הזה דוחה.|This food is disgusting.
+a|עוין,עוינת,עוינים,עוינות|oyen,oyenet,oynim,oynot|hostile|הוא עוין כלפיי.|He's hostile towards me.
+a|שובב,שובבה,שובבים,שובבות|shovav,shovava,shovavim,shovavot|mischievous, naughty|הילד שובב.|The child is naughty.
+a|חסר אונים,חסרת אונים,חסרי אונים,חסרות אונים|khasar onim,khasrat onim,khasrey onim,khasrot onim|helpless|אני מרגיש חסר אונים.|I feel helpless.
+v|לבכות|livkot|ב-כ-ה|paal|בוכה,בוכה,בוכים,בוכות|bokhe,bokha,bokhim,bokhot|to cry|התינוק בוכה.|The baby is crying.
+v|להצטער|lehitsta'er|צ-ע-ר|hitpael|מצטער,מצטערת,מצטערים,מצטערות|mitsta'er,mitsta'eret,mitsta'arim,mitsta'arot|to be sorry|אני מצטער!|I'm sorry!
+v|לחבק|lekhabek|ח-ב-ק|piel|מחבק,מחבקת,מחבקים,מחבקות|mekhabek,mekhabeket,mekhabkim,mekhabkot|to hug|אמא מחבקת את הילד.|Mom hugs the child.
+v|לנחם|lenakhem|נ-ח-ם|piel|מנחם,מנחמת,מנחמים,מנחמות|menakhem,menakhemet,menakhamim,menakhamot|to comfort|היא מנחמת את החברה שלה.|She comforts her friend.
+v|לנשק|lenashek|נ-ש-ק|piel|מנשק,מנשקת,מנשקים,מנשקות|menashek,menasheket,menashkim,menashkot|to kiss|הוא מנשק אותה.|He kisses her.
+
+@unit 61|Describe shapes
+n|צורה|tsura|shape, form|f|צורות|tsurot|איזו צורה זאת?|What shape is this?
+n|עיגול|igul|circle|m|עיגולים|igulim|תצייר עיגול.|Draw a circle.
+n|ריבוע|ribu'a|square|m|ריבועים|ribu'im|לשולחן יש צורה של ריבוע.|The table has a square shape.
+n|משולש|meshulash|triangle|m|משולשים|meshulashim|לפיצה יש צורה של משולש.|The pizza slice is a triangle.
+n|מלבן|malben|rectangle|m|מלבנים|malbenim|הדלת היא מלבן.|The door is a rectangle.
+n|זווית|zavit|angle; corner|f|זוויות|zaviyot|זאת זווית ישרה.|It's a right angle.
+n|קו ישר|kav yashar|straight line|m|קווים ישרים|kavim yesharim|תצייר קו ישר.|Draw a straight line.
+n|אורך|orekh|length|m|-|-|מה האורך של החדר?|What's the length of the room?
+n|רוחב|rokhav|width|m|-|-|מה הרוחב של הדלת?|What's the width of the door?
+n|גובה|gova|height|m|-|-|מה הגובה שלך?|How tall are you?
+n|עומק|omek|depth|m|-|-|מה העומק של הבריכה?|How deep is the pool?
+n|נפח|nefakh|volume|m|-|-|מה הנפח של הבקבוק?|What's the volume of the bottle?
+n|סרגל|sargel|ruler|m|סרגלים|sargelim|יש לך סרגל?|Do you have a ruler?
+n|קילומטר|kilometer|kilometer|m|קילומטרים|kilometrim|הים במרחק קילומטר.|The sea is a kilometer away.
+n|סנטימטר|sentimeter|centimeter|m|סנטימטרים|sentimetrim|עשרה סנטימטר.|Ten centimeters.
+a|מקביל,מקבילה,מקבילים,מקבילות|makbil,makbila,makbilim,makbilot|parallel|הרחובות מקבילים.|The streets are parallel.
+v|למדוד|limdod|מ-ד-ד|paal|מודד,מודדת,מודדים,מודדות|moded,modedet,modedim,modedot|to measure|אני מודד את החדר.|I'm measuring the room.
+
+@unit 62|Discuss abstract concepts
+n|אופי|ofi|character, nature|m|-|-|יש לה אופי חזק.|She has a strong character.
+n|אחריות|akhrayut|responsibility|f|-|-|זאת האחריות שלך.|That's your responsibility.
+n|ביטוי|bituy|expression, phrase|m|ביטויים|bituyim|זה ביטוי נפוץ.|It's a common expression.
+n|בסיס|basis|base, basis|m|בסיסים|basisim|זה הבסיס של השפה.|This is the basis of the language.
+n|גישה|gisha|approach, attitude; access|f|גישות|gishot|יש לו גישה טובה.|He has a good attitude.
+n|הבדל|hevdel|difference|m|הבדלים|hevdelim|מה ההבדל?|What's the difference?
+n|הומור|humor|humor|m|-|-|יש לו חוש הומור.|He has a sense of humor.
+n|הנאה|hana'a|pleasure, enjoyment|f|-|-|בהנאה!|With pleasure!
+n|הפסד|hefsed|loss (game, money)|m|הפסדים|hefsedim|זה הפסד גדול.|It's a big loss.
+n|הפתעה|hafta'a|surprise|f|הפתעות|hafta'ot|יש לי הפתעה בשבילך!|I have a surprise for you!
+n|התנהגות|hitnahagut|behavior|f|-|-|ההתנהגות שלו מוזרה.|His behavior is strange.
+n|זהות|zehut|identity|f|זהויות|zehuyot|תעודת זהות.|Identity card.
+n|זיכרון|zikaron|memory|m|זיכרונות|zikhronot|יש לי זיכרון טוב.|I have a good memory.
+n|חוש|khush|sense|m|חושים|khushim|יש לו חוש הומור.|He has a sense of humor.
+n|חיוך|khiyukh|smile|m|חיוכים|khiyukhim|יש לה חיוך יפה.|She has a beautiful smile.
+n|חשיבות|khashivut|importance|f|-|-|יש לזה חשיבות גדולה.|It's of great importance.
+n|חתימה|khatima|signature|f|חתימות|khatimot|אני צריך חתימה כאן.|I need a signature here.
+n|יופי|yofi|beauty; great!|m|-|-|יופי! תודה.|Great! Thanks.
+n|כבוד|kavod|respect, honor|m|-|-|זה כבוד גדול.|It's a great honor.
+n|כוח|ko'akh|strength, power, force|m|כוחות|kokhot|אין לי כוח.|I have no energy.
+n|כיוון|kivun|direction|m|כיוונים|kivunim|באיזה כיוון הים?|Which direction is the sea?
+n|מאמץ|ma'amats|effort|m|מאמצים|ma'amatsim|זה דורש מאמץ.|It takes effort.
+n|מזל|mazal|luck|m|-|-|איזה מזל!|What luck!
+n|מסורת|masoret|tradition|f|מסורות|masorot|זאת מסורת משפחתית.|It's a family tradition.
+n|מציאות|metsi'ut|reality|f|-|-|זאת המציאות.|That's reality.
+n|מקור|makor|source, origin|m|מקורות|mekorot|מה המקור של המילה?|What's the origin of the word?
+n|נזק|nezek|damage|m|נזקים|nezakim|יש נזק למכונית.|There's damage to the car.
+n|ניסיון|nisayon|experience; attempt|m|ניסיונות|nisyonot|יש לו הרבה ניסיון.|He has a lot of experience.
+n|ניצחון|nitsakhon|victory|m|ניצחונות|nitskhonot|זה ניצחון גדול!|It's a big victory!
+n|נפילה|nefila|fall|f|נפילות|nefilot|זאת הייתה נפילה קשה.|It was a hard fall.
+n|סוד|sod|secret|m|סודות|sodot|זה סוד.|It's a secret.
+n|סכנה|sakana|danger|f|סכנות|sakanot|יש סכנה!|There's danger!
+n|סמל|semel|symbol|m|סמלים|smalim|מה הסמל של העיר?|What's the symbol of the city?
+n|ספק|safek|doubt|m|ספקות|sfekot|אין ספק.|No doubt.
+n|עדיפות|adifut|priority|f|עדיפויות|adifuyot|זאת עדיפות ראשונה.|It's the top priority.
+n|עמדה|emda|position, stance|f|עמדות|emdot|מה העמדה שלך?|What's your position?
+n|פחד|pakhad|fear|m|פחדים|pkhadim|אין לי פחד.|I'm not afraid.
+n|צל|tsel|shade, shadow|m|צללים|tslalim|בוא נשב בצל.|Let's sit in the shade.
+n|רשות|reshut|permission; authority|f|רשויות|reshuyot|יש לך רשות?|Do you have permission?
+n|שנאה|sin'a|hatred|f|-|-|אין לי שנאה.|I have no hatred.
+n|תועלת|to'elet|benefit, use|f|-|-|אין בזה תועלת.|There's no use in it.
+n|תכונה|tkhuna|trait, feature|f|תכונות|tkhunot|זאת תכונה טובה.|That's a good trait.
+n|תשומת לב|tsumet lev|attention|f|-|-|תודה על תשומת הלב.|Thanks for the attention.
+n|תשוקה|tshuka|passion|f|תשוקות|tshukot|יש לו תשוקה למוזיקה.|He has a passion for music.
+
+@unit 63|Use the infinitive
+v|לאפשר|le'afsher|א-פ-ש-ר|piel|מאפשר,מאפשרת,מאפשרים,מאפשרות|me'afsher,me'afsheret,me'afshrim,me'afshrot|to allow, to enable|הכרטיס מאפשר כניסה.|The ticket allows entry.
+v|לבנות|livnot|ב-נ-ה|paal|בונה,בונה,בונים,בונות|bone,bona,bonim,bonot|to build|הם בונים בית.|They're building a house.
+v|לגרום|ligrom|ג-ר-ם|paal|גורם,גורמת,גורמים,גורמות|gorem,goremet,gormim,gormot|to cause|זה גורם לי לצחוק.|That makes me laugh.
+v|להגדיל|lehagdil|ג-ד-ל|hifil|מגדיל,מגדילה,מגדילים,מגדילות|magdil,magdila,magdilim,magdilot|to enlarge, to increase|הם מגדילים את החנות.|They're enlarging the shop.
+v|להגדיר|lehagdir|ג-ד-ר|hifil|מגדיר,מגדירה,מגדירים,מגדירות|magdir,magdira,magdirim,magdirot|to define|איך אתה מגדיר הצלחה?|How do you define success?
+v|להגיב|lehagiv|ג-ו-ב|hifil|מגיב,מגיבה,מגיבים,מגיבות|megiv,megiva,megivim,megivot|to respond, to react|הוא לא מגיב.|He's not responding.
+v|להחמיץ|lehakhmits|ח-מ-ץ|hifil|מחמיץ,מחמיצה,מחמיצים,מחמיצות|makhmits,makhmitsa,makhmitsim,makhmitsot|to miss (an opportunity)|אתה מחמיץ הזדמנות.|You're missing an opportunity.
+v|להפסיד|lehafsid|פ-ס-ד|hifil|מפסיד,מפסידה,מפסידים,מפסידות|mafsid,mafsida,mafsidim,mafsidot|to lose (a game); to miss out|הקבוצה מפסידה.|The team is losing.
+v|להשפיע|lehashpi'a|ש-פ-ע|hifil|משפיע,משפיעה,משפיעים,משפיעות|mashpi'a,mashpi'a,mashpi'im,mashpi'ot|to influence|מזג האוויר משפיע עליי.|The weather affects me.
+v|לכסות|lekhasot|כ-ס-ה|piel|מכסה,מכסה,מכסים,מכסות|mekhase,mekhasa,mekhasim,mekhasot|to cover|אמא מכסה את התינוק.|Mom covers the baby.
+v|למות|lamut|מ-ו-ת|paal|מת,מתה,מתים,מתות|met,meta,metim,metot|to die|הפרח מת בלי מים.|The flower dies without water.
+v|לסרב|lesarev|ס-ר-ב|piel|מסרב,מסרבת,מסרבים,מסרבות|mesarev,mesarevet,mesarvim,mesarvot|to refuse|הוא מסרב לאכול.|He refuses to eat.
+v|לפגוש|lifgosh|פ-ג-ש|paal|פוגש,פוגשת,פוגשים,פוגשות|pogesh,pogeshet,pogshim,pogshot|to meet|אני פוגש חבר בקפה.|I'm meeting a friend at the café.
+v|לפתח|lefate'akh|פ-ת-ח|piel|מפתח,מפתחת,מפתחים,מפתחות|mefate'akh,mefatakhat,mefatkhim,mefatkhot|to develop|הם מפתחים אפליקציה.|They're developing an app.
+v|לשפר|leshaper|ש-פ-ר|piel|משפר,משפרת,משפרים,משפרות|meshaper,meshaperet,meshaprim,meshaprot|to improve|אני משפר את העברית שלי.|I'm improving my Hebrew.
