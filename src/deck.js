@@ -89,7 +89,18 @@ export function newCardsAvailable(filter = CATEGORY.all.match) {
     .sort((a, b) => introOrder(a.item) - introOrder(b.item) || a.rank - b.rank || a.item.index - b.item.index);
 }
 
-export const newLeftToday = () => Math.max(0, settings().newPerDay - dayStats().new);
+export const newLeftToday = () => Math.max(0, settings().newPerDay + (dayStats().extraNew || 0) - dayStats().new);
+
+/** Extra practice: started cards that are not due yet, the ones coming up soonest first. */
+export function aheadCards(n = 20, filter = CATEGORY.all.match, now = new Date()) {
+  return cards
+    .filter((c) => filter(c) && isStarted(c.id))
+    .map((c) => ({ c, due: getCard(c.id).due }))
+    .filter((x) => x.due > now)
+    .sort((a, b) => a.due - b.due)
+    .slice(0, n)
+    .map((x) => x.c);
+}
 
 /** Status of a word, based on all of its cards. */
 export function itemStatus(item) {

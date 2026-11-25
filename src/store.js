@@ -88,6 +88,13 @@ export function review(id, rating) {
 }
 
 export const dayStats = (day = today()) => state.days[day] || { reviews: 0, new: 0, correct: 0 };
+
+/** "+10 new words": raises today's new-card allowance. */
+export function addExtraNew(n) {
+  const d = (state.days[today()] ||= { reviews: 0, new: 0, correct: 0 });
+  d.extraNew = (d.extraNew || 0) + n;
+  save();
+}
 export const allDays = () => state.days;
 export const allCards = () => state.cards;
 

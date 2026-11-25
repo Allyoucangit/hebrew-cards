@@ -1,6 +1,6 @@
 // Practice session: picks cards, renders exercises, grades answers.
-import { items, dueCards, newCardsAvailable, newLeftToday, CATEGORY, isAvailable } from './deck.js';
-import { getCard, review, preview, settings, Rating, audioFlags, toggleAudioFlag } from './store.js';
+import { items, dueCards, newCardsAvailable, newLeftToday, CATEGORY, isAvailable, aheadCards } from './deck.js';
+import { getCard, review, preview, settings, Rating, audioFlags, toggleAudioFlag, addExtraNew } from './store.js';
 import { check, alternatives, PERSONS, PRESENT_PRONOUNS, FORM_LABELS } from './hebrew.js';
 import { speak, stop } from './audio.js';
 import { hebrewInput } from './keyboard.js';
@@ -201,18 +201,48 @@ function fmtInterval(date) {
 
 // ---------------------------------------------------------------- session
 
-export function startSession(root, { category = 'all', onExit }) {
+/** Buttons offered when the regular practice for today is finished. */
+export function moreOptionsHtml(category = 'all') {
   const filter = CATEGORY[category].match;
-  const queue = [...dueCards(new Date(), filter), ...newCardsAvailable(filter).slice(0, newLeftToday())];
+  const canNew = newCardsAvailable(filter).length > 0;
+  const canAhead = aheadCards(1, filter).length > 0;
+  if (!canNew && !canAhead) return '';
+  return `<div class="more">
+      <p class="muted small">Want to keep going?</p>
+      ${canNew ? `<button class="btn" data-more="new">＋10 new words</button>` : ''}
+      ${canAhead ? `<button class="btn" data-more="ahead">Extra practice (repeat learned words)</button>` : ''}
+    </div>`;
+}
+
+/** Wires the "more" buttons inside `root`; onStart(mode) starts the next session. */
+export function wireMoreOptions(root, onStart) {
+  root.querySelectorAll('[data-more]').forEach(
+    (b) =>
+      (b.onclick = () => {
+        if (b.dataset.more === 'new') addExtraNew(10);
+        onStart(b.dataset.more);
+      }),
+  );
+}
+
+export function startSession(root, { category = 'all', mode = 'normal', onExit, onRestart }) {
+  const filter = CATEGORY[category].match;
+  const queue =
+    mode === 'ahead'
+      ? aheadCards(20, filter)
+      : [...dueCards(new Date(), filter), ...newCardsAvailable(filter).slice(0, newLeftToday())];
   const total = queue.length;
   let done = 0;
   let right = 0;
+  const restart = (m) => (onRestart ? onRestart(m) : onExit());
 
   if (!total) {
-    root.innerHTML = `<section class="card center"><h2>Nothing to practice right now</h2>
-      <p class="muted">All cards in “${CATEGORY[category].label}” are done for today. Come back later, or raise “new cards per day” in Settings.</p>
-      <button class="btn" data-act="exit">Back</button></section>`;
+    root.innerHTML = `<section class="card center"><h2>All done for today ✓</h2>
+      <p class="muted">Nothing is due in “${CATEGORY[category].label}” right now.</p>
+      ${moreOptionsHtml(category)}
+      <button class="link" data-act="exit">Back to overview</button></section>`;
     root.querySelector('[data-act=exit]').onclick = onExit;
+    wireMoreOptions(root, restart);
     return;
   }
 
@@ -224,9 +254,13 @@ export function startSession(root, { category = 'all', onExit }) {
   };
 
   const finish = () => {
+    const more = dueCards(new Date(), filter).length ? '' : moreOptionsHtml(category);
     root.innerHTML = `<section class="card center"><h2>Session done</h2>
-      <p>${done} answers · ${right} right</p><button class="btn primary" data-act="exit">Back to overview</button></section>`;
+      <p>${done} answers · ${right} right</p>
+      ${more}
+      <button class="btn ${more ? '' : 'primary'}" data-act="exit">Back to overview</button></section>`;
     root.querySelector('[data-act=exit]').onclick = onExit;
+    wireMoreOptions(root, restart);
   };
 
   const grade = (card, rating) => {

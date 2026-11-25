@@ -2,7 +2,7 @@ import './style.css';
 import { loadDeck, units, items, cards, dueCards, newCardsAvailable, newLeftToday, itemStatus, weakItems, CATEGORY, isAvailable, EXTRAS_UNIT } from './deck.js';
 import { settings, updateSettings, dayStats, allDays, exportBackup, importBackup, resetProgress, isStarted, audioFlags, toggleAudioFlag } from './store.js';
 import { initAudio, speak, hasAnyHebrewAudio } from './audio.js';
-import { startSession, infoBlock, V, handleFlagClick } from './practice.js';
+import { startSession, infoBlock, V, handleFlagClick, moreOptionsHtml, wireMoreOptions } from './practice.js';
 import { canListen } from './speech.js';
 
 const app = document.getElementById('app');
@@ -64,8 +64,11 @@ function home() {
         <div><b>${newToday}</b><span>new today</span></div>
         <div><b>${t.reviews}</b><span>answers today</span></div>
       </div>
-      <button class="btn primary wide big" data-cat="all" ${due.length + newToday ? '' : 'disabled'}>Start practice</button>
-      <div class="muted small center">${due.length + newToday ? '' : 'All done for today ✓'}</div>
+      ${
+        due.length + newToday
+          ? `<button class="btn primary wide big" data-cat="all">Start practice</button>`
+          : `<div class="center"><p><b>All done for today ✓</b></p>${moreOptionsHtml('all')}</div>`
+      }
     </section>
     <section class="card">
       <h3>Practice only…</h3>
@@ -102,12 +105,19 @@ function home() {
     }
   `);
   app.querySelectorAll('[data-cat]').forEach((b) => (b.onclick = () => practice(b.dataset.cat)));
+  wireMoreOptions(app, (mode) => practice('all', mode));
   app.querySelectorAll('[data-item]').forEach((li) => (li.onclick = () => showItem(li.dataset.item)));
 }
 
-function practice(category) {
+function practice(category, mode = 'normal') {
   app.innerHTML = `<main id="view" class="session"></main>`;
-  startSession(app.querySelector('#view'), { category, onExit: () => go('home') });
+  window.scrollTo(0, 0);
+  startSession(app.querySelector('#view'), {
+    category,
+    mode,
+    onExit: () => go('home'),
+    onRestart: (m) => practice(category, m),
+  });
 }
 
 // ------------------------------------------------------------------ Words
@@ -232,7 +242,7 @@ function settingsView() {
       <label class="btn">Restore backup<input type="file" id="import" accept=".json,application/json" hidden></label></div>
       <button class="link danger" id="reset">Reset all progress…</button>
     </section>
-    <p class="muted small center">Hebrew Cards v0.3</p>`);
+    <p class="muted small center">Hebrew Cards v0.4</p>`);
   const bind = (id, fn) => (app.querySelector(`#${id}`).onchange = (e) => updateSettings({ [id]: fn(e.target) }));
   bind('duolingoUnit', (el) => Math.max(1, Math.min(84, Number(el.value) || 31)));
   bind('newPerDay', (el) => Math.max(0, Math.min(200, Number(el.value) || 0)));
