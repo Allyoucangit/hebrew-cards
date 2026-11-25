@@ -1,0 +1,349 @@
+@unit 21|Talk about daily life
+x|det|אלה / אלו|ele / elu|these, those|אלה הספרים שלי.|These are my books.
+x|det|הזה / הזאת / האלה|haze / hazot / ha'ele|this / this / these (after a noun)|הספר הזה טוב.|This book is good.
+x|det|אחר / אחרת|akher / akheret|other, another (m / f)|אני רוצה ספר אחר.|I want another book.
+x|det|הכל|hakol|everything|הכל בסדר.|Everything is fine.
+x|det|כל|kol|all, every, each|כל יום אני לומד.|Every day I study.
+x|det|כולם / כולן|kulam / kulan|everyone, all of them (m / f)|כולם כאן.|Everyone is here.
+x|det|כזה / כזאת|kaze / kazot|such, like this (m / f)|אני רוצה כלב כזה.|I want a dog like this.
+x|adv|ככה|kakha|like this, so|עושים את זה ככה.|You do it like this.
+x|det|כלום|klum|nothing|אני לא רואה כלום.|I don't see anything.
+x|det|משהו|mashehu|something|אתה רוצה משהו?|Do you want something?
+x|det|מישהו|mishehu|someone|מישהו בבית?|Is someone at home?
+x|det|אף אחד|af ekhad|nobody|אף אחד לא בא.|Nobody came.
+x|det|שום דבר|shum davar|nothing|אין לי שום דבר.|I have nothing.
+x|det|שניהם|shneyhem|both of them|שניהם רופאים.|Both of them are doctors.
+n|דבר|davar|thing|m|דברים|dvarim|יש לי הרבה דברים.|I have a lot of things.
+
+@unit 22|Discuss work
+n|אדריכל|adrikhal|architect|m|אדריכלים|adrikhalim|האדריכל מתכנן בית.|The architect is planning a house.
+n|אמן|oman|artist|m|אמנים|omanim|הוא אמן מפורסם.|He is a famous artist.
+n|בוס|bos|boss|m|בוסים|bosim|הבוס שלי נחמד.|My boss is nice.
+n|במאי|bamay|director (film/theater)|m|במאים|bama'im|הבמאי צעיר.|The director is young.
+n|דוגמן|dugman|model|m|דוגמנים|dugmanim|הוא דוגמן.|He is a model.
+n|התמחות|hitmakhut|internship, specialization|f|התמחויות|hitmakhuyot|יש לי התמחות בבית חולים.|I have an internship in a hospital.
+n|חייל|khayal|soldier|m|חיילים|khayalim|החייל עייף.|The soldier is tired.
+n|מהנדס|mehandes|engineer|m|מהנדסים|mehandsim|אחי מהנדס.|My brother is an engineer.
+n|מזכיר|mazkir|secretary|m|מזכירים|mazkirim|המזכירה עונה לטלפון.|The secretary answers the phone.
+n|מלצר|meltsar|waiter|m|מלצרים|meltsarim|המלצר מביא את התפריט.|The waiter brings the menu.
+n|מקצוע|miktso'a|profession|m|מקצועות|miktso'ot|מה המקצוע שלך?|What's your profession?
+n|משטרה|mishtara|police|f|-|-|תתקשר למשטרה!|Call the police!
+n|נהג|nahag|driver|m|נהגים|nahagim|הנהג נוסע מהר.|The driver drives fast.
+n|סופר|sofer|writer, author|m|סופרים|sofrim|הוא סופר מפורסם.|He is a famous writer.
+n|עבודה|avoda|work, job|f|עבודות|avodot|יש לי עבודה חדשה.|I have a new job.
+n|עורך דין|orekh din|lawyer|m|עורכי דין|orkhey din|היא עורכת דין.|She is a lawyer.
+n|עיתונאי|itona'i|journalist|m|עיתונאים|itona'im|העיתונאי שואל שאלות.|The journalist asks questions.
+n|פועל|po'el|worker, laborer|m|פועלים|po'alim|הפועלים בונים בניין.|The workers are building a building.
+n|צוות|tsevet|team, staff|m|צוותים|tsvatim|יש לנו צוות טוב.|We have a good team.
+n|צייר|tsayar|painter|m|ציירים|tsayarim|הצייר צובע תמונה.|The painter paints a picture.
+n|קברניט|kabarnit|captain (ship/plane)|m|קברניטים|kabarnitim|הקברניט מדבר.|The captain is speaking.
+n|קצין|katsin|officer|m|קצינים|ktsinim|הקצין צעיר.|The officer is young.
+n|קריירה|karyera|career|f|קריירות|karyerot|יש לה קריירה מעניינת.|She has an interesting career.
+n|רופא|rofe|doctor|m|רופאים|rof'im|אני צריך רופא.|I need a doctor.
+n|שוטר|shoter|police officer|m|שוטרים|shotrim|השוטר עוצר את הנהג.|The police officer stops the driver.
+n|שופט|shofet|judge|m|שופטים|shoftim|השופט חכם.|The judge is wise.
+n|שחקן|sakhkan|actor, player|m|שחקנים|sakhkanim|הוא שחקן טוב.|He is a good actor.
+n|תלמיד|talmid|student, pupil|m|תלמידים|talmidim|התלמיד לומד עברית.|The student is learning Hebrew.
+v|לעצור|la'atsor|ע-צ-ר|paal|עוצר,עוצרת,עוצרים,עוצרות|otser,otseret,otsrim,otsrot|to stop, to arrest|האוטובוס עוצר כאן.|The bus stops here.
+v|לשמור|lishmor|ש-מ-ר|paal|שומר,שומרת,שומרים,שומרות|shomer,shomeret,shomrim,shomrot|to keep, to guard|הכלב שומר על הבית.|The dog guards the house.
+
+@unit 23|Form complex sentences
+x|conj|אבל|aval|but|אני רוצה, אבל אין לי זמן.|I want to, but I don't have time.
+x|conj|אז|az|so, then|אז מה?|So what?
+x|conj|אך|akh|but (formal)|הוא עייף, אך שמח.|He is tired, but happy.
+x|conj|אלא|ela|but rather|זה לא כלב אלא חתול.|It's not a dog but a cat.
+x|conj|אם|im|if|אם יש זמן, אני בא.|If there's time, I'll come.
+x|conj|אף על פי ש|af al pi she|even though|אף על פי שקר, אני שוחה.|Even though it's cold, I'm swimming.
+x|adv|אפילו|afilu|even|אפילו הכלב שמח.|Even the dog is happy.
+x|conj|בזמן ש|bizman she|while|אני שומע מוזיקה בזמן שאני עובד.|I listen to music while I work.
+x|adv|גם|gam|also, too|גם אני רוצה.|I want too.
+x|conj|חוץ מ|khuts mi|except|כולם באים חוץ ממני.|Everyone is coming except me.
+x|adv|כבר|kvar|already|אני כבר יודע.|I already know.
+x|conj|כי|ki|because|אני שותה כי אני צמא.|I'm drinking because I'm thirsty.
+x|conj|למרות|lamrot|despite, although|למרות הגשם, אנחנו הולכים.|Despite the rain, we're going.
+x|adv|עדיין|adayin|still, yet|הוא עדיין ישן.|He is still sleeping.
+x|adv|רק|rak|only, just|רק רגע!|Just a moment!
+x|conj|ש|she|that, which, who|אני חושב שזה טוב.|I think that it's good.
+
+@unit 24|Refer to locations
+p|אל|el|to, towards|אליי,אליך,אלייך,אליו,אליה,אלינו,אליכם,אליכן,אליהם,אליהן|elay,elekha,elayikh,elav,eleha,elenu,alekhem,alekhen,aleyhem,aleyhen|בוא אליי!|Come to me!
+p|על|al|on, about|עליי,עליך,עלייך,עליו,עליה,עלינו,עליכם,עליכן,עליהם,עליהן|alay,alekha,alayikh,alav,aleha,alenu,alekhem,alekhen,aleyhem,aleyhen|אני חושב עלייך.|I'm thinking about you. (f)
+x|prep|אצל|etsel|at (someone's place)|אני אצל סבתא.|I'm at grandma's.
+x|prep|בין|beyn|between|הבית בין העצים.|The house is between the trees.
+x|prep|בלי|bli|without|קפה בלי חלב.|Coffee without milk.
+x|prep|מאחורי|me'akhorey|behind|הכלב מאחורי הדלת.|The dog is behind the door.
+x|prep|מול|mul|opposite, in front of|הבית מול הים.|The house is opposite the sea.
+x|prep|מעל|me'al|above, over|המנורה מעל השולחן.|The lamp is above the table.
+x|prep|מתחת ל|mitakhat le|under, beneath|החתול מתחת למיטה.|The cat is under the bed.
+x|adv|בחוץ|bakhuts|outside|הילדים בחוץ.|The children are outside.
+x|adv|בפנים|bifnim|inside|קר, בואו נשב בפנים.|It's cold, let's sit inside.
+v|להימצא|lehimatse|מ-צ-א|nifal|נמצא,נמצאת,נמצאים,נמצאות|nimtsa,nimtset,nimtsa'im,nimtsa'ot|to be located, to be found|איפה נמצאת המסעדה?|Where is the restaurant located?
+
+@unit 26|Form advanced verbs
+v|לבקר|levaker|ב-ק-ר|piel|מבקר,מבקרת,מבקרים,מבקרות|mevaker,mevakeret,mevakrim,mevakrot|to visit|אנחנו מבקרים את סבתא.|We're visiting grandma.
+v|לחכות|lekhakot|ח-כ-ה|piel|מחכה,מחכה,מחכים,מחכות|mekhake,mekhaka,mekhakim,mekhakot|to wait|אני מחכה לך.|I'm waiting for you.
+v|לנצח|lenatse'akh|נ-צ-ח|piel|מנצח,מנצחת,מנצחים,מנצחות|menatse'akh,menatsakhat,menatskhim,menatskhot|to win|הקבוצה שלנו מנצחת.|Our team is winning.
+v|לסיים|lesayem|ס-י-ם|piel|מסיים,מסיימת,מסיימים,מסיימות|mesayem,mesayemet,mesaymim,mesaymot|to finish|אני מסיים לעבוד בחמש.|I finish working at five.
+v|לערבב|le'arbev|ע-ר-ב-ב|piel|מערבב,מערבבת,מערבבים,מערבבות|me'arbev,me'arbevet,me'arbevim,me'arbevot|to mix, to stir|היא מערבבת את המרק.|She stirs the soup.
+v|לפחד|lefakhed|פ-ח-ד|piel|מפחד,מפחדת,מפחדים,מפחדות|mefakhed,mefakhedet,mefakhadim,mefakhadot|to be afraid|הילד מפחד מהכלב.|The boy is afraid of the dog.
+v|לפספס|lefasfes|פ-ס-פ-ס|piel|מפספס,מפספסת,מפספסים,מפספסות|mefasfes,mefasfeset,mefasfesim,mefasfesot|to miss (a chance, a bus)|אני תמיד מפספס את האוטובוס.|I always miss the bus.
+v|לקבל|lekabel|ק-ב-ל|piel|מקבל,מקבלת,מקבלים,מקבלות|mekabel,mekabelet,mekablim,mekablot|to receive, to get|היא מקבלת מתנה.|She receives a gift.
+v|לשחק|lesakhek|ש-ח-ק|piel|משחק,משחקת,משחקים,משחקות|mesakhek,mesakheket,mesakhakim,mesakhakot|to play|הילדים משחקים בגינה.|The children play in the garden.
+v|לשלם|leshalem|ש-ל-ם|piel|משלם,משלמת,משלמים,משלמות|meshalem,meshalemet,meshalmim,meshalmot|to pay|אני משלם על הקפה.|I'm paying for the coffee.
+v|לשנות|leshanot|ש-נ-ה|piel|משנה,משנה,משנים,משנות|meshane,meshana,meshanim,meshanot|to change|זה לא משנה.|It doesn't matter. (lit. it doesn't change)
+v|לתקן|letaken|ת-ק-ן|piel|מתקן,מתקנת,מתקנים,מתקנות|metaken,metakenet,metaknim,metaknot|to fix, to repair|אבא מתקן את הברז.|Dad is fixing the faucet.
+
+@unit 27|Talk about time
+n|זמן|zman|time|m|זמנים|zmanim|אין לי זמן.|I don't have time.
+n|יום|yom|day|m|ימים|yamim|יום טוב!|Have a good day!
+n|שבוע|shavu'a|week|m|שבועות|shavu'ot|אני עובד חמישה ימים בשבוע.|I work five days a week.
+n|חודש|khodesh|month|m|חודשים|khodashim|החודש הבא.|Next month.
+n|שנה|shana|year|f|שנים|shanim|שנה טובה!|Happy new year! (a good year)
+n|שעה|sha'a|hour, time (o'clock)|f|שעות|sha'ot|מה השעה?|What time is it?
+n|דקה|daka|minute|f|דקות|dakot|רק דקה!|Just a minute!
+n|שנייה|shniya|second|f|שניות|shniyot|שנייה, אני בא.|One second, I'm coming.
+n|רגע|rega|moment|m|רגעים|rega'im|רגע, בבקשה.|One moment, please.
+n|גיל|gil|age|m|גילים|gilim|מה הגיל שלך?|What is your age?
+n|דור|dor|generation|m|דורות|dorot|זה דור חדש.|This is a new generation.
+n|עידן|idan|era, age|m|עידנים|idanim|עידן חדש.|A new era.
+n|עשור|asor|decade|m|עשורים|asorim|עשור שלם.|A whole decade.
+n|תקופה|tkufa|period (of time)|f|תקופות|tkufot|זאת תקופה קשה.|This is a hard period.
+n|תאריך|ta'arikh|date|m|תאריכים|ta'arikhim|מה התאריך היום?|What's the date today?
+n|לוח שנה|lu'akh shana|calendar|m|לוחות שנה|lukhot shana|הלוח שנה על הקיר.|The calendar is on the wall.
+n|יום הולדת|yom huledet|birthday|m|ימי הולדת|yemey huledet|יום הולדת שמח!|Happy birthday!
+n|מסיבה|mesiba|party|f|מסיבות|mesibot|יש מסיבה בערב.|There's a party in the evening.
+n|צהריים|tsohorayim|noon, midday|m|-|-|נתראה בצהריים.|See you at noon.
+n|אחר הצהריים|akhar hatsohorayim|afternoon|m|-|-|אני בא אחר הצהריים.|I'm coming in the afternoon.
+n|חצות|khatsot|midnight|f|-|-|הוא ישן אחרי חצות.|He sleeps after midnight.
+n|הווה|hove|present (time, tense)|m|-|-|אנחנו לומדים את ההווה.|We're learning the present tense.
+n|עונה|ona|season|f|עונות|onot|איזו עונה אתה אוהב?|Which season do you like?
+n|אביב|aviv|spring|m|-|-|באביב יש פרחים.|In spring there are flowers.
+n|קיץ|kayits|summer|m|-|-|בקיץ חם מאוד.|In summer it's very hot.
+n|סתיו|stav|autumn, fall|m|-|-|בסתיו יש רוח.|In autumn it's windy.
+n|חורף|khoref|winter|m|-|-|בחורף קר.|In winter it's cold.
+x|day|יום ראשון|yom rishon|Sunday|ביום ראשון אני עובד.|On Sunday I work.
+x|day|יום שני|yom sheni|Monday|נתראה ביום שני.|See you on Monday.
+x|day|יום שלישי|yom shlishi|Tuesday|ביום שלישי יש מסיבה.|On Tuesday there's a party.
+x|day|יום רביעי|yom revi'i|Wednesday|היום יום רביעי.|Today is Wednesday.
+x|day|יום חמישי|yom khamishi|Thursday|ביום חמישי אני בבית.|On Thursday I'm at home.
+x|day|יום שישי|yom shishi|Friday|ביום שישי אוכלים עם המשפחה.|On Friday we eat with the family.
+x|day|שבת|shabat|Saturday, Sabbath|שבת שלום!|Shabbat shalom!
+x|month|ינואר|yanu'ar|January|בינואר קר.|In January it's cold.
+x|month|פברואר|febru'ar|February|פברואר חודש קצר.|February is a short month.
+x|month|מרץ|merts|March|במרץ מתחיל האביב.|In March spring begins.
+x|month|אפריל|april|April|אפריל חודש יפה.|April is a beautiful month.
+x|month|מאי|may|May|יום ההולדת שלי במאי.|My birthday is in May.
+x|month|יוני|yuni|June|ביוני חם.|In June it's hot.
+x|month|יולי|yuli|July|ביולי אנחנו בים.|In July we're at the sea.
+x|month|אוגוסט|ogust|August|אוגוסט חם מאוד.|August is very hot.
+x|month|ספטמבר|september|September|בספטמבר הילדים חוזרים לבית הספר.|In September the children go back to school.
+x|month|אוקטובר|oktober|October|באוקטובר יש חגים.|In October there are holidays.
+x|month|נובמבר|november|November|בנובמבר מתחיל הגשם.|In November the rain starts.
+x|month|דצמבר|detsember|December|דצמבר הוא סוף השנה.|December is the end of the year.
+x|time|היום|hayom|today|היום יום יפה.|Today is a beautiful day.
+x|time|מחר|makhar|tomorrow|נתראה מחר.|See you tomorrow.
+x|time|מחרתיים|mokhrotayim|the day after tomorrow|אני עוזב מחרתיים.|I'm leaving the day after tomorrow.
+x|time|אתמול|etmol|yesterday|אתמול היה חם.|Yesterday it was hot.
+x|time|שלשום|shilshom|the day before yesterday|שלשום הייתי בבית.|The day before yesterday I was at home.
+x|time|הערב|ha'erev|this evening, tonight|מה אתה עושה הערב?|What are you doing tonight?
+x|time|עכשיו|akhshav|now|אני עסוק עכשיו.|I'm busy now.
+x|time|כיום|kayom|nowadays|כיום כולם עם טלפון.|Nowadays everyone has a phone.
+x|time|תמיד|tamid|always|הוא תמיד שמח.|He's always happy.
+x|time|אף פעם|af pa'am|never|אני אף פעם לא שותה קפה.|I never drink coffee.
+x|time|עד|ad|until|אני עובד עד חמש.|I work until five.
+x|time|הבא / הבאה|haba / haba'a|next (m / f)|בשבוע הבא.|Next week.
+x|time|שעבר / שעברה|she'avar / she'avra|last (m / f)|בשבוע שעבר.|Last week.
+x|time|יומיים|yomayim|two days|אני כאן ליומיים.|I'm here for two days.
+x|time|שבועיים|shvu'ayim|two weeks|שבועיים בחופש.|Two weeks of vacation.
+x|time|חודשיים|khodshayim|two months|הוא לומד עברית חודשיים.|He has been learning Hebrew for two months.
+x|time|שנתיים|shnatayim|two years|אנחנו גרים כאן שנתיים.|We've lived here for two years.
+x|time|שעתיים|sha'atayim|two hours|הסרט שעתיים.|The movie is two hours long.
+x|num|מאה|me'a|hundred|מאה שקלים.|A hundred shekels.
+x|adv|קצת|ktsat|a little, a bit|אני מדבר קצת עברית.|I speak a little Hebrew.
+
+@unit 28|Describe people and things
+a|אחראי,אחראית,אחראים,אחראיות|akhra'i,akhra'it,akhra'im,akhra'iyot|responsible|הוא ילד אחראי.|He is a responsible boy.
+a|אמיתי,אמיתית,אמיתיים,אמיתיות|amiti,amitit,amitiyim,amitiyot|real, genuine|זה סיפור אמיתי.|It's a true story.
+a|אפשרי,אפשרית,אפשריים,אפשריות|efshari,efsharit,efshariyim,efshariyot|possible|זה אפשרי.|That's possible.
+a|בלתי אפשרי,בלתי אפשרית,בלתי אפשריים,בלתי אפשריות|bilti efshari,bilti efsharit,bilti efshariyim,bilti efshariyot|impossible|זה בלתי אפשרי!|That's impossible!
+a|הכרחי,הכרחית,הכרחיים,הכרחיות|hekhrekhi,hekhrekhit,hekhrekhiyim,hekhrekhiyot|necessary|זה לא הכרחי.|It isn't necessary.
+a|זול,זולה,זולים,זולות|zol,zola,zolim,zolot|cheap|האוכל כאן זול.|The food here is cheap.
+a|חופשי,חופשית,חופשיים,חופשיות|khofshi,khofshit,khofshiyim,khofshiyot|free|אני חופשי היום.|I'm free today.
+a|חזק,חזקה,חזקים,חזקות|khazak,khazaka,khazakim,khazakot|strong|הוא חזק מאוד.|He is very strong.
+a|חי,חיה,חיים,חיות|khay,khaya,khayim,khayot|alive, living|הדג עדיין חי.|The fish is still alive.
+a|חיובי,חיובית,חיוביים,חיוביות|khiyuvi,khiyuvit,khiyuviyim,khiyuviyot|positive|היא בחורה חיובית.|She is a positive person.
+a|חלש,חלשה,חלשים,חלשות|khalash,khalasha,khalashim,khalashot|weak|הקפה חלש.|The coffee is weak.
+a|חשוב,חשובה,חשובים,חשובות|khashuv,khashuva,khashuvim,khashuvot|important|זה חשוב מאוד.|This is very important.
+a|יעיל,יעילה,יעילים,יעילות|ya'il,ye'ila,ye'ilim,ye'ilot|efficient|היא עובדת יעילה.|She is an efficient worker.
+a|יקר,יקרה,יקרים,יקרות|yakar,yekara,yekarim,yekarot|expensive, dear|הדירה יקרה.|The apartment is expensive.
+a|מגעיל,מגעילה,מגעילים,מגעילות|mag'il,mag'ila,mag'ilim,mag'ilot|disgusting|האוכל מגעיל.|The food is disgusting.
+a|מושלם,מושלמת,מושלמים,מושלמות|mushlam,mushlemet,mushlamim,mushlamot|perfect|היום מושלם.|The day is perfect.
+a|מיוחד,מיוחדת,מיוחדים,מיוחדות|meyukhad,meyukhedet,meyukhadim,meyukhadot|special|זה יום מיוחד.|This is a special day.
+a|מלוכלך,מלוכלכת,מלוכלכים,מלוכלכות|melukhlakh,melukhlekhet,melukhlakhim,melukhlakhot|dirty|הרצפה מלוכלכת.|The floor is dirty.
+a|מעניין,מעניינת,מעניינים,מעניינות|me'anyen,me'anyenet,me'anyenim,me'anyenot|interesting|זה ספר מעניין.|This is an interesting book.
+a|מפורסם,מפורסמת,מפורסמים,מפורסמות|mefursam,mefursemet,mefursamim,mefursamot|famous|הוא שחקן מפורסם.|He is a famous actor.
+a|מצוין,מצוינת,מצוינים,מצוינות|metsuyan,metsuyenet,metsuyanim,metsuyanot|excellent|האוכל מצוין!|The food is excellent!
+a|מקצועי,מקצועית,מקצועיים,מקצועיות|miktso'i,miktso'it,miktso'iyim,miktso'iyot|professional|היא צלמת מקצועית.|She is a professional photographer.
+a|מרכזי,מרכזית,מרכזיים,מרכזיות|merkazi,merkazit,merkaziyim,merkaziyot|central, main|זאת התחנה המרכזית.|This is the central station.
+a|משעמם,משעממת,משעממים,משעממות|mesha'amem,mesha'amemet,mesha'amemim,mesha'amemot|boring|הסרט משעמם.|The movie is boring.
+a|נהדר,נהדרת,נהדרים,נהדרות|nehedar,nehederet,nehedarim,nehedarot|wonderful|זה רעיון נהדר!|That's a wonderful idea!
+a|נוח,נוחה,נוחים,נוחות|no'akh,nokha,nokhim,nokhot|comfortable|הספה נוחה.|The sofa is comfortable.
+a|נחמד,נחמדה,נחמדים,נחמדות|nekhmad,nekhmada,nekhmadim,nekhmadot|nice|השכנים נחמדים.|The neighbors are nice.
+a|נכון,נכונה,נכונים,נכונות|nakhon,nekhona,nekhonim,nekhonot|correct, right, true|זה נכון.|That's right.
+a|נקי,נקייה,נקיים,נקיות|naki,nekiya,nekiyim,nekiyot|clean|הבית נקי.|The house is clean.
+a|סגור,סגורה,סגורים,סגורות|sagur,sgura,sgurim,sgurot|closed|החנות סגורה.|The store is closed.
+a|עייף,עייפה,עייפים,עייפות|ayef,ayefa,ayefim,ayefot|tired|אני עייפה.|I'm tired. (f)
+a|עני,ענייה,עניים,ענייות|ani,aniya,aniyim,aniyot|poor|הוא לא עני.|He isn't poor.
+a|עצמאי,עצמאית,עצמאיים,עצמאיות|atsma'i,atsma'it,atsma'iyim,atsma'iyot|independent, self-employed|היא אישה עצמאית.|She is an independent woman.
+a|עשיר,עשירה,עשירים,עשירות|ashir,ashira,ashirim,ashirot|rich|המלך עשיר.|The king is rich.
+a|פרטי,פרטית,פרטיים,פרטיות|prati,pratit,pratiyim,pratiyot|private|זה חדר פרטי.|This is a private room.
+a|פשוט,פשוטה,פשוטים,פשוטות|pashut,pshuta,pshutim,pshutot|simple|זה פשוט מאוד.|It's very simple.
+a|פתוח,פתוחה,פתוחים,פתוחות|patu'akh,ptukha,ptukhim,ptukhot|open|החלון פתוח.|The window is open.
+a|צבאי,צבאית,צבאיים,צבאיות|tsva'i,tsva'it,tsva'iyim,tsva'iyot|military|זה בסיס צבאי.|This is a military base.
+a|צעיר,צעירה,צעירים,צעירות|tsa'ir,tse'ira,tse'irim,tse'irot|young|היא צעירה מאוד.|She is very young.
+a|קל,קלה,קלים,קלות|kal,kala,kalim,kalot|easy, light|העברית לא קלה.|Hebrew isn't easy.
+a|קשה,קשה,קשים,קשות|kashe,kasha,kashim,kashot|hard, difficult|זה קשה מאוד.|This is very hard.
+a|רגיל,רגילה,רגילים,רגילות|ragil,regila,regilim,regilot|normal, ordinary; used to|זה יום רגיל.|It's an ordinary day.
+a|רזה,רזה,רזים,רזות|raze,raza,razim,razot|thin|החתול רזה.|The cat is thin.
+a|רציני,רצינית,רציניים,רציניות|retsini,retsinit,retsiniyim,retsiniyot|serious|אתה רציני?|Are you serious?
+a|שמן,שמנה,שמנים,שמנות|shamen,shmena,shmenim,shmenot|fat|החתול שמן.|The cat is fat.
+a|שגוי,שגויה,שגויים,שגויות|shagui,sgu'ya,sgu'yim,sgu'yot|wrong, incorrect|התשובה שגויה.|The answer is wrong.
+a|שלילי,שלילית,שליליים,שליליות|shlili,shlilit,shliliyim,shliliyot|negative|הוא תמיד שלילי.|He is always negative.
+x|adj|רב / רבה / רבים / רבות|rav / raba / rabim / rabot|many, much, great|תודה רבה!|Thank you very much!
+v|למכור|limkor|מ-כ-ר|paal|מוכר,מוכרת,מוכרים,מוכרות|mokher,mokheret,mokhrim,mokhrot|to sell|הוא מוכר פירות בשוק.|He sells fruit at the market.
+
+@unit 29|Use adverbs
+x|adv|מאוד|me'od|very|זה טוב מאוד.|It's very good.
+x|adv|ממש|mamash|really|זה ממש טעים!|It's really tasty!
+x|adv|באמת|be'emet|really, truly|באמת?|Really?
+x|adv|בדיוק|bediyuk|exactly|בדיוק!|Exactly!
+x|adv|ביחד|beyakhad|together|אנחנו אוכלים ביחד.|We eat together.
+x|adv|לבד|levad|alone|הוא גר לבד.|He lives alone.
+x|adv|שוב|shuv|again|תגיד את זה שוב.|Say that again.
+x|adv|עוד|od|more, another, still|עוד קפה, בבקשה.|Another coffee, please.
+x|adv|כאן / פה|kan / po|here|אני גר כאן.|I live here.
+x|adv|שם|sham|there|הספר שם.|The book is there.
+x|adv|מהר|maher|quickly, fast|הוא רץ מהר.|He runs fast.
+x|adv|לאט|le'at|slowly|דבר לאט, בבקשה.|Speak slowly, please.
+x|adv|מאוחר|me'ukhar|late|כבר מאוחר.|It's already late.
+x|adv|מיד|miyad|immediately|אני בא מיד.|I'm coming right away.
+x|adv|בקרוב|bekarov|soon|נתראה בקרוב.|See you soon.
+x|adv|לאחרונה|la'akharona|recently, lately|לאחרונה אני עייף.|Lately I'm tired.
+x|adv|אחר כך|akhar kakh|later, afterwards|נדבר אחר כך.|We'll talk later.
+x|adv|בינתיים|beynatayim|meanwhile|בינתיים אני מחכה.|Meanwhile I'm waiting.
+x|adv|סוף סוף|sof sof|finally|סוף סוף אתה כאן!|Finally you're here!
+x|adv|כרגע|karega|at the moment|כרגע אני עסוק.|At the moment I'm busy.
+x|adv|לפעמים|lif'amim|sometimes|לפעמים אני שותה קפה.|Sometimes I drink coffee.
+x|adv|לעיתים קרובות|le'itim krovot|often|אני מבקר את סבתא לעיתים קרובות.|I visit grandma often.
+x|adv|לעיתים רחוקות|le'itim rekhokot|rarely|הוא אוכל בשר לעיתים רחוקות.|He rarely eats meat.
+x|adv|בדרך כלל|bederekh klal|usually|בדרך כלל אני קם בשש.|I usually get up at six.
+x|adv|פעם|pa'am|once, one time|פעם אחת.|One time.
+x|adv|פעמיים|pa'amayim|twice|פעמיים בשבוע.|Twice a week.
+x|adv|כמעט|kim'at|almost|כמעט סיימתי.|I almost finished.
+x|adv|בקושי|bekoshi|barely|אני בקושי רואה.|I can barely see.
+x|adv|בקלות|bekalut|easily|הוא עושה את זה בקלות.|He does it easily.
+x|adv|לגמרי|legamrey|completely|אתה צודק לגמרי.|You're completely right.
+x|adv|בהחלט|behekhlet|definitely|בהחלט!|Definitely!
+x|adv|ברור|barur|of course, clear|ברור!|Of course!
+x|adv|די|day|quite, rather; enough!|זה די טוב.|It's quite good.
+x|adv|מספיק|maspik|enough|יש מספיק אוכל.|There is enough food.
+x|adv|לפחות|lefakhot|at least|לפחות יש קפה.|At least there's coffee.
+x|adv|בערך|be'erekh|approximately|בערך עשר דקות.|About ten minutes.
+x|adv|בעיקר|be'ikar|mainly|אני אוכל בעיקר ירקות.|I mainly eat vegetables.
+x|adv|במיוחד|bimyukhad|especially|אני אוהב פירות, במיוחד תפוחים.|I like fruit, especially apples.
+x|adv|במשך|bemeshekh|during, for (a period)|במשך היום אני עובד.|During the day I work.
+x|adv|כמו|kmo|like, as|הוא רץ כמו סוס.|He runs like a horse.
+x|adv|כמו תמיד|kmo tamid|as always|כמו תמיד, הוא מאחר.|As always, he's late.
+x|adv|כל כך|kol kakh|so, so much|את כל כך יפה!|You're so beautiful! (f)
+x|adv|בכל מקום|bekhol makom|everywhere|יש חתולים בכל מקום.|There are cats everywhere.
+x|adv|בכל זאת|bekhol zot|nevertheless, still|קר, אבל בכל זאת אני שוחה.|It's cold, but I'm swimming anyway.
+x|adv|בכל אופן|bekhol ofen|anyway|בכל אופן, תודה.|Anyway, thanks.
+x|adv|לא בהכרח|lo behekhre'akh|not necessarily|זה לא בהכרח נכון.|That's not necessarily true.
+x|adv|סביר להניח|savir lehani'akh|presumably|סביר להניח שהוא בבית.|He's presumably at home.
+x|adv|הרחק|harkhek|far away|הם גרים הרחק מכאן.|They live far away from here.
+
+@unit 30|Describe your family
+n|משפחה|mishpakha|family|f|משפחות|mishpakhot|יש לי משפחה גדולה.|I have a big family.
+n|אח|akh|brother|m|אחים|akhim|יש לי שני אחים.|I have two brothers.
+n|אחות|akhot|sister, nurse|f|אחיות|akhayot|האחות שלי צעירה.|My sister is young.
+n|אחיין|akhyan|nephew|m|אחיינים|akhyanim|האחיין שלי בן חמש.|My nephew is five.
+n|אחיינית|akhyanit|niece|f|אחייניות|akhyaniyot|האחיינית שלי שרה יפה.|My niece sings beautifully.
+n|בן|ben|son; boy|m|בנים|banim|הבן שלי לומד.|My son is studying.
+n|בת|bat|daughter; girl|f|בנות|banot|הבת שלי בת עשר.|My daughter is ten.
+n|בן דוד|ben dod|cousin (m)|m|בני דודים|bney dodim|בן הדוד שלי גר בתל אביב.|My cousin lives in Tel Aviv.
+n|בת דודה|bat doda|cousin (f)|f|בנות דודות|bnot dodot|בת הדודה שלי רופאה.|My (female) cousin is a doctor.
+n|בן זוג|ben zug|partner (m)|m|בני זוג|bney zug|בן הזוג שלי מבשל.|My partner cooks.
+n|בת זוג|bat zug|partner (f), girlfriend|f|בנות זוג|bnot zug|זאת בת הזוג שלי.|This is my partner.
+n|בעל|ba'al|husband|m|בעלים|ba'alim|הבעל שלה רופא.|Her husband is a doctor.
+n|דוד|dod|uncle|m|דודים|dodim|הדוד שלי עשיר.|My uncle is rich.
+n|דודה|doda|aunt|f|דודות|dodot|הדודה שלי נחמדה.|My aunt is nice.
+n|הורה|hore|parent|m|הורים|horim|ההורים שלי בבית.|My parents are at home.
+n|חיים|khayim|life (pl.)|m|-|-|החיים יפים.|Life is beautiful.
+n|חתונה|khatuna|wedding|f|חתונות|khatunot|החתונה בקיץ.|The wedding is in summer.
+n|חתן|khatan|groom|m|חתנים|khatanim|החתן שמח.|The groom is happy.
+n|נישואין|nisu'in|marriage (pl.)|m|-|-|נישואין זה דבר טוב.|Marriage is a good thing.
+n|נכד|nekhed|grandson|m|נכדים|nekhadim|לסבא יש חמישה נכדים.|Grandpa has five grandchildren.
+n|נכדה|nekhda|granddaughter|f|נכדות|nekhadot|הנכדה של סבתא קטנה.|Grandma's granddaughter is small.
+n|סבא|saba|grandfather|m|-|-|סבא שלי קורא עיתון.|My grandpa reads the newspaper.
+n|סבתא|savta|grandmother|f|-|-|סבתא מבשלת מרק.|Grandma cooks soup.
+n|שם|shem|name|m|שמות|shemot|מה השם שלך?|What's your name?
+n|שם משפחה|shem mishpakha|surname|m|שמות משפחה|shmot mishpakha|מה שם המשפחה שלך?|What's your surname?
+n|שם פרטי|shem prati|first name|m|שמות פרטיים|shmot pratiyim|מה השם הפרטי שלך?|What's your first name?
+n|תינוק|tinok|baby|m|תינוקות|tinokot|התינוק ישן.|The baby is sleeping.
+
+@unit 31|Talk about your home
+n|בית|bayit|house, home|m|בתים|batim|הבית שלנו קטן.|Our house is small.
+n|דירה|dira|apartment|f|דירות|dirot|אני גר בדירה.|I live in an apartment.
+n|בניין|binyan|building|m|בניינים|binyanim|הבניין גבוה.|The building is tall.
+n|חדר|kheder|room|m|חדרים|khadarim|יש בדירה שלושה חדרים.|There are three rooms in the apartment.
+n|חדר שינה|kheder sheyna|bedroom|m|חדרי שינה|khadrey sheyna|חדר השינה גדול.|The bedroom is big.
+n|חדר אוכל|kheder okhel|dining room|m|חדרי אוכל|khadrey okhel|אנחנו בחדר האוכל.|We're in the dining room.
+n|חדר אורחים|kheder orkhim|guest room|m|חדרי אורחים|khadrey orkhim|יש לנו חדר אורחים.|We have a guest room.
+n|סלון|salon|living room|m|סלונים|salonim|הטלוויזיה בסלון.|The TV is in the living room.
+n|שירותים|sherutim|restroom, toilet (pl.)|m|-|-|איפה השירותים?|Where is the restroom?
+n|אמבטיה|ambatya|bath, bathroom|f|אמבטיות|ambatyot|הילד באמבטיה.|The child is in the bath.
+n|מרפסת|mirpeset|balcony|f|מרפסות|mirpasot|אנחנו שותים קפה במרפסת.|We drink coffee on the balcony.
+n|מרתף|martef|basement, cellar|m|מרתפים|martefim|היין במרתף.|The wine is in the cellar.
+n|עליית גג|aliyat gag|attic|f|עליות גג|aliyot gag|יש ספרים ישנים בעליית הגג.|There are old books in the attic.
+n|גג|gag|roof|m|גגות|gagot|החתול על הגג.|The cat is on the roof.
+n|גינה|gina|garden|f|גינות|ginot|יש פרחים בגינה.|There are flowers in the garden.
+n|חצר|khatser|yard|f|חצרות|khatserot|הילדים משחקים בחצר.|The children play in the yard.
+n|דלת|delet|door|f|דלתות|dlatot|תסגור את הדלת.|Close the door.
+n|חלון|khalon|window|m|חלונות|khalonot|החלון פתוח.|The window is open.
+n|קיר|kir|wall|m|קירות|kirot|הקיר לבן.|The wall is white.
+n|רצפה|ritspa|floor|f|רצפות|ritspot|הרצפה נקייה.|The floor is clean.
+n|תקרה|tikra|ceiling|f|תקרות|tikrot|התקרה גבוהה.|The ceiling is high.
+n|מדרגות|madregot|stairs (pl.)|f|-|-|אני עולה במדרגות.|I go up the stairs.
+n|מעלית|ma'alit|elevator|f|מעליות|ma'aliyot|המעלית לא עובדת.|The elevator isn't working.
+n|שער|sha'ar|gate|m|שערים|she'arim|השער סגור.|The gate is closed.
+n|מפתח|mafte'akh|key|m|מפתחות|maftekhot|איפה המפתח?|Where's the key?
+n|כתובת|ktovet|address|f|כתובות|ktovot|מה הכתובת שלך?|What's your address?
+n|שכן|shakhen|neighbor|m|שכנים|shkhenim|השכן שלי נחמד.|My neighbor is nice.
+n|מקלט|miklat|shelter|m|מקלטים|miklatim|יש מקלט בבניין.|There's a shelter in the building.
+n|רהיט|rahit|piece of furniture|m|רהיטים|rahitim|הרהיטים חדשים.|The furniture is new.
+n|שולחן|shulkhan|table|m|שולחנות|shulkhanot|האוכל על השולחן.|The food is on the table.
+n|כיסא|kise|chair|m|כיסאות|kis'ot|הכיסא נוח.|The chair is comfortable.
+n|ספה|sapa|sofa, couch|f|ספות|sapot|הכלב על הספה.|The dog is on the sofa.
+n|מיטה|mita|bed|f|מיטות|mitot|המיטה גדולה.|The bed is big.
+n|ארון|aron|closet, cupboard|m|ארונות|aronot|הבגדים בארון.|The clothes are in the closet.
+n|מנורה|menora|lamp|f|מנורות|menorot|המנורה על השולחן.|The lamp is on the table.
+n|אור|or|light|m|אורות|orot|אין אור בחדר.|There's no light in the room.
+n|וילון|vilon|curtain|m|וילונות|vilonot|הווילון כחול.|The curtain is blue.
+n|שטיח|shati'akh|carpet, rug|m|שטיחים|shtikhim|השטיח רך.|The rug is soft.
+n|כרית|karit|pillow|f|כריות|kariyot|הכרית רכה.|The pillow is soft.
+n|שמיכה|smikha|blanket|f|שמיכות|smikhot|קר, אני צריך שמיכה.|It's cold, I need a blanket.
+n|מראה|mar'a|mirror|f|מראות|mar'ot|היא מסתכלת במראה.|She looks in the mirror.
+n|מקרר|mekarer|refrigerator|m|מקררים|mekarerim|החלב במקרר.|The milk is in the fridge.
+n|מזגן|mazgan|air conditioner|m|מזגנים|mazganim|המזגן לא עובד.|The air conditioner isn't working.
+n|כיור|kiyor|sink|m|כיורים|kiyorim|הכלים בכיור.|The dishes are in the sink.
+n|ברז|berez|faucet, tap|m|ברזים|brazim|הברז מקולקל.|The faucet is broken.
+n|כלים|kelim|dishes (pl.)|m|-|-|אני שוטף כלים.|I'm washing dishes.
+n|כביסה|kvisa|laundry|f|כביסות|kvisot|יש הרבה כביסה.|There's a lot of laundry.
+n|מכונת כביסה|mekhonat kvisa|washing machine|f|מכונות כביסה|mekhonot kvisa|מכונת הכביסה חדשה.|The washing machine is new.
+n|שואב אבק|sho'ev avak|vacuum cleaner|m|שואבי אבק|sho'avey avak|איפה שואב האבק?|Where's the vacuum cleaner?
+n|מטאטא|matate|broom|m|מטאטאים|matat'im|המטאטא במטבח.|The broom is in the kitchen.
+n|סמרטוט|smartut|rag, mop|m|סמרטוטים|smartutim|יש סמרטוט מתחת לכיור.|There's a rag under the sink.
+n|פח אשפה|pakh ashpa|trash can|m|פחי אשפה|pakhey ashpa|הפח מלא.|The trash can is full.
+n|כלי עבודה|kley avoda|tools (pl.)|m|-|-|כלי העבודה במרתף.|The tools are in the basement.
+n|צעצוע|tsa'atsu'a|toy|m|צעצועים|tsa'atsu'im|הצעצועים על הרצפה.|The toys are on the floor.
+v|לגור|lagur|ג-ו-ר|paal|גר,גרה,גרים,גרות|gar,gara,garim,garot|to live, to reside|איפה אתה גר?|Where do you live?

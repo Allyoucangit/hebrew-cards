@@ -1,0 +1,19 @@
+{
+  "name": "hebrew-cards",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "data": "node scripts/build-data.mjs",
+    "dev": "vite",
+    "build": "node scripts/build-data.mjs && vite build",
+    "preview": "vite preview",
+    "audio": "node scripts/generate-audio.mjs"
+  },
+  "dependencies": {
+    "ts-fsrs": "^6.0.1"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}

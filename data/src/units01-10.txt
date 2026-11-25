@@ -1,0 +1,180 @@
+# Format (fields separated by |):
+# n|word|translit|english|gender m/f|plural|plural translit|example|example english
+# a|ms,fs,mp,fp|translit x4|english|example|example english
+# v|infinitive|translit|root|binyan|ms,fs,mp,fp present|translit x4|english|example|example english
+# p|preposition|translit|english|10 forms (I,you m,you f,he,she,we,you m pl,you f pl,they m,they f)|translit x10|example|example english
+# x|tag|word|translit|english|example|example english
+# Example sentences: no nikkud, simple vocabulary.
+
+@unit 1|Learn the alphabet
+n|אבא|aba|dad, father|m|-|-|אבא שלי בבית.|My dad is at home.
+n|אמא|ima|mom, mother|f|-|-|אמא אוכלת לחם.|Mom is eating bread.
+n|אהבה|ahava|love|f|אהבות|ahavot|זאת אהבה גדולה.|This is a great love.
+n|חלב|khalav|milk|m|-|-|הילד שותה חלב.|The boy drinks milk.
+n|לחם|lekhem|bread|m|לחמים|lekhamim|הלחם טעים.|The bread is tasty.
+n|יונה|yona|dove, pigeon|f|יונים|yonim|היונה לבנה.|The dove is white.
+n|יין|yayin|wine|m|יינות|yeynot|אבא שותה יין.|Dad drinks wine.
+n|מים|mayim|water (pl.)|m|-|-|אני רוצה מים, בבקשה.|I want water, please.
+x|pron|אני|ani|I|אני אוהב חלב.|I like milk.
+x|pron|אתה|ata|you (m. sg.)|אתה בא?|Are you coming? (m)
+x|pron|את|at|you (f. sg.)|את באה?|Are you coming? (f)
+x|pron|הוא|hu|he, it (m)|הוא ילד טוב.|He is a good boy.
+x|pron|היא|hi|she, it (f)|היא אמא שלי.|She is my mom.
+x|conj|או|o|or|חלב או מים?|Milk or water?
+x|adv|לא|lo|no, not|לא, תודה.|No, thanks.
+x|q|האם|ha'im|(question word for yes/no questions)|האם אתה רוצה יין?|Do you want wine?
+v|לאהוב|le'ehov|א-ה-ב|paal|אוהב,אוהבת,אוהבים,אוהבות|ohev,ohevet,ohavim,ohavot|to love, to like|אני אוהבת את אמא שלי.|I love my mom. (f speaker)
+v|לבוא|lavo|ב-ו-א|paal|בא,באה,באים,באות|ba,ba'a,ba'im,ba'ot|to come|אבא בא הביתה.|Dad is coming home.
+a|חם,חמה,חמים,חמות|kham,khama,khamim,khamot|hot, warm|המים חמים.|The water is hot.
+
+@unit 2|Learn the alphabet
+n|אגוז|egoz|nut|m|אגוזים|egozim|הסנאי אוכל אגוז.|The squirrel eats a nut.
+n|אוכל|okhel|food|m|-|-|האוכל טעים מאוד.|The food is very tasty.
+n|אורז|orez|rice|m|-|-|אני אוכל אורז עם עוף.|I eat rice with chicken.
+n|אישה|isha|woman, wife|f|נשים|nashim|האישה קוראת ספר.|The woman is reading a book.
+n|גבר|gever|man|m|גברים|gvarim|הגבר הולך הביתה.|The man is walking home.
+n|דרך|derekh|way, road, path|f|דרכים|drakhim|זאת דרך ארוכה.|This is a long way.
+n|ילד|yeled|boy, child|m|ילדים|yeladim|הילד אוכל תפוח.|The boy eats an apple.
+n|ילדה|yalda|girl|f|ילדות|yeladot|הילדה שמחה.|The girl is happy.
+n|כלב|kelev|dog|m|כלבים|klavim|יש לי כלב גדול.|I have a big dog.
+n|מלך|melekh|king|m|מלכים|melakhim|המלך אוכל לחם.|The king eats bread.
+n|משאית|masa'it|truck|f|משאיות|masa'iyot|המשאית גדולה.|The truck is big.
+x|pron|זה|ze|this, it (m)|זה כלב.|This is a dog.
+x|pron|זאת|zot|this (f)|זאת ילדה.|This is a girl.
+x|adv|כן|ken|yes|כן, אני רוצה.|Yes, I want (to).
+v|לאכול|le'ekhol|א-כ-ל|paal|אוכל,אוכלת,אוכלים,אוכלות|okhel,okhelet,okhlim,okhlot|to eat|הילדים אוכלים אורז.|The children are eating rice.
+v|ללכת|lalekhet|ה-ל-כ|paal|הולך,הולכת,הולכים,הולכות|holekh,holekhet,holkhim,holkhot|to go, to walk|אני הולכת הביתה.|I am going home. (f)
+v|לראות|lir'ot|ר-א-ה|paal|רואה,רואה,רואים,רואות|ro'e,ro'a,ro'im,ro'ot|to see|אתה רואה את הכלב?|Do you see the dog?
+v|לשתות|lishtot|ש-ת-ה|paal|שותה,שותה,שותים,שותות|shote,shota,shotim,shotot|to drink|היא שותה מים.|She drinks water.
+a|שמח,שמחה,שמחים,שמחות|same'akh,smekha,smekhim,smekhot|happy|אנחנו שמחים.|We are happy.
+
+@unit 3|Learn the alphabet
+n|אפרסק|afarsek|peach|m|אפרסקים|afarsekim|האפרסק מתוק.|The peach is sweet.
+n|ספר|sefer|book|m|ספרים|sfarim|אני קורא ספר.|I am reading a book.
+n|תפוז|tapuz|orange|m|תפוזים|tapuzim|התפוז חמוץ.|The orange is sour.
+n|תפוח|tapu'akh|apple|m|תפוחים|tapukhim|התפוח טעים.|The apple is tasty.
+n|כיף|kef|fun|m|-|-|זה כיף!|This is fun!
+n|מיץ|mits|juice|m|מיצים|mitsim|אני שותה מיץ תפוזים.|I drink orange juice.
+n|עוגה|uga|cake|f|עוגות|ugot|העוגה מתוקה.|The cake is sweet.
+n|עוף|of|chicken (meat), bird|m|עופות|ofot|אנחנו אוכלים עוף.|We are eating chicken.
+n|עיתון|iton|newspaper|m|עיתונים|itonim|אבא קורא עיתון.|Dad is reading a newspaper.
+a|חמוץ,חמוצה,חמוצים,חמוצות|khamuts,khamutsa,khamutsim,khamutsot|sour|הלימון חמוץ.|The lemon is sour.
+a|טוב,טובה,טובים,טובות|tov,tova,tovim,tovot|good|זה ספר טוב.|This is a good book.
+a|טעים,טעימה,טעימים,טעימות|ta'im,te'ima,te'imim,te'imot|tasty, delicious|העוגה טעימה.|The cake is tasty.
+a|יפה,יפה,יפים,יפות|yafe,yafa,yafim,yafot|beautiful, nice|זאת שמלה יפה.|This is a beautiful dress.
+a|מתוק,מתוקה,מתוקים,מתוקות|matok,metuka,metukim,metukot|sweet|התפוחים מתוקים.|The apples are sweet.
+a|עצוב,עצובה,עצובים,עצובות|atsuv,atsuva,atsuvim,atsuvot|sad|למה את עצובה?|Why are you sad? (f)
+a|רע,רעה,רעים,רעות|ra,ra'a,ra'im,ra'ot|bad|זה לא רע.|That's not bad.
+v|לקרוא|likro|ק-ר-א|paal|קורא,קוראת,קוראים,קוראות|kore,koret,kor'im,kor'ot|to read, to call|היא קוראת עיתון.|She is reading a newspaper.
+v|לרצות|lirtsot|ר-צ-ה|paal|רוצה,רוצה,רוצים,רוצות|rotse,rotsa,rotsim,rotsot|to want|אני רוצה עוגה.|I want cake.
+
+@unit 4|Greet people
+x|phrase|שלום|shalom|hello, goodbye, peace|שלום, מה שלומך?|Hello, how are you?
+x|phrase|תודה|toda|thanks, thank you|תודה על העוגה.|Thanks for the cake.
+x|phrase|תודה רבה|toda raba|thank you very much|תודה רבה, אמא!|Thank you very much, mom!
+x|phrase|בבקשה|bevakasha|please, you're welcome|מים, בבקשה.|Water, please.
+x|phrase|אין בעד מה|eyn be'ad ma|you're welcome|תודה! - אין בעד מה.|Thanks! - You're welcome.
+x|phrase|סליחה|slikha|sorry, excuse me|סליחה, איפה הבית?|Excuse me, where is the house?
+x|phrase|בהצלחה|behatslakha|good luck|בהצלחה מחר!|Good luck tomorrow!
+x|phrase|בסדר|beseder|okay, fine|הכל בסדר.|Everything is okay.
+x|phrase|ברוך הבא|barukh haba|welcome (to a man)|ברוך הבא לישראל!|Welcome to Israel!
+x|phrase|בתיאבון|bete'avon|enjoy your meal|בתיאבון, ילדים!|Enjoy your meal, kids!
+x|phrase|להתראות|lehitra'ot|see you, goodbye|להתראות מחר!|See you tomorrow!
+x|phrase|מה נשמע|ma nishma|how's it going?|היי, מה נשמע?|Hi, how's it going?
+x|phrase|מה קורה|ma kore|what's up?|מה קורה, אחי?|What's up, bro?
+x|phrase|מה שלומך|ma shlomkha / ma shlomekh|how are you?|שלום, מה שלומך?|Hello, how are you?
+x|phrase|מזל טוב|mazal tov|congratulations|מזל טוב ליום ההולדת!|Happy birthday! (congratulations on the birthday)
+x|phrase|תהנה|tehane|enjoy! have fun! (to a man)|תהנה בים!|Have fun at the sea!
+x|adv|אולי|ulay|maybe|אולי מחר.|Maybe tomorrow.
+n|בוקר|boker|morning|m|בקרים|bkarim|בוקר טוב!|Good morning!
+n|ערב|erev|evening|m|ערבים|aravim|ערב טוב!|Good evening!
+n|לילה|layla|night|m|לילות|leylot|לילה טוב!|Good night!
+n|אנגלית|anglit|English (language)|f|-|-|אני מדבר אנגלית.|I speak English.
+n|עברית|ivrit|Hebrew (language)|f|-|-|אני לומד עברית.|I am learning Hebrew.
+n|טל|tal|dew|m|טללים|tlalim|יש טל על הדשא.|There is dew on the grass.
+v|לדבר|ledaber|ד-ב-ר|piel|מדבר,מדברת,מדברים,מדברות|medaber,medaberet,medabrim,medabrot|to speak, to talk|את מדברת עברית?|Do you speak Hebrew? (f)
+
+@unit 5|Describe people
+x|pron|אנחנו|anakhnu|we|אנחנו ילדים.|We are children.
+x|pron|אתם|atem|you (m. pl.)|אתם רואים את הכלב?|Do you (pl) see the dog?
+x|pron|אתן|aten|you (f. pl.)|אתן שמחות?|Are you (f pl) happy?
+x|pron|הם|hem|they (m)|הם הולכים הביתה.|They are going home.
+x|pron|הן|hen|they (f)|הן אוכלות עוגה.|They (f) are eating cake.
+
+@unit 6|Form basic sentences
+x|phrase|יש|yesh|there is, there are|יש חלב?|Is there milk?
+x|phrase|אין|eyn|there isn't, there aren't|אין לחם.|There is no bread.
+p|ל|le|to, for (+ have: יש לי = I have)|לי,לך,לך,לו,לה,לנו,לכם,לכן,להם,להן|li,lekha,lakh,lo,la,lanu,lakhem,lakhen,lahem,lahen|יש לי כלב.|I have a dog.
+x|conj|לכן|lakhen|therefore, that's why|אני רעב, לכן אני אוכל.|I'm hungry, that's why I'm eating.
+
+@unit 7|Use adjectives
+n|טובה|tova|favor|f|טובות|tovot|אני צריך טובה.|I need a favor.
+n|שמחה|simkha|joy|f|שמחות|smakhot|יש שמחה בבית.|There is joy in the house.
+
+@unit 8|Talk about food
+n|אננס|ananas|pineapple|m|אננסים|ananasim|האננס מתוק.|The pineapple is sweet.
+n|ארוחת בוקר|arukhat boker|breakfast|f|ארוחות בוקר|arukhot boker|מה יש לארוחת בוקר?|What is there for breakfast?
+n|ארוחת ערב|arukhat erev|dinner|f|ארוחות ערב|arukhot erev|ארוחת ערב בשבע.|Dinner is at seven.
+n|ארוחת צהריים|arukhat tsohorayim|lunch|f|ארוחות צהריים|arukhot tsohorayim|אני אוכל ארוחת צהריים.|I am eating lunch.
+n|ביצה|beytsa|egg|f|ביצים|beytsim|אני אוכלת ביצה.|I'm eating an egg. (f)
+n|בירה|bira|beer|f|בירות|birot|הוא שותה בירה.|He drinks beer.
+n|בננה|banana|banana|f|בננות|bananot|הקוף אוכל בננה.|The monkey eats a banana.
+n|בקבוק|bakbuk|bottle|m|בקבוקים|bakbukim|יש בקבוק מים.|There is a bottle of water.
+n|בקר|bakar|beef, cattle|m|-|-|אני לא אוכל בקר.|I don't eat beef.
+n|בשר|basar|meat|m|-|-|הבשר טעים.|The meat is tasty.
+n|גבינה|gvina|cheese|f|גבינות|gvinot|אני אוהב גבינה.|I like cheese.
+n|דג|dag|fish|m|דגים|dagim|החתול אוכל דג.|The cat eats a fish.
+n|זית|zayit|olive|m|זיתים|zeytim|הזיתים מלוחים.|The olives are salty.
+n|חמאה|khem'a|butter|f|-|-|לחם עם חמאה.|Bread with butter.
+n|כריך|karikh|sandwich|m|כריכים|karikhim|יש לי כריך עם גבינה.|I have a cheese sandwich.
+n|לימון|limon|lemon|m|לימונים|limonim|תה עם לימון.|Tea with lemon.
+n|מלח|melakh|salt|m|-|-|אין מלח במרק.|There's no salt in the soup.
+n|מרק|marak|soup|m|מרקים|marakim|המרק חם.|The soup is hot.
+n|סוכר|sukar|sugar|m|-|-|קפה בלי סוכר.|Coffee without sugar.
+n|סלט|salat|salad|m|סלטים|salatim|הסלט טרי.|The salad is fresh.
+n|עגבנייה|agvaniya|tomato|f|עגבניות|agvaniyot|העגבנייה אדומה.|The tomato is red.
+n|פטרייה|patriya|mushroom|f|פטריות|patriyot|יש פטריות בפיצה.|There are mushrooms on the pizza.
+n|פיצה|pitsa|pizza|f|פיצות|pitsot|הילדים אוהבים פיצה.|The children love pizza.
+n|פסטה|pasta|pasta|f|-|-|אני מבשל פסטה.|I'm cooking pasta.
+n|פרי|pri|fruit|m|פירות|perot|איזה פרי אתה אוהב?|Which fruit do you like?
+n|צלחת|tsalakhat|plate|f|צלחות|tsalakhot|הצלחת על השולחן.|The plate is on the table.
+n|קפה|kafe|coffee|m|-|-|אני שותה קפה בבוקר.|I drink coffee in the morning.
+n|שוקולד|shokolad|chocolate|m|-|-|השוקולד מתוק.|The chocolate is sweet.
+n|שמן|shemen|oil|m|שמנים|shmanim|יש שמן זית?|Is there olive oil?
+n|תות|tut|strawberry|m|תותים|tutim|התותים אדומים.|The strawberries are red.
+a|רעב,רעבה,רעבים,רעבות|ra'ev,re'eva,re'evim,re'evot|hungry|אני רעב מאוד.|I'm very hungry.
+
+@unit 9|Describe animals
+n|אריה|arye|lion|m|אריות|arayot|האריה גדול.|The lion is big.
+n|ארנב|arnav|rabbit|m|ארנבים|arnavim|הארנב אוכל גזר.|The rabbit eats a carrot.
+n|ברווז|barvaz|duck|m|ברווזים|barvazim|הברווז שוחה.|The duck is swimming.
+n|גמל|gamal|camel|m|גמלים|gmalim|יש גמל במדבר.|There's a camel in the desert.
+n|דבורה|dvora|bee|f|דבורים|dvorim|הדבורה עושה דבש.|The bee makes honey.
+n|דוב|dov|bear|m|דובים|dubim|הדוב אוהב דבש.|The bear loves honey.
+n|זבוב|zvuv|fly|m|זבובים|zvuvim|יש זבוב במרק!|There's a fly in the soup!
+n|זנב|zanav|tail|m|זנבות|znavot|לכלב יש זנב ארוך.|The dog has a long tail.
+n|חזיר|khazir|pig|m|חזירים|khazirim|החזיר שמן.|The pig is fat.
+n|חיה|khaya|animal|f|חיות|khayot|איזו חיה אתה אוהב?|Which animal do you like?
+n|חיית מחמד|khayat makhmad|pet|f|חיות מחמד|khayot makhmad|יש לך חיית מחמד?|Do you have a pet?
+n|חמור|khamor|donkey|m|חמורים|khamorim|החמור הולך לאט.|The donkey walks slowly.
+n|חרק|kherek|insect|m|חרקים|kharakim|זה חרק קטן.|This is a small insect.
+n|חתול|khatul|cat|m|חתולים|khatulim|החתול ישן.|The cat is sleeping.
+n|ינשוף|yanshuf|owl|m|ינשופים|yanshufim|הינשוף ער בלילה.|The owl is awake at night.
+n|נחש|nakhash|snake|m|נחשים|nekhashim|הנחש ארוך.|The snake is long.
+n|נשר|nesher|eagle|m|נשרים|nesharim|הנשר גבוה בשמיים.|The eagle is high in the sky.
+n|סוס|sus|horse|m|סוסים|susim|הסוס רץ מהר.|The horse runs fast.
+n|סרטן|sartan|crab, cancer|m|סרטנים|sartanim|הסרטן על החול.|The crab is on the sand.
+n|עכביש|akavish|spider|m|עכבישים|akavishim|יש עכביש על הקיר.|There's a spider on the wall.
+n|עכבר|akhbar|mouse|m|עכברים|akhbarim|החתול רואה עכבר.|The cat sees a mouse.
+n|פיל|pil|elephant|m|פילים|pilim|הפיל ענק.|The elephant is huge.
+n|פרה|para|cow|f|פרות|parot|הפרה נותנת חלב.|The cow gives milk.
+n|צב|tsav|turtle, tortoise|m|צבים|tsabim|הצב איטי.|The turtle is slow.
+n|ציפור|tsipor|bird|f|ציפורים|tsiporim|הציפור שרה.|The bird sings.
+n|קוף|kof|monkey|m|קופים|kofim|הקוף אוכל בננה.|The monkey eats a banana.
+n|תרנגול|tarnegol|rooster|m|תרנגולים|tarnegolim|התרנגול קורא בבוקר.|The rooster calls in the morning.
+
+@unit 10|Form the plural
+n|חתולה|khatula|cat (female)|f|חתולות|khatulot|החתולה שותה חלב.|The (female) cat drinks milk.
+n|כלבה|kalba|dog (female)|f|כלבות|klavot|הכלבה שלי חכמה.|My (female) dog is smart.
+n|סוסה|susa|mare|f|סוסות|susot|הסוסה יפה.|The mare is beautiful.
+n|ברווזה|barvaza|duck (female)|f|ברווזות|barvazot|הברווזה במים.|The (female) duck is in the water.

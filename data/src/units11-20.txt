@@ -1,0 +1,207 @@
+@unit 11|Form the possessive
+p|של|shel|of, belonging to|שלי,שלך,שלך,שלו,שלה,שלנו,שלכם,שלכן,שלהם,שלהן|sheli,shelkha,shelakh,shelo,shela,shelanu,shelakhem,shelakhen,shelahem,shelahen|הספר שלי על השולחן.|My book is on the table.
+v|לשיר|lashir|ש-י-ר|paal|שר,שרה,שרים,שרות|shar,shara,sharim,sharot|to sing|היא שרה יפה.|She sings beautifully.
+
+@unit 12|Describe locations
+a|איטי,איטית,איטיים,איטיות|iti,itit,iti'im,iti'ot|slow|הצב איטי.|The turtle is slow.
+a|ארוך,ארוכה,ארוכים,ארוכות|arokh,aruka,arukim,arukot|long|זאת דרך ארוכה.|This is a long road.
+a|גבוה,גבוהה,גבוהים,גבוהות|gavo'ah,gvoha,gvohim,gvohot|tall, high|הבניין גבוה.|The building is tall.
+a|גדול,גדולה,גדולים,גדולות|gadol,gdola,gdolim,gdolot|big, large|יש לנו בית גדול.|We have a big house.
+a|חדש,חדשה,חדשים,חדשות|khadash,khadasha,khadashim,khadashot|new|זה ספר חדש.|This is a new book.
+a|יבש,יבשה,יבשים,יבשות|yavesh,yevesha,yeveshim,yeveshot|dry|הבגדים יבשים.|The clothes are dry.
+a|ישן,ישנה,ישנים,ישנות|yashan,yeshana,yeshanim,yeshanot|old (things)|זאת מכונית ישנה.|This is an old car.
+a|מהיר,מהירה,מהירים,מהירות|mahir,mehira,mehirim,mehirot|fast, quick|הסוס מהיר.|The horse is fast.
+a|מלא,מלאה,מלאים,מלאות|male,mele'a,mele'im,mele'ot|full|הכוס מלאה.|The glass is full.
+a|נמוך,נמוכה,נמוכים,נמוכות|namukh,nemukha,nemukhim,nemukhot|low, short (height)|השולחן נמוך.|The table is low.
+a|קטן,קטנה,קטנים,קטנות|katan,ktana,ktanim,ktanot|small, little|יש לי כלב קטן.|I have a small dog.
+a|קצר,קצרה,קצרים,קצרות|katsar,ktsara,ktsarim,ktsarot|short (length)|השמלה קצרה.|The dress is short.
+a|קר,קרה,קרים,קרות|kar,kara,karim,karot|cold|המים קרים.|The water is cold.
+a|קרוב,קרובה,קרובים,קרובות|karov,krova,krovim,krovot|near, close|הבית קרוב.|The house is close.
+a|רחוק,רחוקה,רחוקים,רחוקות|rakhok,rekhoka,rekhokim,rekhokot|far|העיר רחוקה.|The city is far.
+a|רטוב,רטובה,רטובים,רטובות|ratuv,retuva,retuvim,retuvot|wet|הכלב רטוב.|The dog is wet.
+a|ריק,ריקה,ריקים,ריקות|rek,reka,rekim,rekot|empty|הבקבוק ריק.|The bottle is empty.
+v|לישון|lishon|י-ש-ן|paal|ישן,ישנה,ישנים,ישנות|yashen,yeshena,yeshenim,yeshenot|to sleep|התינוק ישן.|The baby is sleeping.
+
+@unit 13|Use object pronouns
+p|את (אות-)|et|(marks a definite direct object)|אותי,אותך,אותך,אותו,אותה,אותנו,אתכם,אתכן,אותם,אותן|oti,otkha,otakh,oto,ota,otanu,etkhem,etkhen,otam,otan|אני רואה אותו.|I see him.
+a|צריך,צריכה,צריכים,צריכות|tsarikh,tsrikha,tsrikhim,tsrikhot|need, must|אני צריך מים.|I need water.
+
+@unit 14|Order at a restaurant
+n|אבוקדו|avokado|avocado|m|-|-|אני אוהב אבוקדו.|I like avocado.
+n|אבטיח|avati'akh|watermelon|m|אבטיחים|avatikhim|האבטיח מתוק.|The watermelon is sweet.
+n|ארוחה|arukha|meal|f|ארוחות|arukhot|זאת ארוחה טובה.|This is a good meal.
+n|בוטן|boten|peanut|m|בוטנים|botnim|יש בוטנים בסלט.|There are peanuts in the salad.
+n|בצל|batsal|onion|m|בצלים|btsalim|אני חותך בצל.|I'm cutting an onion.
+n|גזר|gezer|carrot|m|גזרים|gzarim|הארנב אוכל גזר.|The rabbit eats a carrot.
+n|גלידה|glida|ice cream|f|גלידות|glidot|הילדים רוצים גלידה.|The kids want ice cream.
+n|דבש|dvash|honey|m|-|-|תה עם דבש.|Tea with honey.
+n|דובדבן|duvdevan|cherry|m|דובדבנים|duvdevanim|הדובדבנים אדומים.|The cherries are red.
+n|טעם|ta'am|taste, flavor|m|טעמים|te'amim|יש לזה טעם טוב.|This has a good taste.
+n|ירק|yerek|vegetable|m|ירקות|yerakot|אני אוכל הרבה ירקות.|I eat a lot of vegetables.
+n|כוס|kos|glass, cup|f|כוסות|kosot|כוס מים, בבקשה.|A glass of water, please.
+n|כף|kaf|spoon|f|כפות|kapot|אני אוכל מרק עם כף.|I eat soup with a spoon.
+n|כפית|kapit|teaspoon|f|כפיות|kapiyot|כפית סוכר, בבקשה.|A teaspoon of sugar, please.
+n|מזלג|mazleg|fork|m|מזלגות|mazlegot|איפה המזלג?|Where is the fork?
+n|מטבח|mitbakh|kitchen, cuisine|m|מטבחים|mitbakhim|אמא במטבח.|Mom is in the kitchen.
+n|מלפפון|melafefon|cucumber|m|מלפפונים|melafefonim|סלט עם מלפפון ועגבנייה.|Salad with cucumber and tomato.
+n|ממתק|mamtak|candy, sweet|m|ממתקים|mamtakim|הילד אוהב ממתקים.|The boy loves candy.
+n|מנגו|mango|mango|m|-|-|המנגו מתוק מאוד.|The mango is very sweet.
+n|מסטיק|mastik|chewing gum|m|מסטיקים|mastikim|יש לך מסטיק?|Do you have gum?
+n|מסעדה|mis'ada|restaurant|f|מסעדות|mis'adot|המסעדה הזאת טובה.|This restaurant is good.
+n|מפית|mapit|napkin|f|מפיות|mapiyot|אפשר מפית?|Can I have a napkin?
+n|משקה|mashke|drink, beverage|m|משקאות|mashka'ot|איזה משקה אתה רוצה?|Which drink do you want?
+n|מתכון|matkon|recipe|m|מתכונים|matkonim|זה מתכון של סבתא.|This is grandma's recipe.
+n|סיר|sir|pot|m|סירים|sirim|המרק בסיר.|The soup is in the pot.
+n|סכין|sakin|knife|f|סכינים|sakinim|הסכין חדה.|The knife is sharp.
+n|עוגייה|ugiya|cookie|f|עוגיות|ugiyot|אפשר עוגייה?|Can I have a cookie?
+n|ענב|enav|grape|m|ענבים|anavim|הענבים ירוקים.|The grapes are green.
+n|פלפל|pilpel|pepper|m|פלפלים|pilpelim|הפלפל חריף.|The pepper is hot.
+n|קמח|kemakh|flour|m|-|-|צריך קמח לעוגה.|You need flour for the cake.
+n|קערה|ke'ara|bowl|f|קערות|ke'arot|הסלט בקערה.|The salad is in the bowl.
+n|רוטב|rotev|sauce|m|רטבים|rtavim|פסטה עם רוטב עגבניות.|Pasta with tomato sauce.
+n|ריבה|riba|jam|f|ריבות|ribot|לחם עם ריבה.|Bread with jam.
+n|ריח|re'akh|smell|m|ריחות|reykhot|יש ריח טוב במטבח.|There's a good smell in the kitchen.
+n|שום|shum|garlic|m|-|-|יש שום ברוטב.|There's garlic in the sauce.
+n|תה|te|tea|m|-|-|אני שותה תה.|I drink tea.
+n|תפוח אדמה|tapu'akh adama|potato|m|תפוחי אדמה|tapukhey adama|אני אוהב תפוחי אדמה.|I like potatoes.
+n|תפריט|tafrit|menu|m|תפריטים|tafritim|אפשר תפריט, בבקשה?|Can I have a menu, please?
+a|חריף,חריפה,חריפים,חריפות|kharif,kharifa,kharifim,kharifot|spicy, hot|האוכל חריף מדי.|The food is too spicy.
+a|מלוח,מלוחה,מלוחים,מלוחות|malu'akh,melukha,melukhim,melukhot|salty|המרק מלוח.|The soup is salty.
+a|מר,מרה,מרים,מרות|mar,mara,marim,marot|bitter|הקפה מר.|The coffee is bitter.
+a|צמא,צמאה,צמאים,צמאות|tsame,tsme'a,tsme'im,tsme'ot|thirsty|אני צמא.|I'm thirsty.
+a|צמחוני,צמחונית,צמחוניים,צמחוניות|tsimkhoni,tsimkhonit,tsimkhoniyim,tsimkhoniyot|vegetarian|אני צמחונית.|I'm a vegetarian. (f)
+v|לבשל|levashel|ב-ש-ל|piel|מבשל,מבשלת,מבשלים,מבשלות|mevashel,mevashelet,mevashlim,mevashlot|to cook|אבא מבשל ארוחת ערב.|Dad is cooking dinner.
+
+@unit 15|Discuss clothes
+n|בגד|beged|piece of clothing|m|בגדים|bgadim|הבגדים על המיטה.|The clothes are on the bed.
+n|בגד ים|beged yam|swimsuit|m|בגדי ים|bigdey yam|איפה בגד הים שלי?|Where is my swimsuit?
+n|ג'ינס|jins|jeans|m|-|-|אני לובש ג'ינס.|I'm wearing jeans.
+n|גרב|gerev|sock|m|גרביים|garbayim|איפה הגרב השנייה?|Where is the other sock?
+n|ז'קט|zhaket|jacket|m|ז'קטים|zhaketim|הז'קט חם.|The jacket is warm.
+n|חגורה|khagora|belt|f|חגורות|khagorot|החגורה שחורה.|The belt is black.
+n|חולצה|khultsa|shirt|f|חולצות|khultsot|זאת חולצה יפה.|This is a nice shirt.
+n|חליפה|khalifa|suit|f|חליפות|khalifot|הוא לובש חליפה.|He's wearing a suit.
+n|חצאית|khatsa'it|skirt|f|חצאיות|khatsa'iyot|החצאית קצרה.|The skirt is short.
+n|טבעת|taba'at|ring|f|טבעות|taba'ot|זאת טבעת זהב.|This is a gold ring.
+n|כובע|kova|hat|m|כובעים|kova'im|הכובע גדול מדי.|The hat is too big.
+n|כיס|kis|pocket|m|כיסים|kisim|המפתח בכיס.|The key is in the pocket.
+n|כפפה|kfafa|glove|f|כפפות|kfafot|הכפפות חמות.|The gloves are warm.
+n|מכנסיים|mikhnasayim|pants, trousers|m|-|-|המכנסיים ארוכים.|The pants are long.
+n|מעיל|me'il|coat|m|מעילים|me'ilim|קר, אני צריך מעיל.|It's cold, I need a coat.
+n|משקפי שמש|mishkefey shemesh|sunglasses|m|-|-|איפה משקפי השמש שלי?|Where are my sunglasses?
+n|משקפיים|mishkafayim|glasses|m|-|-|אני לא רואה בלי משקפיים.|I can't see without glasses.
+n|נעל|na'al|shoe|f|נעליים|na'alayim|הנעליים חדשות.|The shoes are new.
+n|סוודר|sveder|sweater|m|סוודרים|svederim|הסוודר כחול.|The sweater is blue.
+n|עניבה|aniva|tie|f|עניבות|anivot|העניבה אדומה.|The tie is red.
+n|צמיד|tsamid|bracelet|m|צמידים|tsmidim|זה צמיד יפה.|That's a pretty bracelet.
+n|צעיף|tsa'if|scarf|m|צעיפים|tse'ifim|הצעיף ארוך.|The scarf is long.
+n|שמלה|simla|dress|f|שמלות|smalot|השמלה יפה מאוד.|The dress is very beautiful.
+n|שרשרת|sharsheret|necklace, chain|f|שרשראות|sharshera'ot|השרשרת של אמא.|The necklace is mom's.
+n|תחפושת|takhposet|costume|f|תחפושות|takhposot|יש לי תחפושת לפורים.|I have a costume for Purim.
+n|תכשיט|takhshit|piece of jewelry|m|תכשיטים|takhshitim|היא אוהבת תכשיטים.|She loves jewelry.
+v|לשים|lasim|ש-י-ם|paal|שם,שמה,שמים,שמות|sam,sama,samim,samot|to put, to place|אני שם את הספר על השולחן.|I put the book on the table.
+
+@unit 16|Form verbs in the present
+v|לברוח|livro'akh|ב-ר-ח|paal|בורח,בורחת,בורחים,בורחות|bore'akh,borakhat,borkhim,borkhot|to run away, to flee|העכבר בורח מהחתול.|The mouse runs away from the cat.
+v|לגעת|laga'at|נ-ג-ע|paal|נוגע,נוגעת,נוגעים,נוגעות|noge'a,noga'at,nog'im,nog'ot|to touch|הילד נוגע בכלב.|The boy touches the dog.
+v|לדעת|lada'at|י-ד-ע|paal|יודע,יודעת,יודעים,יודעות|yode'a,yoda'at,yod'im,yod'ot|to know|אני לא יודע.|I don't know.
+v|לומר|lomar|א-מ-ר|paal|אומר,אומרת,אומרים,אומרות|omer,omeret,omrim,omrot|to say, to tell|מה הוא אומר?|What is he saying?
+v|לזכור|lizkor|ז-כ-ר|paal|זוכר,זוכרת,זוכרים,זוכרות|zokher,zokheret,zokhrim,zokhrot|to remember|את זוכרת אותי?|Do you remember me? (f)
+v|לחזור|lakhzor|ח-ז-ר|paal|חוזר,חוזרת,חוזרים,חוזרות|khozer,khozeret,khozrim,khozrot|to return, to go back|הוא חוזר הביתה בערב.|He returns home in the evening.
+v|לחשוב|lakhshov|ח-ש-ב|paal|חושב,חושבת,חושבים,חושבות|khoshev,khoshevet,khoshvim,khoshvot|to think|מה אתה חושב?|What do you think?
+v|לחתוך|lakhtokh|ח-ת-כ|paal|חותך,חותכת,חותכים,חותכות|khotekh,khotekhet,khotkhim,khotkhot|to cut|היא חותכת עגבנייה.|She is cutting a tomato.
+v|לכתוב|likhtov|כ-ת-ב|paal|כותב,כותבת,כותבים,כותבות|kotev,kotevet,kotvim,kotvot|to write|אני כותב ספר.|I'm writing a book.
+v|ללמוד|lilmod|ל-מ-ד|paal|לומד,לומדת,לומדים,לומדות|lomed,lomedet,lomdim,lomdot|to learn, to study|אנחנו לומדים עברית.|We are learning Hebrew.
+v|למצוא|limtso|מ-צ-א|paal|מוצא,מוצאת,מוצאים,מוצאות|motse,motset,mots'im,mots'ot|to find|אני לא מוצא את המפתח.|I can't find the key.
+v|לסגור|lisgor|ס-ג-ר|paal|סוגר,סוגרת,סוגרים,סוגרות|soger,sogeret,sogrim,sogrot|to close, to shut|היא סוגרת את הדלת.|She closes the door.
+v|לעבוד|la'avod|ע-ב-ד|paal|עובד,עובדת,עובדים,עובדות|oved,ovedet,ovdim,ovdot|to work|איפה אתה עובד?|Where do you work?
+v|לעזוב|la'azov|ע-ז-ב|paal|עוזב,עוזבת,עוזבים,עוזבות|ozev,ozevet,ozvim,ozvot|to leave|הם עוזבים מחר.|They are leaving tomorrow.
+v|לעזור|la'azor|ע-ז-ר|paal|עוזר,עוזרת,עוזרים,עוזרות|ozer,ozeret,ozrim,ozrot|to help|אני עוזרת לאמא.|I'm helping mom. (f)
+v|לענות|la'anot|ע-נ-ה|paal|עונה,עונה,עונים,עונות|one,ona,onim,onot|to answer|הוא לא עונה לטלפון.|He isn't answering the phone.
+v|לעשות|la'asot|ע-ש-ה|paal|עושה,עושה,עושים,עושות|ose,osa,osim,osot|to do, to make|מה את עושה?|What are you doing? (f)
+v|לפתוח|liftoakh|פ-ת-ח|paal|פותח,פותחת,פותחים,פותחות|pote'akh,potakhat,potkhim,potkhot|to open|הוא פותח את החלון.|He opens the window.
+v|לקחת|lakakhat|ל-ק-ח|paal|לוקח,לוקחת,לוקחים,לוקחות|loke'akh,lokakhat,lokkhim,lokkhot|to take|אני לוקח את הספר.|I'm taking the book.
+v|לקנות|liknot|ק-נ-ה|paal|קונה,קונה,קונים,קונות|kone,kona,konim,konot|to buy|אנחנו קונים לחם.|We're buying bread.
+v|לרוץ|larutz|ר-ו-צ|paal|רץ,רצה,רצים,רצות|rats,ratsa,ratsim,ratsot|to run|הכלב רץ בגינה.|The dog runs in the garden.
+v|לשבור|lishbor|ש-ב-ר|paal|שובר,שוברת,שוברים,שוברות|shover,shoveret,shovrim,shovrot|to break|הילד שובר את הכוס.|The boy breaks the glass.
+v|לשחות|liskhot|ש-ח-ה|paal|שוחה,שוחה,שוחים,שוחות|sokhe,sokha,sokhim,sokhot|to swim|אנחנו שוחים בים.|We're swimming in the sea.
+v|לשכוח|lishko'akh|ש-כ-ח|paal|שוכח,שוכחת,שוכחים,שוכחות|shokhe'akh,shokhakhat,shokhkhim,shokhkhot|to forget|אני תמיד שוכח את המפתח.|I always forget the key.
+v|לשמוע|lishmo'a|ש-מ-ע|paal|שומע,שומעת,שומעים,שומעות|shome'a,shoma'at,shom'im,shom'ot|to hear|את שומעת את הציפור?|Do you hear the bird? (f)
+v|לשקול|lishkol|ש-ק-ל|paal|שוקל,שוקלת,שוקלים,שוקלות|shokel,shokelet,shoklim,shoklot|to weigh, to consider|הוא שוקל את הבשר.|He is weighing the meat.
+v|לתת|latet|נ-ת-ן|paal|נותן,נותנת,נותנים,נותנות|noten,notenet,notnim,notnot|to give|אמא נותנת לי עוגייה.|Mom gives me a cookie.
+
+@unit 17|Discuss colors
+n|צבע|tseva|color, paint|m|צבעים|tsva'im|איזה צבע אתה אוהב?|Which color do you like?
+a|אדום,אדומה,אדומים,אדומות|adom,aduma,adumim,adumot|red|התות אדום.|The strawberry is red.
+a|ורוד,ורודה,ורודים,ורודות|varod,veruda,verudim,verudot|pink|השמלה ורודה.|The dress is pink.
+a|חום,חומה,חומים,חומות|khum,khuma,khumim,khumot|brown|הדוב חום.|The bear is brown.
+a|ירוק,ירוקה,ירוקים,ירוקות|yarok,yeruka,yerukim,yerukot|green|המלפפון ירוק.|The cucumber is green.
+a|כחול,כחולה,כחולים,כחולות|kakhol,kekhula,kekhulim,kekhulot|blue|הים כחול.|The sea is blue.
+a|כתום,כתומה,כתומים,כתומות|katom,ktuma,ktumim,ktumot|orange (color)|הגזר כתום.|The carrot is orange.
+a|לבן,לבנה,לבנים,לבנות|lavan,levana,levanim,levanot|white|החלב לבן.|The milk is white.
+a|סגול,סגולה,סגולים,סגולות|sagol,sgula,sgulim,sgulot|purple|הענבים סגולים.|The grapes are purple.
+a|צבעוני,צבעונית,צבעוניים,צבעוניות|tsiv'oni,tsiv'onit,tsiv'oniyim,tsiv'oniyot|colorful|הציפור צבעונית.|The bird is colorful.
+a|צהוב,צהובה,צהובים,צהובות|tsahov,tsehuba,tsehubim,tsehubot|yellow|הבננה צהובה.|The banana is yellow.
+a|שחור,שחורה,שחורים,שחורות|shakhor,shkhora,shkhorim,shkhorot|black|החתול שחור.|The cat is black.
+v|לצבוע|litsbo'a|צ-ב-ע|paal|צובע,צובעת,צובעים,צובעות|tsove'a,tsova'at,tsov'im,tsov'ot|to paint, to color|אנחנו צובעים את הקיר.|We're painting the wall.
+
+@unit 18|Express actions with objects
+p|עם (את-)|im|with|איתי,איתך,איתך,איתו,איתה,איתנו,איתכם,איתכן,איתם,איתן|iti,itkha,itakh,ito,ita,itanu,itkhem,itkhen,itam,itan|אתה בא איתי?|Are you coming with me?
+p|ב|be|in, at|בי,בך,בך,בו,בה,בנו,בכם,בכן,בהם,בהן|bi,bekha,bakh,bo,ba,banu,bakhem,bakhen,bahem,bahen|יש בה הרבה אהבה.|There is a lot of love in her.
+p|בשביל|bishvil|for|בשבילי,בשבילך,בשבילך,בשבילו,בשבילה,בשבילנו,בשבילכם,בשבילכן,בשבילם,בשבילן|bishvili,bishvilkha,bishvilekh,bishvilo,bishvila,bishvilenu,bishvilkhem,bishvilkhen,bishvilam,bishvilan|העוגה הזאת בשבילך.|This cake is for you.
+p|בתוך|betokh|inside, within|בתוכי,בתוכך,בתוכך,בתוכו,בתוכה,בתוכנו,בתוככם,בתוככן,בתוכם,בתוכן|betokhi,betokhekha,betokhekh,betokho,betokha,betokhenu,betokhakhem,betokhakhen,betokham,betokhan|המפתח בתוך התיק.|The key is inside the bag.
+p|ליד|leyad|next to, beside|לידי,לידך,לידך,לידו,לידה,לידנו,לידכם,לידכן,לידם,לידן|leyadi,leyadkha,leyadekh,leyado,leyada,leyadenu,leyadkhem,leyadkhen,leyadam,leyadan|הכלב ישן לידי.|The dog sleeps next to me.
+p|מן (מ-)|min|from, than|ממני,ממך,ממך,ממנו,ממנה,מאיתנו,מכם,מכן,מהם,מהן|mimeni,mimkha,mimekh,mimeno,mimena,me'itanu,mikem,miken,mehem,mehen|הוא גבוה ממני.|He is taller than me.
+p|נגד|neged|against|נגדי,נגדך,נגדך,נגדו,נגדה,נגדנו,נגדכם,נגדכן,נגדם,נגדן|negdi,negdekha,negdekh,negdo,negda,negdenu,negdekhem,negdekhen,negdam,negdan|כולם נגדי!|Everyone is against me!
+
+@unit 19|Describe amounts
+x|num|אפס|efes|zero|אפס מעלות בחוץ.|Zero degrees outside.
+x|num|אחד / אחת|ekhad / akhat|one (m / f)|יש לי ילד אחד וילדה אחת.|I have one boy and one girl.
+x|num|שניים / שתיים|shnayim / shtayim|two (m / f)|שני ספרים ושתי עוגות.|Two books and two cakes.
+x|num|שלושה / שלוש|shlosha / shalosh|three (m / f)|שלושה כלבים ושלוש פרות.|Three dogs and three cows.
+x|num|ארבעה / ארבע|arba'a / arba|four (m / f)|ארבעה ילדים.|Four children.
+x|num|חמישה / חמש|khamisha / khamesh|five (m / f)|חמש דקות.|Five minutes.
+x|num|שישה / שש|shisha / shesh|six (m / f)|שש בבוקר.|Six in the morning.
+x|num|שבעה / שבע|shiv'a / sheva|seven (m / f)|שבעה ימים בשבוע.|Seven days in a week.
+x|num|שמונה / שמונה|shmona / shmone|eight (m / f)|שמונה שעות.|Eight hours.
+x|num|תשעה / תשע|tish'a / tesha|nine (m / f)|תשע בערב.|Nine in the evening.
+x|num|עשרה / עשר|asara / eser|ten (m / f)|עשרה שקלים.|Ten shekels.
+x|num|אחד עשר / אחת עשרה|akhad asar / akhat esre|eleven (m / f)|אחת עשרה שנים.|Eleven years.
+x|num|שנים עשר / שתים עשרה|shneym asar / shteym esre|twelve (m / f)|שנים עשר חודשים.|Twelve months.
+x|num|שלושה עשר / שלוש עשרה|shlosha asar / shlosh esre|thirteen (m / f)|היא בת שלוש עשרה.|She is thirteen.
+x|num|ארבעה עשר / ארבע עשרה|arba'a asar / arba esre|fourteen (m / f)|ארבעה עשר ספרים.|Fourteen books.
+x|num|חמישה עשר / חמש עשרה|khamisha asar / khamesh esre|fifteen (m / f)|חמש עשרה דקות.|Fifteen minutes.
+x|num|שישה עשר / שש עשרה|shisha asar / shesh esre|sixteen (m / f)|הוא בן שישה עשר.|He is sixteen.
+x|num|שבעה עשר / שבע עשרה|shiv'a asar / shva esre|seventeen (m / f)|שבע עשרה שנים.|Seventeen years.
+x|num|שמונה עשר / שמונה עשרה|shmona asar / shmone esre|eighteen (m / f)|שמונה עשר ילדים.|Eighteen children.
+x|num|תשעה עשר / תשע עשרה|tish'a asar / tsha esre|nineteen (m / f)|תשע עשרה שנים.|Nineteen years.
+x|num|עשרים|esrim|twenty|עשרים שקלים.|Twenty shekels.
+x|adv|הרבה|harbe|a lot, many|יש הרבה אנשים.|There are a lot of people.
+x|adv|יותר|yoter|more|אני רוצה יותר.|I want more.
+x|adv|פחות|pakhot|less, minus|פחות סוכר, בבקשה.|Less sugar, please.
+x|adv|מדי|midai|too (much)|זה יקר מדי.|That's too expensive.
+n|מספר|mispar|number|m|מספרים|misparim|מה מספר הטלפון שלך?|What's your phone number?
+v|לספור|lispor|ס-פ-ר|paal|סופר,סופרת,סופרים,סופרות|sofer,soferet,sofrim,sofrot|to count|הילד סופר עד עשר.|The boy counts to ten.
+
+@unit 20|Ask questions
+x|q|מה|ma|what|מה זה?|What is this?
+x|q|מי|mi|who|מי זה?|Who is that?
+x|q|איפה|eyfo|where|איפה הכלב?|Where is the dog?
+x|q|מאיפה|me'eyfo|where from|מאיפה אתה?|Where are you from?
+x|q|לאן|le'an|where to|לאן אתה הולך?|Where are you going?
+x|q|מתי|matay|when|מתי אתה בא?|When are you coming?
+x|q|למה|lama|why|למה את עצובה?|Why are you sad? (f)
+x|q|איך|eykh|how|איך אומרים את זה בעברית?|How do you say this in Hebrew?
+x|q|כמה|kama|how much, how many; a few|כמה זה עולה?|How much does it cost?
+x|q|איזה / איזו|eyze / eyzo|which (m / f)|איזו עוגה את רוצה?|Which cake do you want? (f)
+x|q|אילו|eylu|which (pl.)|אילו ספרים יש לך?|Which books do you have?
+x|q|למי|lemi|to whom, whose (have)|למי יש עט?|Who has a pen?
+x|q|של מי|shel mi|whose|של מי הכלב הזה?|Whose dog is this?
+x|q|עם מי|im mi|with whom|עם מי אתה הולך?|Who are you going with?
+x|q|את מי|et mi|whom|את מי אתה רואה?|Whom do you see?
+x|q|ממי|mimi|from whom|ממי המכתב?|Who is the letter from?
+x|q|בשביל מה|bishvil ma|what for|בשביל מה זה?|What is this for?
+x|q|באיזה|be'eyze|in which|באיזה בית אתה גר?|Which house do you live in?
+n|שאלה|she'ela|question|f|שאלות|she'elot|יש לי שאלה.|I have a question.
+n|תשובה|tshuva|answer|f|תשובות|tshuvot|זאת תשובה טובה.|That's a good answer.
+v|לשאול|lishol|ש-א-ל|paal|שואל,שואלת,שואלים,שואלות|sho'el,sho'elet,sho'alim,sho'alot|to ask|הילד שואל הרבה שאלות.|The boy asks a lot of questions.
