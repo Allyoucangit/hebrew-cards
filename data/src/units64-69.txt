@@ -1,0 +1,124 @@
+@unit 64|Refer to the news
+n|אוצר מילים|otsar milim|vocabulary|m|-|-|יש לו אוצר מילים עשיר.|He has a rich vocabulary.
+n|ארגז כלים|argaz kelim|toolbox|m|ארגזי כלים|argazey kelim|הפטיש בארגז הכלים.|The hammer is in the toolbox.
+n|בית מלאכה|beyt melakha|workshop|m|בתי מלאכה|batey melakha|הוא עובד בבית מלאכה.|He works in a workshop.
+n|הפסקת אוכל|hafsakat okhel|lunch break|f|הפסקות אוכל|hafsakot okhel|יש לי הפסקת אוכל בשתיים.|I have a lunch break at two.
+n|חגורת בטיחות|khagorat betikhut|seat belt|f|חגורות בטיחות|khagorot betikhut|תשים חגורת בטיחות!|Put on your seat belt!
+n|כלי נשק|kley neshek|weapon(s)|m|-|-|אסור להביא כלי נשק.|It's forbidden to bring weapons.
+n|מברשת שיניים|mivreshet shinayim|toothbrush|f|מברשות שיניים|mivrashot shinayim|איפה מברשת השיניים שלי?|Where's my toothbrush?
+n|משחת שיניים|mishkhat shinayim|toothpaste|f|-|-|נגמרה משחת השיניים.|We're out of toothpaste.
+n|נהג מונית|nahag monit|taxi driver|m|נהגי מונית|nahagey monit|נהג המונית נחמד.|The taxi driver is nice.
+n|מונית|monit|taxi|f|מוניות|moniyot|בוא ניקח מונית.|Let's take a taxi.
+n|סכין גילוח|sakin gilu'akh|razor|f|סכיני גילוח|sakiney gilu'akh|אני צריך סכין גילוח חדשה.|I need a new razor.
+n|עוגת יום הולדת|ugat yom huledet|birthday cake|f|עוגות יום הולדת|ugot yom huledet|אמא אופה עוגת יום הולדת.|Mom is baking a birthday cake.
+n|ראש ממשלה|rosh memshala|prime minister|m|ראשי ממשלה|rashey memshala|ראש הממשלה מדבר בטלוויזיה.|The prime minister is speaking on TV.
+n|שומר ראש|shomer rosh|bodyguard|m|שומרי ראש|shomrey rosh|יש לו שומר ראש.|He has a bodyguard.
+n|תיבת דואר|tevat do'ar|mailbox|f|תיבות דואר|tevot do'ar|יש מכתב בתיבת הדואר.|There's a letter in the mailbox.
+n|פסק זמן|pesek zman|timeout, break|m|-|-|אני צריך פסק זמן.|I need a break.
+n|פניית פרסה|pniyat parsa|U-turn|f|פניות פרסה|pniyot parsa|תעשה פניית פרסה.|Make a U-turn.
+n|תולעת ספרים|tola'at sfarim|bookworm|f|-|-|היא תולעת ספרים.|She's a bookworm.
+n|שעון עצר|sha'on etser|stopwatch|m|-|-|יש לך שעון עצר?|Do you have a stopwatch?
+
+@unit 65|Say what could have been
+x|cond|אילו / לו|ilu / lu|if (unreal, hypothetical)|אילו היה לי זמן, הייתי בא.|If I had time, I would come.
+x|cond|אילולא / לולא|ilule / lule|if not for, were it not for|לולא הגשם, היינו הולכים לים.|If not for the rain, we'd go to the beach.
+x|cond|הייתי …|hayiti …|I would … (with present form: הייתי הולך)|הייתי שמח לבוא.|I'd be happy to come.
+x|cond|היה יכול|haya yakhol|could have|הוא היה יכול לעזור.|He could have helped.
+x|cond|היה צריך|haya tsarikh|should have, had to|היה צריך לשאול.|You should have asked.
+
+@unit 66|Describe body parts
+n|גוף|guf|body|m|גופים|gufim|הגוף צריך מנוחה.|The body needs rest.
+n|ראש|rosh|head|m|ראשים|rashim|כואב לי הראש.|I have a headache.
+n|פנים|panim|face (pl.)|f|-|-|יש לה פנים יפות.|She has a beautiful face.
+n|עין|ayin|eye|f|עיניים|eynayim|יש לו עיניים כחולות.|He has blue eyes.
+n|אוזן|ozen|ear|f|אוזניים|oznayim|כואבת לי האוזן.|My ear hurts.
+n|אף|af|nose|m|-|-|יש לו אף גדול.|He has a big nose.
+n|פה|pe|mouth|m|-|-|תפתח את הפה.|Open your mouth.
+n|שן|shen|tooth|f|שיניים|shinayim|אני מצחצח שיניים.|I brush my teeth.
+n|לשון|lashon|tongue; language|f|לשונות|leshonot|הכלב מוציא לשון.|The dog sticks out its tongue.
+n|שיער|se'ar|hair|m|-|-|יש לה שיער ארוך.|She has long hair.
+n|צוואר|tsavar|neck|m|צווארים|tsavarim|כואב לי הצוואר.|My neck hurts.
+n|גב|gav|back|m|-|-|כואב לי הגב.|My back hurts.
+n|חזה|khaze|chest|m|-|-|יש לי כאב בחזה.|I have chest pain.
+n|בטן|beten|stomach, belly|f|בטנים|btanim|כואבת לי הבטן.|I have a stomachache.
+n|יד|yad|hand; arm|f|ידיים|yadayim|תרים את היד.|Raise your hand.
+n|זרוע|zro'a|arm|f|זרועות|zro'ot|הוא שבר את הזרוע.|He broke his arm.
+n|מרפק|marpek|elbow|m|מרפקים|marpekim|נפלתי על המרפק.|I fell on my elbow.
+n|אצבע|etsba|finger|f|אצבעות|etsba'ot|יש לי חמש אצבעות.|I have five fingers.
+n|רגל|regel|leg; foot|f|רגליים|raglayim|כואבת לי הרגל.|My leg hurts.
+n|כף רגל|kaf regel|foot|f|כפות רגליים|kapot raglayim|כף הרגל שלי קרה.|My foot is cold.
+n|ברך|berekh|knee|f|ברכיים|birkayim|נפלתי על הברך.|I fell on my knee.
+n|לב|lev|heart|m|לבבות|levavot|יש לה לב טוב.|She has a good heart.
+n|מוח|mo'akh|brain|m|מוחות|mokhot|המוח עובד קשה.|The brain works hard.
+n|דם|dam|blood|m|-|-|יש דם על היד!|There's blood on the hand!
+n|עור|or|skin|m|-|-|העור שלי יבש.|My skin is dry.
+n|שריר|shrir|muscle|m|שרירים|shririm|כואבים לי השרירים.|My muscles hurt.
+n|גולגולת|gulgolet|skull|f|גולגולות|gulgolot|הגולגולת מגינה על המוח.|The skull protects the brain.
+n|איבר|ever|organ; limb|m|איברים|evarim|הלב הוא איבר חשוב.|The heart is an important organ.
+n|בריאות|bri'ut|health|f|-|-|לבריאות!|Bless you! (to health)
+n|רפואה|refu'a|medicine (field)|f|-|-|היא לומדת רפואה.|She studies medicine.
+n|מרפאה|mirpa'a|clinic|f|מרפאות|mirpa'ot|אני הולך למרפאה.|I'm going to the clinic.
+n|מטופל|metupal|patient|m|מטופלים|metupalim|הרופא מדבר עם המטופל.|The doctor talks with the patient.
+n|טיפול|tipul|treatment, care|m|טיפולים|tipulim|הוא צריך טיפול.|He needs treatment.
+n|מחלה|makhala|illness, disease|f|מחלות|makhalot|זאת מחלה קשה.|It's a serious illness.
+n|וירוס|virus|virus|m|וירוסים|virusim|יש לי וירוס.|I have a virus.
+n|כאב|ke'ev|pain|m|כאבים|ke'evim|יש לי כאב ראש.|I have a headache.
+n|לחץ|lakhats|pressure, stress|m|-|-|יש לי לחץ בעבודה.|I'm under pressure at work.
+n|לחץ דם|lakhats dam|blood pressure|m|-|-|הלחץ דם שלו גבוה.|His blood pressure is high.
+n|דיאטה|di'eta|diet|f|דיאטות|di'etot|אני בדיאטה.|I'm on a diet.
+n|תרופה|trufa|medicine, medication|f|תרופות|trufot|אני לוקח תרופה.|I'm taking medicine.
+n|סם|sam|drug|m|סמים|samim|סמים זה מסוכן.|Drugs are dangerous.
+n|חלום|khalom|dream|m|חלומות|khalomot|היה לי חלום מוזר.|I had a strange dream.
+n|לידה|leyda|birth|f|לידות|leydot|הלידה הייתה בבית חולים.|The birth was in a hospital.
+x|phrase|כואב לי …|ko'ev li …|my … hurts (m noun; f noun: כואבת לי)|כואב לי הראש.|I have a headache.
+
+@unit 67|Use the future tense
+v|למלא|lemale|מ-ל-א|piel|ממלא,ממלאת,ממלאים,ממלאות|memale,memalet,memal'im,memal'ot|to fill; to fill out|אני ממלא את הטופס.|I'm filling out the form.
+v|להצליח|lehatsli'akh|צ-ל-ח|hifil|מצליח,מצליחה,מצליחים,מצליחות|matsli'akh,matslikha,matslikhim,matslikhot|to succeed, to manage to|אני לא מצליח לישון.|I can't manage to sleep.
+x|future|אוכל / יוכל|ukhal / yukhal|I will be able / he will be able|מחר אוכל לבוא.|Tomorrow I'll be able to come.
+
+@unit 68|Talk about religion
+n|דת|dat|religion|f|דתות|datot|יש הרבה דתות בירושלים.|There are many religions in Jerusalem.
+n|אמונה|emuna|faith, belief|f|אמונות|emunot|יש לו אמונה חזקה.|He has a strong faith.
+n|אלוהים|elohim|God|m|-|-|הוא מאמין באלוהים.|He believes in God.
+n|תפילה|tfila|prayer|f|תפילות|tfilot|התפילה מתחילה בשבע.|The prayer starts at seven.
+n|נשמה|neshama|soul; sweetheart|f|נשמות|neshamot|תודה, נשמה!|Thanks, sweetheart!
+n|מלאך|mal'akh|angel|m|מלאכים|mal'akhim|את מלאך!|You're an angel!
+n|מקדש|mikdash|temple|m|מקדשים|mikdashim|זה מקדש עתיק.|It's an ancient temple.
+n|משיח|mashi'akh|messiah|m|-|-|הם מחכים למשיח.|They're waiting for the messiah.
+n|יהדות|yahadut|Judaism|f|-|-|הוא לומד על היהדות.|He's learning about Judaism.
+n|נצרות|natsrut|Christianity|f|-|-|הנצרות היא דת.|Christianity is a religion.
+n|אסלאם|islam|Islam|m|-|-|האסלאם היא דת.|Islam is a religion.
+a|יהודי,יהודייה,יהודים,יהודיות|yehudi,yehudiya,yehudim,yehudiyot|Jewish; a Jew|הוא יהודי.|He's Jewish.
+a|קדוש,קדושה,קדושים,קדושות|kadosh,kdosha,kdoshim,kdoshot|holy|ירושלים היא עיר קדושה.|Jerusalem is a holy city.
+a|רוחני,רוחנית,רוחניים,רוחניות|rukhani,rukhanit,rukhaniyim,rukhaniyot|spiritual|היא אדם רוחני.|She's a spiritual person.
+x|place|הכותל המערבי|hakotel hama'aravi|the Western Wall|אנחנו הולכים לכותל.|We're going to the Western Wall.
+x|place|הר הבית|har habayit|the Temple Mount|הר הבית בעיר העתיקה.|The Temple Mount is in the Old City.
+x|place|הר הזיתים|har hazeytim|the Mount of Olives|יש נוף יפה מהר הזיתים.|There's a beautiful view from the Mount of Olives.
+x|place|העיר העתיקה|ha'ir ha'atika|the Old City (Jerusalem)|אני מטייל בעיר העתיקה.|I'm walking around the Old City.
+
+@unit 69|Comment on art
+n|אמנות|omanut|art|f|-|-|אני אוהב אמנות מודרנית.|I love modern art.
+n|גלריה|galerya|gallery|f|גלריות|galeryot|יש תערוכה בגלריה.|There's an exhibition in the gallery.
+n|תערוכה|ta'arukha|exhibition|f|תערוכות|ta'arukhot|התערוכה מעניינת.|The exhibition is interesting.
+n|אוסף|osef|collection|m|אוספים|osfim|יש לו אוסף בולים.|He has a stamp collection.
+n|אופנה|ofna|fashion|f|-|-|היא עובדת באופנה.|She works in fashion.
+n|סגנון|signon|style|m|סגנונות|signonot|יש לה סגנון מיוחד.|She has a special style.
+n|איור|iyur|illustration|m|איורים|iyurim|יש איורים יפים בספר.|There are beautiful illustrations in the book.
+n|מכחול|mikhkhol|paintbrush|m|מכחולים|mikhkholim|הצייר מחזיק מכחול.|The painter holds a brush.
+n|צילום|tsilum|photography; photo|m|צילומים|tsilumim|הוא אוהב צילום.|He loves photography.
+n|מצלמה|matslema|camera|f|מצלמות|matslemot|יש לי מצלמה חדשה.|I have a new camera.
+n|צלם|tsalam|photographer|m|צלמים|tsalamim|הצלם מצלם את החתונה.|The photographer shoots the wedding.
+n|סרט|seret|movie, film|m|סרטים|sratim|בוא נראה סרט.|Let's watch a movie.
+n|תסריט|tasrit|script, screenplay|m|תסריטים|tasritim|הוא כותב תסריט.|He's writing a script.
+n|פסקול|paskol|soundtrack|m|פסקולים|paskolim|הפסקול של הסרט יפה.|The movie's soundtrack is beautiful.
+n|דמות|dmut|character (in a story)|f|דמויות|dmuyot|מי הדמות הראשית?|Who's the main character?
+n|תיאטרון|te'atron|theater|m|תיאטראות|te'atra'ot|אנחנו הולכים לתיאטרון.|We're going to the theater.
+n|במה|bama|stage|f|במות|bamot|השחקנים על הבמה.|The actors are on stage.
+n|מפיק|mefik|producer|m|מפיקים|mefikim|המפיק אוהב את הסרט.|The producer likes the film.
+n|סטודיו|studyo|studio|m|-|-|הם מקליטים בסטודיו.|They're recording in a studio.
+n|ריקוד|rikud|dance|m|ריקודים|rikudim|זה ריקוד ישראלי.|It's an Israeli dance.
+n|רקדן|rakdan|dancer|m|רקדנים|rakdanim|היא רקדנית מקצועית.|She's a professional dancer.
+n|ספרות|sifrut|literature|f|-|-|אני לומד ספרות.|I study literature.
+n|שירה|shira|poetry; singing|f|-|-|היא כותבת שירה.|She writes poetry.
+n|אולפן|ulpan|ulpan (Hebrew school); TV studio|m|אולפנים|ulpanim|אני לומד עברית באולפן.|I study Hebrew at an ulpan.

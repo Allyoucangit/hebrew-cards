@@ -1,0 +1,114 @@
+@unit 70|Use negative commands
+x|imp|אל + future|al …|don't …! (אל + future form)|אל תדאג!|Don't worry!
+x|imp|אל תדאג / אל תדאגי|al tid'ag / al tid'agi|don't worry (m / f)|אל תדאגי, הכל בסדר.|Don't worry, everything's fine.
+x|imp|אל תשכח / אל תשכחי|al tishkakh / al tishkekhi|don't forget (m / f)|אל תשכח את המפתח!|Don't forget the key!
+x|imp|אל תיגע / אל תיגעי|al tiga / al tig'i|don't touch (m / f)|אל תיגע בזה!|Don't touch that!
+x|imp|אל תפחד / אל תפחדי|al tefakhed / al tefakhadi|don't be afraid (m / f)|אל תפחד, הכלב נחמד.|Don't be afraid, the dog is nice.
+
+@unit 71|Discuss technology
+n|אינטרנט|internet|internet|m|-|-|אין אינטרנט בבית.|There's no internet at home.
+n|אתר|atar|website; site|m|אתרים|atarim|זה אתר טוב.|It's a good website.
+n|בלוג|blog|blog|m|בלוגים|blogim|היא כותבת בלוג.|She writes a blog.
+n|דפדפן|dafdefan|browser|m|דפדפנים|dafdefanim|תפתח את הדפדפן.|Open the browser.
+n|עמוד בית|amud bayit|homepage|m|עמודי בית|amudey bayit|זה עמוד הבית.|This is the homepage.
+n|חיפוש|khipus|search|m|חיפושים|khipusim|תעשה חיפוש בגוגל.|Do a Google search.
+n|הורדה|horada|download|f|הורדות|horadot|ההורדה איטית.|The download is slow.
+n|קובץ|kovets|file|m|קבצים|kvatsim|תשלח לי את הקובץ.|Send me the file.
+n|תוכנה|tokhna|software, program|f|תוכנות|tokhnot|אני משתמש בתוכנה חדשה.|I'm using new software.
+n|חומרה|khomra|hardware|f|-|-|יש בעיה בחומרה.|There's a hardware problem.
+n|באג|bag|bug (software)|m|באגים|bagim|יש באג באפליקציה.|There's a bug in the app.
+n|מחשב נייד|makhshev nayad|laptop|m|מחשבים ניידים|makhshevim nayadim|אני עובד על המחשב הנייד.|I work on the laptop.
+n|מתכנת|metakhnet|programmer|m|מתכנתים|metakhntim|הוא מתכנת.|He's a programmer.
+n|רובוט|robot|robot|m|רובוטים|robotim|הרובוט מנקה את הבית.|The robot cleans the house.
+n|רשת|reshet|network; net|f|רשתות|reshatot|הרשת לא עובדת.|The network isn't working.
+n|סיסמה|sisma|password|f|סיסמאות|sisma'ot|שכחתי את הסיסמה.|I forgot the password.
+n|מידע|meyda|information|m|-|-|אני צריך עוד מידע.|I need more information.
+n|נתונים|netunim|data (pl.)|m|-|-|הנתונים במחשב.|The data is on the computer.
+n|הודעה|hoda'a|message|f|הודעות|hoda'ot|קיבלתי הודעה.|I got a message.
+n|מייל|meyl|e-mail|m|מיילים|meylim|תשלח לי מייל.|Send me an e-mail.
+n|חדשות|khadashot|news (pl.)|f|-|-|אני רואה חדשות.|I'm watching the news.
+n|ערוץ|aruts|channel|m|ערוצים|arutsim|באיזה ערוץ?|On which channel?
+n|תקשורת|tikshoret|communication; media|f|-|-|הוא עובד בתקשורת.|He works in the media.
+n|בול|bul|stamp (postage)|m|בולים|bulim|אני צריך בול למכתב.|I need a stamp for the letter.
+n|גלויה|gluya|postcard|f|גלויות|gluyot|שלחתי לך גלויה.|I sent you a postcard.
+v|להדליק|lehadlik|ד-ל-ק|hifil|מדליק,מדליקה,מדליקים,מדליקות|madlik,madlika,madlikim,madlikot|to turn on; to light|אני מדליק את האור.|I'm turning on the light.
+v|לכבות|lekhabot|כ-ב-ה|piel|מכבה,מכבה,מכבים,מכבות|mekhabe,mekhaba,mekhabim,mekhabot|to turn off; to put out|תכבה את הטלוויזיה.|Turn off the TV.
+
+@unit 72|Use verbal nouns
+n|אימון|imun|training, workout|m|אימונים|imunim|יש לי אימון בערב.|I have training in the evening.
+n|בישול|bishul|cooking|m|-|-|אני אוהב בישול.|I love cooking.
+n|דרישה|drisha|demand, requirement|f|דרישות|drishot|זאת דרישה גבוהה.|It's a high requirement.
+n|הזמנה|hazmana|invitation; order|f|הזמנות|hazmanot|קיבלתי הזמנה לחתונה.|I got an invitation to the wedding.
+n|הליכה|halikha|walking, walk|f|הליכות|halikhot|הליכה זה בריא.|Walking is healthy.
+n|התנצלות|hitnatslut|apology|f|התנצלויות|hitnatsluyot|אני מקבל את ההתנצלות.|I accept the apology.
+n|חשיבה|khashiva|thinking|f|-|-|זאת חשיבה יצירתית.|It's creative thinking.
+n|כתיבה|ktiva|writing|f|-|-|הכתיבה בעברית קשה.|Writing in Hebrew is hard.
+n|למידה|lemida|learning|f|-|-|למידה כל יום.|Learning every day.
+n|סיפור|sipur|story|m|סיפורים|sipurim|סבתא מספרת סיפור.|Grandma tells a story.
+n|פתיחה|ptikha|opening|f|פתיחות|ptikhot|הפתיחה של הסרט מעולה.|The opening of the movie is great.
+n|צפייה|tsfiya|watching, viewing|f|-|-|צפייה נעימה!|Enjoy watching!
+n|קנייה|kniya|purchase|f|קניות|kniyot|זאת קנייה טובה.|That's a good purchase.
+n|קריאה|kri'a|reading|f|-|-|אני אוהב קריאה.|I love reading.
+n|ריצה|ritsa|running, run|f|ריצות|ritsot|אני הולך לריצה.|I'm going for a run.
+n|שינה|shena|sleep|f|-|-|אני צריך שינה.|I need sleep.
+n|שמיעה|shmi'a|hearing|f|-|-|יש לו שמיעה טובה.|He has good hearing.
+n|מכירה|mekhira|sale, selling|f|מכירות|mekhirot|יש מכירה בחנות.|There's a sale at the shop.
+
+@unit 73|Discuss scientific issues
+n|מדע|mada|science|m|מדעים|mada'im|אני אוהב מדע.|I love science.
+n|מדען|mad'an|scientist|m|מדענים|mad'anim|היא מדענית.|She's a scientist.
+n|מחקר|mekhkar|research, study|m|מחקרים|mekhkarim|זה מחקר חשוב.|It's important research.
+n|מעבדה|ma'abada|laboratory|f|מעבדות|ma'abadot|הוא עובד במעבדה.|He works in a lab.
+n|ניסוי|nisuy|experiment|m|ניסויים|nisuyim|הניסוי הצליח.|The experiment succeeded.
+n|תגלית|tagalit|discovery|f|תגליות|tagaliyot|זאת תגלית חשובה.|It's an important discovery.
+n|עובדה|uvda|fact|f|עובדות|uvdot|זאת עובדה.|That's a fact.
+n|שיטה|shita|method|f|שיטות|shitot|יש לי שיטה טובה.|I have a good method.
+n|עיקרון|ikaron|principle|m|עקרונות|ekronot|זה עניין של עיקרון.|It's a matter of principle.
+n|הגדרה|hagdara|definition|f|הגדרות|hagdarot|מה ההגדרה?|What's the definition?
+n|נוסחה|nuskha|formula|f|נוסחאות|nuskha'ot|זאת נוסחה פשוטה.|It's a simple formula.
+n|מאמר|ma'amar|article|m|מאמרים|ma'amarim|קראתי מאמר מעניין.|I read an interesting article.
+n|פרויקט|proyekt|project|m|פרויקטים|proyektim|אנחנו עובדים על פרויקט.|We're working on a project.
+n|איכות|eykhut|quality|f|-|-|האיכות טובה.|The quality is good.
+n|גודל|godel|size|m|-|-|מה הגודל?|What's the size?
+n|משקל|mishkal|weight|m|-|-|מה המשקל שלך?|What's your weight?
+n|מרחק|merkhak|distance|m|מרחקים|merkhakim|מה המרחק לתל אביב?|What's the distance to Tel Aviv?
+n|מהירות|mehirut|speed|f|-|-|הוא נוסע במהירות גבוהה.|He's driving at high speed.
+n|אנרגיה|energya|energy|f|-|-|אין לי אנרגיה היום.|I have no energy today.
+n|כוח משיכה|ko'akh meshikha|gravity|m|-|-|כוח המשיכה מושך אותנו למטה.|Gravity pulls us down.
+n|גרם|gram|gram|m|גרמים|gramim|מאה גרם גבינה, בבקשה.|A hundred grams of cheese, please.
+n|טון|ton|ton|m|טונות|tonot|זה שוקל טון.|It weighs a ton.
+n|מד חום|mad khom|thermometer|m|מדי חום|madey khom|איפה המד חום?|Where's the thermometer?
+n|אלכוהול|alkohol|alcohol|m|-|-|אני לא שותה אלכוהול.|I don't drink alcohol.
+n|ביולוגיה|biyologya|biology|f|-|-|היא לומדת ביולוגיה.|She studies biology.
+n|כימיה|khimya|chemistry|f|-|-|יש לי מבחן בכימיה.|I have a chemistry exam.
+n|פיזיקה|fizika|physics|f|-|-|פיזיקה קשה.|Physics is hard.
+n|גיאוגרפיה|ge'ografya|geography|f|-|-|אני אוהב גיאוגרפיה.|I love geography.
+n|טכנולוגיה|tekhnologya|technology|f|טכנולוגיות|tekhnologyot|ישראל חזקה בטכנולוגיה.|Israel is strong in technology.
+n|פילוסופיה|filosofya|philosophy|f|-|-|הוא לומד פילוסופיה.|He studies philosophy.
+a|חשמלי,חשמלית,חשמליים,חשמליות|khashmali,khashmalit,khashmaliyim,khashmaliyot|electric|יש לי מכונית חשמלית.|I have an electric car.
+n|חשמל|khashmal|electricity|m|-|-|אין חשמל בבית.|There's no electricity in the house.
+
+@unit 74|Talk about music
+n|מוזיקה|muzika|music|f|-|-|אני אוהב מוזיקה ישראלית.|I love Israeli music.
+n|שיר|shir|song; poem|m|שירים|shirim|זה שיר יפה.|It's a beautiful song.
+n|מנגינה|mangina|melody, tune|f|מנגינות|manginot|יש לשיר מנגינה יפה.|The song has a beautiful melody.
+n|זמר|zamar|singer|m|זמרים|zamarim|הזמר שר יפה.|The singer sings beautifully.
+n|להקה|lahaka|band|f|להקות|lahakot|הלהקה מנגנת בערב.|The band plays in the evening.
+n|הופעה|hofa'a|show, concert, performance|f|הופעות|hofa'ot|הייתי בהופעה אתמול.|I was at a concert yesterday.
+n|קונצרט|kontsert|concert|m|קונצרטים|kontsertim|יש קונצרט בפארק.|There's a concert in the park.
+n|כלי נגינה|kley negina|musical instrument(s)|m|-|-|על איזה כלי נגינה אתה מנגן?|Which instrument do you play?
+n|נגן|nagan|musician, player|m|נגנים|naganim|הוא נגן גיטרה.|He's a guitar player.
+n|גיטרה|gitara|guitar|f|גיטרות|gitarot|אני מנגן בגיטרה.|I play the guitar.
+n|פסנתר|psanter|piano|m|פסנתרים|psantrim|היא מנגנת בפסנתר.|She plays the piano.
+n|כינור|kinor|violin|m|כינורות|kinorot|הכינור עתיק.|The violin is old.
+n|תוף|tof|drum|m|תופים|tupim|הוא מנגן בתופים.|He plays the drums.
+n|מתופף|metofef|drummer|m|מתופפים|metofefim|המתופף של הלהקה טוב.|The band's drummer is good.
+n|חליל|khalil|flute|m|חלילים|khalilim|הילדה מנגנת בחליל.|The girl plays the flute.
+n|חצוצרה|khatsotsra|trumpet|f|חצוצרות|khatsotsrot|הוא מנגן בחצוצרה.|He plays the trumpet.
+n|מיקרופון|mikrofon|microphone|m|מיקרופונים|mikrofonim|הזמר מחזיק מיקרופון.|The singer holds a microphone.
+n|צליל|tslil|sound, tone, note|m|צלילים|tslilim|זה צליל יפה.|That's a beautiful sound.
+n|אקורד|akord|chord|m|אקורדים|akordim|אני לומד אקורדים חדשים.|I'm learning new chords.
+n|ז'אנר|zhaner|genre|m|ז'אנרים|zhanrim|איזה ז'אנר אתה אוהב?|Which genre do you like?
+n|יצירה|yetsira|work, piece (of art/music)|f|יצירות|yetsirot|זאת יצירה של באך.|It's a piece by Bach.
+n|הד|hed|echo|m|הדים|hedim|יש הד במערה.|There's an echo in the cave.
+v|לנגן|lenagen|נ-ג-ן|piel|מנגן,מנגנת,מנגנים,מנגנות|menagen,menagenet,menagnim,menagnot|to play (an instrument)|הוא מנגן בפסנתר.|He plays the piano.
