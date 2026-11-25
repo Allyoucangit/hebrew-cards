@@ -1,0 +1,12167 @@
+[
+ {
+  "skill": "1 Letters 1 Learn the alphabet",
+  "words": [
+   {
+    "he": "אבא",
+    "tr": "ʼbʼ",
+    "en": "dad, dad is, father"
+   },
+   {
+    "he": "אהבה",
+    "tr": "ʼhbh",
+    "en": "love"
+   },
+   {
+    "he": "או",
+    "tr": "ʼw",
+    "en": "or"
+   },
+   {
+    "he": "אוהב",
+    "tr": "ʼwhb",
+    "en": "like, likes, love, loves"
+   },
+   {
+    "he": "אוהבת",
+    "tr": "ʼwhbţ",
+    "en": "like, love, likes, loves"
+   },
+   {
+    "he": "אמא",
+    "tr": "ʼmʼ",
+    "en": "mom, mother, mum"
+   },
+   {
+    "he": "אני",
+    "tr": "ʼny",
+    "en": "I, I am, me"
+   },
+   {
+    "he": "את",
+    "tr": "ʼţ",
+    "en": "you"
+   },
+   {
+    "he": "אתה",
+    "tr": "ʼţh",
+    "en": "you, you are"
+   },
+   {
+    "he": "בא",
+    "tr": "bʼ",
+    "en": "come, is coming, coming, comes, came"
+   },
+   {
+    "he": "באה",
+    "tr": "bʼh",
+    "en": "is coming, comes, come, came"
+   },
+   {
+    "he": "האבא",
+    "tr": "hʼbʼ",
+    "en": "the dad, the father"
+   },
+   {
+    "he": "האם",
+    "tr": "hʼm",
+    "en": "is, do, does"
+   },
+   {
+    "he": "האמא",
+    "tr": "hʼmʼ",
+    "en": "the mom, the mother"
+   },
+   {
+    "he": "הוא",
+    "tr": "hwʼ",
+    "en": "he, (he) is, him, (it) is"
+   },
+   {
+    "he": "החלב",
+    "tr": "hẖlb",
+    "en": "the milk, the milk is, milk"
+   },
+   {
+    "he": "היא",
+    "tr": "hyʼ",
+    "en": "she, her, it"
+   },
+   {
+    "he": "היונה",
+    "tr": "hywnh",
+    "en": "the dove, the pigeon"
+   },
+   {
+    "he": "ואבא",
+    "tr": "wʼbʼ",
+    "en": "and dad"
+   },
+   {
+    "he": "ואמא",
+    "tr": "wʼmʼ",
+    "en": "and mom, and mother"
+   },
+   {
+    "he": "ואני",
+    "tr": "wʼny",
+    "en": "and I, and I am"
+   },
+   {
+    "he": "וחלב",
+    "tr": "wẖlb",
+    "en": "and milk"
+   },
+   {
+    "he": "ולחם",
+    "tr": "wlẖm",
+    "en": "and bread, and a bread"
+   },
+   {
+    "he": "חלב",
+    "tr": "ẖlb",
+    "en": "milk"
+   },
+   {
+    "he": "חם",
+    "tr": "ẖm",
+    "en": "hot (sg. masc.)"
+   },
+   {
+    "he": "יונה",
+    "tr": "ywnh",
+    "en": "a dove, pigeon, dove, a pigeon"
+   },
+   {
+    "he": "יין",
+    "tr": "yyn",
+    "en": "wine"
+   },
+   {
+    "he": "לא",
+    "tr": "lʼ",
+    "en": "didn't, doesn't, do not, don't, not, is not, does not, no, won't, isn't, aren't"
+   },
+   {
+    "he": "לחם",
+    "tr": "lẖm",
+    "en": "bread, a bread"
+   },
+   {
+    "he": "מים",
+    "tr": "mym",
+    "en": "water"
+   }
+  ]
+ },
+ {
+  "skill": "2 Letters 2 Learn the alphabet",
+  "words": [
+   {
+    "he": "אגוז",
+    "tr": "ʼgwz",
+    "en": "a nut, nut"
+   },
+   {
+    "he": "אוכל",
+    "tr": "ʼwkl",
+    "en": "eats, is eating, food, eat, eating"
+   },
+   {
+    "he": "אוכלת",
+    "tr": "ʼwklţ",
+    "en": "eating, is eating, eat, eats, are eating"
+   },
+   {
+    "he": "אורז",
+    "tr": "ʼwrz",
+    "en": "rice"
+   },
+   {
+    "he": "אישה",
+    "tr": "ʼyşh",
+    "en": "a woman, woman, wife"
+   },
+   {
+    "he": "גבר",
+    "tr": "gbr",
+    "en": "a man, man"
+   },
+   {
+    "he": "דרך",
+    "tr": "drk",
+    "en": "road, way, through, path"
+   },
+   {
+    "he": "האוכל",
+    "tr": "hʼwkl",
+    "en": "the food"
+   },
+   {
+    "he": "האישה",
+    "tr": "hʼyşh",
+    "en": "the woman, the woman is"
+   },
+   {
+    "he": "הגבר",
+    "tr": "hgbr",
+    "en": "the man, the man is"
+   },
+   {
+    "he": "הולך",
+    "tr": "hwlk",
+    "en": "walks, is walking, go, is going, goes, walk"
+   },
+   {
+    "he": "הולכת",
+    "tr": "hwlkţ",
+    "en": "walks, is walking, go, is going, goes, walk"
+   },
+   {
+    "he": "הילד",
+    "tr": "hyld",
+    "en": "the boy is, the boy, the kid, the child"
+   },
+   {
+    "he": "הילדה",
+    "tr": "hyldh",
+    "en": "the girl, the girl is"
+   },
+   {
+    "he": "הכלב",
+    "tr": "hklb",
+    "en": "the dog"
+   },
+   {
+    "he": "המלך",
+    "tr": "hmlk",
+    "en": "the king"
+   },
+   {
+    "he": "זאת",
+    "tr": "zʼţ",
+    "en": "this, this is (feminine), that is (feminine), it is (feminine), that"
+   },
+   {
+    "he": "זה",
+    "tr": "zh",
+    "en": "this, that, this is, it is, it, it's"
+   },
+   {
+    "he": "ילד",
+    "tr": "yld",
+    "en": "boy, a child, a boy, child"
+   },
+   {
+    "he": "ילדה",
+    "tr": "yldh",
+    "en": "girl, a girl, child"
+   },
+   {
+    "he": "כלב",
+    "tr": "klb",
+    "en": "a dog, dog"
+   },
+   {
+    "he": "כן",
+    "tr": "kn",
+    "en": "yes, do, does"
+   },
+   {
+    "he": "משאית",
+    "tr": "mşʼyţ",
+    "en": "a truck, a van, a lorry, truck"
+   },
+   {
+    "he": "רואֶה",
+    "tr": "rwʼeh",
+    "en": "sees, see, is seeing"
+   },
+   {
+    "he": "רואָה",
+    "tr": "rwʼáh",
+    "en": "see, sees"
+   },
+   {
+    "he": "שותֶה",
+    "tr": "şwţeh",
+    "en": "drink, is drinking, drinks, drinking"
+   },
+   {
+    "he": "שותָה",
+    "tr": "şwţáh",
+    "en": "drink, is drinking, drinks, drinking"
+   },
+   {
+    "he": "שמח",
+    "tr": "şmẖ",
+    "en": "happy"
+   }
+  ]
+ },
+ {
+  "skill": "3 Letters 3 Learn the alphabet",
+  "words": [
+   {
+    "he": "אפרסק",
+    "tr": "ʼprsq",
+    "en": "a peach, peach"
+   },
+   {
+    "he": "הספר",
+    "tr": "hspr",
+    "en": "the book"
+   },
+   {
+    "he": "התפוז",
+    "tr": "hţpwz",
+    "en": "the orange"
+   },
+   {
+    "he": "התפוח",
+    "tr": "hţpwẖ",
+    "en": "the apple, the apple is"
+   },
+   {
+    "he": "חמוץ",
+    "tr": "ẖmwẕ",
+    "en": "sour"
+   },
+   {
+    "he": "טוב",
+    "tr": "twb",
+    "en": "good, well"
+   },
+   {
+    "he": "טעים",
+    "tr": "tʻym",
+    "en": "tasty, delicious"
+   },
+   {
+    "he": "יפֶה",
+    "tr": "ypeh",
+    "en": "nicely, beautiful (sg. masc.), handsome, nice, pretty, beautiful"
+   },
+   {
+    "he": "כיף",
+    "tr": "kyp",
+    "en": "fun"
+   },
+   {
+    "he": "מיץ",
+    "tr": "myẕ",
+    "en": "juice"
+   },
+   {
+    "he": "מתוק",
+    "tr": "mţwq",
+    "en": "sweet"
+   },
+   {
+    "he": "ספר",
+    "tr": "spr",
+    "en": "book, a book"
+   },
+   {
+    "he": "עוגה",
+    "tr": "ʻwgh",
+    "en": "cake, a cake"
+   },
+   {
+    "he": "עוף",
+    "tr": "ʻwp",
+    "en": "a chicken, chicken"
+   },
+   {
+    "he": "עיתון",
+    "tr": "ʻyţwn",
+    "en": "a newspaper, newspaper"
+   },
+   {
+    "he": "עצוב",
+    "tr": "ʻẕwb",
+    "en": "sad"
+   },
+   {
+    "he": "קורא",
+    "tr": "qwrʼ",
+    "en": "is calling, read, calls, reading, reads, is reading, call"
+   },
+   {
+    "he": "קוראת",
+    "tr": "qwrʼţ",
+    "en": "is calling, read, calls, reads, is reading, reading"
+   },
+   {
+    "he": "רוצֶה",
+    "tr": "rwẕeh",
+    "en": "want, wants, would like"
+   },
+   {
+    "he": "רוצָה",
+    "tr": "rwẕáh",
+    "en": "wants, want"
+   },
+   {
+    "he": "רע",
+    "tr": "rʻ",
+    "en": "bad"
+   },
+   {
+    "he": "תפוז",
+    "tr": "ţpwz",
+    "en": "an orange, orange"
+   },
+   {
+    "he": "תפוח",
+    "tr": "ţpwẖ",
+    "en": "an apple, apple"
+   }
+  ]
+ },
+ {
+  "skill": "4 Common Phrases Greet people",
+  "words": [
+   {
+    "he": "אולי",
+    "tr": "ʼwly",
+    "en": "maybe"
+   },
+   {
+    "he": "אין בעד מה",
+    "tr": "ʼyn bʻd mh",
+    "en": "you are welcome"
+   },
+   {
+    "he": "אנגלית",
+    "tr": "ʼnglyţ",
+    "en": "English"
+   },
+   {
+    "he": "בבקשה",
+    "tr": "bbqşh",
+    "en": "you are welcome, please, here you go"
+   },
+   {
+    "he": "בהצלחה",
+    "tr": "bhẕlẖh",
+    "en": "good luck"
+   },
+   {
+    "he": "בוקר",
+    "tr": "bwqr",
+    "en": "morning"
+   },
+   {
+    "he": "בסדר",
+    "tr": "bsdr",
+    "en": "ok, fine, alright"
+   },
+   {
+    "he": "ברוך הבא",
+    "tr": "brwk hbʼ",
+    "en": "welcome(s.m.), welcome"
+   },
+   {
+    "he": "בתיאבון",
+    "tr": "bţyʼbwn",
+    "en": "bon appetit, enjoy your meal"
+   },
+   {
+    "he": "טל",
+    "tr": "tl",
+    "en": "Tal, dew"
+   },
+   {
+    "he": "יוסי",
+    "tr": "ywsy",
+    "en": "Yossi"
+   },
+   {
+    "he": "לדבר",
+    "tr": "ldbr",
+    "en": "to speak, to talk, talk"
+   },
+   {
+    "he": "להתראות",
+    "tr": "lhţrʼwţ",
+    "en": "see you later, goodbye, bye"
+   },
+   {
+    "he": "לילה",
+    "tr": "lylh",
+    "en": "night"
+   },
+   {
+    "he": "מה נשמע",
+    "tr": "mh nşmʻ",
+    "en": "what's happening, how are you, what's up"
+   },
+   {
+    "he": "מה קורה",
+    "tr": "mh qwrh",
+    "en": "what's up, how are you, what is happening, what's happening"
+   },
+   {
+    "he": "מה שלומךְ",
+    "tr": "mh şlwmkĕ",
+    "en": "how are you, (addressing a female)"
+   },
+   {
+    "he": "מה שלומךָ",
+    "tr": "mh şlwmká",
+    "en": "how are you, (addressing a male)"
+   },
+   {
+    "he": "מזל טוב",
+    "tr": "mzl twb",
+    "en": "congratulations"
+   },
+   {
+    "he": "סליחה",
+    "tr": "slyẖh",
+    "en": "sorry, I am sorry, excuse me, Pardon, forgiveness"
+   },
+   {
+    "he": "עברית",
+    "tr": "ʻbryţ",
+    "en": "Hebrew"
+   },
+   {
+    "he": "ערב",
+    "tr": "ʻrb",
+    "en": "evening"
+   },
+   {
+    "he": "שלום",
+    "tr": "şlwm",
+    "en": "peace, hello, hi, greetings"
+   },
+   {
+    "he": "תהנה",
+    "tr": "ţhnh",
+    "en": "enjoy, have fun"
+   },
+   {
+    "he": "תודה",
+    "tr": "ţwdh",
+    "en": "thanks, thank you"
+   },
+   {
+    "he": "תודה רבה",
+    "tr": "ţwdh rbh",
+    "en": "thank you very much"
+   }
+  ]
+ },
+ {
+  "skill": "5 Basics Describe people",
+  "words": [
+   {
+    "he": "אנחנו",
+    "tr": "ʼnẖnw",
+    "en": "we are, we"
+   },
+   {
+    "he": "אתם",
+    "tr": "ʼţm",
+    "en": "you, you are"
+   },
+   {
+    "he": "אתן",
+    "tr": "ʼţn",
+    "en": "you, (I) will give, you are"
+   },
+   {
+    "he": "גברים",
+    "tr": "gbrym",
+    "en": "men"
+   },
+   {
+    "he": "הם",
+    "tr": "hm",
+    "en": "they are, are, they"
+   },
+   {
+    "he": "הן",
+    "tr": "hn",
+    "en": "they, are, they are"
+   },
+   {
+    "he": "ילדים",
+    "tr": "yldym",
+    "en": "kids, children, boys"
+   },
+   {
+    "he": "נשים",
+    "tr": "nşym",
+    "en": "women"
+   },
+   {
+    "he": "רואות",
+    "tr": "rwʼwţ",
+    "en": "see"
+   },
+   {
+    "he": "רואים",
+    "tr": "rwʼym",
+    "en": "see"
+   }
+  ]
+ },
+ {
+  "skill": "6 There is/To Have Form basic sentences",
+  "words": [
+   {
+    "he": "אין",
+    "tr": "ʼyn",
+    "en": "there is no, not have, not has"
+   },
+   {
+    "he": "יש",
+    "tr": "yş",
+    "en": "there are, have, has, there is"
+   },
+   {
+    "he": "לה",
+    "tr": "lh",
+    "en": "her, to her, it (feminine nouns), it"
+   },
+   {
+    "he": "להם",
+    "tr": "lhm",
+    "en": "to them, them"
+   },
+   {
+    "he": "להן",
+    "tr": "lhn",
+    "en": "to them"
+   },
+   {
+    "he": "לו",
+    "tr": "lw",
+    "en": "for him, him, to him, if"
+   },
+   {
+    "he": "לזה",
+    "tr": "lzh",
+    "en": "to it"
+   },
+   {
+    "he": "לי",
+    "tr": "ly",
+    "en": "me, to me, for me"
+   },
+   {
+    "he": "לךְ",
+    "tr": "lkĕ",
+    "en": "you"
+   },
+   {
+    "he": "לךָ",
+    "tr": "lká",
+    "en": "to you, you"
+   },
+   {
+    "he": "לכם",
+    "tr": "lkm",
+    "en": "you, to you (pl. masc.)"
+   },
+   {
+    "he": "לכן",
+    "tr": "lkn",
+    "en": "you, therefore, That's why"
+   },
+   {
+    "he": "לנו",
+    "tr": "lnw",
+    "en": "to us, us, for us"
+   }
+  ]
+ },
+ {
+  "skill": "7 Introduction to adjectives Use adjectives",
+  "words": [
+   {
+    "he": "טוב",
+    "tr": "twb",
+    "en": "well, ok, alright, good"
+   },
+   {
+    "he": "טובה",
+    "tr": "twbh",
+    "en": "a favor, favor, good (sg. fem.)"
+   },
+   {
+    "he": "טובות",
+    "tr": "twbwţ",
+    "en": "good (pl. fem.)"
+   },
+   {
+    "he": "טובים",
+    "tr": "twbym",
+    "en": "good (pl. masc.)"
+   },
+   {
+    "he": "טעים",
+    "tr": "tʻym",
+    "en": "tasty, delicious"
+   },
+   {
+    "he": "טעימה",
+    "tr": "tʻymh",
+    "en": "is tasty, tasty, delicious"
+   },
+   {
+    "he": "טעימות",
+    "tr": "tʻymwţ",
+    "en": "are tasty, tasty (pl. fem.), delicious"
+   },
+   {
+    "he": "טעימים",
+    "tr": "tʻymym",
+    "en": "are tasty, are delicious, tasty (pl. masc.)"
+   },
+   {
+    "he": "יפֶה",
+    "tr": "ypeh",
+    "en": "nicely, beautiful (sg. masc.), handsome, nice, pretty, beautiful"
+   },
+   {
+    "he": "יפָה",
+    "tr": "ypáh",
+    "en": "handsome, beautiful (sg. fem.), nice, pretty, beautiful"
+   },
+   {
+    "he": "יפות",
+    "tr": "ypwţ",
+    "en": "pretty, beautiful"
+   },
+   {
+    "he": "יפים",
+    "tr": "ypym",
+    "en": "beautiful (pl. masc.), handsome, beautiful, pretty, nice"
+   },
+   {
+    "he": "עצוב",
+    "tr": "ʻẕwb",
+    "en": "sad"
+   },
+   {
+    "he": "עצובה",
+    "tr": "ʻẕwbh",
+    "en": "sad (sg. fem.)"
+   },
+   {
+    "he": "עצובות",
+    "tr": "ʻẕwbwţ",
+    "en": "sad (pl. fem.)"
+   },
+   {
+    "he": "עצובים",
+    "tr": "ʻẕwbym",
+    "en": "sad (pl. masc.)"
+   },
+   {
+    "he": "רע",
+    "tr": "rʻ",
+    "en": "bad (sg. masc.)"
+   },
+   {
+    "he": "רעה",
+    "tr": "rʻh",
+    "en": "bad (sg. fem.)"
+   },
+   {
+    "he": "רעות",
+    "tr": "rʻwţ",
+    "en": "evil, bad (pl. fem.)"
+   },
+   {
+    "he": "רעים",
+    "tr": "rʻym",
+    "en": "bad (pl. masc.)"
+   },
+   {
+    "he": "שמח",
+    "tr": "şmẖ",
+    "en": "happy (sg. masc.)"
+   },
+   {
+    "he": "שמחה",
+    "tr": "şmẖh",
+    "en": "happy (sg. fem.), joy"
+   },
+   {
+    "he": "שמחות",
+    "tr": "şmẖwţ",
+    "en": "happy (pl. fem.)"
+   },
+   {
+    "he": "שמחים",
+    "tr": "şmẖym",
+    "en": "happy (pl. masc.)"
+   }
+  ]
+ },
+ {
+  "skill": "8 Food 1 Talk about food",
+  "words": [
+   {
+    "he": "אוכל",
+    "tr": "ʼwkl",
+    "en": "eats, is eating, food, eat, eating"
+   },
+   {
+    "he": "אננס",
+    "tr": "ʼnns",
+    "en": "pineapple"
+   },
+   {
+    "he": "ארוחת בוקר",
+    "tr": "ʼrwẖţ bwqr",
+    "en": "breakfast"
+   },
+   {
+    "he": "ארוחת ערב",
+    "tr": "ʼrwẖţ ʻrb",
+    "en": "dinner"
+   },
+   {
+    "he": "ארוחת צהריים",
+    "tr": "ʼrwẖţ ẕhryym",
+    "en": "lunch"
+   },
+   {
+    "he": "את",
+    "tr": "ʼţ",
+    "en": "you"
+   },
+   {
+    "he": "ביצה",
+    "tr": "byẕh",
+    "en": "egg, an egg"
+   },
+   {
+    "he": "בירה",
+    "tr": "byrh",
+    "en": "beer, a beer"
+   },
+   {
+    "he": "בננה",
+    "tr": "bnnh",
+    "en": "a banana, banana"
+   },
+   {
+    "he": "בקבוק",
+    "tr": "bqbwq",
+    "en": "bottle, a bottle"
+   },
+   {
+    "he": "בקר",
+    "tr": "bqr",
+    "en": "a beef, beef"
+   },
+   {
+    "he": "בשר",
+    "tr": "bşr",
+    "en": "meat"
+   },
+   {
+    "he": "גבינה",
+    "tr": "gbynh",
+    "en": "cheese, a cheese"
+   },
+   {
+    "he": "דג",
+    "tr": "dg",
+    "en": "a fish"
+   },
+   {
+    "he": "זית",
+    "tr": "zyţ",
+    "en": "olive, an olive"
+   },
+   {
+    "he": "חמאה",
+    "tr": "ẖmʼh",
+    "en": "a butter, butter"
+   },
+   {
+    "he": "כריך",
+    "tr": "kryk",
+    "en": "sandwich, a sandwich"
+   },
+   {
+    "he": "לימון",
+    "tr": "lymwn",
+    "en": "a lemon, lemon"
+   },
+   {
+    "he": "מלח",
+    "tr": "mlẖ",
+    "en": "salt"
+   },
+   {
+    "he": "מרק",
+    "tr": "mrq",
+    "en": "soup, a soup"
+   },
+   {
+    "he": "סוכר",
+    "tr": "swkr",
+    "en": "sugar"
+   },
+   {
+    "he": "סלט",
+    "tr": "slt",
+    "en": "salad"
+   },
+   {
+    "he": "עגבניה",
+    "tr": "ʻgbnyh",
+    "en": "tomato, a tomato"
+   },
+   {
+    "he": "פטרייה",
+    "tr": "ptryyh",
+    "en": "a mushroom"
+   },
+   {
+    "he": "פיצה",
+    "tr": "pyẕh",
+    "en": "pizza, a pizza"
+   },
+   {
+    "he": "פסטה",
+    "tr": "psth",
+    "en": "pasta, a pasta"
+   },
+   {
+    "he": "פרי",
+    "tr": "pry",
+    "en": "a fruit, fruit, a piece of fruit"
+   },
+   {
+    "he": "צלחת",
+    "tr": "ẕlẖţ",
+    "en": "a plate, plate"
+   },
+   {
+    "he": "קפה",
+    "tr": "qph",
+    "en": "coffee"
+   },
+   {
+    "he": "רעב",
+    "tr": "rʻb",
+    "en": "hungry"
+   },
+   {
+    "he": "שוקולד",
+    "tr": "şwqwld",
+    "en": "chocolate"
+   },
+   {
+    "he": "שמן",
+    "tr": "şmn",
+    "en": "oil, fat (adj.)"
+   },
+   {
+    "he": "תות",
+    "tr": "ţwţ",
+    "en": "a strawberry, strawberry"
+   }
+  ]
+ },
+ {
+  "skill": "9 Animals Describe animals",
+  "words": [
+   {
+    "he": "אריה",
+    "tr": "ʼryh",
+    "en": "lion, a lion"
+   },
+   {
+    "he": "ארנב",
+    "tr": "ʼrnb",
+    "en": "a rabbit, a bunny, bunny, rabbit"
+   },
+   {
+    "he": "ברווז",
+    "tr": "brwwz",
+    "en": "duck, a duck"
+   },
+   {
+    "he": "גמל",
+    "tr": "gml",
+    "en": "camel, a camel"
+   },
+   {
+    "he": "דבורה",
+    "tr": "dbwrh",
+    "en": "a bee"
+   },
+   {
+    "he": "דוב",
+    "tr": "dwb",
+    "en": "bear (male), a bear"
+   },
+   {
+    "he": "זבוב",
+    "tr": "zbwb",
+    "en": "fly, a fly"
+   },
+   {
+    "he": "זנב",
+    "tr": "znb",
+    "en": "a tail, tail"
+   },
+   {
+    "he": "חזיר",
+    "tr": "ẖzyr",
+    "en": "pig, a pig, pork"
+   },
+   {
+    "he": "חיה",
+    "tr": "ẖyh",
+    "en": "animal, an animal"
+   },
+   {
+    "he": "חיות",
+    "tr": "ẖywţ",
+    "en": "animals"
+   },
+   {
+    "he": "חיית מחמד",
+    "tr": "ẖyyţ mẖmd",
+    "en": "a pet, pet"
+   },
+   {
+    "he": "חמור",
+    "tr": "ẖmwr",
+    "en": "donkey"
+   },
+   {
+    "he": "חרק",
+    "tr": "ẖrq",
+    "en": "insect, an insect"
+   },
+   {
+    "he": "חתול",
+    "tr": "ẖţwl",
+    "en": "a cat (male)"
+   },
+   {
+    "he": "ינשוף",
+    "tr": "ynşwp",
+    "en": "an owl"
+   },
+   {
+    "he": "נחש",
+    "tr": "nẖş",
+    "en": "snake"
+   },
+   {
+    "he": "נשר",
+    "tr": "nşr",
+    "en": "eagle, an eagle, vulture, a vulture"
+   },
+   {
+    "he": "סוס",
+    "tr": "sws",
+    "en": "horse, a horse"
+   },
+   {
+    "he": "סרטן",
+    "tr": "srtn",
+    "en": "a crab, crab, cancer (disease)"
+   },
+   {
+    "he": "עכביש",
+    "tr": "ʻkbyş",
+    "en": "spider, a spider"
+   },
+   {
+    "he": "עכבר",
+    "tr": "ʻkbr",
+    "en": "mouse, a mouse"
+   },
+   {
+    "he": "פיל",
+    "tr": "pyl",
+    "en": "elephant, an elephant"
+   },
+   {
+    "he": "פרה",
+    "tr": "prh",
+    "en": "a cow, cow"
+   },
+   {
+    "he": "צב",
+    "tr": "ẕb",
+    "en": "a turtle, turtle, tortoise, a tortoise"
+   },
+   {
+    "he": "ציפור",
+    "tr": "ẕypwr",
+    "en": "bird, a bird"
+   },
+   {
+    "he": "קוף",
+    "tr": "qwp",
+    "en": "a monkey, monkey"
+   },
+   {
+    "he": "תרנגול",
+    "tr": "ţrngwl",
+    "en": "a rooster"
+   }
+  ]
+ },
+ {
+  "skill": "10 Plurals Form the plural",
+  "words": [
+   {
+    "he": "אריות",
+    "tr": "ʼrywţ",
+    "en": "lions"
+   },
+   {
+    "he": "בירות",
+    "tr": "byrwţ",
+    "en": "beers"
+   },
+   {
+    "he": "ברווזות",
+    "tr": "brwwzwţ",
+    "en": "ducks (female)"
+   },
+   {
+    "he": "ברווזים",
+    "tr": "brwwzym",
+    "en": "ducks"
+   },
+   {
+    "he": "גבינות",
+    "tr": "gbynwţ",
+    "en": "cheeses"
+   },
+   {
+    "he": "דרכים",
+    "tr": "drkym",
+    "en": "ways, roads, paths"
+   },
+   {
+    "he": "חיות מחמד",
+    "tr": "ẖywţ mẖmd",
+    "en": "pets"
+   },
+   {
+    "he": "חתולות",
+    "tr": "ẖţwlwţ",
+    "en": "cats(female)"
+   },
+   {
+    "he": "חתולים",
+    "tr": "ẖţwlym",
+    "en": "cats, cats are, male cats"
+   },
+   {
+    "he": "יינות",
+    "tr": "yynwţ",
+    "en": "wines"
+   },
+   {
+    "he": "ילדות",
+    "tr": "yldwţ",
+    "en": "girls"
+   },
+   {
+    "he": "כלבות",
+    "tr": "klbwţ",
+    "en": "dogs (female), female dogs"
+   },
+   {
+    "he": "כלבים",
+    "tr": "klbym",
+    "en": "dogs, male dogs"
+   },
+   {
+    "he": "כריכים",
+    "tr": "krykym",
+    "en": "sandwiches"
+   },
+   {
+    "he": "סוסות",
+    "tr": "swswţ",
+    "en": "horses, mares"
+   },
+   {
+    "he": "סוסים",
+    "tr": "swsym",
+    "en": "horses"
+   },
+   {
+    "he": "ספרים",
+    "tr": "sprym",
+    "en": "books"
+   },
+   {
+    "he": "עוגות",
+    "tr": "ʻwgwţ",
+    "en": "cakes"
+   },
+   {
+    "he": "עיתונים",
+    "tr": "ʻyţwnym",
+    "en": "newspapers"
+   },
+   {
+    "he": "פילים",
+    "tr": "pylym",
+    "en": "elephants"
+   },
+   {
+    "he": "פרות",
+    "tr": "prwţ",
+    "en": "cows"
+   },
+   {
+    "he": "צבים",
+    "tr": "ẕbym",
+    "en": "turtles, tortoises"
+   },
+   {
+    "he": "ציפורים",
+    "tr": "ẕypwrym",
+    "en": "birds"
+   },
+   {
+    "he": "צלחות",
+    "tr": "ẕlẖwţ",
+    "en": "plates"
+   },
+   {
+    "he": "תפוזים",
+    "tr": "ţpwzym",
+    "en": "oranges"
+   },
+   {
+    "he": "תפוחים",
+    "tr": "ţpwẖym",
+    "en": "apples"
+   }
+  ]
+ },
+ {
+  "skill": "11 Possessives 1 Form the possessive",
+  "words": [
+   {
+    "he": "אברהם",
+    "tr": "ʼbrhm",
+    "en": "Abraham, Avraham"
+   },
+   {
+    "he": "של",
+    "tr": "şl",
+    "en": "of, 's"
+   },
+   {
+    "he": "שלה",
+    "tr": "şlh",
+    "en": "her, hers, its"
+   },
+   {
+    "he": "שלהם",
+    "tr": "şlhm",
+    "en": "theirs, their"
+   },
+   {
+    "he": "שלהן",
+    "tr": "şlhn",
+    "en": "their"
+   },
+   {
+    "he": "שלו",
+    "tr": "şlw",
+    "en": "his, its"
+   },
+   {
+    "he": "שלי",
+    "tr": "şly",
+    "en": "my, mine"
+   },
+   {
+    "he": "שלךְ",
+    "tr": "şlkĕ",
+    "en": "your (sg. fem.), yours (sg. fem.)"
+   },
+   {
+    "he": "שלךָ",
+    "tr": "şlká",
+    "en": "your (sg.masc.), yours (sg.masc.)"
+   },
+   {
+    "he": "שלכם",
+    "tr": "şlkm",
+    "en": "your, yours(p.m.), yours"
+   },
+   {
+    "he": "שלכן",
+    "tr": "şlkn",
+    "en": "your, your(p.f.), yours"
+   },
+   {
+    "he": "שלנו",
+    "tr": "şlnw",
+    "en": "our, ours"
+   },
+   {
+    "he": "שרה",
+    "tr": "şrh",
+    "en": "Sara, sings, sing, Sarah, is singing"
+   }
+  ]
+ },
+ {
+  "skill": "12 Adjectives 1 - Basics Describe locations",
+  "words": [
+   {
+    "he": "איטי",
+    "tr": "ʼyty",
+    "en": "slow (sg. masc.)"
+   },
+   {
+    "he": "ארוך",
+    "tr": "ʼrwk",
+    "en": "long (sg. masc.)"
+   },
+   {
+    "he": "גבוה",
+    "tr": "gbwh",
+    "en": "tall (sg. masc.), high (sg. masc.)"
+   },
+   {
+    "he": "גדול",
+    "tr": "gdwl",
+    "en": "big (sg. masc.), grand, large (sg. masc.), great"
+   },
+   {
+    "he": "חדש",
+    "tr": "ẖdş",
+    "en": "new (sg. masc.)"
+   },
+   {
+    "he": "חם",
+    "tr": "ẖm",
+    "en": "hot (sg. masc.)"
+   },
+   {
+    "he": "יבש",
+    "tr": "ybş",
+    "en": "dry (sg. masc.)"
+   },
+   {
+    "he": "ישן",
+    "tr": "yşn",
+    "en": "sleeping, is sleeping, sleep, sleeps, old"
+   },
+   {
+    "he": "מהיר",
+    "tr": "mhyr",
+    "en": "fast, quick"
+   },
+   {
+    "he": "מלא",
+    "tr": "mlʼ",
+    "en": "filled, total, full (sg. masc.)"
+   },
+   {
+    "he": "נמוך",
+    "tr": "nmwk",
+    "en": "low, short, deep"
+   },
+   {
+    "he": "קטן",
+    "tr": "qtn",
+    "en": "small (sg. masc.), little (sg. masc.)"
+   },
+   {
+    "he": "קצר",
+    "tr": "qẕr",
+    "en": "short (sg. masc.)"
+   },
+   {
+    "he": "קר",
+    "tr": "qr",
+    "en": "cold (sg. masc.)"
+   },
+   {
+    "he": "קרוב",
+    "tr": "qrwb",
+    "en": "near, close"
+   },
+   {
+    "he": "רחוק",
+    "tr": "rẖwq",
+    "en": "far (sg. masc.), far away"
+   },
+   {
+    "he": "רטוב",
+    "tr": "rtwb",
+    "en": "wet (sg. masc.)"
+   },
+   {
+    "he": "ריק",
+    "tr": "ryq",
+    "en": "empty"
+   }
+  ]
+ },
+ {
+  "skill": "13 Direct Object Use object pronouns",
+  "words": [
+   {
+    "he": "אותה",
+    "tr": "ʼwţh",
+    "en": "her"
+   },
+   {
+    "he": "אותו",
+    "tr": "ʼwţw",
+    "en": "him, the same, it"
+   },
+   {
+    "he": "אותי",
+    "tr": "ʼwţy",
+    "en": "me"
+   },
+   {
+    "he": "אותךְ",
+    "tr": "ʼwţkĕ",
+    "en": "you"
+   },
+   {
+    "he": "אותךָ",
+    "tr": "ʼwţká",
+    "en": "you"
+   },
+   {
+    "he": "אותם",
+    "tr": "ʼwţm",
+    "en": "them, the same"
+   },
+   {
+    "he": "אותן",
+    "tr": "ʼwţn",
+    "en": "them, the same"
+   },
+   {
+    "he": "אותנו",
+    "tr": "ʼwţnw",
+    "en": "us"
+   },
+   {
+    "he": "אתכם",
+    "tr": "ʼţkm",
+    "en": "you"
+   },
+   {
+    "he": "אתכן",
+    "tr": "ʼţkn",
+    "en": "you"
+   },
+   {
+    "he": "צריך",
+    "tr": "ẕryk",
+    "en": "needs, have to, need, has to"
+   }
+  ]
+ },
+ {
+  "skill": "14 Food 2 Order at a restaurant",
+  "words": [
+   {
+    "he": "אבוקדו",
+    "tr": "ʼbwqdw",
+    "en": "avocado"
+   },
+   {
+    "he": "אבטיח",
+    "tr": "ʼbtyẖ",
+    "en": "a watermelon, watermelon"
+   },
+   {
+    "he": "ארוחה",
+    "tr": "ʼrwẖh",
+    "en": "a meal, meal"
+   },
+   {
+    "he": "בוטן",
+    "tr": "bwtn",
+    "en": "peanut, a peanut"
+   },
+   {
+    "he": "בצל",
+    "tr": "bẕl",
+    "en": "onion, in the shade"
+   },
+   {
+    "he": "גזר",
+    "tr": "gzr",
+    "en": "a carrot, carrot"
+   },
+   {
+    "he": "גלידה",
+    "tr": "glydh",
+    "en": "ice cream"
+   },
+   {
+    "he": "דבש",
+    "tr": "dbş",
+    "en": "honey"
+   },
+   {
+    "he": "דובדבן",
+    "tr": "dwbdbn",
+    "en": "cherry"
+   },
+   {
+    "he": "חריף",
+    "tr": "ẖryp",
+    "en": "hot, spicy"
+   },
+   {
+    "he": "טעם",
+    "tr": "tʻm",
+    "en": "taste"
+   },
+   {
+    "he": "ירק",
+    "tr": "yrq",
+    "en": "a vegetable, vegetable"
+   },
+   {
+    "he": "כוס",
+    "tr": "kws",
+    "en": "glass, a glass, a cup, cup"
+   },
+   {
+    "he": "כף",
+    "tr": "kp",
+    "en": "a spoon"
+   },
+   {
+    "he": "כפית",
+    "tr": "kpyţ",
+    "en": "a teaspoon"
+   },
+   {
+    "he": "לבשל",
+    "tr": "lbşl",
+    "en": "to cook"
+   },
+   {
+    "he": "מזלג",
+    "tr": "mzlg",
+    "en": "a fork, fork"
+   },
+   {
+    "he": "מטבח",
+    "tr": "mtbẖ",
+    "en": "a kitchen, kitchen, cuisine"
+   },
+   {
+    "he": "מלוח",
+    "tr": "mlwẖ",
+    "en": "salty, salted"
+   },
+   {
+    "he": "מלפפון",
+    "tr": "mlppwn",
+    "en": "cucumber, a cucumber"
+   },
+   {
+    "he": "ממתק",
+    "tr": "mmţq",
+    "en": "candy"
+   },
+   {
+    "he": "מנגו",
+    "tr": "mngw",
+    "en": "mango"
+   },
+   {
+    "he": "מסטיק",
+    "tr": "mstyq",
+    "en": "gum, chewing gum"
+   },
+   {
+    "he": "מסעדה",
+    "tr": "msʻdh",
+    "en": "a restaurant"
+   },
+   {
+    "he": "מפית",
+    "tr": "mpyţ",
+    "en": "napkin, a napkin"
+   },
+   {
+    "he": "מר",
+    "tr": "mr",
+    "en": "bitter"
+   },
+   {
+    "he": "משקה",
+    "tr": "mşqh",
+    "en": "beverage, drink (n), drink"
+   },
+   {
+    "he": "מתכון",
+    "tr": "mţkwn",
+    "en": "recipe, a recipe"
+   },
+   {
+    "he": "סיר",
+    "tr": "syr",
+    "en": "pot, a pot"
+   },
+   {
+    "he": "סכין",
+    "tr": "skyn",
+    "en": "a knife, knife"
+   },
+   {
+    "he": "עוגייה",
+    "tr": "ʻwgyyh",
+    "en": "cookie"
+   },
+   {
+    "he": "ענב",
+    "tr": "ʻnb",
+    "en": "grape"
+   },
+   {
+    "he": "פלפל",
+    "tr": "plpl",
+    "en": "a pepper, pepper"
+   },
+   {
+    "he": "צמא",
+    "tr": "ẕmʼ",
+    "en": "thirsty (sg. masc.)"
+   },
+   {
+    "he": "צמחוני",
+    "tr": "ẕmẖwny",
+    "en": "vegetarian(s.m.)"
+   },
+   {
+    "he": "קמח",
+    "tr": "qmẖ",
+    "en": "flour"
+   },
+   {
+    "he": "קערה",
+    "tr": "qʻrh",
+    "en": "a bowl"
+   },
+   {
+    "he": "רוטב",
+    "tr": "rwtb",
+    "en": "sauce"
+   },
+   {
+    "he": "ריבה",
+    "tr": "rybh",
+    "en": "jam, jelly"
+   },
+   {
+    "he": "ריח",
+    "tr": "ryẖ",
+    "en": "smell, odor"
+   },
+   {
+    "he": "שום",
+    "tr": "şwm",
+    "en": "any, no, garlic"
+   },
+   {
+    "he": "תה",
+    "tr": "ţh",
+    "en": "tea"
+   },
+   {
+    "he": "תפוח אדמה",
+    "tr": "ţpwẖ ʼdmh",
+    "en": "a potato, potato"
+   },
+   {
+    "he": "תפריט",
+    "tr": "ţpryt",
+    "en": "menu, a menu"
+   }
+  ]
+ },
+ {
+  "skill": "15 Clothing Discuss clothes",
+  "words": [
+   {
+    "he": "בגד ים",
+    "tr": "bgd ym",
+    "en": "a swimsuit, swimwear, a bathing suit"
+   },
+   {
+    "he": "בגדים",
+    "tr": "bgdym",
+    "en": "clothes"
+   },
+   {
+    "he": "ג'ינס",
+    "tr": "g'yns",
+    "en": "jeans"
+   },
+   {
+    "he": "גרב",
+    "tr": "grb",
+    "en": "a (single) sock, sock"
+   },
+   {
+    "he": "ז'קט",
+    "tr": "z'qt",
+    "en": "a jacket"
+   },
+   {
+    "he": "חגורה",
+    "tr": "ẖgwrh",
+    "en": "a belt"
+   },
+   {
+    "he": "חולצה",
+    "tr": "ẖwlẕh",
+    "en": "a shirt, shirt"
+   },
+   {
+    "he": "חליפה",
+    "tr": "ẖlyph",
+    "en": "suit, a suit"
+   },
+   {
+    "he": "חצאית",
+    "tr": "ẖẕʼyţ",
+    "en": "skirt"
+   },
+   {
+    "he": "טבעת",
+    "tr": "tbʻţ",
+    "en": "a ring"
+   },
+   {
+    "he": "כובע",
+    "tr": "kwbʻ",
+    "en": "a hat, hat"
+   },
+   {
+    "he": "כיס",
+    "tr": "kys",
+    "en": "pocket"
+   },
+   {
+    "he": "כפפה",
+    "tr": "kpph",
+    "en": "a glove, glove"
+   },
+   {
+    "he": "לשים",
+    "tr": "lşym",
+    "en": "to place, to set"
+   },
+   {
+    "he": "מכנסיים",
+    "tr": "mknsyym",
+    "en": "pants, trousers"
+   },
+   {
+    "he": "מעיל",
+    "tr": "mʻyl",
+    "en": "a coat, coat"
+   },
+   {
+    "he": "משקפי שמש",
+    "tr": "mşqpy şmş",
+    "en": "sunglasses"
+   },
+   {
+    "he": "משקפיים",
+    "tr": "mşqpyym",
+    "en": "glasses, glasses (for eyes), pairs of glasses"
+   },
+   {
+    "he": "נעל",
+    "tr": "nʻl",
+    "en": "shoe"
+   },
+   {
+    "he": "סוודר",
+    "tr": "swwdr",
+    "en": "A sweater"
+   },
+   {
+    "he": "עניבה",
+    "tr": "ʻnybh",
+    "en": "a tie, tie"
+   },
+   {
+    "he": "צמיד",
+    "tr": "ẕmyd",
+    "en": "a bracelet, bracelet"
+   },
+   {
+    "he": "צעיף",
+    "tr": "ẕʻyp",
+    "en": "scarf, a scarf"
+   },
+   {
+    "he": "שמלה",
+    "tr": "şmlh",
+    "en": "a dress, dress"
+   },
+   {
+    "he": "שרשרת",
+    "tr": "şrşrţ",
+    "en": "chain, a chain, a necklace, necklace"
+   },
+   {
+    "he": "תחפושת",
+    "tr": "ţẖpwşţ",
+    "en": "a costume"
+   },
+   {
+    "he": "תכשיט",
+    "tr": "ţkşyt",
+    "en": "a piece of jewelry"
+   }
+  ]
+ },
+ {
+  "skill": "16 Verbs: Present - Pa'al Form verbs in the present",
+  "words": [
+   {
+    "he": "לברוח",
+    "tr": "lbrwẖ",
+    "en": "to run away, to flee"
+   },
+   {
+    "he": "לגעת",
+    "tr": "lgʻţ",
+    "en": "to touch, touch"
+   },
+   {
+    "he": "לדעת",
+    "tr": "ldʻţ",
+    "en": "to know"
+   },
+   {
+    "he": "לומר",
+    "tr": "lwmr",
+    "en": "to tell, to say"
+   },
+   {
+    "he": "לזכור",
+    "tr": "lzkwr",
+    "en": "to remember, remembering"
+   },
+   {
+    "he": "לחזור",
+    "tr": "lẖzwr",
+    "en": "to go back, return, to return, come back"
+   },
+   {
+    "he": "לחשוב",
+    "tr": "lẖşwb",
+    "en": "to think"
+   },
+   {
+    "he": "לחתוך",
+    "tr": "lẖţwk",
+    "en": "to cut"
+   },
+   {
+    "he": "לישון",
+    "tr": "lyşwn",
+    "en": "sleep, to sleep, sleeping"
+   },
+   {
+    "he": "לכתוב",
+    "tr": "lkţwb",
+    "en": "to write, writing"
+   },
+   {
+    "he": "ללמוד",
+    "tr": "llmwd",
+    "en": "studying (gerund), learning (gerund), to learn, to study"
+   },
+   {
+    "he": "למצוא",
+    "tr": "lmẕwʼ",
+    "en": "to find"
+   },
+   {
+    "he": "לסגור",
+    "tr": "lsgwr",
+    "en": "to close, to shut"
+   },
+   {
+    "he": "לעבוד",
+    "tr": "lʻbwd",
+    "en": "to work"
+   },
+   {
+    "he": "לעזוב",
+    "tr": "lʻzwb",
+    "en": "to leave"
+   },
+   {
+    "he": "לעזור",
+    "tr": "lʻzwr",
+    "en": "to help, help, helping"
+   },
+   {
+    "he": "לענות",
+    "tr": "lʻnwţ",
+    "en": "to answer, answer"
+   },
+   {
+    "he": "לעשות",
+    "tr": "lʻşwţ",
+    "en": "to do, do"
+   },
+   {
+    "he": "לפתוח",
+    "tr": "lpţwẖ",
+    "en": "to open"
+   },
+   {
+    "he": "לקחת",
+    "tr": "lqẖţ",
+    "en": "to take"
+   },
+   {
+    "he": "לקנות",
+    "tr": "lqnwţ",
+    "en": "to buy, to purchase, buying"
+   },
+   {
+    "he": "לקרוא",
+    "tr": "lqrwʼ",
+    "en": "to read, reading"
+   },
+   {
+    "he": "לרוץ",
+    "tr": "lrwẕ",
+    "en": "running, to run, run"
+   },
+   {
+    "he": "לשבור",
+    "tr": "lşbwr",
+    "en": "to break"
+   },
+   {
+    "he": "לשחות",
+    "tr": "lşẖwţ",
+    "en": "to swim"
+   },
+   {
+    "he": "לשיר",
+    "tr": "lşyr",
+    "en": "singing"
+   },
+   {
+    "he": "לשכוח",
+    "tr": "lşkwẖ",
+    "en": "to forget, forgetting"
+   },
+   {
+    "he": "לשמוע",
+    "tr": "lşmwʻ",
+    "en": "to hear, hear"
+   },
+   {
+    "he": "לשקול",
+    "tr": "lşqwl",
+    "en": "to weigh, to consider"
+   },
+   {
+    "he": "לתת",
+    "tr": "lţţ",
+    "en": "to give"
+   }
+  ]
+ },
+ {
+  "skill": "17 Colors Discuss colors",
+  "words": [
+   {
+    "he": "אדום",
+    "tr": "ʼdwm",
+    "en": "red (sg. masc.)"
+   },
+   {
+    "he": "ורוד",
+    "tr": "wrwd",
+    "en": "pink (sg. masc.)"
+   },
+   {
+    "he": "חום",
+    "tr": "ẖwm",
+    "en": "brown, heat"
+   },
+   {
+    "he": "ירוק",
+    "tr": "yrwq",
+    "en": "green"
+   },
+   {
+    "he": "כחול",
+    "tr": "kẖwl",
+    "en": "blue (sg. masc.)"
+   },
+   {
+    "he": "כתום",
+    "tr": "kţwm",
+    "en": "orange (color-sg. masc.)"
+   },
+   {
+    "he": "לבן",
+    "tr": "lbn",
+    "en": "white (sg. masc.)"
+   },
+   {
+    "he": "לצבוע",
+    "tr": "lẕbwʻ",
+    "en": "to dye, to color, to paint, dye"
+   },
+   {
+    "he": "סגול",
+    "tr": "sgwl",
+    "en": "purple (sg. masc.)"
+   },
+   {
+    "he": "צבע",
+    "tr": "ẕbʻ",
+    "en": "color, a color"
+   },
+   {
+    "he": "צבעוני",
+    "tr": "ẕbʻwny",
+    "en": "colorful (sg. masc.)"
+   },
+   {
+    "he": "צהוב",
+    "tr": "ẕhwb",
+    "en": "yellow (sg. masc.)"
+   },
+   {
+    "he": "שחור",
+    "tr": "şẖwr",
+    "en": "black (sg. masc.), dark"
+   }
+  ]
+ },
+ {
+  "skill": "18 Prepositions 1 Express actions with objects",
+  "words": [
+   {
+    "he": "איתה",
+    "tr": "ʼyţh",
+    "en": "with her"
+   },
+   {
+    "he": "איתו",
+    "tr": "ʼyţw",
+    "en": "with him, with it"
+   },
+   {
+    "he": "איתי",
+    "tr": "ʼyţy",
+    "en": "with me"
+   },
+   {
+    "he": "איתנו",
+    "tr": "ʼyţnw",
+    "en": "with us"
+   },
+   {
+    "he": "בה",
+    "tr": "bh",
+    "en": "her, in her, at her, in it"
+   },
+   {
+    "he": "בו",
+    "tr": "bw",
+    "en": "him, in it (masc. nouns), at him"
+   },
+   {
+    "he": "בי",
+    "tr": "by",
+    "en": "me, in me, at me"
+   },
+   {
+    "he": "בנו",
+    "tr": "bnw",
+    "en": "us, in us, at us"
+   },
+   {
+    "he": "בשביל",
+    "tr": "bşbyl",
+    "en": "for, in order"
+   },
+   {
+    "he": "בשבילה",
+    "tr": "bşbylh",
+    "en": "for her"
+   },
+   {
+    "he": "בשבילו",
+    "tr": "bşbylw",
+    "en": "for him"
+   },
+   {
+    "he": "בשבילי",
+    "tr": "bşbyly",
+    "en": "for me"
+   },
+   {
+    "he": "בשבילנו",
+    "tr": "bşbylnw",
+    "en": "for us"
+   },
+   {
+    "he": "בתוך",
+    "tr": "bţwk",
+    "en": "inside, within"
+   },
+   {
+    "he": "בתוכה",
+    "tr": "bţwkh",
+    "en": "inside her, inside it, within her"
+   },
+   {
+    "he": "בתוכו",
+    "tr": "bţwkw",
+    "en": "inside him, inside it (masc.)"
+   },
+   {
+    "he": "בתוכי",
+    "tr": "bţwky",
+    "en": "inside me"
+   },
+   {
+    "he": "בתוכנו",
+    "tr": "bţwknw",
+    "en": "inside us"
+   },
+   {
+    "he": "ליד",
+    "tr": "lyd",
+    "en": "next to, beside"
+   },
+   {
+    "he": "לידה",
+    "tr": "lydh",
+    "en": "next to her, birth"
+   },
+   {
+    "he": "לידו",
+    "tr": "lydw",
+    "en": "next to him"
+   },
+   {
+    "he": "לידי",
+    "tr": "lydy",
+    "en": "next to me"
+   },
+   {
+    "he": "לידנו",
+    "tr": "lydnw",
+    "en": "next to us"
+   },
+   {
+    "he": "מאיתנו",
+    "tr": "mʼyţnw",
+    "en": "from us, of us"
+   },
+   {
+    "he": "ממנה",
+    "tr": "mmnh",
+    "en": "from her"
+   },
+   {
+    "he": "ממנו",
+    "tr": "mmnw",
+    "en": "from him, than him"
+   },
+   {
+    "he": "ממני",
+    "tr": "mmny",
+    "en": "from me, than me"
+   },
+   {
+    "he": "מן",
+    "tr": "mn",
+    "en": "from"
+   },
+   {
+    "he": "נגד",
+    "tr": "ngd",
+    "en": "against"
+   },
+   {
+    "he": "נגדה",
+    "tr": "ngdh",
+    "en": "against her"
+   },
+   {
+    "he": "נגדו",
+    "tr": "ngdw",
+    "en": "against him"
+   },
+   {
+    "he": "נגדי",
+    "tr": "ngdy",
+    "en": "against me"
+   },
+   {
+    "he": "נגדנו",
+    "tr": "ngdnw",
+    "en": "against us"
+   },
+   {
+    "he": "עם",
+    "tr": "ʻm",
+    "en": "with"
+   }
+  ]
+ },
+ {
+  "skill": "19 Numbers 1 Describe amounts",
+  "words": [
+   {
+    "he": "אחד",
+    "tr": "ʼẖd",
+    "en": "one (masc.), just anyone"
+   },
+   {
+    "he": "אחד עשר",
+    "tr": "ʼẖd ʻşr",
+    "en": "eleven (masc.)"
+   },
+   {
+    "he": "אחת",
+    "tr": "ʼẖţ",
+    "en": "one"
+   },
+   {
+    "he": "אחת עשרה",
+    "tr": "ʼẖţ ʻşrh",
+    "en": "eleven (fem.)"
+   },
+   {
+    "he": "אפס",
+    "tr": "ʼps",
+    "en": "zero, nil"
+   },
+   {
+    "he": "ארבע",
+    "tr": "ʼrbʻ",
+    "en": "four (fem.)"
+   },
+   {
+    "he": "ארבע עשרה",
+    "tr": "ʼrbʻ ʻşrh",
+    "en": "fourteen (fem.)"
+   },
+   {
+    "he": "ארבעה",
+    "tr": "ʼrbʻh",
+    "en": "four (masc.)"
+   },
+   {
+    "he": "ארבעה עשר",
+    "tr": "ʼrbʻh ʻşr",
+    "en": "fourteen (masc.)"
+   },
+   {
+    "he": "הרבה",
+    "tr": "hrbh",
+    "en": "a lot, many, a lot of"
+   },
+   {
+    "he": "חמישה",
+    "tr": "ẖmyşh",
+    "en": "five (masc.)"
+   },
+   {
+    "he": "חמישה עשר",
+    "tr": "ẖmyşh ʻşr",
+    "en": "fifteen (masc.)"
+   },
+   {
+    "he": "חמש",
+    "tr": "ẖmş",
+    "en": "five (fem.)"
+   },
+   {
+    "he": "חמש עשרה",
+    "tr": "ẖmş ʻşrh",
+    "en": "fifteen (fem.)"
+   },
+   {
+    "he": "יותר",
+    "tr": "ywţr",
+    "en": "any longer, any more, more, anymore"
+   },
+   {
+    "he": "לספור",
+    "tr": "lspwr",
+    "en": "to count"
+   },
+   {
+    "he": "מדי",
+    "tr": "mdy",
+    "en": "much, too"
+   },
+   {
+    "he": "מספר",
+    "tr": "mspr",
+    "en": "number, a few, several, a number, telling"
+   },
+   {
+    "he": "עשר",
+    "tr": "ʻşr",
+    "en": "ten (fem.)"
+   },
+   {
+    "he": "עשרה",
+    "tr": "ʻşrh",
+    "en": "ten (masc.)"
+   },
+   {
+    "he": "עשרים",
+    "tr": "ʻşrym",
+    "en": "twenty"
+   },
+   {
+    "he": "פחות",
+    "tr": "pẖwţ",
+    "en": "less, minus"
+   },
+   {
+    "he": "שבע",
+    "tr": "şbʻ",
+    "en": "seven (fem.)"
+   },
+   {
+    "he": "שבע עשרה",
+    "tr": "şbʻ ʻşrh",
+    "en": "seventeen (fem.)"
+   },
+   {
+    "he": "שבעה",
+    "tr": "şbʻh",
+    "en": "seven (masc.)"
+   },
+   {
+    "he": "שבעה עשר",
+    "tr": "şbʻh ʻşr",
+    "en": "seventeen (masc.)"
+   },
+   {
+    "he": "שישה",
+    "tr": "şyşh",
+    "en": "six (masc.)"
+   },
+   {
+    "he": "שישה עשר",
+    "tr": "şyşh ʻşr",
+    "en": "sixteen (masc.)"
+   },
+   {
+    "he": "שלוש",
+    "tr": "şlwş",
+    "en": "three (fem.)"
+   },
+   {
+    "he": "שלוש עשרה",
+    "tr": "şlwş ʻşrh",
+    "en": "thirteen (fem.)"
+   },
+   {
+    "he": "שלושה",
+    "tr": "şlwşh",
+    "en": "three (masc.)"
+   },
+   {
+    "he": "שלושה עשר",
+    "tr": "şlwşh ʻşr",
+    "en": "thirteen (masc.)"
+   },
+   {
+    "he": "שמונֶה",
+    "tr": "şmwneh",
+    "en": "eight (fem.)"
+   },
+   {
+    "he": "שמונָה",
+    "tr": "şmwnáh",
+    "en": "eight (masc.)"
+   },
+   {
+    "he": "שמונה עשר",
+    "tr": "şmwnh ʻşr",
+    "en": "eighteen (masc.)"
+   },
+   {
+    "he": "שמונה עשרה",
+    "tr": "şmwnh ʻşrh",
+    "en": "eighteen (fem.)"
+   },
+   {
+    "he": "שניים",
+    "tr": "şnyym",
+    "en": "two (masc.)"
+   },
+   {
+    "he": "שניים עשר",
+    "tr": "şnyym ʻşr",
+    "en": "twelve (masc.)"
+   },
+   {
+    "he": "שש",
+    "tr": "şş",
+    "en": "six (fem.)"
+   },
+   {
+    "he": "שש עשרה",
+    "tr": "şş ʻşrh",
+    "en": "sixteen (fem.)"
+   },
+   {
+    "he": "שתיים",
+    "tr": "şţyym",
+    "en": "two (fem.)"
+   },
+   {
+    "he": "שתיים עשרה",
+    "tr": "şţyym ʻşrh",
+    "en": "twelve (fem.)"
+   },
+   {
+    "he": "תשע",
+    "tr": "ţşʻ",
+    "en": "nine (fem.)"
+   },
+   {
+    "he": "תשע עשרה",
+    "tr": "ţşʻ ʻşrh",
+    "en": "nineteen (fem.)"
+   },
+   {
+    "he": "תשעה",
+    "tr": "ţşʻh",
+    "en": "nine (masc.)"
+   },
+   {
+    "he": "תשעה עשר",
+    "tr": "ţşʻh ʻşr",
+    "en": "nineteen (masc.)"
+   }
+  ]
+ },
+ {
+  "skill": "20 Questions Ask questions",
+  "words": [
+   {
+    "he": "איזה",
+    "tr": "ʼyzh",
+    "en": "which, what"
+   },
+   {
+    "he": "איזו",
+    "tr": "ʼyzw",
+    "en": "which, what"
+   },
+   {
+    "he": "איך",
+    "tr": "ʼyk",
+    "en": "how, how is"
+   },
+   {
+    "he": "אילו",
+    "tr": "ʼylw",
+    "en": "which, what, if"
+   },
+   {
+    "he": "איפה",
+    "tr": "ʼyph",
+    "en": "where are, where, where did, where is, anywhere, wherever"
+   },
+   {
+    "he": "את מי",
+    "tr": "ʼţ my",
+    "en": "whom"
+   },
+   {
+    "he": "באיזה",
+    "tr": "bʼyzh",
+    "en": "in which, in what, on which"
+   },
+   {
+    "he": "בשביל מה",
+    "tr": "bşbyl mh",
+    "en": "for what, what for"
+   },
+   {
+    "he": "כמה",
+    "tr": "kmh",
+    "en": "a few, how many, several, how much, how"
+   },
+   {
+    "he": "לאן",
+    "tr": "lʼn",
+    "en": "where to, where, wherever"
+   },
+   {
+    "he": "למה",
+    "tr": "lmh",
+    "en": "why"
+   },
+   {
+    "he": "למי",
+    "tr": "lmy",
+    "en": "who to, who, who for, to whom"
+   },
+   {
+    "he": "לענות",
+    "tr": "lʻnwţ",
+    "en": "to answer, answer"
+   },
+   {
+    "he": "לשאול",
+    "tr": "lşʼwl",
+    "en": "to ask"
+   },
+   {
+    "he": "מאיפה",
+    "tr": "mʼyph",
+    "en": "where from"
+   },
+   {
+    "he": "מה",
+    "tr": "mh",
+    "en": "what, what does, what is, what are, what do"
+   },
+   {
+    "he": "מי",
+    "tr": "my",
+    "en": "who, who are, the one who, who is"
+   },
+   {
+    "he": "ממי",
+    "tr": "mmy",
+    "en": "who from, from whom"
+   },
+   {
+    "he": "מתי",
+    "tr": "mţy",
+    "en": "when, when does, when is"
+   },
+   {
+    "he": "עם מי",
+    "tr": "ʻm my",
+    "en": "who with, with whom"
+   },
+   {
+    "he": "שאלה",
+    "tr": "şʼlh",
+    "en": "question, a question"
+   },
+   {
+    "he": "של מי",
+    "tr": "şl my",
+    "en": "whose"
+   },
+   {
+    "he": "תשובה",
+    "tr": "ţşwbh",
+    "en": "answer, an answer, reply"
+   }
+  ]
+ },
+ {
+  "skill": "21 Determiners Talk about daily life",
+  "words": [
+   {
+    "he": "אוכלים",
+    "tr": "ʼwklym",
+    "en": "are eating, eat, eating"
+   },
+   {
+    "he": "אומרים",
+    "tr": "ʼwmrym",
+    "en": "say, are saying"
+   },
+   {
+    "he": "אחר",
+    "tr": "ʼẖr",
+    "en": "other, another, else, different"
+   },
+   {
+    "he": "אלה",
+    "tr": "ʼlh",
+    "en": "these, those"
+   },
+   {
+    "he": "אלו",
+    "tr": "ʼlw",
+    "en": "these, those, these are"
+   },
+   {
+    "he": "אף אחד",
+    "tr": "ʼp ʼẖd",
+    "en": "nobody, anybody, no one, anyone"
+   },
+   {
+    "he": "דבר",
+    "tr": "dbr",
+    "en": "speak (imp.), a thing, thing, talk (imp.)"
+   },
+   {
+    "he": "האלה",
+    "tr": "hʼlh",
+    "en": "these, those"
+   },
+   {
+    "he": "האלו",
+    "tr": "hʼlw",
+    "en": "these, those"
+   },
+   {
+    "he": "הזאת",
+    "tr": "hzʼţ",
+    "en": "this, that"
+   },
+   {
+    "he": "הזה",
+    "tr": "hzh",
+    "en": "this, that"
+   },
+   {
+    "he": "הכל",
+    "tr": "hkl",
+    "en": "everything, all"
+   },
+   {
+    "he": "כולם",
+    "tr": "kwlm",
+    "en": "all of them, everybody, everyone"
+   },
+   {
+    "he": "כולן",
+    "tr": "kwln",
+    "en": "all of them (fem.), they all (fem.)"
+   },
+   {
+    "he": "כזה",
+    "tr": "kzh",
+    "en": "like this, such"
+   },
+   {
+    "he": "ככה",
+    "tr": "kkh",
+    "en": "like this, this way, like so"
+   },
+   {
+    "he": "כל",
+    "tr": "kl",
+    "en": "all, entire, all of, whole, whatever, every, each"
+   },
+   {
+    "he": "כלום",
+    "tr": "klwm",
+    "en": "nothing, not - anything"
+   },
+   {
+    "he": "מדברים",
+    "tr": "mdbrym",
+    "en": "are talking, speak, talking, are speaking, talk, speaking"
+   },
+   {
+    "he": "מישהו",
+    "tr": "myşhw",
+    "en": "someone, somebody, anyone"
+   },
+   {
+    "he": "מספר",
+    "tr": "mspr",
+    "en": "number, a few, several, a number, telling"
+   },
+   {
+    "he": "משהו",
+    "tr": "mşhw",
+    "en": "something"
+   },
+   {
+    "he": "עושים",
+    "tr": "ʻwşym",
+    "en": "are doing, make, do, are making, doing"
+   },
+   {
+    "he": "שום",
+    "tr": "şwm",
+    "en": "any, no, garlic"
+   },
+   {
+    "he": "שום דבר",
+    "tr": "şwm dbr",
+    "en": "nothing, anything"
+   },
+   {
+    "he": "שום דבר מלבד",
+    "tr": "şwm dbr mlbd",
+    "en": "anything but, anything except for, nothing except for, nothing but"
+   },
+   {
+    "he": "שומעים",
+    "tr": "şwmʻym",
+    "en": "hear, one can hear, are hearing"
+   },
+   {
+    "he": "שניהם",
+    "tr": "şnyhm",
+    "en": "both, them both, both of them"
+   }
+  ]
+ },
+ {
+  "skill": "22 Occupations Discuss work",
+  "words": [
+   {
+    "he": "אדריכל",
+    "tr": "ʼdrykl",
+    "en": "architect (m)"
+   },
+   {
+    "he": "אמן",
+    "tr": "ʼmn",
+    "en": "an artist, artist"
+   },
+   {
+    "he": "בוס",
+    "tr": "bws",
+    "en": "boss (male)"
+   },
+   {
+    "he": "במאי",
+    "tr": "bmʼy",
+    "en": "a director, director, in May, (film) director"
+   },
+   {
+    "he": "דוגמן",
+    "tr": "dwgmn",
+    "en": "model"
+   },
+   {
+    "he": "התמחות",
+    "tr": "hţmẖwţ",
+    "en": "apprenticeship, expertise, internship"
+   },
+   {
+    "he": "חייל",
+    "tr": "ẖyyl",
+    "en": "soldier"
+   },
+   {
+    "he": "לעצור",
+    "tr": "lʻẕwr",
+    "en": "to stop, to arrest"
+   },
+   {
+    "he": "מהנדס",
+    "tr": "mhnds",
+    "en": "engineer"
+   },
+   {
+    "he": "מזכיר",
+    "tr": "mzkyr",
+    "en": "reminds of, secretary, reminds, remind of"
+   },
+   {
+    "he": "מלצר",
+    "tr": "mlẕr",
+    "en": "waiter"
+   },
+   {
+    "he": "מקצוע",
+    "tr": "mqẕwʻ",
+    "en": "profession"
+   },
+   {
+    "he": "משטרה",
+    "tr": "mştrh",
+    "en": "police"
+   },
+   {
+    "he": "נהג",
+    "tr": "nhg",
+    "en": "driver"
+   },
+   {
+    "he": "סופר",
+    "tr": "swpr",
+    "en": "counts, count, writer, is counting, author, counting"
+   },
+   {
+    "he": "עבודה",
+    "tr": "ʻbwdh",
+    "en": "work, employment, job, a job, assignment, labor"
+   },
+   {
+    "he": "עורך דין",
+    "tr": "ʻwrk dyn",
+    "en": "a lawyer (male)"
+   },
+   {
+    "he": "עיתונאי",
+    "tr": "ʻyţwnʼy",
+    "en": "journalist"
+   },
+   {
+    "he": "פועל",
+    "tr": "pwʻl",
+    "en": "worker"
+   },
+   {
+    "he": "צוות",
+    "tr": "ẕwwţ",
+    "en": "a team, a staff, staff, team, crew"
+   },
+   {
+    "he": "צייר",
+    "tr": "ẕyyr",
+    "en": "painter"
+   },
+   {
+    "he": "קברניט",
+    "tr": "qbrnyt",
+    "en": "captain"
+   },
+   {
+    "he": "קצין",
+    "tr": "qẕyn",
+    "en": "an officer, officer"
+   },
+   {
+    "he": "קריירה",
+    "tr": "qryyrh",
+    "en": "career, a career"
+   },
+   {
+    "he": "רופא",
+    "tr": "rwpʼ",
+    "en": "doctor, a doctor"
+   },
+   {
+    "he": "שוטר",
+    "tr": "şwtr",
+    "en": "cop, police officer, policeman"
+   },
+   {
+    "he": "שומר",
+    "tr": "şwmr",
+    "en": "standing guard, is keeping, is saving, is protecting, is looking after, keeps, guards, guards over, save, looks after, protects, keep, guarding"
+   },
+   {
+    "he": "שופט",
+    "tr": "şwpt",
+    "en": "judge"
+   },
+   {
+    "he": "שחקן",
+    "tr": "şẖqn",
+    "en": "actor, an actor, player"
+   },
+   {
+    "he": "תלמיד",
+    "tr": "ţlmyd",
+    "en": "student"
+   }
+  ]
+ },
+ {
+  "skill": "23 Conjunctions Form complex sentences",
+  "words": [
+   {
+    "he": "אבל",
+    "tr": "ʼbl",
+    "en": "but"
+   },
+   {
+    "he": "אז",
+    "tr": "ʼz",
+    "en": "so, then"
+   },
+   {
+    "he": "אך",
+    "tr": "ʼk",
+    "en": "but"
+   },
+   {
+    "he": "אלא",
+    "tr": "ʼlʼ",
+    "en": "but, but rather"
+   },
+   {
+    "he": "אם",
+    "tr": "ʼm",
+    "en": "if, whether"
+   },
+   {
+    "he": "אף על פי",
+    "tr": "ʼp ʻl py",
+    "en": "even though"
+   },
+   {
+    "he": "אפילו",
+    "tr": "ʼpylw",
+    "en": "even"
+   },
+   {
+    "he": "בזמן ש",
+    "tr": "bzmn ş",
+    "en": "while"
+   },
+   {
+    "he": "גם",
+    "tr": "gm",
+    "en": "too, also, as well"
+   },
+   {
+    "he": "חוץ מ",
+    "tr": "ẖwẕ m",
+    "en": "but"
+   },
+   {
+    "he": "כבר",
+    "tr": "kbr",
+    "en": "yet, already, anymore"
+   },
+   {
+    "he": "כי",
+    "tr": "ky",
+    "en": "because"
+   },
+   {
+    "he": "לכן",
+    "tr": "lkn",
+    "en": "you, therefore, That's why"
+   },
+   {
+    "he": "למרות",
+    "tr": "lmrwţ",
+    "en": "although, despite, even though"
+   },
+   {
+    "he": "מתי ש",
+    "tr": "mţy ş",
+    "en": "when"
+   },
+   {
+    "he": "עדיין",
+    "tr": "ʻdyyn",
+    "en": "still, yet"
+   },
+   {
+    "he": "רק",
+    "tr": "rq",
+    "en": "only, just"
+   },
+   {
+    "he": "ש",
+    "tr": "ş",
+    "en": "that"
+   }
+  ]
+ },
+ {
+  "skill": "24 Prepositions 2 Refer to locations",
+  "words": [
+   {
+    "he": "אל",
+    "tr": "ʼl",
+    "en": "towards, to, toward"
+   },
+   {
+    "he": "אליה",
+    "tr": "ʼlyh",
+    "en": "to her, towards her"
+   },
+   {
+    "he": "אליו",
+    "tr": "ʼlyw",
+    "en": "towards him, to him, him"
+   },
+   {
+    "he": "אליי",
+    "tr": "ʼlyy",
+    "en": "to me, towards me"
+   },
+   {
+    "he": "אלינו",
+    "tr": "ʼlynw",
+    "en": "towards us, to us, us"
+   },
+   {
+    "he": "אצל",
+    "tr": "ʼẕl",
+    "en": "at, at one's place, among"
+   },
+   {
+    "he": "בחוץ",
+    "tr": "bẖwẕ",
+    "en": "outside"
+   },
+   {
+    "he": "בין",
+    "tr": "byn",
+    "en": "between...and..., between, among"
+   },
+   {
+    "he": "בלי",
+    "tr": "bly",
+    "en": "without"
+   },
+   {
+    "he": "בפנים",
+    "tr": "bpnym",
+    "en": "inside"
+   },
+   {
+    "he": "מאחורי",
+    "tr": "mʼẖwry",
+    "en": "behind"
+   },
+   {
+    "he": "מול",
+    "tr": "mwl",
+    "en": "in front of, opposite, facing, across from"
+   },
+   {
+    "he": "מעל",
+    "tr": "mʻl",
+    "en": "above, over"
+   },
+   {
+    "he": "מתחת",
+    "tr": "mţẖţ",
+    "en": "under, beneath, underneath, below"
+   },
+   {
+    "he": "נמצא",
+    "tr": "nmẕʼ",
+    "en": "is, is found, was found, am, are, located"
+   },
+   {
+    "he": "על",
+    "tr": "ʻl",
+    "en": "over, about, on top of, at, on, of"
+   },
+   {
+    "he": "עליה",
+    "tr": "ʻlyh",
+    "en": "about her, on her"
+   },
+   {
+    "he": "עליו",
+    "tr": "ʻlyw",
+    "en": "about him, on him, he must"
+   },
+   {
+    "he": "עליי",
+    "tr": "ʻlyy",
+    "en": "on me, I must, I have to, about me"
+   },
+   {
+    "he": "עלינו",
+    "tr": "ʻlynw",
+    "en": "we must, about us, on us, we have to"
+   }
+  ]
+ },
+ {
+  "skill": "25 Possessives 2 Use the possessive",
+  "words": [
+   {
+    "he": "אבא",
+    "tr": "ʼbʼ",
+    "en": "father, dad"
+   },
+   {
+    "he": "אמא",
+    "tr": "ʼmʼ",
+    "en": "mom, mother, mum"
+   },
+   {
+    "he": "חולצה",
+    "tr": "ẖwlẕh",
+    "en": "a shirt, shirt"
+   },
+   {
+    "he": "חולצות",
+    "tr": "ẖwlẕwţ",
+    "en": "shirts"
+   },
+   {
+    "he": "ילד",
+    "tr": "yld",
+    "en": "boy, a child, a boy, child"
+   },
+   {
+    "he": "ילדה",
+    "tr": "yldh",
+    "en": "girl, a girl, child"
+   },
+   {
+    "he": "ילדות",
+    "tr": "yldwţ",
+    "en": "girls"
+   },
+   {
+    "he": "ילדים",
+    "tr": "yldym",
+    "en": "kids, children, boys"
+   },
+   {
+    "he": "כלב",
+    "tr": "klb",
+    "en": "dog, a dog"
+   },
+   {
+    "he": "כלבה",
+    "tr": "klbh",
+    "en": "dog, her dog"
+   },
+   {
+    "he": "כלבים",
+    "tr": "klbym",
+    "en": "dogs, male dogs"
+   },
+   {
+    "he": "מסעדה",
+    "tr": "msʻdh",
+    "en": "a restaurant"
+   },
+   {
+    "he": "מסעדות",
+    "tr": "msʻdwţ",
+    "en": "restaurants"
+   },
+   {
+    "he": "סוס",
+    "tr": "sws",
+    "en": "horse, a horse"
+   },
+   {
+    "he": "ציפורים",
+    "tr": "ẕypwrym",
+    "en": "birds"
+   },
+   {
+    "he": "שמלה",
+    "tr": "şmlh",
+    "en": "a dress, dress"
+   }
+  ]
+ },
+ {
+  "skill": "26 Verbs: Present - Pi'el Form advanced verbs",
+  "words": [
+   {
+    "he": "לבקר",
+    "tr": "lbqr",
+    "en": "to visit"
+   },
+   {
+    "he": "לחכות",
+    "tr": "lẖkwţ",
+    "en": "to wait"
+   },
+   {
+    "he": "לנצח",
+    "tr": "lnẕẖ",
+    "en": "to win, winning"
+   },
+   {
+    "he": "לסיים",
+    "tr": "lsyym",
+    "en": "to finish"
+   },
+   {
+    "he": "לערבב",
+    "tr": "lʻrbb",
+    "en": "toss"
+   },
+   {
+    "he": "לפחד",
+    "tr": "lpẖd",
+    "en": "to be afraid, to be scared, to be afraid of"
+   },
+   {
+    "he": "לפספס",
+    "tr": "lpsps",
+    "en": "to miss"
+   },
+   {
+    "he": "לקבל",
+    "tr": "lqbl",
+    "en": "to receive, to get, to accept"
+   },
+   {
+    "he": "לשחק",
+    "tr": "lşẖq",
+    "en": "to play"
+   },
+   {
+    "he": "לשלם",
+    "tr": "lşlm",
+    "en": "to pay"
+   },
+   {
+    "he": "לשנות",
+    "tr": "lşnwţ",
+    "en": "to change"
+   },
+   {
+    "he": "לתקן",
+    "tr": "lţqn",
+    "en": "to fix, to repair"
+   }
+  ]
+ },
+ {
+  "skill": "27 Dates and Time Talk about time",
+  "words": [
+   {
+    "he": "אביב",
+    "tr": "ʼbyb",
+    "en": "spring"
+   },
+   {
+    "he": "אוגוסט",
+    "tr": "ʼwgwst",
+    "en": "August"
+   },
+   {
+    "he": "אוקטובר",
+    "tr": "ʼwqtwbr",
+    "en": "October"
+   },
+   {
+    "he": "אחר הצהריים",
+    "tr": "ʼẖr hẕhryym",
+    "en": "afternoon"
+   },
+   {
+    "he": "אף פעם",
+    "tr": "ʼp pʻm",
+    "en": "never"
+   },
+   {
+    "he": "אפריל",
+    "tr": "ʼpryl",
+    "en": "April"
+   },
+   {
+    "he": "אתמול",
+    "tr": "ʼţmwl",
+    "en": "yesterday"
+   },
+   {
+    "he": "גיל",
+    "tr": "gyl",
+    "en": "age"
+   },
+   {
+    "he": "דור",
+    "tr": "dwr",
+    "en": "generation"
+   },
+   {
+    "he": "דצמבר",
+    "tr": "dẕmbr",
+    "en": "December"
+   },
+   {
+    "he": "דקה",
+    "tr": "dqh",
+    "en": "minute"
+   },
+   {
+    "he": "הבא",
+    "tr": "hbʼ",
+    "en": "next"
+   },
+   {
+    "he": "הווה",
+    "tr": "hwwh",
+    "en": "present (tense), present"
+   },
+   {
+    "he": "היום",
+    "tr": "hywm",
+    "en": "today, the day"
+   },
+   {
+    "he": "הערב",
+    "tr": "hʻrb",
+    "en": "the evening, this evening, tonight"
+   },
+   {
+    "he": "זמן",
+    "tr": "zmn",
+    "en": "time"
+   },
+   {
+    "he": "חודש",
+    "tr": "ẖwdş",
+    "en": "month"
+   },
+   {
+    "he": "חודשיים",
+    "tr": "ẖwdşyym",
+    "en": "two months"
+   },
+   {
+    "he": "חורף",
+    "tr": "ẖwrp",
+    "en": "winter"
+   },
+   {
+    "he": "חצות",
+    "tr": "ẖẕwţ",
+    "en": "midnight"
+   },
+   {
+    "he": "יולי",
+    "tr": "ywly",
+    "en": "July"
+   },
+   {
+    "he": "יום",
+    "tr": "ywm",
+    "en": "day, a day"
+   },
+   {
+    "he": "יום הולדת",
+    "tr": "ywm hwldţ",
+    "en": "birthday"
+   },
+   {
+    "he": "יום חמישי",
+    "tr": "ywm ẖmyşy",
+    "en": "Thursday"
+   },
+   {
+    "he": "יום ראשון",
+    "tr": "ywm rʼşwn",
+    "en": "Sunday"
+   },
+   {
+    "he": "יום רביעי",
+    "tr": "ywm rbyʻy",
+    "en": "Wednesday"
+   },
+   {
+    "he": "יום שבת",
+    "tr": "ywm şbţ",
+    "en": "Saturday, Sabbath"
+   },
+   {
+    "he": "יום שישי",
+    "tr": "ywm şyşy",
+    "en": "Friday"
+   },
+   {
+    "he": "יום שלישי",
+    "tr": "ywm şlyşy",
+    "en": "Tuesday"
+   },
+   {
+    "he": "יום שני",
+    "tr": "ywm şny",
+    "en": "Monday"
+   },
+   {
+    "he": "יומיים",
+    "tr": "ywmyym",
+    "en": "two days, a couple of days"
+   },
+   {
+    "he": "יוני",
+    "tr": "ywny",
+    "en": "June"
+   },
+   {
+    "he": "ינואר",
+    "tr": "ynwʼr",
+    "en": "January"
+   },
+   {
+    "he": "כיום",
+    "tr": "kywm",
+    "en": "nowadays"
+   },
+   {
+    "he": "לוח שנה",
+    "tr": "lwẖ şnh",
+    "en": "calendar"
+   },
+   {
+    "he": "לילה",
+    "tr": "lylh",
+    "en": "night"
+   },
+   {
+    "he": "מאה",
+    "tr": "mʼh",
+    "en": "one hundred, hudred, century, hundred"
+   },
+   {
+    "he": "מאי",
+    "tr": "mʼy",
+    "en": "May"
+   },
+   {
+    "he": "מחר",
+    "tr": "mẖr",
+    "en": "tomorrow"
+   },
+   {
+    "he": "מחרתיים",
+    "tr": "mẖrţyym",
+    "en": "the day after tomorrow, in two days' time"
+   },
+   {
+    "he": "מסיבה",
+    "tr": "msybh",
+    "en": "party"
+   },
+   {
+    "he": "מרץ",
+    "tr": "mrẕ",
+    "en": "March"
+   },
+   {
+    "he": "נובמבר",
+    "tr": "nwbmbr",
+    "en": "November"
+   },
+   {
+    "he": "ספטמבר",
+    "tr": "sptmbr",
+    "en": "september"
+   },
+   {
+    "he": "סתיו",
+    "tr": "sţyw",
+    "en": "autumn"
+   },
+   {
+    "he": "עד",
+    "tr": "ʻd",
+    "en": "until, up to"
+   },
+   {
+    "he": "עונה",
+    "tr": "ʻwnh",
+    "en": "answer, season"
+   },
+   {
+    "he": "עידן",
+    "tr": "ʻydn",
+    "en": "age, era"
+   },
+   {
+    "he": "עכשיו",
+    "tr": "ʻkşyw",
+    "en": "now"
+   },
+   {
+    "he": "עשור",
+    "tr": "ʻşwr",
+    "en": "decade"
+   },
+   {
+    "he": "פברואר",
+    "tr": "pbrwʼr",
+    "en": "February"
+   },
+   {
+    "he": "צהריים",
+    "tr": "ẕhryym",
+    "en": "noon"
+   },
+   {
+    "he": "קיץ",
+    "tr": "qyẕ",
+    "en": "summer"
+   },
+   {
+    "he": "קצת",
+    "tr": "qẕţ",
+    "en": "a bit, a little, a little bit, slightly"
+   },
+   {
+    "he": "רגע",
+    "tr": "rgʻ",
+    "en": "moment"
+   },
+   {
+    "he": "שבוע",
+    "tr": "şbwʻ",
+    "en": "week"
+   },
+   {
+    "he": "שבועיים",
+    "tr": "şbwʻyym",
+    "en": "two weeks"
+   },
+   {
+    "he": "שלשום",
+    "tr": "şlşwm",
+    "en": "two days ago, the day before yesterday"
+   },
+   {
+    "he": "שנה",
+    "tr": "şnh",
+    "en": "a year, year"
+   },
+   {
+    "he": "שניה",
+    "tr": "şnyh",
+    "en": "second (time), second"
+   },
+   {
+    "he": "שנתיים",
+    "tr": "şnţyym",
+    "en": "two years"
+   },
+   {
+    "he": "שעבר",
+    "tr": "şʻbr",
+    "en": "that passed (last), last"
+   },
+   {
+    "he": "שעה",
+    "tr": "şʻh",
+    "en": "hour"
+   },
+   {
+    "he": "שעתיים",
+    "tr": "şʻţyym",
+    "en": "two hours, a couple of hours"
+   },
+   {
+    "he": "תאריך",
+    "tr": "ţʼryk",
+    "en": "date"
+   },
+   {
+    "he": "תמיד",
+    "tr": "ţmyd",
+    "en": "always"
+   },
+   {
+    "he": "תקופה",
+    "tr": "ţqwph",
+    "en": "period"
+   }
+  ]
+ },
+ {
+  "skill": "28 Adjectives 2 Describe people and things",
+  "words": [
+   {
+    "he": "אחראי",
+    "tr": "ʼẖrʼy",
+    "en": "responsible (sg. masc.)"
+   },
+   {
+    "he": "אמיתי",
+    "tr": "ʼmyţy",
+    "en": "real (sg. masc.), genuine"
+   },
+   {
+    "he": "אפשרי",
+    "tr": "ʼpşry",
+    "en": "possible (sg. masc.)"
+   },
+   {
+    "he": "בלתי אפשרי",
+    "tr": "blţy ʼpşry",
+    "en": "impossible (sg. masc.)"
+   },
+   {
+    "he": "הכרחי",
+    "tr": "hkrẖy",
+    "en": "necessary (sg. masc.), essential (sg. masc.)"
+   },
+   {
+    "he": "זול",
+    "tr": "zwl",
+    "en": "cheap"
+   },
+   {
+    "he": "חופשי",
+    "tr": "ẖwpşy",
+    "en": "free (sg. masc.)"
+   },
+   {
+    "he": "חזק",
+    "tr": "ẖzq",
+    "en": "loudly, hard, strong (sg. masc.)"
+   },
+   {
+    "he": "חי",
+    "tr": "ẖy",
+    "en": "alive (sg. masc.), lives, live (sg. masc.)"
+   },
+   {
+    "he": "חיובי",
+    "tr": "ẖywby",
+    "en": "positive (sg. masc.)"
+   },
+   {
+    "he": "חלש",
+    "tr": "ẖlş",
+    "en": "weak (sg. masc.)"
+   },
+   {
+    "he": "חשוב",
+    "tr": "ẖşwb",
+    "en": "important (sg. masc.)"
+   },
+   {
+    "he": "יעיל",
+    "tr": "yʻyl",
+    "en": "efficient"
+   },
+   {
+    "he": "יקר",
+    "tr": "yqr",
+    "en": "expensive, dear"
+   },
+   {
+    "he": "מגעיל",
+    "tr": "mgʻyl",
+    "en": "disgusting"
+   },
+   {
+    "he": "מוכר",
+    "tr": "mwkr",
+    "en": "is selling, selling, sell, sells"
+   },
+   {
+    "he": "מושלם",
+    "tr": "mwşlm",
+    "en": "perfect"
+   },
+   {
+    "he": "מיוחד",
+    "tr": "mywẖd",
+    "en": "special (sg. masc.)"
+   },
+   {
+    "he": "מלוכלך",
+    "tr": "mlwklk",
+    "en": "dirty (sg. masc.)"
+   },
+   {
+    "he": "מעניין",
+    "tr": "mʻnyyn",
+    "en": "interesting (sg. masc.)"
+   },
+   {
+    "he": "מפורסם",
+    "tr": "mpwrsm",
+    "en": "famous (sg. masc.)"
+   },
+   {
+    "he": "מצוין",
+    "tr": "mẕwyn",
+    "en": "excellent (sg. masc.), great"
+   },
+   {
+    "he": "מקצועי",
+    "tr": "mqẕwʻy",
+    "en": "professional"
+   },
+   {
+    "he": "מרכזי",
+    "tr": "mrkzy",
+    "en": "main, central, fundamental"
+   },
+   {
+    "he": "משעמם",
+    "tr": "mşʻmm",
+    "en": "boring (sg. masc.)"
+   },
+   {
+    "he": "נהדר",
+    "tr": "nhdr",
+    "en": "terrific (sg. masc.), great (sg. masc.), great"
+   },
+   {
+    "he": "נוח",
+    "tr": "nwẖ",
+    "en": "comfortable (sg. masc.), convinient (sg. masc.)"
+   },
+   {
+    "he": "נחמד",
+    "tr": "nẖmd",
+    "en": "nicely, nice (sg. masc.), pleasant (sg. masc.), nice"
+   },
+   {
+    "he": "נכון",
+    "tr": "nkwn",
+    "en": "right, correctly, correct, that's right"
+   },
+   {
+    "he": "נקי",
+    "tr": "nqy",
+    "en": "clean (sg. masc.)"
+   },
+   {
+    "he": "סגור",
+    "tr": "sgwr",
+    "en": "closed (sg. masc.)"
+   },
+   {
+    "he": "עייף",
+    "tr": "ʻyyp",
+    "en": "tired (sg. masc.)"
+   },
+   {
+    "he": "עני",
+    "tr": "ʻny",
+    "en": "poor (sg. masc.), answer"
+   },
+   {
+    "he": "עצמאי",
+    "tr": "ʻẕmʼy",
+    "en": "independent (sg. masc.)"
+   },
+   {
+    "he": "עשיר",
+    "tr": "ʻşyr",
+    "en": "rich (sg. masc.), wealthy (sg. masc.)"
+   },
+   {
+    "he": "פרטי",
+    "tr": "prty",
+    "en": "private (sg. masc.)"
+   },
+   {
+    "he": "פשוט",
+    "tr": "pşwt",
+    "en": "simply, just, simple (sg. masc.)"
+   },
+   {
+    "he": "פתוח",
+    "tr": "pţwẖ",
+    "en": "open (sg. masc.)"
+   },
+   {
+    "he": "צבאי",
+    "tr": "ẕbʼy",
+    "en": "military (sg. masc.)"
+   },
+   {
+    "he": "צעיר",
+    "tr": "ẕʻyr",
+    "en": "young (sg. masc.)"
+   },
+   {
+    "he": "קל",
+    "tr": "ql",
+    "en": "light (sg. masc.), easy (sg. masc.)"
+   },
+   {
+    "he": "קשה",
+    "tr": "qşh",
+    "en": "boiled, hard, tough"
+   },
+   {
+    "he": "רב",
+    "tr": "rb",
+    "en": "many, great"
+   },
+   {
+    "he": "רגיל",
+    "tr": "rgyl",
+    "en": "normal (sg. masc.), ordinary (sg. masc.)"
+   },
+   {
+    "he": "רזה",
+    "tr": "rzh",
+    "en": "thin"
+   },
+   {
+    "he": "רציני",
+    "tr": "rẕyny",
+    "en": "serious"
+   },
+   {
+    "he": "שָמן",
+    "tr": "şámn",
+    "en": "fat (sg. masc.)"
+   },
+   {
+    "he": "שגוי",
+    "tr": "şgwy",
+    "en": "wrong (sg. masc.), incorrect (sg. masc.)"
+   },
+   {
+    "he": "שלילי",
+    "tr": "şlyly",
+    "en": "negative (sg. masc.)"
+   }
+  ]
+ },
+ {
+  "skill": "29 Adverbs Use adverbs",
+  "words": [
+   {
+    "he": "אחר כך",
+    "tr": "ʼẖr kk",
+    "en": "later, afterwards"
+   },
+   {
+    "he": "אחרת",
+    "tr": "ʼẖrţ",
+    "en": "another, other (f,s), differently, otherwise, different"
+   },
+   {
+    "he": "אך ורק",
+    "tr": "ʼk wrq",
+    "en": "only, only (emphatic), exclusively"
+   },
+   {
+    "he": "באופן כללי",
+    "tr": "bʼwpn klly",
+    "en": "in a general way, in general, generally"
+   },
+   {
+    "he": "באמת",
+    "tr": "bʼmţ",
+    "en": "really, truly"
+   },
+   {
+    "he": "בדיוק",
+    "tr": "bdywq",
+    "en": "exactly, just"
+   },
+   {
+    "he": "בדרך כלל",
+    "tr": "bdrk kll",
+    "en": "usually"
+   },
+   {
+    "he": "בהחלט",
+    "tr": "bhẖlt",
+    "en": "definitely"
+   },
+   {
+    "he": "ביחד",
+    "tr": "byẖd",
+    "en": "together"
+   },
+   {
+    "he": "בינתיים",
+    "tr": "bynţyym",
+    "en": "in the meantime, meanwhile"
+   },
+   {
+    "he": "בכל אופן",
+    "tr": "bkl ʼwpn",
+    "en": "anyway"
+   },
+   {
+    "he": "בכל זאת",
+    "tr": "bkl zʼţ",
+    "en": "anyway, nevertheless"
+   },
+   {
+    "he": "בכל מקום",
+    "tr": "bkl mqwm",
+    "en": "everywhere, anywhere"
+   },
+   {
+    "he": "במיוחד",
+    "tr": "bmywẖd",
+    "en": "in particular, especially"
+   },
+   {
+    "he": "במשך",
+    "tr": "bmşk",
+    "en": "during, for"
+   },
+   {
+    "he": "בעיקר",
+    "tr": "bʻyqr",
+    "en": "mainly, particularly"
+   },
+   {
+    "he": "בערך",
+    "tr": "bʻrk",
+    "en": "approximately, about, around"
+   },
+   {
+    "he": "בקושי",
+    "tr": "bqwşy",
+    "en": "barely, hardly, with difficulty"
+   },
+   {
+    "he": "בקלות",
+    "tr": "bqlwţ",
+    "en": "easily"
+   },
+   {
+    "he": "בקרוב",
+    "tr": "bqrwb",
+    "en": "soon"
+   },
+   {
+    "he": "ברור",
+    "tr": "brwr",
+    "en": "of course, clear, clearly, obvious"
+   },
+   {
+    "he": "די",
+    "tr": "dy",
+    "en": "quite, rather, pretty"
+   },
+   {
+    "he": "דרך",
+    "tr": "drk",
+    "en": "road, way, through, path"
+   },
+   {
+    "he": "הרחק",
+    "tr": "hrẖq",
+    "en": "far away"
+   },
+   {
+    "he": "כ",
+    "tr": "k",
+    "en": "as"
+   },
+   {
+    "he": "כאן",
+    "tr": "kʼn",
+    "en": "here"
+   },
+   {
+    "he": "כל כך",
+    "tr": "kl kk",
+    "en": "so, such, so much"
+   },
+   {
+    "he": "כמו",
+    "tr": "kmw",
+    "en": "like, as"
+   },
+   {
+    "he": "כמו תמיד",
+    "tr": "kmw ţmyd",
+    "en": "as always"
+   },
+   {
+    "he": "כמעט",
+    "tr": "kmʻt",
+    "en": "almost, nearly"
+   },
+   {
+    "he": "כרגע",
+    "tr": "krgʻ",
+    "en": "currently, at the moment, now"
+   },
+   {
+    "he": "לא בהכרח",
+    "tr": "lʼ bhkrẖ",
+    "en": "not necessarily"
+   },
+   {
+    "he": "לאו דווקא",
+    "tr": "lʼw dwwqʼ",
+    "en": "not necessarily"
+   },
+   {
+    "he": "לאחרונה",
+    "tr": "lʼẖrwnh",
+    "en": "recently, lately"
+   },
+   {
+    "he": "לאט",
+    "tr": "lʼt",
+    "en": "slowly, slow"
+   },
+   {
+    "he": "לבד",
+    "tr": "lbd",
+    "en": "alone"
+   },
+   {
+    "he": "לגמרי",
+    "tr": "lgmry",
+    "en": "entirely, totally, completely, absolutely"
+   },
+   {
+    "he": "לעיתים קרובות",
+    "tr": "lʻyţym qrwbwţ",
+    "en": "often, frequently"
+   },
+   {
+    "he": "לעיתים רחוקות",
+    "tr": "lʻyţym rẖwqwţ",
+    "en": "rarely"
+   },
+   {
+    "he": "לפחות",
+    "tr": "lpẖwţ",
+    "en": "at least"
+   },
+   {
+    "he": "לפעמים",
+    "tr": "lpʻmym",
+    "en": "sometimes"
+   },
+   {
+    "he": "מאוד",
+    "tr": "mʼwd",
+    "en": "very, really, very much"
+   },
+   {
+    "he": "מאוחר",
+    "tr": "mʼwẖr",
+    "en": "it is late, late"
+   },
+   {
+    "he": "מהר",
+    "tr": "mhr",
+    "en": "quickly, fast, quick"
+   },
+   {
+    "he": "מיד",
+    "tr": "myd",
+    "en": "immediately, straight away, at once"
+   },
+   {
+    "he": "ממש",
+    "tr": "mmş",
+    "en": "really"
+   },
+   {
+    "he": "מספיק",
+    "tr": "mspyq",
+    "en": "enough"
+   },
+   {
+    "he": "סביר להניח",
+    "tr": "sbyr lhnyẖ",
+    "en": "presumably, probably"
+   },
+   {
+    "he": "סוף סוף",
+    "tr": "swp swp",
+    "en": "finally"
+   },
+   {
+    "he": "עוד",
+    "tr": "ʻwd",
+    "en": "more, another, still, yet"
+   },
+   {
+    "he": "פה",
+    "tr": "ph",
+    "en": "here, mouth"
+   },
+   {
+    "he": "פעם",
+    "tr": "pʻm",
+    "en": "once, time"
+   },
+   {
+    "he": "פעמיים",
+    "tr": "pʻmyym",
+    "en": "twice"
+   },
+   {
+    "he": "שוב",
+    "tr": "şwb",
+    "en": "again"
+   },
+   {
+    "he": "שם",
+    "tr": "şm",
+    "en": "name, puts, put on, there, over there, is putting, put"
+   }
+  ]
+ },
+ {
+  "skill": "30 Family Describe your family",
+  "words": [
+   {
+    "he": "אח",
+    "tr": "ʼẖ",
+    "en": "brother"
+   },
+   {
+    "he": "אחות",
+    "tr": "ʼẖwţ",
+    "en": "sister, nurse"
+   },
+   {
+    "he": "אחיות",
+    "tr": "ʼẖywţ",
+    "en": "sisters, nurses"
+   },
+   {
+    "he": "אחיין",
+    "tr": "ʼẖyyn",
+    "en": "nephew, a nephew"
+   },
+   {
+    "he": "אחיינית",
+    "tr": "ʼẖyynyţ",
+    "en": "nephew (f), niece"
+   },
+   {
+    "he": "אחים",
+    "tr": "ʼẖym",
+    "en": "brothers, siblings"
+   },
+   {
+    "he": "אישה",
+    "tr": "ʼyşh",
+    "en": "woman, a woman, wife"
+   },
+   {
+    "he": "בן",
+    "tr": "bn",
+    "en": "son, boy, years old (sg. masc.)"
+   },
+   {
+    "he": "בן דוד",
+    "tr": "bn dwd",
+    "en": "cousin (m), cousin"
+   },
+   {
+    "he": "בן זוג",
+    "tr": "bn zwg",
+    "en": "partner"
+   },
+   {
+    "he": "בעל",
+    "tr": "bʻl",
+    "en": "husband"
+   },
+   {
+    "he": "בת",
+    "tr": "bţ",
+    "en": "daughter, years old (sg. fem.)"
+   },
+   {
+    "he": "בת דודה",
+    "tr": "bţ dwdh",
+    "en": "cousin (female)"
+   },
+   {
+    "he": "בת זוג",
+    "tr": "bţ zwg",
+    "en": "girlfriend, partner (sg. fem.), spouse"
+   },
+   {
+    "he": "דוד",
+    "tr": "dwd",
+    "en": "uncle"
+   },
+   {
+    "he": "דודה",
+    "tr": "dwdh",
+    "en": "aunt"
+   },
+   {
+    "he": "הורה",
+    "tr": "hwrh",
+    "en": "parent, a parent"
+   },
+   {
+    "he": "חיים",
+    "tr": "ẖyym",
+    "en": "life, a life"
+   },
+   {
+    "he": "חתונה",
+    "tr": "ẖţwnh",
+    "en": "wedding"
+   },
+   {
+    "he": "חתן",
+    "tr": "ẖţn",
+    "en": "groom"
+   },
+   {
+    "he": "משפחה",
+    "tr": "mşpẖh",
+    "en": "family"
+   },
+   {
+    "he": "נישואין",
+    "tr": "nyşwʼyn",
+    "en": "marriage"
+   },
+   {
+    "he": "נכד",
+    "tr": "nkd",
+    "en": "grandson"
+   },
+   {
+    "he": "נכדה",
+    "tr": "nkdh",
+    "en": "granddaughter"
+   },
+   {
+    "he": "סבא",
+    "tr": "sbʼ",
+    "en": "grandfather, granddad, grandpa"
+   },
+   {
+    "he": "סבתא",
+    "tr": "sbţʼ",
+    "en": "grandmother, grandma"
+   },
+   {
+    "he": "שם",
+    "tr": "şm",
+    "en": "name, puts, put on, there, over there, is putting, put"
+   },
+   {
+    "he": "שם משפחה",
+    "tr": "şm mşpẖh",
+    "en": "surname, last name"
+   },
+   {
+    "he": "שם פרטי",
+    "tr": "şm prty",
+    "en": "first name"
+   },
+   {
+    "he": "תינוק",
+    "tr": "ţynwq",
+    "en": "baby"
+   }
+  ]
+ },
+ {
+  "skill": "31 Home Sweet Home Talk about your home",
+  "words": [
+   {
+    "he": "אור",
+    "tr": "ʼwr",
+    "en": "light, a light"
+   },
+   {
+    "he": "אמבטיה",
+    "tr": "ʼmbtyh",
+    "en": "a bath, bath, bathtub"
+   },
+   {
+    "he": "ארון",
+    "tr": "ʼrwn",
+    "en": "closet, a closet, cupboard"
+   },
+   {
+    "he": "בית",
+    "tr": "byţ",
+    "en": "verse, stanza, home, house, the coffee shop"
+   },
+   {
+    "he": "בניין",
+    "tr": "bnyyn",
+    "en": "a building, building, binyan"
+   },
+   {
+    "he": "ברז",
+    "tr": "brz",
+    "en": "a faucet, faucet, tap"
+   },
+   {
+    "he": "גג",
+    "tr": "gg",
+    "en": "a roof, roof"
+   },
+   {
+    "he": "גינה",
+    "tr": "gynh",
+    "en": "garden"
+   },
+   {
+    "he": "דירה",
+    "tr": "dyrh",
+    "en": "apartment, flat"
+   },
+   {
+    "he": "דלת",
+    "tr": "dlţ",
+    "en": "door"
+   },
+   {
+    "he": "וילון",
+    "tr": "wylwn",
+    "en": "a curtain, curtain"
+   },
+   {
+    "he": "חדר",
+    "tr": "ẖdr",
+    "en": "a room, room"
+   },
+   {
+    "he": "חדר אוכל",
+    "tr": "ẖdr ʼwkl",
+    "en": "dining room"
+   },
+   {
+    "he": "חדר אורחים",
+    "tr": "ẖdr ʼwrẖym",
+    "en": "guest room, a guest room"
+   },
+   {
+    "he": "חדר שינה",
+    "tr": "ẖdr şynh",
+    "en": "bedroom"
+   },
+   {
+    "he": "חלון",
+    "tr": "ẖlwn",
+    "en": "window, a window"
+   },
+   {
+    "he": "חצר",
+    "tr": "ẖẕr",
+    "en": "a yard, yard"
+   },
+   {
+    "he": "כביסה",
+    "tr": "kbysh",
+    "en": "laundry"
+   },
+   {
+    "he": "כיור",
+    "tr": "kywr",
+    "en": "a washbasin, washbasin, sink"
+   },
+   {
+    "he": "כיסא",
+    "tr": "kysʼ",
+    "en": "a chair, chair"
+   },
+   {
+    "he": "כלי עבודה",
+    "tr": "kly ʻbwdh",
+    "en": "work tools, tool, work tool"
+   },
+   {
+    "he": "כלים",
+    "tr": "klym",
+    "en": "dishes"
+   },
+   {
+    "he": "כרית",
+    "tr": "kryţ",
+    "en": "pillow"
+   },
+   {
+    "he": "כתובת",
+    "tr": "kţwbţ",
+    "en": "address"
+   },
+   {
+    "he": "לגור",
+    "tr": "lgwr",
+    "en": "to live, living"
+   },
+   {
+    "he": "מדרגות",
+    "tr": "mdrgwţ",
+    "en": "stairs"
+   },
+   {
+    "he": "מזגן",
+    "tr": "mzgn",
+    "en": "air-conditioner"
+   },
+   {
+    "he": "מטאטא",
+    "tr": "mtʼtʼ",
+    "en": "a broom, broom"
+   },
+   {
+    "he": "מיטה",
+    "tr": "myth",
+    "en": "bed, a bed"
+   },
+   {
+    "he": "מכונת כביסה",
+    "tr": "mkwnţ kbysh",
+    "en": "laundry machine, washing machine"
+   },
+   {
+    "he": "מנורה",
+    "tr": "mnwrh",
+    "en": "a lamp, lamp"
+   },
+   {
+    "he": "מעלית",
+    "tr": "mʻlyţ",
+    "en": "elevator"
+   },
+   {
+    "he": "מפתח",
+    "tr": "mpţẖ",
+    "en": "key, a key"
+   },
+   {
+    "he": "מקלט",
+    "tr": "mqlt",
+    "en": "a shelter, shelter, bomb shelter"
+   },
+   {
+    "he": "מקרר",
+    "tr": "mqrr",
+    "en": "refrigerator, fridge"
+   },
+   {
+    "he": "מראה",
+    "tr": "mrʼh",
+    "en": "mirror, a mirror"
+   },
+   {
+    "he": "מרפסת",
+    "tr": "mrpsţ",
+    "en": "a balcony, balcony, porch"
+   },
+   {
+    "he": "מרתף",
+    "tr": "mrţp",
+    "en": "a basement, a cellar"
+   },
+   {
+    "he": "סלון",
+    "tr": "slwn",
+    "en": "a living room, living room"
+   },
+   {
+    "he": "סמרטוט",
+    "tr": "smrtwt",
+    "en": "mop, a mop"
+   },
+   {
+    "he": "ספה",
+    "tr": "sph",
+    "en": "a sofa, sofa, a couch"
+   },
+   {
+    "he": "עליית גג",
+    "tr": "ʻlyyţ gg",
+    "en": "attic, loft"
+   },
+   {
+    "he": "פח אשפה",
+    "tr": "pẖ ʼşph",
+    "en": "trash can"
+   },
+   {
+    "he": "צעצוע",
+    "tr": "ẕʻẕwʻ",
+    "en": "toy, a toy"
+   },
+   {
+    "he": "קיר",
+    "tr": "qyr",
+    "en": "wall, a wall"
+   },
+   {
+    "he": "רהיט",
+    "tr": "rhyt",
+    "en": "a piece of furniture"
+   },
+   {
+    "he": "רצפה",
+    "tr": "rẕph",
+    "en": "floor"
+   },
+   {
+    "he": "שואב אבק",
+    "tr": "şwʼb ʼbq",
+    "en": "vacuum cleaner"
+   },
+   {
+    "he": "שולחן",
+    "tr": "şwlẖn",
+    "en": "table, a table"
+   },
+   {
+    "he": "שטיח",
+    "tr": "ştyẖ",
+    "en": "a carpet, a rug"
+   },
+   {
+    "he": "שירותים",
+    "tr": "şyrwţym",
+    "en": "restroom, toilets, toilet, bathroom"
+   },
+   {
+    "he": "שכן",
+    "tr": "şkn",
+    "en": "that yes, neighbor, so"
+   },
+   {
+    "he": "שמיכה",
+    "tr": "şmykh",
+    "en": "blanket"
+   },
+   {
+    "he": "שער",
+    "tr": "şʻr",
+    "en": "gate, a gate, goal"
+   },
+   {
+    "he": "תקרה",
+    "tr": "ţqrh",
+    "en": "ceiling, a ceiling"
+   }
+  ]
+ },
+ {
+  "skill": "32 Construct State 1 Use compound nouns",
+  "words": [
+   {
+    "he": "ארוחות בוקר",
+    "tr": "ʼrwẖwţ bwqr",
+    "en": "breakfasts"
+   },
+   {
+    "he": "ארוחות ערב",
+    "tr": "ʼrwẖwţ ʻrb",
+    "en": "dinners"
+   },
+   {
+    "he": "ארוחות צהריים",
+    "tr": "ʼrwẖwţ ẕhryym",
+    "en": "lunches"
+   },
+   {
+    "he": "ארוחת בוקר",
+    "tr": "ʼrwẖţ bwqr",
+    "en": "breakfast"
+   },
+   {
+    "he": "ארוחת ערב",
+    "tr": "ʼrwẖţ ʻrb",
+    "en": "dinner"
+   },
+   {
+    "he": "ארוחת צהריים",
+    "tr": "ʼrwẖţ ẕhryym",
+    "en": "lunch"
+   },
+   {
+    "he": "בית חולים",
+    "tr": "byţ ẖwlym",
+    "en": "hospital"
+   },
+   {
+    "he": "בית כנסת",
+    "tr": "byţ knsţ",
+    "en": "synagogue"
+   },
+   {
+    "he": "בית מלון",
+    "tr": "byţ mlwn",
+    "en": "hotel"
+   },
+   {
+    "he": "בית משפט",
+    "tr": "byţ mşpt",
+    "en": "courthouse, court"
+   },
+   {
+    "he": "בית ספר",
+    "tr": "byţ spr",
+    "en": "school"
+   },
+   {
+    "he": "בית קפה",
+    "tr": "byţ qph",
+    "en": "café"
+   },
+   {
+    "he": "בקבוק יין",
+    "tr": "bqbwq yyn",
+    "en": "wine bottle, bottle of wine"
+   },
+   {
+    "he": "בקבוק מים",
+    "tr": "bqbwq mym",
+    "en": "a water bottle, a bottle of water"
+   },
+   {
+    "he": "בקבוקי יין",
+    "tr": "bqbwqy yyn",
+    "en": "bottles of wine"
+   },
+   {
+    "he": "בקבוקי מים",
+    "tr": "bqbwqy mym",
+    "en": "bottles of water"
+   },
+   {
+    "he": "בתי חולים",
+    "tr": "bţy ẖwlym",
+    "en": "hospitals"
+   },
+   {
+    "he": "בתי כנסת",
+    "tr": "bţy knsţ",
+    "en": "synagogues"
+   },
+   {
+    "he": "בתי מלון",
+    "tr": "bţy mlwn",
+    "en": "hotels"
+   },
+   {
+    "he": "בתי משפט",
+    "tr": "bţy mşpt",
+    "en": "courtrooms, courts"
+   },
+   {
+    "he": "בתי ספר",
+    "tr": "bţy spr",
+    "en": "schools"
+   },
+   {
+    "he": "בתי קפה",
+    "tr": "bţy qph",
+    "en": "coffee shops, cafés, cafes"
+   },
+   {
+    "he": "חדר אוכל",
+    "tr": "ẖdr ʼwkl",
+    "en": "dining room"
+   },
+   {
+    "he": "חדר אורחים",
+    "tr": "ẖdr ʼwrẖym",
+    "en": "guest room, a guest room"
+   },
+   {
+    "he": "חדר שינה",
+    "tr": "ẖdr şynh",
+    "en": "bedroom"
+   },
+   {
+    "he": "חדרי אוכל",
+    "tr": "ẖdry ʼwkl",
+    "en": "dining rooms"
+   },
+   {
+    "he": "חדרי אורחים",
+    "tr": "ẖdry ʼwrẖym",
+    "en": "guest rooms"
+   },
+   {
+    "he": "חדרי שינה",
+    "tr": "ẖdry şynh",
+    "en": "bedrooms"
+   },
+   {
+    "he": "מיץ תפוזים",
+    "tr": "myẕ ţpwzym",
+    "en": "orange juice"
+   },
+   {
+    "he": "מכונות כביסה",
+    "tr": "mkwnwţ kbysh",
+    "en": "washing machines"
+   },
+   {
+    "he": "מכונת כביסה",
+    "tr": "mkwnţ kbysh",
+    "en": "laundry machine, washing machine"
+   },
+   {
+    "he": "עוגות גבינה",
+    "tr": "ʻwgwţ gbynh",
+    "en": "cheesecakes"
+   },
+   {
+    "he": "עוגת גבינה",
+    "tr": "ʻwgţ gbynh",
+    "en": "cheesecake"
+   },
+   {
+    "he": "עוגת שוקולד",
+    "tr": "ʻwgţ şwqwld",
+    "en": "a chocolate cake"
+   }
+  ]
+ },
+ {
+  "skill": "33 Infinitives 1 Form infinitives",
+  "words": [
+   {
+    "he": "לבוא",
+    "tr": "lbwʼ",
+    "en": "to come"
+   },
+   {
+    "he": "לבקר",
+    "tr": "lbqr",
+    "en": "to visit"
+   },
+   {
+    "he": "לברוח",
+    "tr": "lbrwẖ",
+    "en": "to run away, to flee"
+   },
+   {
+    "he": "לבשל",
+    "tr": "lbşl",
+    "en": "to cook"
+   },
+   {
+    "he": "לגור",
+    "tr": "lgwr",
+    "en": "to live, living"
+   },
+   {
+    "he": "לגעת",
+    "tr": "lgʻţ",
+    "en": "to touch, touch"
+   },
+   {
+    "he": "לדבר",
+    "tr": "ldbr",
+    "en": "to speak, to talk, talk"
+   },
+   {
+    "he": "לדעת",
+    "tr": "ldʻţ",
+    "en": "to know"
+   },
+   {
+    "he": "להגיד",
+    "tr": "lhgyd",
+    "en": "to say, to tell"
+   },
+   {
+    "he": "להיות",
+    "tr": "lhywţ",
+    "en": "to be, to become, becoming, be, being"
+   },
+   {
+    "he": "להכיל",
+    "tr": "lhkyl",
+    "en": "to contain"
+   },
+   {
+    "he": "לומר",
+    "tr": "lwmr",
+    "en": "to say, to tell"
+   },
+   {
+    "he": "לחזור",
+    "tr": "lẖzwr",
+    "en": "to return, return, to go back"
+   },
+   {
+    "he": "לחתוך",
+    "tr": "lẖţwk",
+    "en": "to cut"
+   },
+   {
+    "he": "לישון",
+    "tr": "lyşwn",
+    "en": "sleep, to sleep, sleeping"
+   },
+   {
+    "he": "לכתוב",
+    "tr": "lkţwb",
+    "en": "to write, writing"
+   },
+   {
+    "he": "ללכת",
+    "tr": "llkţ",
+    "en": "go, should one go, to go"
+   },
+   {
+    "he": "למנוע",
+    "tr": "lmnwʻ",
+    "en": "to deprive, to prevent, prevent"
+   },
+   {
+    "he": "למצוא",
+    "tr": "lmẕwʼ",
+    "en": "to find"
+   },
+   {
+    "he": "לסבול",
+    "tr": "lsbwl",
+    "en": "to suffer"
+   },
+   {
+    "he": "לסגור",
+    "tr": "lsgwr",
+    "en": "to close"
+   },
+   {
+    "he": "לספור",
+    "tr": "lspwr",
+    "en": "to count"
+   },
+   {
+    "he": "לעבוד",
+    "tr": "lʻbwd",
+    "en": "to work"
+   },
+   {
+    "he": "לעזור",
+    "tr": "lʻzwr",
+    "en": "to help"
+   },
+   {
+    "he": "לעשות",
+    "tr": "lʻşwţ",
+    "en": "to do, do"
+   },
+   {
+    "he": "לפתוח",
+    "tr": "lpţwẖ",
+    "en": "to open"
+   },
+   {
+    "he": "לצייר",
+    "tr": "lẕyyr",
+    "en": "painting, to draw, to paint, drawing, to a painter"
+   },
+   {
+    "he": "לקבל",
+    "tr": "lqbl",
+    "en": "to receive, to get, to accept"
+   },
+   {
+    "he": "לקחת",
+    "tr": "lqẖţ",
+    "en": "to take"
+   },
+   {
+    "he": "לקנות",
+    "tr": "lqnwţ",
+    "en": "to buy, to purchase"
+   },
+   {
+    "he": "לראות",
+    "tr": "lrʼwţ",
+    "en": "to see, see"
+   },
+   {
+    "he": "לרוץ",
+    "tr": "lrwẕ",
+    "en": "to run"
+   },
+   {
+    "he": "לשחות",
+    "tr": "lşẖwţ",
+    "en": "to swim"
+   },
+   {
+    "he": "לשחק",
+    "tr": "lşẖq",
+    "en": "to play"
+   },
+   {
+    "he": "לשים",
+    "tr": "lşym",
+    "en": "to place, to set"
+   },
+   {
+    "he": "לשלם",
+    "tr": "lşlm",
+    "en": "to pay"
+   },
+   {
+    "he": "לשמוע",
+    "tr": "lşmwʻ",
+    "en": "to hear"
+   },
+   {
+    "he": "לשתות",
+    "tr": "lşţwţ",
+    "en": "to drink, drinking, drink, drinking (gerund)"
+   },
+   {
+    "he": "לתת",
+    "tr": "lţţ",
+    "en": "to give"
+   }
+  ]
+ },
+ {
+  "skill": "34 Weather Discuss the weather",
+  "words": [
+   {
+    "he": "בהיר",
+    "tr": "bhyr",
+    "en": "clear, bright"
+   },
+   {
+    "he": "ברד",
+    "tr": "brd",
+    "en": "hail"
+   },
+   {
+    "he": "ברק",
+    "tr": "brq",
+    "en": "lightning"
+   },
+   {
+    "he": "גל חום",
+    "tr": "gl ẖwm",
+    "en": "a heatwave"
+   },
+   {
+    "he": "גל קור",
+    "tr": "gl qwr",
+    "en": "cold spell, cold snap"
+   },
+   {
+    "he": "גשום",
+    "tr": "gşwm",
+    "en": "rainy"
+   },
+   {
+    "he": "גשם",
+    "tr": "gşm",
+    "en": "rain"
+   },
+   {
+    "he": "הוריקן",
+    "tr": "hwryqn",
+    "en": "a hurricane"
+   },
+   {
+    "he": "הצפה",
+    "tr": "hẕph",
+    "en": "a flood, a flooding"
+   },
+   {
+    "he": "טורנדו",
+    "tr": "twrndw",
+    "en": "a tornado, tornado"
+   },
+   {
+    "he": "מזג אוויר",
+    "tr": "mzg ʼwwyr",
+    "en": "weather"
+   },
+   {
+    "he": "מעונן",
+    "tr": "mʻwnn",
+    "en": "cloudy"
+   },
+   {
+    "he": "מעלות",
+    "tr": "mʻlwţ",
+    "en": "degrees"
+   },
+   {
+    "he": "סופה",
+    "tr": "swph",
+    "en": "storm"
+   },
+   {
+    "he": "ענן",
+    "tr": "ʻnn",
+    "en": "cloud"
+   },
+   {
+    "he": "ערפל",
+    "tr": "ʻrpl",
+    "en": "a fog, fog"
+   },
+   {
+    "he": "רוח",
+    "tr": "rwẖ",
+    "en": "wind"
+   },
+   {
+    "he": "רעם",
+    "tr": "rʻm",
+    "en": "thunder"
+   },
+   {
+    "he": "שלג",
+    "tr": "şlg",
+    "en": "snow"
+   },
+   {
+    "he": "שמש",
+    "tr": "şmş",
+    "en": "sun"
+   }
+  ]
+ },
+ {
+  "skill": "35 Places Describe places",
+  "words": [
+   {
+    "he": "אחורה",
+    "tr": "ʼẖwrh",
+    "en": "backwards"
+   },
+   {
+    "he": "אי",
+    "tr": "ʼy",
+    "en": "island"
+   },
+   {
+    "he": "איזור",
+    "tr": "ʼyzwr",
+    "en": "area"
+   },
+   {
+    "he": "ארמון",
+    "tr": "ʼrmwn",
+    "en": "palace, a palace"
+   },
+   {
+    "he": "בית כלא",
+    "tr": "byţ klʼ",
+    "en": "prison"
+   },
+   {
+    "he": "בית כנסת",
+    "tr": "byţ knsţ",
+    "en": "synagogue"
+   },
+   {
+    "he": "בית מלון",
+    "tr": "byţ mlwn",
+    "en": "hotel"
+   },
+   {
+    "he": "בית קולנוע",
+    "tr": "byţ qwlnwʻ",
+    "en": "cinema"
+   },
+   {
+    "he": "בנק",
+    "tr": "bnq",
+    "en": "a bank"
+   },
+   {
+    "he": "בר",
+    "tr": "br",
+    "en": "bar, a bar"
+   },
+   {
+    "he": "ברחבי",
+    "tr": "brẖby",
+    "en": "around, across, throughout"
+   },
+   {
+    "he": "גבול",
+    "tr": "gbwl",
+    "en": "border, a border"
+   },
+   {
+    "he": "גן חיות",
+    "tr": "gn ẖywţ",
+    "en": "zoo"
+   },
+   {
+    "he": "גשר",
+    "tr": "gşr",
+    "en": "bridge"
+   },
+   {
+    "he": "הביתה",
+    "tr": "hbyţh",
+    "en": "to one's home, go home, home"
+   },
+   {
+    "he": "חווה",
+    "tr": "ẖwwh",
+    "en": "farm"
+   },
+   {
+    "he": "חנות",
+    "tr": "ẖnwţ",
+    "en": "a shop, shop, store"
+   },
+   {
+    "he": "טירה",
+    "tr": "tyrh",
+    "en": "castle"
+   },
+   {
+    "he": "ימין",
+    "tr": "ymyn",
+    "en": "right"
+   },
+   {
+    "he": "ירושלים",
+    "tr": "yrwşlym",
+    "en": "Jerusalem"
+   },
+   {
+    "he": "ישראל",
+    "tr": "yşrʼl",
+    "en": "Israel"
+   },
+   {
+    "he": "כיכר",
+    "tr": "kykr",
+    "en": "square, roundabout"
+   },
+   {
+    "he": "כנסייה",
+    "tr": "knsyyh",
+    "en": "church"
+   },
+   {
+    "he": "כפר",
+    "tr": "kpr",
+    "en": "village"
+   },
+   {
+    "he": "לאורך",
+    "tr": "lʼwrk",
+    "en": "along"
+   },
+   {
+    "he": "לתוך",
+    "tr": "lţwk",
+    "en": "into"
+   },
+   {
+    "he": "מבנה",
+    "tr": "mbnh",
+    "en": "a building, construction, a structure, structure"
+   },
+   {
+    "he": "מגדל",
+    "tr": "mgdl",
+    "en": "raise, raising, is raising, is growing, tower, grows, grow"
+   },
+   {
+    "he": "מדינה",
+    "tr": "mdynh",
+    "en": "state, country, a country"
+   },
+   {
+    "he": "מוזיאון",
+    "tr": "mwzyʼwn",
+    "en": "museum"
+   },
+   {
+    "he": "מזרח",
+    "tr": "mzrẖ",
+    "en": "east"
+   },
+   {
+    "he": "מחוז",
+    "tr": "mẖwz",
+    "en": "district"
+   },
+   {
+    "he": "מכולת",
+    "tr": "mkwlţ",
+    "en": "grocery store"
+   },
+   {
+    "he": "מסגד",
+    "tr": "msgd",
+    "en": "mosque"
+   },
+   {
+    "he": "מסלול",
+    "tr": "mslwl",
+    "en": "a path, a trail, path, trail, trajectory, orbit, route"
+   },
+   {
+    "he": "מערב",
+    "tr": "mʻrb",
+    "en": "west"
+   },
+   {
+    "he": "מקום",
+    "tr": "mqwm",
+    "en": "place"
+   },
+   {
+    "he": "מרכז",
+    "tr": "mrkz",
+    "en": "center, down town"
+   },
+   {
+    "he": "משרד",
+    "tr": "mşrd",
+    "en": "office, ministry"
+   },
+   {
+    "he": "מתוך",
+    "tr": "mţwk",
+    "en": "from, from inside, from within"
+   },
+   {
+    "he": "נכס",
+    "tr": "nks",
+    "en": "a property, property"
+   },
+   {
+    "he": "נמל",
+    "tr": "nml",
+    "en": "port, a port"
+   },
+   {
+    "he": "סופרמרקט",
+    "tr": "swprmrqt",
+    "en": "supermarket"
+   },
+   {
+    "he": "עיירה",
+    "tr": "ʻyyrh",
+    "en": "town"
+   },
+   {
+    "he": "עיר",
+    "tr": "ʻyr",
+    "en": "city, a city"
+   },
+   {
+    "he": "עיר בירה",
+    "tr": "ʻyr byrh",
+    "en": "capital city, capital"
+   },
+   {
+    "he": "עמק",
+    "tr": "ʻmq",
+    "en": "valley, a valley"
+   },
+   {
+    "he": "פארק",
+    "tr": "pʼrq",
+    "en": "park, a park"
+   },
+   {
+    "he": "פינה",
+    "tr": "pynh",
+    "en": "corner"
+   },
+   {
+    "he": "צפון",
+    "tr": "ẕpwn",
+    "en": "north"
+   },
+   {
+    "he": "קדימה",
+    "tr": "qdymh",
+    "en": "come on, forward, hurry up, onward"
+   },
+   {
+    "he": "קהילה",
+    "tr": "qhylh",
+    "en": "community"
+   },
+   {
+    "he": "קרקע",
+    "tr": "qrqʻ",
+    "en": "ground"
+   },
+   {
+    "he": "רחוב",
+    "tr": "rẖwb",
+    "en": "street"
+   },
+   {
+    "he": "שדה תעופה",
+    "tr": "şdh ţʻwph",
+    "en": "airfield, airport"
+   },
+   {
+    "he": "שדרה",
+    "tr": "şdrh",
+    "en": "boulevard, avenue"
+   },
+   {
+    "he": "שוק",
+    "tr": "şwq",
+    "en": "market, a market"
+   },
+   {
+    "he": "שטח",
+    "tr": "ştẖ",
+    "en": "area, surface area"
+   },
+   {
+    "he": "שכונה",
+    "tr": "şkwnh",
+    "en": "neighborhood"
+   },
+   {
+    "he": "שמאל",
+    "tr": "şmʼl",
+    "en": "left"
+   },
+   {
+    "he": "תחנה",
+    "tr": "ţẖnh",
+    "en": "station, stop"
+   },
+   {
+    "he": "תל אביב",
+    "tr": "ţl ʼbyb",
+    "en": "Tel Aviv"
+   }
+  ]
+ },
+ {
+  "skill": "36 Verbs: Present - Hiph'il Use Hif'il verbs in the present",
+  "words": [
+   {
+    "he": "להאמין",
+    "tr": "lhʼmyn",
+    "en": "to believe, believe"
+   },
+   {
+    "he": "להבין",
+    "tr": "lhbyn",
+    "en": "to understand"
+   },
+   {
+    "he": "להגיש",
+    "tr": "lhgyş",
+    "en": "to submit, to serve, to hand in"
+   },
+   {
+    "he": "להוסיף",
+    "tr": "lhwsyp",
+    "en": "to add"
+   },
+   {
+    "he": "להכיל",
+    "tr": "lhkyl",
+    "en": "to contain"
+   },
+   {
+    "he": "להכריז",
+    "tr": "lhkryz",
+    "en": "to announce"
+   },
+   {
+    "he": "להמשיך",
+    "tr": "lhmşyk",
+    "en": "to continue, to carry on"
+   },
+   {
+    "he": "להניח",
+    "tr": "lhnyẖ",
+    "en": "to presume, to assume, to suppose"
+   },
+   {
+    "he": "להסביר",
+    "tr": "lhsbyr",
+    "en": "to explain, explain"
+   },
+   {
+    "he": "להסכים",
+    "tr": "lhskym",
+    "en": "to agree"
+   },
+   {
+    "he": "להעביר",
+    "tr": "lhʻbyr",
+    "en": "to pass"
+   },
+   {
+    "he": "להציג",
+    "tr": "lhẕyg",
+    "en": "to present, to introduce"
+   },
+   {
+    "he": "להציע",
+    "tr": "lhẕyʻ",
+    "en": "to offer"
+   },
+   {
+    "he": "להקשיב",
+    "tr": "lhqşyb",
+    "en": "to listen"
+   },
+   {
+    "he": "להרגיש",
+    "tr": "lhrgyş",
+    "en": "to feel"
+   },
+   {
+    "he": "להרשות",
+    "tr": "lhrşwţ",
+    "en": "to allow, to let"
+   },
+   {
+    "he": "להשכיר",
+    "tr": "lhşkyr",
+    "en": "to rent out, to lease, to let"
+   },
+   {
+    "he": "להתחיל",
+    "tr": "lhţẖyl",
+    "en": "to start"
+   }
+  ]
+ },
+ {
+  "skill": "37 People Describe relationships",
+  "words": [
+   {
+    "he": "אדם",
+    "tr": "ʼdm",
+    "en": "a person, person"
+   },
+   {
+    "he": "אויב",
+    "tr": "ʼwyb",
+    "en": "enemy"
+   },
+   {
+    "he": "אוכלוסייה",
+    "tr": "ʼwklwsyyh",
+    "en": "population"
+   },
+   {
+    "he": "אוסטרלי",
+    "tr": "ʼwstrly",
+    "en": "Australian"
+   },
+   {
+    "he": "אזרח",
+    "tr": "ʼzrẖ",
+    "en": "citizen, a citizen"
+   },
+   {
+    "he": "אמריקאי",
+    "tr": "ʼmryqʼy",
+    "en": "american"
+   },
+   {
+    "he": "אנגלי",
+    "tr": "ʼngly",
+    "en": "english guy"
+   },
+   {
+    "he": "אנשים",
+    "tr": "ʼnşym",
+    "en": "people"
+   },
+   {
+    "he": "בחור",
+    "tr": "bẖwr",
+    "en": "guy"
+   },
+   {
+    "he": "בחורה",
+    "tr": "bẖwrh",
+    "en": "girl, young lady"
+   },
+   {
+    "he": "בן",
+    "tr": "bn",
+    "en": "son, boy, years old (sg. masc.)"
+   },
+   {
+    "he": "בן אדם",
+    "tr": "bn ʼdm",
+    "en": "human"
+   },
+   {
+    "he": "בנות",
+    "tr": "bnwţ",
+    "en": "girls, daughters, years old (pl. fem.)"
+   },
+   {
+    "he": "בני",
+    "tr": "bny",
+    "en": "years old (pl. masc.)"
+   },
+   {
+    "he": "בת",
+    "tr": "bţ",
+    "en": "daughter, years old (sg. fem.)"
+   },
+   {
+    "he": "ועדה",
+    "tr": "wʻdh",
+    "en": "committee, a committee"
+   },
+   {
+    "he": "זוג",
+    "tr": "zwg",
+    "en": "a couple, couple, a pair"
+   },
+   {
+    "he": "חבֵרה",
+    "tr": "ẖbérh",
+    "en": "girlfriend, friend, female friend"
+   },
+   {
+    "he": "חבר",
+    "tr": "ẖbr",
+    "en": "friend, a member, boyfriend, member"
+   },
+   {
+    "he": "ידיד",
+    "tr": "ydyd",
+    "en": "friend(masc.), friend"
+   },
+   {
+    "he": "ידידה",
+    "tr": "ydydh",
+    "en": "female friend, friend(fem.), friend"
+   },
+   {
+    "he": "ישראלי",
+    "tr": "yşrʼly",
+    "en": "an israeli, israeli"
+   },
+   {
+    "he": "כנס",
+    "tr": "kns",
+    "en": "conference, a conference"
+   },
+   {
+    "he": "מבוגר",
+    "tr": "mbwgr",
+    "en": "old, an adult"
+   },
+   {
+    "he": "מערכת יחסים",
+    "tr": "mʻrkţ yẖsym",
+    "en": "relationship"
+   },
+   {
+    "he": "נוער",
+    "tr": "nwʻr",
+    "en": "youth"
+   },
+   {
+    "he": "נער",
+    "tr": "nʻr",
+    "en": "teenager, a teenager"
+   },
+   {
+    "he": "עַם",
+    "tr": "ʻam",
+    "en": "nation"
+   },
+   {
+    "he": "פרט",
+    "tr": "prt",
+    "en": "detail, individual"
+   },
+   {
+    "he": "ציבור",
+    "tr": "ẕybwr",
+    "en": "public"
+   },
+   {
+    "he": "צרפתי",
+    "tr": "ẕrpţy",
+    "en": "french"
+   },
+   {
+    "he": "קורבן",
+    "tr": "qwrbn",
+    "en": "victim"
+   },
+   {
+    "he": "קרן",
+    "tr": "qrn",
+    "en": "a foundation, foundation"
+   },
+   {
+    "he": "תרבות",
+    "tr": "ţrbwţ",
+    "en": "a culture, culture"
+   }
+  ]
+ },
+ {
+  "skill": "38 Numbers 2 Form bigger numbers",
+  "words": [
+   {
+    "he": "אחוז",
+    "tr": "ʼẖwz",
+    "en": "percent, percentage"
+   },
+   {
+    "he": "אחרון",
+    "tr": "ʼẖrwn",
+    "en": "last"
+   },
+   {
+    "he": "אלף",
+    "tr": "ʼlp",
+    "en": "one thousand, thousand"
+   },
+   {
+    "he": "ארבעים",
+    "tr": "ʼrbʻym",
+    "en": "fourty, forty"
+   },
+   {
+    "he": "ועוד",
+    "tr": "wʻwd",
+    "en": "plus"
+   },
+   {
+    "he": "זוג",
+    "tr": "zwg",
+    "en": "a couple, couple, a pair"
+   },
+   {
+    "he": "חלקי",
+    "tr": "ẖlqy",
+    "en": "divided by"
+   },
+   {
+    "he": "חמישים",
+    "tr": "ẖmyşym",
+    "en": "fifty"
+   },
+   {
+    "he": "חמשת",
+    "tr": "ẖmşţ",
+    "en": "five of, the five of, the five"
+   },
+   {
+    "he": "חצי",
+    "tr": "ẖẕy",
+    "en": "half"
+   },
+   {
+    "he": "כמות",
+    "tr": "kmwţ",
+    "en": "amount, quantity"
+   },
+   {
+    "he": "כפול",
+    "tr": "kpwl",
+    "en": "times, double, multiplied by"
+   },
+   {
+    "he": "מאה",
+    "tr": "mʼh",
+    "en": "one hundred, hudred, century, hundred"
+   },
+   {
+    "he": "מאות",
+    "tr": "mʼwţ",
+    "en": "hundreds"
+   },
+   {
+    "he": "מאתיים",
+    "tr": "mʼţyym",
+    "en": "two hundred"
+   },
+   {
+    "he": "מטר",
+    "tr": "mtr",
+    "en": "meters, meter"
+   },
+   {
+    "he": "מיליארד",
+    "tr": "mylyʼrd",
+    "en": "billion"
+   },
+   {
+    "he": "מיליון",
+    "tr": "mylywn",
+    "en": "million"
+   },
+   {
+    "he": "מינוס",
+    "tr": "mynws",
+    "en": "minus"
+   },
+   {
+    "he": "ממוצע",
+    "tr": "mmwẕʻ",
+    "en": "average"
+   },
+   {
+    "he": "פחות",
+    "tr": "pẖwţ",
+    "en": "less, minus"
+   },
+   {
+    "he": "ראשון",
+    "tr": "rʼşwn",
+    "en": "first"
+   },
+   {
+    "he": "רוב",
+    "tr": "rwb",
+    "en": "most of, most, majority"
+   },
+   {
+    "he": "שבעים",
+    "tr": "şbʻym",
+    "en": "seventy"
+   },
+   {
+    "he": "שבעת",
+    "tr": "şbʻţ",
+    "en": "the seven"
+   },
+   {
+    "he": "שווה",
+    "tr": "şwwh",
+    "en": "equals, is worth"
+   },
+   {
+    "he": "שישים",
+    "tr": "şyşym",
+    "en": "sixty"
+   },
+   {
+    "he": "שלושים",
+    "tr": "şlwşym",
+    "en": "thirty"
+   },
+   {
+    "he": "שלושת",
+    "tr": "şlwşţ",
+    "en": "the three"
+   },
+   {
+    "he": "שלישי",
+    "tr": "şlyşy",
+    "en": "third"
+   },
+   {
+    "he": "שמונים",
+    "tr": "şmwnym",
+    "en": "eighty"
+   },
+   {
+    "he": "שני",
+    "tr": "şny",
+    "en": "both of, both, second, two (masc.)"
+   },
+   {
+    "he": "תשעים",
+    "tr": "ţşʻym",
+    "en": "nineties, ninety"
+   }
+  ]
+ },
+ {
+  "skill": "39 Modals Expresss what could be",
+  "words": [
+   {
+    "he": "אמור",
+    "tr": "ʼmwr",
+    "en": "supposed"
+   },
+   {
+    "he": "אסור",
+    "tr": "ʼswr",
+    "en": "not allowed, forbidden, must not, prohibited"
+   },
+   {
+    "he": "אפשר",
+    "tr": "ʼpşr",
+    "en": "can we have, can we, can I, can one, can I have, possible"
+   },
+   {
+    "he": "חייב",
+    "tr": "ẖyyb",
+    "en": "must"
+   },
+   {
+    "he": "יכול",
+    "tr": "ykwl",
+    "en": "can"
+   },
+   {
+    "he": "מומלץ",
+    "tr": "mwmlẕ",
+    "en": "recommended, advisable, suggested"
+   },
+   {
+    "he": "מותר",
+    "tr": "mwţr",
+    "en": "allowed, is allowed, permitted"
+   },
+   {
+    "he": "עשוי",
+    "tr": "ʻşwy",
+    "en": "liable, made, might, may, likely"
+   }
+  ]
+ },
+ {
+  "skill": "40 Education Talk about school",
+  "words": [
+   {
+    "he": "אוניברסיטה",
+    "tr": "ʼwnybrsyth",
+    "en": "university"
+   },
+   {
+    "he": "דוגמה",
+    "tr": "dwgmh",
+    "en": "example"
+   },
+   {
+    "he": "דוקטורט",
+    "tr": "dwqtwrt",
+    "en": "PhD, doctorate"
+   },
+   {
+    "he": "היסטוריה",
+    "tr": "hystwryh",
+    "en": "history"
+   },
+   {
+    "he": "הכנה",
+    "tr": "hknh",
+    "en": "preparation"
+   },
+   {
+    "he": "הסבר",
+    "tr": "hsbr",
+    "en": "explanation"
+   },
+   {
+    "he": "הרצאה",
+    "tr": "hrẕʼh",
+    "en": "lecture"
+   },
+   {
+    "he": "חינוך",
+    "tr": "ẖynwk",
+    "en": "education"
+   },
+   {
+    "he": "ידע",
+    "tr": "ydʻ",
+    "en": "(he) knew, knowledge, (he) was familiar with"
+   },
+   {
+    "he": "כיתה",
+    "tr": "kyţh",
+    "en": "class, classroom"
+   },
+   {
+    "he": "לימוד",
+    "tr": "lymwd",
+    "en": "learning (ger.), studying (ger.), learning, study"
+   },
+   {
+    "he": "ללמד",
+    "tr": "llmd",
+    "en": "to teach, teaching"
+   },
+   {
+    "he": "לתרגל",
+    "tr": "lţrgl",
+    "en": "to practise, practise"
+   },
+   {
+    "he": "מבחן",
+    "tr": "mbẖn",
+    "en": "exam, test"
+   },
+   {
+    "he": "מטרה",
+    "tr": "mtrh",
+    "en": "objective"
+   },
+   {
+    "he": "מילה",
+    "tr": "mylh",
+    "en": "word"
+   },
+   {
+    "he": "מכון",
+    "tr": "mkwn",
+    "en": "institude, institute"
+   },
+   {
+    "he": "מסמך",
+    "tr": "msmk",
+    "en": "document"
+   },
+   {
+    "he": "מצגת",
+    "tr": "mẕgţ",
+    "en": "presentation"
+   },
+   {
+    "he": "מרצה",
+    "tr": "mrẕh",
+    "en": "lecturer"
+   },
+   {
+    "he": "משמעות",
+    "tr": "mşmʻwţ",
+    "en": "meaning, significance"
+   },
+   {
+    "he": "סטודנט",
+    "tr": "stwdnt",
+    "en": "student"
+   },
+   {
+    "he": "עט",
+    "tr": "ʻt",
+    "en": "pen"
+   },
+   {
+    "he": "עמוד",
+    "tr": "ʻmwd",
+    "en": "page"
+   },
+   {
+    "he": "עפרון",
+    "tr": "ʻprwn",
+    "en": "pencil, a pencil"
+   },
+   {
+    "he": "פרופסור",
+    "tr": "prwpswr",
+    "en": "professor"
+   },
+   {
+    "he": "פרק",
+    "tr": "prq",
+    "en": "chapter, episode"
+   },
+   {
+    "he": "פתק",
+    "tr": "pţq",
+    "en": "note"
+   },
+   {
+    "he": "ציור",
+    "tr": "ẕywr",
+    "en": "painting, drawing"
+   },
+   {
+    "he": "קורס",
+    "tr": "qwrs",
+    "en": "course"
+   },
+   {
+    "he": "קושי",
+    "tr": "qwşy",
+    "en": "difficulty"
+   },
+   {
+    "he": "רעיון",
+    "tr": "rʻywn",
+    "en": "idea, concept"
+   },
+   {
+    "he": "שיעור",
+    "tr": "şyʻwr",
+    "en": "lesson"
+   },
+   {
+    "he": "שיעורי בית",
+    "tr": "şyʻwry byţ",
+    "en": "homework"
+   },
+   {
+    "he": "תואר",
+    "tr": "ţwʼr",
+    "en": "degree"
+   },
+   {
+    "he": "תכנית",
+    "tr": "ţknyţ",
+    "en": "program, plan, show"
+   }
+  ]
+ },
+ {
+  "skill": "41 Travel Discuss travel",
+  "words": [
+   {
+    "he": "אוטובוס",
+    "tr": "ʼwtwbws",
+    "en": "bus"
+   },
+   {
+    "he": "אוסטרליה",
+    "tr": "ʼwstrlyh",
+    "en": "australia"
+   },
+   {
+    "he": "אופנוע",
+    "tr": "ʼwpnwʻ",
+    "en": "motorcycle, a motorcycle, motorbike, a motorbike"
+   },
+   {
+    "he": "אופניים",
+    "tr": "ʼwpnyym",
+    "en": "bikes, bicycle, bicycles"
+   },
+   {
+    "he": "אירופאי",
+    "tr": "ʼyrwpʼy",
+    "en": "european"
+   },
+   {
+    "he": "אירופה",
+    "tr": "ʼyrwph",
+    "en": "Europe"
+   },
+   {
+    "he": "אמריקה",
+    "tr": "ʼmryqh",
+    "en": "America"
+   },
+   {
+    "he": "אנגליה",
+    "tr": "ʼnglyh",
+    "en": "english girl, England"
+   },
+   {
+    "he": "אסיה",
+    "tr": "ʼsyh",
+    "en": "Asia"
+   },
+   {
+    "he": "אפריקה",
+    "tr": "ʼpryqh",
+    "en": "Africa"
+   },
+   {
+    "he": "ארץ",
+    "tr": "ʼrẕ",
+    "en": "land, country"
+   },
+   {
+    "he": "ארצות הברית",
+    "tr": "ʼrẕwţ hbryţ",
+    "en": "The United States"
+   },
+   {
+    "he": "בין-לאומי",
+    "tr": "byn-lʼwmy",
+    "en": "international"
+   },
+   {
+    "he": "ביקור",
+    "tr": "byqwr",
+    "en": "visit"
+   },
+   {
+    "he": "גרמניה",
+    "tr": "grmnyh",
+    "en": "Germany"
+   },
+   {
+    "he": "דלק",
+    "tr": "dlq",
+    "en": "fuel, petrol"
+   },
+   {
+    "he": "דרכון",
+    "tr": "drkwn",
+    "en": "passport, a passport"
+   },
+   {
+    "he": "הים התיכון",
+    "tr": "hym hţykwn",
+    "en": "the Mediterranean sea"
+   },
+   {
+    "he": "המזרח התיכון",
+    "tr": "hmzrẖ hţykwn",
+    "en": "the middle east"
+   },
+   {
+    "he": "הרפתקה",
+    "tr": "hrpţqh",
+    "en": "adventure, an adventure"
+   },
+   {
+    "he": "חופשה",
+    "tr": "ẖwpşh",
+    "en": "vacation"
+   },
+   {
+    "he": "טיול",
+    "tr": "tywl",
+    "en": "trip"
+   },
+   {
+    "he": "טיסה",
+    "tr": "tysh",
+    "en": "flight"
+   },
+   {
+    "he": "יבשת",
+    "tr": "ybşţ",
+    "en": "continent"
+   },
+   {
+    "he": "יוון",
+    "tr": "ywwn",
+    "en": "Greece"
+   },
+   {
+    "he": "לטוס",
+    "tr": "ltws",
+    "en": "to fly"
+   },
+   {
+    "he": "לטייל",
+    "tr": "ltyyl",
+    "en": "to travel, travelling"
+   },
+   {
+    "he": "לנהוג",
+    "tr": "lnhwg",
+    "en": "to drive, drive"
+   },
+   {
+    "he": "לנסוע",
+    "tr": "lnswʻ",
+    "en": "to drive, to travel"
+   },
+   {
+    "he": "מדריך",
+    "tr": "mdryk",
+    "en": "a guide (male), a tour guide (male)"
+   },
+   {
+    "he": "מזוודה",
+    "tr": "mzwwdh",
+    "en": "suitcase, a suitcase"
+   },
+   {
+    "he": "מטוס",
+    "tr": "mtws",
+    "en": "plane, an airplane"
+   },
+   {
+    "he": "מכונית",
+    "tr": "mkwnyţ",
+    "en": "car, a car"
+   },
+   {
+    "he": "מסביב",
+    "tr": "msbyb",
+    "en": "around, around the corner"
+   },
+   {
+    "he": "מסע",
+    "tr": "msʻ",
+    "en": "journey, a journey"
+   },
+   {
+    "he": "מפה",
+    "tr": "mph",
+    "en": "map, from here, away"
+   },
+   {
+    "he": "מצרים",
+    "tr": "mẕrym",
+    "en": "Egypt"
+   },
+   {
+    "he": "סין",
+    "tr": "syn",
+    "en": "China"
+   },
+   {
+    "he": "סירה",
+    "tr": "syrh",
+    "en": "a boat, boat"
+   },
+   {
+    "he": "ספינה",
+    "tr": "spynh",
+    "en": "ship, a ship"
+   },
+   {
+    "he": "ספרד",
+    "tr": "sprd",
+    "en": "Spain"
+   },
+   {
+    "he": "עולם",
+    "tr": "ʻwlm",
+    "en": "world, a world"
+   },
+   {
+    "he": "צרפת",
+    "tr": "ẕrpţ",
+    "en": "France"
+   },
+   {
+    "he": "קו",
+    "tr": "qw",
+    "en": "line"
+   },
+   {
+    "he": "רוסיה",
+    "tr": "rwsyh",
+    "en": "Russia"
+   },
+   {
+    "he": "רכב",
+    "tr": "rkb",
+    "en": "vehicle"
+   },
+   {
+    "he": "רכבת",
+    "tr": "rkbţ",
+    "en": "train"
+   },
+   {
+    "he": "רכבת תחתית",
+    "tr": "rkbţ ţẖţyţ",
+    "en": "subway, metro"
+   },
+   {
+    "he": "רציף",
+    "tr": "rẕyp",
+    "en": "platform"
+   },
+   {
+    "he": "תחבורה",
+    "tr": "ţẖbwrh",
+    "en": "transportation"
+   },
+   {
+    "he": "תחנת אוטובוס",
+    "tr": "ţẖnţ ʼwtwbws",
+    "en": "a bus station"
+   },
+   {
+    "he": "תחנת רכבת",
+    "tr": "ţẖnţ rkbţ",
+    "en": "train station"
+   },
+   {
+    "he": "תייר",
+    "tr": "ţyyr",
+    "en": "tourist, a tourist"
+   },
+   {
+    "he": "תיק גב",
+    "tr": "ţyq gb",
+    "en": "backpack"
+   }
+  ]
+ },
+ {
+  "skill": "42 Verbs: Past Active 1 Use verbs in the past",
+  "words": [
+   {
+    "he": "אי פעם",
+    "tr": "ʼy pʻm",
+    "en": "ever"
+   },
+   {
+    "he": "איבד",
+    "tr": "ʼybd",
+    "en": "(he) has lost, (he) lost, lost"
+   },
+   {
+    "he": "אכל",
+    "tr": "ʼkl",
+    "en": "ate, have eaten"
+   },
+   {
+    "he": "אמר",
+    "tr": "ʼmr",
+    "en": "said, told"
+   },
+   {
+    "he": "בא",
+    "tr": "bʼ",
+    "en": "come, is coming, coming, comes, came"
+   },
+   {
+    "he": "בזבז",
+    "tr": "bzbz",
+    "en": "(he) spent, (he) has spent, (he) has wasted, (he) wasted, spent"
+   },
+   {
+    "he": "ביקש",
+    "tr": "byqş",
+    "en": "(he) asked for"
+   },
+   {
+    "he": "בישל",
+    "tr": "byşl",
+    "en": "cooked"
+   },
+   {
+    "he": "גדַל",
+    "tr": "gdal",
+    "en": "(he) grew up, (he) has grown up"
+   },
+   {
+    "he": "גנב",
+    "tr": "gnb",
+    "en": "(he) stole, stole"
+   },
+   {
+    "he": "דיבר",
+    "tr": "dybr",
+    "en": "spoke"
+   },
+   {
+    "he": "האמין",
+    "tr": "hʼmyn",
+    "en": "believed"
+   },
+   {
+    "he": "הבין",
+    "tr": "hbyn",
+    "en": "he understood"
+   },
+   {
+    "he": "הגיע",
+    "tr": "hgyʻ",
+    "en": "(he) arrived, (he) has arrived, (he) came, (he) has come, arrived, came, reach"
+   },
+   {
+    "he": "הזמין",
+    "tr": "hzmyn",
+    "en": "(he) invited"
+   },
+   {
+    "he": "החליט",
+    "tr": "hẖlyt",
+    "en": "(he) decided, decided"
+   },
+   {
+    "he": "היה",
+    "tr": "hyh",
+    "en": "was, (he/it) was, had, would, there was"
+   },
+   {
+    "he": "היו",
+    "tr": "hyw",
+    "en": "(they) were, were"
+   },
+   {
+    "he": "היינו",
+    "tr": "hyynw",
+    "en": "we were, we have been, we would be"
+   },
+   {
+    "he": "הייתְ",
+    "tr": "hyyţĕ",
+    "en": "you (s.f.) were, you (s.f.) have been, you (sg. fem.) would"
+   },
+   {
+    "he": "הייתָ",
+    "tr": "hyyţá",
+    "en": "you (sg. masc.) were, you (sg. masc.) have been, you (sg. masc.) would"
+   },
+   {
+    "he": "הייתה",
+    "tr": "hyyţh",
+    "en": "(she) had been, (she) has been, (she) was, was, (she) would"
+   },
+   {
+    "he": "הייתי",
+    "tr": "hyyţy",
+    "en": "I have been, I was, I would be, I would"
+   },
+   {
+    "he": "הייתם",
+    "tr": "hyyţm",
+    "en": "you were, you have been"
+   },
+   {
+    "he": "הייתן",
+    "tr": "hyyţn",
+    "en": "you (pl.f) were, you (pl.f.) have been"
+   },
+   {
+    "he": "הכיר",
+    "tr": "hkyr",
+    "en": "knew, met"
+   },
+   {
+    "he": "הלך",
+    "tr": "hlk",
+    "en": "(he) has gone, (he) went, went"
+   },
+   {
+    "he": "הסביר",
+    "tr": "hsbyr",
+    "en": "explained"
+   },
+   {
+    "he": "הציע",
+    "tr": "hẕyʻ",
+    "en": "offered, suggested, proposed"
+   },
+   {
+    "he": "הראה",
+    "tr": "hrʼh",
+    "en": "(he) has shown, (he) showed, showed"
+   },
+   {
+    "he": "הרגיש",
+    "tr": "hrgyş",
+    "en": "felt"
+   },
+   {
+    "he": "התחיל",
+    "tr": "hţẖyl",
+    "en": "(he) started, began"
+   },
+   {
+    "he": "חזר",
+    "tr": "ẖzr",
+    "en": "(he) returned"
+   },
+   {
+    "he": "חיכה",
+    "tr": "ẖykh",
+    "en": "waited"
+   },
+   {
+    "he": "ידע",
+    "tr": "ydʻ",
+    "en": "(he) knew, knowledge, (he) was familiar with"
+   },
+   {
+    "he": "כתב",
+    "tr": "kţb",
+    "en": "(he) wrote, (he) has written, wrote"
+   },
+   {
+    "he": "לקח",
+    "tr": "lqẖ",
+    "en": "(he) has taken, (he) took, took"
+   },
+   {
+    "he": "מאז",
+    "tr": "mʼz",
+    "en": "since"
+   },
+   {
+    "he": "מעולם",
+    "tr": "mʻwlm",
+    "en": "never, never (past), from a world"
+   },
+   {
+    "he": "מצא",
+    "tr": "mẕʼ",
+    "en": "(he) has found, (he) found, found"
+   },
+   {
+    "he": "ניסה",
+    "tr": "nysh",
+    "en": "tried"
+   },
+   {
+    "he": "ניצח",
+    "tr": "nyẕẖ",
+    "en": "(he) has won, (he) won, won"
+   },
+   {
+    "he": "נפל",
+    "tr": "npl",
+    "en": "fell, fell down"
+   },
+   {
+    "he": "נתן",
+    "tr": "nţn",
+    "en": "(he) has given, (he) gave, gave"
+   },
+   {
+    "he": "סיים",
+    "tr": "syym",
+    "en": "finished"
+   },
+   {
+    "he": "סיפר",
+    "tr": "sypr",
+    "en": "told"
+   },
+   {
+    "he": "עבד",
+    "tr": "ʻbd",
+    "en": "worked"
+   },
+   {
+    "he": "עבר",
+    "tr": "ʻbr",
+    "en": "past (tense), past"
+   },
+   {
+    "he": "עזב",
+    "tr": "ʻzb",
+    "en": "(he) left, (he) has left, left"
+   },
+   {
+    "he": "עשה",
+    "tr": "ʻşh",
+    "en": "(he) did, (he) has done, did, made"
+   },
+   {
+    "he": "קינא",
+    "tr": "qynʼ",
+    "en": "(he) was jealous, (he) has been jealous"
+   },
+   {
+    "he": "קנָה",
+    "tr": "qnáh",
+    "en": "bought"
+   },
+   {
+    "he": "קפץ",
+    "tr": "qpẕ",
+    "en": "(he) jumped"
+   },
+   {
+    "he": "קרא",
+    "tr": "qrʼ",
+    "en": "(he) read (past), (he) has read"
+   },
+   {
+    "he": "ראה",
+    "tr": "rʼh",
+    "en": "saw, (he) has seen"
+   },
+   {
+    "he": "רץ",
+    "tr": "rẕ",
+    "en": "run, did run, (he) has ran, is running, runs, (he) ran"
+   },
+   {
+    "he": "רצה",
+    "tr": "rẕh",
+    "en": "is running, running, runs, (she) has run, (she) ran, wanted, run"
+   },
+   {
+    "he": "שבר",
+    "tr": "şbr",
+    "en": "broke"
+   },
+   {
+    "he": "שיחק",
+    "tr": "şyẖq",
+    "en": "(he) has played, (he) played, played"
+   },
+   {
+    "he": "שיקר",
+    "tr": "şyqr",
+    "en": "lied"
+   },
+   {
+    "he": "שם",
+    "tr": "şm",
+    "en": "name, puts, put on, there, over there, is putting, put"
+   },
+   {
+    "he": "שמע",
+    "tr": "şmʻ",
+    "en": "heard"
+   },
+   {
+    "he": "שר",
+    "tr": "şr",
+    "en": "sings, sing, is singing, minister"
+   },
+   {
+    "he": "שתה",
+    "tr": "şţh",
+    "en": "drank, has drunk"
+   }
+  ]
+ },
+ {
+  "skill": "43 Comparison Make comparisons",
+  "words": [
+   {
+    "he": "ביותר",
+    "tr": "bywţr",
+    "en": "very, most"
+   },
+   {
+    "he": "הכי",
+    "tr": "hky",
+    "en": "the most"
+   },
+   {
+    "he": "יותר",
+    "tr": "ywţr",
+    "en": "any longer, any more, more, anymore"
+   },
+   {
+    "he": "פחות",
+    "tr": "pẖwţ",
+    "en": "less, minus"
+   }
+  ]
+ },
+ {
+  "skill": "44 Objects Refer to objects",
+  "words": [
+   {
+    "he": "אבקה",
+    "tr": "ʼbqh",
+    "en": "powder"
+   },
+   {
+    "he": "ארנק",
+    "tr": "ʼrnq",
+    "en": "a wallet, wallet, purse"
+   },
+   {
+    "he": "בטרייה",
+    "tr": "btryyh",
+    "en": "battery"
+   },
+   {
+    "he": "בריכה",
+    "tr": "brykh",
+    "en": "pool"
+   },
+   {
+    "he": "גדר",
+    "tr": "gdr",
+    "en": "fence"
+   },
+   {
+    "he": "גלגל",
+    "tr": "glgl",
+    "en": "wheel"
+   },
+   {
+    "he": "דגל",
+    "tr": "dgl",
+    "en": "flag"
+   },
+   {
+    "he": "חפץ",
+    "tr": "ẖpẕ",
+    "en": "object"
+   },
+   {
+    "he": "חתיכה",
+    "tr": "ẖţykh",
+    "en": "a piece, piece"
+   },
+   {
+    "he": "טלוויזיה",
+    "tr": "tlwwyzyh",
+    "en": "television, tv"
+   },
+   {
+    "he": "טלפון",
+    "tr": "tlpwn",
+    "en": "a phone, a telephone, phone"
+   },
+   {
+    "he": "טלפון נייד",
+    "tr": "tlpwn nyyd",
+    "en": "a cellphone, cellphone"
+   },
+   {
+    "he": "מגזין",
+    "tr": "mgzyn",
+    "en": "magazine"
+   },
+   {
+    "he": "מחבת",
+    "tr": "mẖbţ",
+    "en": "frying pan"
+   },
+   {
+    "he": "מחשב",
+    "tr": "mẖşb",
+    "en": "a computer, computer"
+   },
+   {
+    "he": "מטרייה",
+    "tr": "mtryyh",
+    "en": "umbrella, an umbrella"
+   },
+   {
+    "he": "מכונה",
+    "tr": "mkwnh",
+    "en": "machine"
+   },
+   {
+    "he": "מכתב",
+    "tr": "mkţb",
+    "en": "a letter, letter"
+   },
+   {
+    "he": "מנוע",
+    "tr": "mnwʻ",
+    "en": "an engine, a motor"
+   },
+   {
+    "he": "מסך",
+    "tr": "msk",
+    "en": "screen"
+   },
+   {
+    "he": "מספריים",
+    "tr": "mspryym",
+    "en": "scissors"
+   },
+   {
+    "he": "מסרק",
+    "tr": "msrq",
+    "en": "comb"
+   },
+   {
+    "he": "מצעים",
+    "tr": "mẕʻym",
+    "en": "bedsheets, bedding"
+   },
+   {
+    "he": "מתנה",
+    "tr": "mţnh",
+    "en": "gift"
+   },
+   {
+    "he": "נייר",
+    "tr": "nyyr",
+    "en": "paper"
+   },
+   {
+    "he": "נר",
+    "tr": "nr",
+    "en": "candle"
+   },
+   {
+    "he": "סבון",
+    "tr": "sbwn",
+    "en": "soap"
+   },
+   {
+    "he": "סל",
+    "tr": "sl",
+    "en": "basket, a basket"
+   },
+   {
+    "he": "ספוג",
+    "tr": "spwg",
+    "en": "sponge, a sponge"
+   },
+   {
+    "he": "ספל",
+    "tr": "spl",
+    "en": "mug"
+   },
+   {
+    "he": "עלון",
+    "tr": "ʻlwn",
+    "en": "flyer, a flyer"
+   },
+   {
+    "he": "עצם",
+    "tr": "ʻẕm",
+    "en": "object, bone"
+   },
+   {
+    "he": "קופסה",
+    "tr": "qwpsh",
+    "en": "a box, box"
+   },
+   {
+    "he": "קניות",
+    "tr": "qnywţ",
+    "en": "shopping"
+   },
+   {
+    "he": "רדיו",
+    "tr": "rdyw",
+    "en": "a radio, radio"
+   },
+   {
+    "he": "רומן",
+    "tr": "rwmn",
+    "en": "a novel"
+   },
+   {
+    "he": "שולחן עבודה",
+    "tr": "şwlẖn ʻbwdh",
+    "en": "desk"
+   },
+   {
+    "he": "שורש",
+    "tr": "şwrş",
+    "en": "root"
+   },
+   {
+    "he": "שעון",
+    "tr": "şʻwn",
+    "en": "a clock, clock, a watch"
+   },
+   {
+    "he": "שעון יד",
+    "tr": "şʻwn yd",
+    "en": "watch"
+   },
+   {
+    "he": "שרשרת",
+    "tr": "şrşrţ",
+    "en": "chain, a chain, a necklace, necklace"
+   },
+   {
+    "he": "תיק",
+    "tr": "ţyq",
+    "en": "bag"
+   }
+  ]
+ },
+ {
+  "skill": "45 Verbs: Present Reflexive - Hitpa'el Use complex verbs",
+  "words": [
+   {
+    "he": "להשתמש",
+    "tr": "lhşţmş",
+    "en": "to use"
+   },
+   {
+    "he": "להתאושש",
+    "tr": "lhţʼwşş",
+    "en": "to recover"
+   },
+   {
+    "he": "להתגלח",
+    "tr": "lhţglẖ",
+    "en": "to shave"
+   },
+   {
+    "he": "להתעלם",
+    "tr": "lhţʻlm",
+    "en": "ignores"
+   },
+   {
+    "he": "להתעמל",
+    "tr": "lhţʻml",
+    "en": "to exercise, to work out, exercising"
+   },
+   {
+    "he": "להתראות",
+    "tr": "lhţrʼwţ",
+    "en": "see you later, goodbye, bye"
+   }
+  ]
+ },
+ {
+  "skill": "46 Adjectives 3 Describe attributes",
+  "words": [
+   {
+    "he": "אישי",
+    "tr": "ʼyşy",
+    "en": "personal (sg. masc.), private (sg. masc.)"
+   },
+   {
+    "he": "בודד",
+    "tr": "bwdd",
+    "en": "lonely, single"
+   },
+   {
+    "he": "בטוח",
+    "tr": "btwẖ",
+    "en": "safe (sg. masc.), sure (sg. masc.)"
+   },
+   {
+    "he": "בריא",
+    "tr": "bryʼ",
+    "en": "healthy (sg. masc.)"
+   },
+   {
+    "he": "גרוע",
+    "tr": "grwʻ",
+    "en": "bad, poor"
+   },
+   {
+    "he": "דתי",
+    "tr": "dţy",
+    "en": "religious (sg. masc.)"
+   },
+   {
+    "he": "היסטורי",
+    "tr": "hystwry",
+    "en": "historic, historical"
+   },
+   {
+    "he": "זמין",
+    "tr": "zmyn",
+    "en": "available (sg. masc.)"
+   },
+   {
+    "he": "חד",
+    "tr": "ẖd",
+    "en": "sharp (sg. masc.)"
+   },
+   {
+    "he": "חודשי",
+    "tr": "ẖwdşy",
+    "en": "monthly (sg. masc.)"
+   },
+   {
+    "he": "חוקי",
+    "tr": "ẖwqy",
+    "en": "legal (sg. masc.)"
+   },
+   {
+    "he": "חכם",
+    "tr": "ẖkm",
+    "en": "smart (sg. masc.)"
+   },
+   {
+    "he": "טהור",
+    "tr": "thwr",
+    "en": "pure (sg. masc.)"
+   },
+   {
+    "he": "טיפש",
+    "tr": "typş",
+    "en": "dumb (sg. masc.), stupid (sg. masc.), fool (masculine)"
+   },
+   {
+    "he": "טרי",
+    "tr": "try",
+    "en": "fresh (sg. masc.)"
+   },
+   {
+    "he": "יומי",
+    "tr": "ywmy",
+    "en": "daily (sg. masc.)"
+   },
+   {
+    "he": "ימני",
+    "tr": "ymny",
+    "en": "right-handed (sg. masc.)"
+   },
+   {
+    "he": "מדהים",
+    "tr": "mdhym",
+    "en": "amazing (sg. masc.)"
+   },
+   {
+    "he": "מודרני",
+    "tr": "mwdrny",
+    "en": "modern (sg. masc.)"
+   },
+   {
+    "he": "מוזר",
+    "tr": "mwzr",
+    "en": "weird (sg. masc.), strange (sg. masc.)"
+   },
+   {
+    "he": "מוכן",
+    "tr": "mwkn",
+    "en": "ready"
+   },
+   {
+    "he": "מטומטם",
+    "tr": "mtwmtm",
+    "en": "stupid (sg. masc.)"
+   },
+   {
+    "he": "מכוער",
+    "tr": "mkwʻr",
+    "en": "ugly"
+   },
+   {
+    "he": "מסורתי",
+    "tr": "mswrţy",
+    "en": "traditional (sg. masc.)"
+   },
+   {
+    "he": "מקומי",
+    "tr": "mqwmy",
+    "en": "a local"
+   },
+   {
+    "he": "מרשים",
+    "tr": "mrşym",
+    "en": "impressive, impressing"
+   },
+   {
+    "he": "מרתק",
+    "tr": "mrţq",
+    "en": "fascinating (sg. masc.), thrilling (sg. masc.)"
+   },
+   {
+    "he": "משלו",
+    "tr": "mşlw",
+    "en": "of his own"
+   },
+   {
+    "he": "נדיר",
+    "tr": "ndyr",
+    "en": "rare (sg. masc.)"
+   },
+   {
+    "he": "נפלא",
+    "tr": "nplʼ",
+    "en": "wonderful (sg. masc.)"
+   },
+   {
+    "he": "סופי",
+    "tr": "swpy",
+    "en": "final (sg. masc.)"
+   },
+   {
+    "he": "עולמי",
+    "tr": "ʻwlmy",
+    "en": "global (sg. masc.)"
+   },
+   {
+    "he": "עמוק",
+    "tr": "ʻmwq",
+    "en": "deep (sg. masc.)"
+   },
+   {
+    "he": "עתיק",
+    "tr": "ʻţyq",
+    "en": "ancient"
+   },
+   {
+    "he": "פופולרי",
+    "tr": "pwpwlry",
+    "en": "popular (sg. masc.)"
+   },
+   {
+    "he": "צר",
+    "tr": "ẕr",
+    "en": "narrow (sg. masc.), thin"
+   },
+   {
+    "he": "ראשי",
+    "tr": "rʼşy",
+    "en": "leading"
+   },
+   {
+    "he": "רחב",
+    "tr": "rẖb",
+    "en": "wide (sg. masc.)"
+   },
+   {
+    "he": "רשמי",
+    "tr": "rşmy",
+    "en": "official (sg. masc.)"
+   },
+   {
+    "he": "שבועי",
+    "tr": "şbwʻy",
+    "en": "weekly (sg. masc.)"
+   },
+   {
+    "he": "שלם",
+    "tr": "şlm",
+    "en": "full (sg. masc.), entire (sg. masc.)"
+   },
+   {
+    "he": "שמאלי",
+    "tr": "şmʼly",
+    "en": "left-handed (sg. masc.)"
+   },
+   {
+    "he": "שנתי",
+    "tr": "şnţy",
+    "en": "yearly, annual"
+   },
+   {
+    "he": "תרבותי",
+    "tr": "ţrbwţy",
+    "en": "cultural (sg. masc.)"
+   }
+  ]
+ },
+ {
+  "skill": "47 Abstract Objects 1 Form abstract concepts",
+  "words": [
+   {
+    "he": "אפשרות",
+    "tr": "ʼpşrwţ",
+    "en": "possibility, option"
+   },
+   {
+    "he": "ביצועים",
+    "tr": "byẕwʻym",
+    "en": "performance"
+   },
+   {
+    "he": "בעיה",
+    "tr": "bʻyh",
+    "en": "problem"
+   },
+   {
+    "he": "ברירה",
+    "tr": "bryrh",
+    "en": "choice"
+   },
+   {
+    "he": "הגנה",
+    "tr": "hgnh",
+    "en": "protection, defense"
+   },
+   {
+    "he": "הזדמנות",
+    "tr": "hzdmnwţ",
+    "en": "chance, opportunity"
+   },
+   {
+    "he": "החלטה",
+    "tr": "hẖlth",
+    "en": "a decision, decision"
+   },
+   {
+    "he": "הסכם",
+    "tr": "hskm",
+    "en": "agreement"
+   },
+   {
+    "he": "הצלחה",
+    "tr": "hẕlẖh",
+    "en": "success, a success"
+   },
+   {
+    "he": "הקדמה",
+    "tr": "hqdmh",
+    "en": "an introduction, introduction"
+   },
+   {
+    "he": "השפעה",
+    "tr": "hşpʻh",
+    "en": "influence"
+   },
+   {
+    "he": "השקפה",
+    "tr": "hşqph",
+    "en": "perspective"
+   },
+   {
+    "he": "התחלה",
+    "tr": "hţẖlh",
+    "en": "beginning, start"
+   },
+   {
+    "he": "חושך",
+    "tr": "ẖwşk",
+    "en": "darkness"
+   },
+   {
+    "he": "חלופה",
+    "tr": "ẖlwph",
+    "en": "an alternative, alternative"
+   },
+   {
+    "he": "חלק",
+    "tr": "ẖlq",
+    "en": "part"
+   },
+   {
+    "he": "חשבון",
+    "tr": "ẖşbwn",
+    "en": "account, bill"
+   },
+   {
+    "he": "ייצור",
+    "tr": "yyẕwr",
+    "en": "manufacturing"
+   },
+   {
+    "he": "יציאה",
+    "tr": "yẕyʼh",
+    "en": "exit"
+   },
+   {
+    "he": "כוונה",
+    "tr": "kwwnh",
+    "en": "intention"
+   },
+   {
+    "he": "כישלון",
+    "tr": "kyşlwn",
+    "en": "failure, a failure"
+   },
+   {
+    "he": "מבנה",
+    "tr": "mbnh",
+    "en": "a building, construction, a structure, structure"
+   },
+   {
+    "he": "מנוחה",
+    "tr": "mnwẖh",
+    "en": "a rest"
+   },
+   {
+    "he": "מערכת",
+    "tr": "mʻrkţ",
+    "en": "system, a system"
+   },
+   {
+    "he": "מצב",
+    "tr": "mẕb",
+    "en": "situation, state"
+   },
+   {
+    "he": "מקרה",
+    "tr": "mqrh",
+    "en": "case, a case"
+   },
+   {
+    "he": "משאלה",
+    "tr": "mşʼlh",
+    "en": "wish"
+   },
+   {
+    "he": "משבר",
+    "tr": "mşbr",
+    "en": "crisis"
+   },
+   {
+    "he": "נושא",
+    "tr": "nwşʼ",
+    "en": "topic, subject"
+   },
+   {
+    "he": "סוג",
+    "tr": "swg",
+    "en": "kind, sort, type"
+   },
+   {
+    "he": "סוף",
+    "tr": "swp",
+    "en": "end, ending"
+   },
+   {
+    "he": "עיצוב",
+    "tr": "ʻyẕwb",
+    "en": "design"
+   },
+   {
+    "he": "עניין",
+    "tr": "ʻnyyn",
+    "en": "interest, matter"
+   },
+   {
+    "he": "ערך",
+    "tr": "ʻrk",
+    "en": "entry"
+   },
+   {
+    "he": "פקודה",
+    "tr": "pqwdh",
+    "en": "an order"
+   },
+   {
+    "he": "פרופיל",
+    "tr": "prwpyl",
+    "en": "profile, a profile"
+   },
+   {
+    "he": "פרס",
+    "tr": "prs",
+    "en": "reward, a reward, prize"
+   },
+   {
+    "he": "צד",
+    "tr": "ẕd",
+    "en": "side"
+   },
+   {
+    "he": "ציוד",
+    "tr": "ẕywd",
+    "en": "an equipment, equipment"
+   },
+   {
+    "he": "ציון",
+    "tr": "ẕywn",
+    "en": "grade"
+   },
+   {
+    "he": "קבוצה",
+    "tr": "qbwẕh",
+    "en": "team, group, club"
+   },
+   {
+    "he": "קול",
+    "tr": "qwl",
+    "en": "voice, a voice"
+   },
+   {
+    "he": "קטגורייה",
+    "tr": "qtgwryyh",
+    "en": "category"
+   },
+   {
+    "he": "רמה",
+    "tr": "rmh",
+    "en": "level"
+   },
+   {
+    "he": "רעש",
+    "tr": "rʻş",
+    "en": "noise"
+   },
+   {
+    "he": "רשימה",
+    "tr": "rşymh",
+    "en": "list"
+   },
+   {
+    "he": "שיא",
+    "tr": "şyʼ",
+    "en": "record, a record"
+   },
+   {
+    "he": "שיחה",
+    "tr": "şyẖh",
+    "en": "conversation, a conversation"
+   },
+   {
+    "he": "שינוי",
+    "tr": "şynwy",
+    "en": "a change, change"
+   },
+   {
+    "he": "שירות",
+    "tr": "şyrwţ",
+    "en": "service"
+   },
+   {
+    "he": "שליטה",
+    "tr": "şlyth",
+    "en": "control"
+   },
+   {
+    "he": "תגובה",
+    "tr": "ţgwbh",
+    "en": "response, comment"
+   },
+   {
+    "he": "תוכן",
+    "tr": "ţwkn",
+    "en": "a content, content"
+   },
+   {
+    "he": "תוצאה",
+    "tr": "ţwẕʼh",
+    "en": "result"
+   },
+   {
+    "he": "תור",
+    "tr": "ţwr",
+    "en": "turn, queue"
+   },
+   {
+    "he": "תיאור",
+    "tr": "ţyʼwr",
+    "en": "description"
+   },
+   {
+    "he": "תמונה",
+    "tr": "ţmwnh",
+    "en": "picture"
+   },
+   {
+    "he": "תפקיד",
+    "tr": "ţpqyd",
+    "en": "role"
+   },
+   {
+    "he": "תקווה",
+    "tr": "ţqwwh",
+    "en": "hope"
+   }
+  ]
+ },
+ {
+  "skill": "48 Imperative 1 Use commands",
+  "words": [
+   {
+    "he": "בוא",
+    "tr": "bwʼ",
+    "en": "come (s.m.), come"
+   },
+   {
+    "he": "ברך",
+    "tr": "brk",
+    "en": "bless, bless (imp.), congratulate"
+   },
+   {
+    "he": "דבר",
+    "tr": "dbr",
+    "en": "speak (imp.), a thing, thing, talk (imp.)"
+   },
+   {
+    "he": "דע",
+    "tr": "dʻ",
+    "en": "know"
+   },
+   {
+    "he": "האמן",
+    "tr": "hʼmn",
+    "en": "the artist"
+   },
+   {
+    "he": "הוסף",
+    "tr": "hwsp",
+    "en": "add"
+   },
+   {
+    "he": "הזכר",
+    "tr": "hzkr",
+    "en": "remind"
+   },
+   {
+    "he": "הזמן",
+    "tr": "hzmn",
+    "en": "the time"
+   },
+   {
+    "he": "החזר",
+    "tr": "hẖzr",
+    "en": "bring back"
+   },
+   {
+    "he": "החלט",
+    "tr": "hẖlt",
+    "en": "decide"
+   },
+   {
+    "he": "החלף",
+    "tr": "hẖlp",
+    "en": "switch, change, exchange, swap"
+   },
+   {
+    "he": "הייה",
+    "tr": "hyyh",
+    "en": "be"
+   },
+   {
+    "he": "הסתכל",
+    "tr": "hsţkl",
+    "en": "look"
+   },
+   {
+    "he": "הסתפר",
+    "tr": "hsţpr",
+    "en": "cut your hair, get a haircut, get your hair cut"
+   },
+   {
+    "he": "הצג",
+    "tr": "hẕg",
+    "en": "present"
+   },
+   {
+    "he": "הצטרף",
+    "tr": "hẕtrp",
+    "en": "join"
+   },
+   {
+    "he": "הקשב",
+    "tr": "hqşb",
+    "en": "listen"
+   },
+   {
+    "he": "הראה",
+    "tr": "hrʼh",
+    "en": "(he) has shown, (he) showed, showed"
+   },
+   {
+    "he": "הרגש",
+    "tr": "hrgş",
+    "en": "feel"
+   },
+   {
+    "he": "השתמש",
+    "tr": "hşţmş",
+    "en": "use"
+   },
+   {
+    "he": "התחבא",
+    "tr": "hţẖbʼ",
+    "en": "was hiding, hid, hide (imp.)"
+   },
+   {
+    "he": "התחבר",
+    "tr": "hţẖbr",
+    "en": "connect, log in"
+   },
+   {
+    "he": "התחל",
+    "tr": "hţẖl",
+    "en": "start"
+   },
+   {
+    "he": "התכונן",
+    "tr": "hţkwnn",
+    "en": "prepare, get ready"
+   },
+   {
+    "he": "התעלם",
+    "tr": "hţʻlm",
+    "en": "ignore, ignored"
+   },
+   {
+    "he": "התפלל",
+    "tr": "hţpll",
+    "en": "pray"
+   },
+   {
+    "he": "התקלח",
+    "tr": "hţqlẖ",
+    "en": "take a shower, shower"
+   },
+   {
+    "he": "התקרב",
+    "tr": "hţqrb",
+    "en": "come closer"
+   },
+   {
+    "he": "חכה",
+    "tr": "ẖkh",
+    "en": "wait"
+   },
+   {
+    "he": "חפש",
+    "tr": "ẖpş",
+    "en": "look for (imp.), search for (imp.)"
+   },
+   {
+    "he": "לך",
+    "tr": "lk",
+    "en": "go (s.m.), you"
+   },
+   {
+    "he": "למד",
+    "tr": "lmd",
+    "en": "learnt, teach, learned, studied"
+   },
+   {
+    "he": "נסה",
+    "tr": "nsh",
+    "en": "try (imp.), try"
+   },
+   {
+    "he": "סיים",
+    "tr": "syym",
+    "en": "finished"
+   },
+   {
+    "he": "סמן",
+    "tr": "smn",
+    "en": "mark (imp.), bookmark (imp.), mark"
+   },
+   {
+    "he": "עזור",
+    "tr": "ʻzwr",
+    "en": "help (s.m.), help"
+   },
+   {
+    "he": "עצור",
+    "tr": "ʻẕwr",
+    "en": "stop"
+   },
+   {
+    "he": "ערבב",
+    "tr": "ʻrbb",
+    "en": "mix (imp.), stir (imp.)"
+   },
+   {
+    "he": "עשֵה",
+    "tr": "ʻşéh",
+    "en": "do (imp.)"
+   },
+   {
+    "he": "פתח",
+    "tr": "pţẖ",
+    "en": "open"
+   },
+   {
+    "he": "צא",
+    "tr": "ẕʼ",
+    "en": "get out, go out"
+   },
+   {
+    "he": "צלם",
+    "tr": "ẕlm",
+    "en": "take a picture (imp.), photograph (imp.), photograph, photographer"
+   },
+   {
+    "he": "צפה",
+    "tr": "ẕph",
+    "en": "watch"
+   },
+   {
+    "he": "קבל",
+    "tr": "qbl",
+    "en": "accept (imp.), receive (imp.)"
+   },
+   {
+    "he": "קח",
+    "tr": "qẖ",
+    "en": "take"
+   },
+   {
+    "he": "קנה",
+    "tr": "qnh",
+    "en": "buy"
+   },
+   {
+    "he": "רוץ",
+    "tr": "rwẕ",
+    "en": "run (s.m.), run"
+   },
+   {
+    "he": "רחם",
+    "tr": "rẖm",
+    "en": "have mercy (imp.), take pity (imp.)"
+   },
+   {
+    "he": "שב",
+    "tr": "şb",
+    "en": "sit"
+   },
+   {
+    "he": "שים",
+    "tr": "şym",
+    "en": "put"
+   },
+   {
+    "he": "שכח",
+    "tr": "şkẖ",
+    "en": "has forgotten, forgot, had forgotten"
+   },
+   {
+    "he": "שלח",
+    "tr": "şlẖ",
+    "en": "send"
+   },
+   {
+    "he": "שמור",
+    "tr": "şmwr",
+    "en": "save (s.m.), keep (s.m.), keep, guard"
+   },
+   {
+    "he": "שתה",
+    "tr": "şţh",
+    "en": "drank, has drunk"
+   },
+   {
+    "he": "תן",
+    "tr": "ţn",
+    "en": "give, let"
+   },
+   {
+    "he": "תקן",
+    "tr": "ţqn",
+    "en": "correct"
+   }
+  ]
+ },
+ {
+  "skill": "49 Languages Talk about languages",
+  "words": [
+   {
+    "he": "אות",
+    "tr": "ʼwţ",
+    "en": "letter"
+   },
+   {
+    "he": "איטלקית",
+    "tr": "ʼytlqyţ",
+    "en": "Italian (lang.)"
+   },
+   {
+    "he": "אירית",
+    "tr": "ʼyryţ",
+    "en": "Irish (lang.)"
+   },
+   {
+    "he": "אספרנטו",
+    "tr": "ʼsprntw",
+    "en": "Esperanto"
+   },
+   {
+    "he": "בלשן",
+    "tr": "blşn",
+    "en": "linguist"
+   },
+   {
+    "he": "בלשנות",
+    "tr": "blşnwţ",
+    "en": "linguistics"
+   },
+   {
+    "he": "גרמנית",
+    "tr": "grmnyţ",
+    "en": "German"
+   },
+   {
+    "he": "דובר",
+    "tr": "dwbr",
+    "en": "speaker of, speaker"
+   },
+   {
+    "he": "דנית",
+    "tr": "dnyţ",
+    "en": "Danish (lang.), danish"
+   },
+   {
+    "he": "הולנדית",
+    "tr": "hwlndyţ",
+    "en": "Dutch (lang.)"
+   },
+   {
+    "he": "הונגרית",
+    "tr": "hwngryţ",
+    "en": "Hungarian (lang.)"
+   },
+   {
+    "he": "הינדי",
+    "tr": "hyndy",
+    "en": "Hindi (lang.)"
+   },
+   {
+    "he": "יוונית",
+    "tr": "ywwnyţ",
+    "en": "Greek (lang.), greek"
+   },
+   {
+    "he": "יידיש",
+    "tr": "yydyş",
+    "en": "Yiddish"
+   },
+   {
+    "he": "יפנית",
+    "tr": "ypnyţ",
+    "en": "Japanese"
+   },
+   {
+    "he": "מילון",
+    "tr": "mylwn",
+    "en": "dictionary"
+   },
+   {
+    "he": "משפט",
+    "tr": "mşpt",
+    "en": "sentence"
+   },
+   {
+    "he": "נקודה",
+    "tr": "nqwdh",
+    "en": "full stop, dot, period, point"
+   },
+   {
+    "he": "סינית",
+    "tr": "synyţ",
+    "en": "Chinese"
+   },
+   {
+    "he": "ספרדית",
+    "tr": "sprdyţ",
+    "en": "Spanish"
+   },
+   {
+    "he": "ערבית",
+    "tr": "ʻrbyţ",
+    "en": "Arabic"
+   },
+   {
+    "he": "פולנית",
+    "tr": "pwlnyţ",
+    "en": "polish"
+   },
+   {
+    "he": "פועל",
+    "tr": "pwʻl",
+    "en": "worker"
+   },
+   {
+    "he": "פורטוגזית",
+    "tr": "pwrtwgzyţ",
+    "en": "Portuguese"
+   },
+   {
+    "he": "פסיק",
+    "tr": "psyq",
+    "en": "comma"
+   },
+   {
+    "he": "פסקה",
+    "tr": "psqh",
+    "en": "paragraph"
+   },
+   {
+    "he": "צ'כית",
+    "tr": "ẕ'kyţ",
+    "en": "Czech (lang.), czech"
+   },
+   {
+    "he": "צרפתית",
+    "tr": "ẕrpţyţ",
+    "en": "French"
+   },
+   {
+    "he": "רוסית",
+    "tr": "rwsyţ",
+    "en": "Russian"
+   },
+   {
+    "he": "שוודית",
+    "tr": "şwwdyţ",
+    "en": "Swedish (lang.)"
+   },
+   {
+    "he": "שם עצם",
+    "tr": "şm ʻẕm",
+    "en": "noun"
+   },
+   {
+    "he": "שם תואר",
+    "tr": "şm ţwʼr",
+    "en": "adjective"
+   },
+   {
+    "he": "שפה",
+    "tr": "şph",
+    "en": "language"
+   }
+  ]
+ },
+ {
+  "skill": "50 Emergency! Describe emergencies",
+  "words": [
+   {
+    "he": "אזעקה",
+    "tr": "ʼzʻqh",
+    "en": "alarm, siren"
+   },
+   {
+    "he": "החייאה",
+    "tr": "hẖyyʼh",
+    "en": "CPR"
+   },
+   {
+    "he": "הצילו",
+    "tr": "hẕylw",
+    "en": "help me, help"
+   },
+   {
+    "he": "זהירות",
+    "tr": "zhyrwţ",
+    "en": "careful, warning, caution, watch out"
+   },
+   {
+    "he": "חובש",
+    "tr": "ẖwbş",
+    "en": "medic"
+   },
+   {
+    "he": "חילוץ",
+    "tr": "ẖylwẕ",
+    "en": "rescue, a rescue"
+   },
+   {
+    "he": "כבאי",
+    "tr": "kbʼy",
+    "en": "firefighter"
+   },
+   {
+    "he": "לכוד",
+    "tr": "lkwd",
+    "en": "trapped"
+   },
+   {
+    "he": "מגן דוד אדום",
+    "tr": "mgn dwd ʼdwm",
+    "en": "Magen David Adom"
+   },
+   {
+    "he": "מסוכן",
+    "tr": "mswkn",
+    "en": "dangerous, risky"
+   },
+   {
+    "he": "מקרה חירום",
+    "tr": "mqrh ẖyrwm",
+    "en": "an emergency, emergency"
+   },
+   {
+    "he": "עזרה",
+    "tr": "ʻzrh",
+    "en": "help"
+   },
+   {
+    "he": "עזרה ראשונה",
+    "tr": "ʻzrh rʼşwnh",
+    "en": "first aid"
+   },
+   {
+    "he": "פיצוץ",
+    "tr": "pyẕwẕ",
+    "en": "explosion, blast"
+   },
+   {
+    "he": "פצוע",
+    "tr": "pẕwʻ",
+    "en": "is injured"
+   },
+   {
+    "he": "שריפה",
+    "tr": "şryph",
+    "en": "fire"
+   },
+   {
+    "he": "תאונה",
+    "tr": "ţʼwnh",
+    "en": "accident"
+   }
+  ]
+ },
+ {
+  "skill": "51 Verbs: Future Active 1 Use the future tense",
+  "words": [
+   {
+    "he": "אהיה",
+    "tr": "ʼhyh",
+    "en": "I will be"
+   },
+   {
+    "he": "יַראה",
+    "tr": "yarʼh",
+    "en": "will show"
+   },
+   {
+    "he": "יאהב",
+    "tr": "yʼhb",
+    "en": "will love, will like"
+   },
+   {
+    "he": "יאכל",
+    "tr": "yʼkl",
+    "en": "will eat"
+   },
+   {
+    "he": "יאשר",
+    "tr": "yʼşr",
+    "en": "(he) will authorize, (he) will approve"
+   },
+   {
+    "he": "יבוא",
+    "tr": "ybwʼ",
+    "en": "(he) will come"
+   },
+   {
+    "he": "יבחר",
+    "tr": "ybẖr",
+    "en": "(he) will choose, (he) will pick"
+   },
+   {
+    "he": "יבין",
+    "tr": "ybyn",
+    "en": "will understand"
+   },
+   {
+    "he": "יגיד",
+    "tr": "ygyd",
+    "en": "(he) will say"
+   },
+   {
+    "he": "יגיע",
+    "tr": "ygyʻ",
+    "en": "will come, will arrive"
+   },
+   {
+    "he": "ידבר",
+    "tr": "ydbr",
+    "en": "will speak, will talk"
+   },
+   {
+    "he": "יהיה",
+    "tr": "yhyh",
+    "en": "(he) will be, there will be"
+   },
+   {
+    "he": "יהיו",
+    "tr": "yhyw",
+    "en": "(they) will be"
+   },
+   {
+    "he": "יזכיר",
+    "tr": "yzkyr",
+    "en": "(he) will remind"
+   },
+   {
+    "he": "יזמין",
+    "tr": "yzmyn",
+    "en": "(he) will invite, (he) will order"
+   },
+   {
+    "he": "יחשוב",
+    "tr": "yẖşwb",
+    "en": "(he) will think"
+   },
+   {
+    "he": "ילך",
+    "tr": "ylk",
+    "en": "will go"
+   },
+   {
+    "he": "ינסה",
+    "tr": "ynsh",
+    "en": "will try"
+   },
+   {
+    "he": "יסביר",
+    "tr": "ysbyr",
+    "en": "(he) will explain"
+   },
+   {
+    "he": "יסכים",
+    "tr": "yskym",
+    "en": "(he) will agree"
+   },
+   {
+    "he": "יעשה",
+    "tr": "yʻşh",
+    "en": "(he) will do"
+   },
+   {
+    "he": "יקשיב",
+    "tr": "yqşyb",
+    "en": "(he) will listen"
+   },
+   {
+    "he": "יראה",
+    "tr": "yrʼh",
+    "en": "(he) will see"
+   },
+   {
+    "he": "ישחה",
+    "tr": "yşẖh",
+    "en": "(he) will swim"
+   },
+   {
+    "he": "ישלח",
+    "tr": "yşlẖ",
+    "en": "(he) will send"
+   },
+   {
+    "he": "ישלם",
+    "tr": "yşlm",
+    "en": "will pay"
+   },
+   {
+    "he": "ישמע",
+    "tr": "yşmʻ",
+    "en": "(he) will hear"
+   },
+   {
+    "he": "ישנה",
+    "tr": "yşnh",
+    "en": "is sleeping, sleep, sleeps, asleep, sleeping"
+   },
+   {
+    "he": "ישתה",
+    "tr": "yşţh",
+    "en": "(he) will drink"
+   },
+   {
+    "he": "ישתמש",
+    "tr": "yşţmş",
+    "en": "(he) will use"
+   },
+   {
+    "he": "ישתנה",
+    "tr": "yşţnh",
+    "en": "(he) will change"
+   },
+   {
+    "he": "יתחבר",
+    "tr": "yţẖbr",
+    "en": "will join, will connect"
+   },
+   {
+    "he": "יתחיל",
+    "tr": "yţẖyl",
+    "en": "will start"
+   },
+   {
+    "he": "יתן",
+    "tr": "yţn",
+    "en": "will give, will let"
+   },
+   {
+    "he": "יתעלם",
+    "tr": "yţʻlm",
+    "en": "(he) will ignore"
+   },
+   {
+    "he": "יתקרב",
+    "tr": "yţqrb",
+    "en": "(he) will come closer"
+   },
+   {
+    "he": "לעולם",
+    "tr": "lʻwlm",
+    "en": "never (future), to the world, never"
+   },
+   {
+    "he": "נהיה",
+    "tr": "nhyh",
+    "en": "(we) will be, becomes"
+   },
+   {
+    "he": "עתיד",
+    "tr": "ʻţyd",
+    "en": "future"
+   },
+   {
+    "he": "תהיו",
+    "tr": "ţhyw",
+    "en": "(you) will be"
+   },
+   {
+    "he": "תהיי",
+    "tr": "ţhyy",
+    "en": "(you) will be"
+   },
+   {
+    "he": "תהיינה",
+    "tr": "ţhyynh",
+    "en": "they will be"
+   }
+  ]
+ },
+ {
+  "skill": "52 Passive: Pa'ul, Pu'al and Huf'al Form passive phrases",
+  "words": [
+   {
+    "he": "אהוב",
+    "tr": "ʼhwb",
+    "en": "loved, favorite"
+   },
+   {
+    "he": "אכול",
+    "tr": "ʼkwl",
+    "en": "eaten, eat (imp.)"
+   },
+   {
+    "he": "זכור",
+    "tr": "zkwr",
+    "en": "remembered"
+   },
+   {
+    "he": "חתוך",
+    "tr": "ẖţwk",
+    "en": "cut (imp.)"
+   },
+   {
+    "he": "ידוע",
+    "tr": "ydwʻ",
+    "en": "known"
+   },
+   {
+    "he": "כתוב",
+    "tr": "kţwb",
+    "en": "written"
+   },
+   {
+    "he": "מבוזבז",
+    "tr": "mbwzbz",
+    "en": "wasted"
+   },
+   {
+    "he": "מבושל",
+    "tr": "mbwşl",
+    "en": "cooked"
+   },
+   {
+    "he": "מדובר",
+    "tr": "mdwbr",
+    "en": "we're talking about, it's about, it has to do with"
+   },
+   {
+    "he": "מובן",
+    "tr": "mwbn",
+    "en": "understood, understandable"
+   },
+   {
+    "he": "מוגבל",
+    "tr": "mwgbl",
+    "en": "restricted, limited"
+   },
+   {
+    "he": "מודאג",
+    "tr": "mwdʼg",
+    "en": "worried"
+   },
+   {
+    "he": "מוזמן",
+    "tr": "mwzmn",
+    "en": "welcome, invited"
+   },
+   {
+    "he": "מוחלט",
+    "tr": "mwẖlt",
+    "en": "absolute, decisive"
+   },
+   {
+    "he": "מוחלף",
+    "tr": "mwẖlp",
+    "en": "(is) replaced, replaced"
+   },
+   {
+    "he": "מוסבר",
+    "tr": "mwsbr",
+    "en": "explained"
+   },
+   {
+    "he": "מופרע",
+    "tr": "mwprʻ",
+    "en": "disturbed, deranged"
+   },
+   {
+    "he": "מוצלח",
+    "tr": "mwẕlẖ",
+    "en": "successful"
+   },
+   {
+    "he": "מורכב",
+    "tr": "mwrkb",
+    "en": "composed, constructed, complicated"
+   },
+   {
+    "he": "מותאם",
+    "tr": "mwţʼm",
+    "en": "adapted, modified, adjusted"
+   },
+   {
+    "he": "ממולא",
+    "tr": "mmwlʼ",
+    "en": "filled"
+   },
+   {
+    "he": "מסודר",
+    "tr": "mswdr",
+    "en": "tidy, organized, ordered"
+   },
+   {
+    "he": "מעורבב",
+    "tr": "mʻwrbb",
+    "en": "mixed"
+   },
+   {
+    "he": "מקובל",
+    "tr": "mqwbl",
+    "en": "acceptable, standard, customary, conventional"
+   },
+   {
+    "he": "משוכנע",
+    "tr": "mşwknʻ",
+    "en": "convinced"
+   },
+   {
+    "he": "משותף",
+    "tr": "mşwţp",
+    "en": "common, shared, in common"
+   },
+   {
+    "he": "נגוע",
+    "tr": "ngwʻ",
+    "en": "infected, contaminated"
+   },
+   {
+    "he": "עשוי",
+    "tr": "ʻşwy",
+    "en": "liable, made, might, may, likely"
+   },
+   {
+    "he": "צפוי",
+    "tr": "ẕpwy",
+    "en": "expected"
+   },
+   {
+    "he": "קנוי",
+    "tr": "qnwy",
+    "en": "bought"
+   },
+   {
+    "he": "קשור",
+    "tr": "qşwr",
+    "en": "related, connected"
+   },
+   {
+    "he": "רצוי",
+    "tr": "rẕwy",
+    "en": "preferable, wanted, desired"
+   },
+   {
+    "he": "שבור",
+    "tr": "şbwr",
+    "en": "broken, break"
+   },
+   {
+    "he": "שמור",
+    "tr": "şmwr",
+    "en": "save (s.m.), keep (s.m.), keep, guard"
+   }
+  ]
+ },
+ {
+  "skill": "53 Pronouns: Reflexive Refer to yourself",
+  "words": [
+   {
+    "he": "עצמה",
+    "tr": "ʻẕmh",
+    "en": "herself, itself"
+   },
+   {
+    "he": "עצמו",
+    "tr": "ʻẕmw",
+    "en": "himself, itself"
+   },
+   {
+    "he": "עצמי",
+    "tr": "ʻẕmy",
+    "en": "myself"
+   },
+   {
+    "he": "עצמךְ",
+    "tr": "ʻẕmkĕ",
+    "en": "yourself"
+   },
+   {
+    "he": "עצמךָ",
+    "tr": "ʻẕmká",
+    "en": "yourself"
+   },
+   {
+    "he": "עצמכם",
+    "tr": "ʻẕmkm",
+    "en": "yourself, yourselves"
+   },
+   {
+    "he": "עצמכן",
+    "tr": "ʻẕmkn",
+    "en": "yourselves"
+   },
+   {
+    "he": "עצמם",
+    "tr": "ʻẕmm",
+    "en": "themselves"
+   },
+   {
+    "he": "עצמן",
+    "tr": "ʻẕmn",
+    "en": "themselves"
+   },
+   {
+    "he": "עצמנו",
+    "tr": "ʻẕmnw",
+    "en": "ourselves"
+   }
+  ]
+ },
+ {
+  "skill": "54 Nif'al Construction Form passive sentences",
+  "words": [
+   {
+    "he": "הקודם",
+    "tr": "hqwdm",
+    "en": "the previous"
+   },
+   {
+    "he": "להישאר",
+    "tr": "lhyşʼr",
+    "en": "to stay"
+   },
+   {
+    "he": "על ידי",
+    "tr": "ʻl ydy",
+    "en": "by"
+   }
+  ]
+ },
+ {
+  "skill": "55 Nature Describe nature",
+  "words": [
+   {
+    "he": "אבן",
+    "tr": "ʼbn",
+    "en": "stone"
+   },
+   {
+    "he": "אבק",
+    "tr": "ʼbq",
+    "en": "dust"
+   },
+   {
+    "he": "אדמה",
+    "tr": "ʼdmh",
+    "en": "earth, soil"
+   },
+   {
+    "he": "אוויר",
+    "tr": "ʼwwyr",
+    "en": "air"
+   },
+   {
+    "he": "אקלים",
+    "tr": "ʼqlym",
+    "en": "climate"
+   },
+   {
+    "he": "אש",
+    "tr": "ʼş",
+    "en": "fire"
+   },
+   {
+    "he": "גבעה",
+    "tr": "gbʻh",
+    "en": "hill"
+   },
+   {
+    "he": "דשא",
+    "tr": "dşʼ",
+    "en": "grass"
+   },
+   {
+    "he": "הר",
+    "tr": "hr",
+    "en": "mountain"
+   },
+   {
+    "he": "הר געש",
+    "tr": "hr gʻş",
+    "en": "volcano"
+   },
+   {
+    "he": "ורד",
+    "tr": "wrd",
+    "en": "a rose, rose"
+   },
+   {
+    "he": "חוֹם",
+    "tr": "ẖwòm",
+    "en": "heat"
+   },
+   {
+    "he": "חול",
+    "tr": "ẖwl",
+    "en": "sand"
+   },
+   {
+    "he": "חומר",
+    "tr": "ẖwmr",
+    "en": "material, matter"
+   },
+   {
+    "he": "חלל",
+    "tr": "ẖll",
+    "en": "space"
+   },
+   {
+    "he": "טבע",
+    "tr": "tbʻ",
+    "en": "nature"
+   },
+   {
+    "he": "יבול",
+    "tr": "ybwl",
+    "en": "crop"
+   },
+   {
+    "he": "ים",
+    "tr": "ym",
+    "en": "sea, a sea"
+   },
+   {
+    "he": "יקום",
+    "tr": "yqwm",
+    "en": "universe"
+   },
+   {
+    "he": "ירח",
+    "tr": "yrẖ",
+    "en": "moon"
+   },
+   {
+    "he": "כדור הארץ",
+    "tr": "kdwr hʼrẕ",
+    "en": "Earth"
+   },
+   {
+    "he": "כוכב",
+    "tr": "kwkb",
+    "en": "planet, star"
+   },
+   {
+    "he": "כוכב לכת",
+    "tr": "kwkb lkţ",
+    "en": "planet"
+   },
+   {
+    "he": "מדבר",
+    "tr": "mdbr",
+    "en": "speaks, speak, talks, is speaking, talk, is talking"
+   },
+   {
+    "he": "מערה",
+    "tr": "mʻrh",
+    "en": "cave"
+   },
+   {
+    "he": "נהר",
+    "tr": "nhr",
+    "en": "river"
+   },
+   {
+    "he": "נוף",
+    "tr": "nwp",
+    "en": "view, scenery"
+   },
+   {
+    "he": "עץ",
+    "tr": "ʻẕ",
+    "en": "wooden, wood, tree"
+   },
+   {
+    "he": "עשן",
+    "tr": "ʻşn",
+    "en": "smoke"
+   },
+   {
+    "he": "פרח",
+    "tr": "prẖ",
+    "en": "flower"
+   },
+   {
+    "he": "צוק",
+    "tr": "ẕwq",
+    "en": "cliff"
+   },
+   {
+    "he": "קרח",
+    "tr": "qrẖ",
+    "en": "ice"
+   },
+   {
+    "he": "קרחון",
+    "tr": "qrẖwn",
+    "en": "glacier"
+   },
+   {
+    "he": "קרקע",
+    "tr": "qrqʻ",
+    "en": "ground"
+   },
+   {
+    "he": "שדה",
+    "tr": "şdh",
+    "en": "field"
+   },
+   {
+    "he": "שיח",
+    "tr": "şyẖ",
+    "en": "bush"
+   },
+   {
+    "he": "שמים",
+    "tr": "şmym",
+    "en": "put, put on"
+   },
+   {
+    "he": "שקיעה",
+    "tr": "şqyʻh",
+    "en": "sunset"
+   }
+  ]
+ },
+ {
+  "skill": "56 Discussions and decisions Express your opinion",
+  "words": [
+   {
+    "he": "דיון",
+    "tr": "dywn",
+    "en": "discussion"
+   },
+   {
+    "he": "דעה",
+    "tr": "dʻh",
+    "en": "opinion"
+   },
+   {
+    "he": "הסכמה",
+    "tr": "hskmh",
+    "en": "agreement"
+   },
+   {
+    "he": "הצעה",
+    "tr": "hẕʻh",
+    "en": "offer, suggestion, proposal"
+   },
+   {
+    "he": "ויכוח",
+    "tr": "wykwẖ",
+    "en": "argument"
+   },
+   {
+    "he": "חסרונות",
+    "tr": "ẖsrwnwţ",
+    "en": "disadvantages"
+   },
+   {
+    "he": "טעות",
+    "tr": "tʻwţ",
+    "en": "mistake"
+   },
+   {
+    "he": "יתרונות",
+    "tr": "yţrwnwţ",
+    "en": "advantages"
+   },
+   {
+    "he": "לבחור",
+    "tr": "lbẖwr",
+    "en": "to choose, choose"
+   },
+   {
+    "he": "לגבי",
+    "tr": "lgby",
+    "en": "regarding, about, in regard to"
+   },
+   {
+    "he": "להביע",
+    "tr": "lhbyʻ",
+    "en": "to express"
+   },
+   {
+    "he": "לטעות",
+    "tr": "ltʻwţ",
+    "en": "to make a mistake, to be wrong"
+   },
+   {
+    "he": "לפי",
+    "tr": "lpy",
+    "en": "by, according to"
+   },
+   {
+    "he": "לפי דעתי",
+    "tr": "lpy dʻţy",
+    "en": "In my opinion"
+   },
+   {
+    "he": "מסקנה",
+    "tr": "msqnh",
+    "en": "conclusion"
+   },
+   {
+    "he": "עדיף",
+    "tr": "ʻdyp",
+    "en": "it's preferable, it's better"
+   }
+  ]
+ },
+ {
+  "skill": "57 Imperative 2 Use commands",
+  "words": [
+   {
+    "he": "אכול",
+    "tr": "ʼkwl",
+    "en": "eaten, eat (imp.)"
+   },
+   {
+    "he": "בוא נגיד",
+    "tr": "bwʼ ngyd",
+    "en": "let's say"
+   },
+   {
+    "he": "בוא נלך",
+    "tr": "bwʼ nlk",
+    "en": "let's go"
+   },
+   {
+    "he": "בוא ננסה",
+    "tr": "bwʼ nnsh",
+    "en": "let's try"
+   },
+   {
+    "he": "בקֵר",
+    "tr": "bqér",
+    "en": "visit (imp.)"
+   },
+   {
+    "he": "היפגש",
+    "tr": "hypgş",
+    "en": "meet, meet up"
+   },
+   {
+    "he": "הישאר",
+    "tr": "hyşʼr",
+    "en": "stay"
+   },
+   {
+    "he": "חזור",
+    "tr": "ẖzwr",
+    "en": "return (imp.)"
+   },
+   {
+    "he": "חתוך",
+    "tr": "ẖţwk",
+    "en": "cut (imp.)"
+   },
+   {
+    "he": "כָּבֵּד",
+    "tr": "ká̇bé̇d",
+    "en": "respect (imp.), honor (imp.)"
+   },
+   {
+    "he": "סגור",
+    "tr": "sgwr",
+    "en": "closed (sg. masc.)"
+   },
+   {
+    "he": "ספּר",
+    "tr": "sṗr",
+    "en": "tell (imp.)"
+   },
+   {
+    "he": "עמוד",
+    "tr": "ʻmwd",
+    "en": "page"
+   },
+   {
+    "he": "ענֵה",
+    "tr": "ʻnéh",
+    "en": "answer (imp.)"
+   },
+   {
+    "he": "שְאל",
+    "tr": "şĕʼl",
+    "en": "ask (imp.)"
+   },
+   {
+    "he": "שבוֹר",
+    "tr": "şbwòr",
+    "en": "break (imp.)"
+   }
+  ]
+ },
+ {
+  "skill": "58 Verbs: Past Active 2 Use the past tense",
+  "words": [
+   {
+    "he": "המשיך",
+    "tr": "hmşyk",
+    "en": "continued"
+   },
+   {
+    "he": "הפסיק",
+    "tr": "hpsyq",
+    "en": "stopped"
+   },
+   {
+    "he": "השתכר",
+    "tr": "hşţkr",
+    "en": "(he) got drunk"
+   },
+   {
+    "he": "התאושש",
+    "tr": "hţʼwşş",
+    "en": "(he) recovered, recovered"
+   },
+   {
+    "he": "התגלח",
+    "tr": "hţglẖ",
+    "en": "(he) shaved, shaved"
+   },
+   {
+    "he": "התחבא",
+    "tr": "hţẖbʼ",
+    "en": "was hiding, hid, hide (imp.)"
+   },
+   {
+    "he": "התחנן",
+    "tr": "hţẖnn",
+    "en": "(he) begged, begged"
+   },
+   {
+    "he": "התלונן",
+    "tr": "hţlwnn",
+    "en": "(he) complained"
+   },
+   {
+    "he": "התנדב",
+    "tr": "hţndb",
+    "en": "(he) volunteered, volunteered"
+   },
+   {
+    "he": "התנצל",
+    "tr": "hţnẕl",
+    "en": "(he) apologized"
+   },
+   {
+    "he": "התעלל",
+    "tr": "hţʻll",
+    "en": "(he) abused, abused"
+   },
+   {
+    "he": "התעלם",
+    "tr": "hţʻlm",
+    "en": "ignore, ignored"
+   },
+   {
+    "he": "התעלף",
+    "tr": "hţʻlp",
+    "en": "(he) fainted, (he) passed out"
+   },
+   {
+    "he": "התפלל",
+    "tr": "hţpll",
+    "en": "pray"
+   },
+   {
+    "he": "התפשט",
+    "tr": "hţpşt",
+    "en": "(he) got undressed"
+   },
+   {
+    "he": "התקשר",
+    "tr": "hţqşr",
+    "en": "phoned"
+   },
+   {
+    "he": "התרחץ",
+    "tr": "hţrẖẕ",
+    "en": "(he) washed himself, bathed"
+   },
+   {
+    "he": "ירד",
+    "tr": "yrd",
+    "en": "came down, went down"
+   },
+   {
+    "he": "קיבל",
+    "tr": "qybl",
+    "en": "received"
+   }
+  ]
+ },
+ {
+  "skill": "59 Past Nif'al Form the past passive",
+  "words": [
+   {
+    "he": "להישאר",
+    "tr": "lhyşʼr",
+    "en": "to stay"
+   }
+  ]
+ },
+ {
+  "skill": "60 Feelings Express your emotions",
+  "words": [
+   {
+    "he": "אופטימי",
+    "tr": "ʼwptymy",
+    "en": "optimistic"
+   },
+   {
+    "he": "אושר",
+    "tr": "ʼwşr",
+    "en": "happiness, joy"
+   },
+   {
+    "he": "בודד",
+    "tr": "bwdd",
+    "en": "lonely, single"
+   },
+   {
+    "he": "ביישן",
+    "tr": "byyşn",
+    "en": "shy, timid"
+   },
+   {
+    "he": "דוחֶה",
+    "tr": "dwẖeh",
+    "en": "repulsive, gross, obnoxious"
+   },
+   {
+    "he": "דחוי",
+    "tr": "dẖwy",
+    "en": "rejected"
+   },
+   {
+    "he": "דמעה",
+    "tr": "dmʻh",
+    "en": "tear (n)"
+   },
+   {
+    "he": "הלם",
+    "tr": "hlm",
+    "en": "shock"
+   },
+   {
+    "he": "חסר אונים",
+    "tr": "ẖsr ʼwnym",
+    "en": "helpless"
+   },
+   {
+    "he": "לבכות",
+    "tr": "lbkwţ",
+    "en": "to cry"
+   },
+   {
+    "he": "להצטער",
+    "tr": "lhẕtʻr",
+    "en": "to be sorry"
+   },
+   {
+    "he": "לחבק",
+    "tr": "lẖbq",
+    "en": "to hug"
+   },
+   {
+    "he": "לנחם",
+    "tr": "lnẖm",
+    "en": "to comfort"
+   },
+   {
+    "he": "לנשק",
+    "tr": "lnşq",
+    "en": "to kiss (someone)"
+   },
+   {
+    "he": "מאוהב",
+    "tr": "mʼwhb",
+    "en": "is in love with"
+   },
+   {
+    "he": "מאושר",
+    "tr": "mʼwşr",
+    "en": "happy, delighted"
+   },
+   {
+    "he": "מבולבל",
+    "tr": "mbwlbl",
+    "en": "confused"
+   },
+   {
+    "he": "מביך",
+    "tr": "mbyk",
+    "en": "embarrassing"
+   },
+   {
+    "he": "מדוכא",
+    "tr": "mdwkʼ",
+    "en": "depressed"
+   },
+   {
+    "he": "מופתע",
+    "tr": "mwpţʻ",
+    "en": "surprised"
+   },
+   {
+    "he": "משועמם",
+    "tr": "mşwʻmm",
+    "en": "bored"
+   },
+   {
+    "he": "נשיקה",
+    "tr": "nşyqh",
+    "en": "a kiss"
+   },
+   {
+    "he": "עוין",
+    "tr": "ʻwyn",
+    "en": "hostile"
+   },
+   {
+    "he": "פגוע",
+    "tr": "pgwʻ",
+    "en": "hurt"
+   },
+   {
+    "he": "פסימי",
+    "tr": "psymy",
+    "en": "pessimistic"
+   },
+   {
+    "he": "רגוע",
+    "tr": "rgwʻ",
+    "en": "calm"
+   },
+   {
+    "he": "רגיש",
+    "tr": "rgyş",
+    "en": "sensitive"
+   },
+   {
+    "he": "רגש",
+    "tr": "rgş",
+    "en": "feeling"
+   },
+   {
+    "he": "שובב",
+    "tr": "şwbb",
+    "en": "mischievous"
+   }
+  ]
+ },
+ {
+  "skill": "61 Geometry Describe shapes",
+  "words": [
+   {
+    "he": "אורך",
+    "tr": "ʼwrk",
+    "en": "length"
+   },
+   {
+    "he": "אליפסה",
+    "tr": "ʼlypsh",
+    "en": "ellipse"
+   },
+   {
+    "he": "גובה",
+    "tr": "gwbh",
+    "en": "height"
+   },
+   {
+    "he": "גיאומטריה",
+    "tr": "gyʼwmtryh",
+    "en": "geometry"
+   },
+   {
+    "he": "זווית",
+    "tr": "zwwyţ",
+    "en": "angle"
+   },
+   {
+    "he": "טריגונומטריה",
+    "tr": "trygwnwmtryh",
+    "en": "trigonometry"
+   },
+   {
+    "he": "טרפז",
+    "tr": "trpz",
+    "en": "trapezoid"
+   },
+   {
+    "he": "למדוד",
+    "tr": "lmdwd",
+    "en": "to measure"
+   },
+   {
+    "he": "מחומש",
+    "tr": "mẖwmş",
+    "en": "pentagon"
+   },
+   {
+    "he": "מטר",
+    "tr": "mtr",
+    "en": "meters, meter"
+   },
+   {
+    "he": "מילימטר",
+    "tr": "mylymtr",
+    "en": "millimeter"
+   },
+   {
+    "he": "מלבן",
+    "tr": "mlbn",
+    "en": "rectangle"
+   },
+   {
+    "he": "מעוין",
+    "tr": "mʻwyn",
+    "en": "rhombus"
+   },
+   {
+    "he": "מקביל",
+    "tr": "mqbyl",
+    "en": "parallel"
+   },
+   {
+    "he": "מקבילית",
+    "tr": "mqbylyţ",
+    "en": "parallelogram"
+   },
+   {
+    "he": "מרובע",
+    "tr": "mrwbʻ",
+    "en": "square, quadrilateral"
+   },
+   {
+    "he": "משולש",
+    "tr": "mşwlş",
+    "en": "triangle"
+   },
+   {
+    "he": "משושה",
+    "tr": "mşwşh",
+    "en": "hexagon"
+   },
+   {
+    "he": "נפח",
+    "tr": "npẖ",
+    "en": "volume"
+   },
+   {
+    "he": "סרגל",
+    "tr": "srgl",
+    "en": "ruler"
+   },
+   {
+    "he": "עומק",
+    "tr": "ʻwmq",
+    "en": "depth"
+   },
+   {
+    "he": "עיגול",
+    "tr": "ʻygwl",
+    "en": "circle"
+   },
+   {
+    "he": "צורה",
+    "tr": "ẕwrh",
+    "en": "form, shape"
+   },
+   {
+    "he": "קו",
+    "tr": "qw",
+    "en": "line"
+   },
+   {
+    "he": "קילומטר",
+    "tr": "qylwmtr",
+    "en": "kilometer"
+   },
+   {
+    "he": "רוחב",
+    "tr": "rwẖb",
+    "en": "width"
+   },
+   {
+    "he": "ריבוע",
+    "tr": "rybwʻ",
+    "en": "square"
+   },
+   {
+    "he": "שטח",
+    "tr": "ştẖ",
+    "en": "area, surface area"
+   }
+  ]
+ },
+ {
+  "skill": "62 Abstract Objects 2 Discuss abstract concepts",
+  "words": [
+   {
+    "he": "אופי",
+    "tr": "ʼwpy",
+    "en": "nature, character"
+   },
+   {
+    "he": "אחריות",
+    "tr": "ʼẖrywţ",
+    "en": "responsibility"
+   },
+   {
+    "he": "ביטוי",
+    "tr": "bytwy",
+    "en": "expression, phrase"
+   },
+   {
+    "he": "בסיס",
+    "tr": "bsys",
+    "en": "base, basis"
+   },
+   {
+    "he": "גישה",
+    "tr": "gyşh",
+    "en": "attitude, approach"
+   },
+   {
+    "he": "הבדל",
+    "tr": "hbdl",
+    "en": "difference"
+   },
+   {
+    "he": "הומור",
+    "tr": "hwmwr",
+    "en": "humor"
+   },
+   {
+    "he": "הנאה",
+    "tr": "hnʼh",
+    "en": "pleasure"
+   },
+   {
+    "he": "הפסד",
+    "tr": "hpsd",
+    "en": "loss"
+   },
+   {
+    "he": "הפתעה",
+    "tr": "hpţʻh",
+    "en": "surprise"
+   },
+   {
+    "he": "התנהגות",
+    "tr": "hţnhgwţ",
+    "en": "behavior"
+   },
+   {
+    "he": "זהות",
+    "tr": "zhwţ",
+    "en": "identity"
+   },
+   {
+    "he": "זיכרון",
+    "tr": "zykrwn",
+    "en": "memory"
+   },
+   {
+    "he": "חוש",
+    "tr": "ẖwş",
+    "en": "sense"
+   },
+   {
+    "he": "חיוך",
+    "tr": "ẖywk",
+    "en": "smile"
+   },
+   {
+    "he": "חשיבות",
+    "tr": "ẖşybwţ",
+    "en": "importance"
+   },
+   {
+    "he": "חתימה",
+    "tr": "ẖţymh",
+    "en": "signature, autograph"
+   },
+   {
+    "he": "טובה",
+    "tr": "twbh",
+    "en": "a favor, favor, good (sg. fem.)"
+   },
+   {
+    "he": "יופי",
+    "tr": "ywpy",
+    "en": "beauty"
+   },
+   {
+    "he": "כבוד",
+    "tr": "kbwd",
+    "en": "respect, honor"
+   },
+   {
+    "he": "כוח",
+    "tr": "kwẖ",
+    "en": "power, strength, force"
+   },
+   {
+    "he": "כיוון",
+    "tr": "kywwn",
+    "en": "direction"
+   },
+   {
+    "he": "מאמץ",
+    "tr": "mʼmẕ",
+    "en": "adopts, adopt, effort"
+   },
+   {
+    "he": "מזל",
+    "tr": "mzl",
+    "en": "luck"
+   },
+   {
+    "he": "מסורת",
+    "tr": "mswrţ",
+    "en": "tradition"
+   },
+   {
+    "he": "מציאות",
+    "tr": "mẕyʼwţ",
+    "en": "reality"
+   },
+   {
+    "he": "מקור",
+    "tr": "mqwr",
+    "en": "source, origin"
+   },
+   {
+    "he": "נזק",
+    "tr": "nzq",
+    "en": "damage"
+   },
+   {
+    "he": "ניסיון",
+    "tr": "nysywn",
+    "en": "attempt, experience, trial"
+   },
+   {
+    "he": "ניצחון",
+    "tr": "nyẕẖwn",
+    "en": "win"
+   },
+   {
+    "he": "נפילה",
+    "tr": "npylh",
+    "en": "fall, falling"
+   },
+   {
+    "he": "סוד",
+    "tr": "swd",
+    "en": "secret"
+   },
+   {
+    "he": "סכנה",
+    "tr": "sknh",
+    "en": "danger"
+   },
+   {
+    "he": "סמל",
+    "tr": "sml",
+    "en": "symbol"
+   },
+   {
+    "he": "ספק",
+    "tr": "spq",
+    "en": "doubt"
+   },
+   {
+    "he": "עדיפות",
+    "tr": "ʻdypwţ",
+    "en": "preference, priority"
+   },
+   {
+    "he": "עמדה",
+    "tr": "ʻmdh",
+    "en": "position"
+   },
+   {
+    "he": "פחד",
+    "tr": "pẖd",
+    "en": "fear"
+   },
+   {
+    "he": "צל",
+    "tr": "ẕl",
+    "en": "shadow, shade"
+   },
+   {
+    "he": "רשות",
+    "tr": "rşwţ",
+    "en": "permission"
+   },
+   {
+    "he": "שנאה",
+    "tr": "şnʼh",
+    "en": "hatred"
+   },
+   {
+    "he": "תועלת",
+    "tr": "ţwʻlţ",
+    "en": "benefit"
+   },
+   {
+    "he": "תכונה",
+    "tr": "ţkwnh",
+    "en": "trait, property, attribute"
+   },
+   {
+    "he": "תשומת לב",
+    "tr": "ţşwmţ lb",
+    "en": "attention"
+   },
+   {
+    "he": "תשוקה",
+    "tr": "ţşwqh",
+    "en": "passion"
+   }
+  ]
+ },
+ {
+  "skill": "63 Infinitives 2 Use the infinitive",
+  "words": [
+   {
+    "he": "לאהוב",
+    "tr": "lʼhwb",
+    "en": "to love"
+   },
+   {
+    "he": "לאפשר",
+    "tr": "lʼpşr",
+    "en": "to allow"
+   },
+   {
+    "he": "לבנות",
+    "tr": "lbnwţ",
+    "en": "building, to build, white, build"
+   },
+   {
+    "he": "לגרום",
+    "tr": "lgrwm",
+    "en": "to cause"
+   },
+   {
+    "he": "להאמין",
+    "tr": "lhʼmyn",
+    "en": "to believe, believe"
+   },
+   {
+    "he": "להבין",
+    "tr": "lhbyn",
+    "en": "to understand"
+   },
+   {
+    "he": "להגדיל",
+    "tr": "lhgdyl",
+    "en": "to increase, to make bigger, to enlarge"
+   },
+   {
+    "he": "להגדיר",
+    "tr": "lhgdyr",
+    "en": "to define, define"
+   },
+   {
+    "he": "להגיב",
+    "tr": "lhgyb",
+    "en": "to respond, to react, respond"
+   },
+   {
+    "he": "להגיש",
+    "tr": "lhgyş",
+    "en": "to submit, to serve, to hand in"
+   },
+   {
+    "he": "להחמיץ",
+    "tr": "lhẖmyẕ",
+    "en": "to miss"
+   },
+   {
+    "he": "להישאר",
+    "tr": "lhyşʼr",
+    "en": "to stay"
+   },
+   {
+    "he": "להמשיך",
+    "tr": "lhmşyk",
+    "en": "to continue, to carry on"
+   },
+   {
+    "he": "להסביר",
+    "tr": "lhsbyr",
+    "en": "to explain, explain"
+   },
+   {
+    "he": "להסכים",
+    "tr": "lhskym",
+    "en": "to agree"
+   },
+   {
+    "he": "להפסיד",
+    "tr": "lhpsyd",
+    "en": "to lose, losing"
+   },
+   {
+    "he": "להרגיש",
+    "tr": "lhrgyş",
+    "en": "to feel"
+   },
+   {
+    "he": "להשפיע",
+    "tr": "lhşpyʻ",
+    "en": "to influence, to have an effect (on), to affect"
+   },
+   {
+    "he": "להשתמש",
+    "tr": "lhşţmş",
+    "en": "to use"
+   },
+   {
+    "he": "להתאושש",
+    "tr": "lhţʼwşş",
+    "en": "to recover"
+   },
+   {
+    "he": "לזכור",
+    "tr": "lzkwr",
+    "en": "to remember, remembering"
+   },
+   {
+    "he": "לחכות",
+    "tr": "lẖkwţ",
+    "en": "to wait"
+   },
+   {
+    "he": "לחשוב",
+    "tr": "lẖşwb",
+    "en": "to think"
+   },
+   {
+    "he": "לטוס",
+    "tr": "ltws",
+    "en": "to fly"
+   },
+   {
+    "he": "לכסות",
+    "tr": "lkswţ",
+    "en": "to cover"
+   },
+   {
+    "he": "למות",
+    "tr": "lmwţ",
+    "en": "to die, die"
+   },
+   {
+    "he": "לנצח",
+    "tr": "lnẕẖ",
+    "en": "to win, winning"
+   },
+   {
+    "he": "לסיים",
+    "tr": "lsyym",
+    "en": "to finish"
+   },
+   {
+    "he": "לסרב",
+    "tr": "lsrb",
+    "en": "to refuse, refuse"
+   },
+   {
+    "he": "לעזוב",
+    "tr": "lʻzwb",
+    "en": "to leave"
+   },
+   {
+    "he": "לענות",
+    "tr": "lʻnwţ",
+    "en": "to answer, answer"
+   },
+   {
+    "he": "לעצור",
+    "tr": "lʻẕwr",
+    "en": "to stop, to arrest"
+   },
+   {
+    "he": "לפגוש",
+    "tr": "lpgwş",
+    "en": "to meet"
+   },
+   {
+    "he": "לפתח",
+    "tr": "lpţẖ",
+    "en": "to develop, developing"
+   },
+   {
+    "he": "לקרוא",
+    "tr": "lqrwʼ",
+    "en": "to read, reading"
+   },
+   {
+    "he": "לשבור",
+    "tr": "lşbwr",
+    "en": "to break"
+   },
+   {
+    "he": "לשפר",
+    "tr": "lşpr",
+    "en": "to improve, improve"
+   },
+   {
+    "he": "לשקול",
+    "tr": "lşqwl",
+    "en": "to weigh, to consider"
+   }
+  ]
+ },
+ {
+  "skill": "64 Construct State 2 Refer to the news",
+  "words": [
+   {
+    "he": "אוצר מילים",
+    "tr": "ʼwẕr mylym",
+    "en": "vocabulary"
+   },
+   {
+    "he": "ארגז כלים",
+    "tr": "ʼrgz klym",
+    "en": "toolbox"
+   },
+   {
+    "he": "בית מלאכה",
+    "tr": "byţ mlʼkh",
+    "en": "workshop"
+   },
+   {
+    "he": "הפסקת אוכל",
+    "tr": "hpsqţ ʼwkl",
+    "en": "lunch break"
+   },
+   {
+    "he": "חגורת בטיחות",
+    "tr": "ẖgwrţ btyẖwţ",
+    "en": "a safety belt, seat belt"
+   },
+   {
+    "he": "חלון חדר האורחים",
+    "tr": "ẖlwn ẖdr hʼwrẖym",
+    "en": "the window of the guest.., ...room"
+   },
+   {
+    "he": "כלי נשק",
+    "tr": "kly nşq",
+    "en": "weapons, weapon"
+   },
+   {
+    "he": "מברשת שיניים",
+    "tr": "mbrşţ şynyym",
+    "en": "a toothbrush, toothbrush"
+   },
+   {
+    "he": "מגדל שמירה",
+    "tr": "mgdl şmyrh",
+    "en": "watchtower"
+   },
+   {
+    "he": "משחת שיניים",
+    "tr": "mşẖţ şynyym",
+    "en": "a toothpaste, toothpaste"
+   },
+   {
+    "he": "משרד ראש הממשלה",
+    "tr": "mşrd rʼş hmmşlh",
+    "en": "the Prime Minister's offi"
+   },
+   {
+    "he": "נהג מונית",
+    "tr": "nhg mwnyţ",
+    "en": "taxi driver"
+   },
+   {
+    "he": "סכין גילוח",
+    "tr": "skyn gylwẖ",
+    "en": "razor, a razor"
+   },
+   {
+    "he": "עוגת יום הולדת",
+    "tr": "ʻwgţ ywm hwldţ",
+    "en": "a birthday cake"
+   },
+   {
+    "he": "פניית פרסה",
+    "tr": "pnyyţ prsh",
+    "en": "U-turn"
+   },
+   {
+    "he": "פסק זמן",
+    "tr": "psq zmn",
+    "en": "timeout"
+   },
+   {
+    "he": "ראש ממשלה",
+    "tr": "rʼş mmşlh",
+    "en": "prime minister"
+   },
+   {
+    "he": "שומר ראש",
+    "tr": "şwmr rʼş",
+    "en": "bodyguard"
+   },
+   {
+    "he": "שטיפת מוח",
+    "tr": "ştypţ mwẖ",
+    "en": "brainwashing"
+   },
+   {
+    "he": "שעון עצר",
+    "tr": "şʻwn ʻẕr",
+    "en": "stopwatch"
+   },
+   {
+    "he": "תולעת ספרים",
+    "tr": "ţwlʻţ sprym",
+    "en": "bookworm"
+   },
+   {
+    "he": "תיבת דואר",
+    "tr": "ţybţ dwʼr",
+    "en": "mailbox"
+   }
+  ]
+ },
+ {
+  "skill": "65 The Conditional Say what could have been",
+  "words": [
+   {
+    "he": "אילו",
+    "tr": "ʼylw",
+    "en": "which, what, if"
+   },
+   {
+    "he": "אילולא",
+    "tr": "ʼylwlʼ",
+    "en": "were it not for, if it weren't for, if not"
+   },
+   {
+    "he": "היה",
+    "tr": "hyh",
+    "en": "was, (he/it) was, had, would, there was"
+   },
+   {
+    "he": "היה יכול",
+    "tr": "hyh ykwl",
+    "en": "could"
+   },
+   {
+    "he": "היה צריך",
+    "tr": "hyh ẕryk",
+    "en": "should have"
+   },
+   {
+    "he": "היו",
+    "tr": "hyw",
+    "en": "(they) were, were"
+   },
+   {
+    "he": "היינו",
+    "tr": "hyynw",
+    "en": "we were, we have been, we would be"
+   },
+   {
+    "he": "הייתְ",
+    "tr": "hyyţĕ",
+    "en": "you (s.f.) were, you (s.f.) have been, you (sg. fem.) would"
+   },
+   {
+    "he": "הייתָ",
+    "tr": "hyyţá",
+    "en": "you (sg. masc.) were, you (sg. masc.) have been, you (sg. masc.) would"
+   },
+   {
+    "he": "הייתה",
+    "tr": "hyyţh",
+    "en": "(she) had been, (she) has been, (she) was, was, (she) would"
+   },
+   {
+    "he": "הייתי",
+    "tr": "hyyţy",
+    "en": "I have been, I was, I would be, I would"
+   },
+   {
+    "he": "הייתם",
+    "tr": "hyyţm",
+    "en": "you were, you have been"
+   },
+   {
+    "he": "הייתן",
+    "tr": "hyyţn",
+    "en": "you (pl.f) were, you (pl.f.) have been"
+   },
+   {
+    "he": "לוּ",
+    "tr": "lẇ",
+    "en": "if (cond.), if"
+   },
+   {
+    "he": "לולא",
+    "tr": "lwlʼ",
+    "en": "were it not for, if it weren't  for, if not"
+   }
+  ]
+ },
+ {
+  "skill": "66 Medical Describe body parts",
+  "words": [
+   {
+    "he": "אוזן",
+    "tr": "ʼwzn",
+    "en": "ear"
+   },
+   {
+    "he": "אחות",
+    "tr": "ʼẖwţ",
+    "en": "sister, nurse"
+   },
+   {
+    "he": "איבר",
+    "tr": "ʼybr",
+    "en": "organ"
+   },
+   {
+    "he": "אף",
+    "tr": "ʼp",
+    "en": "not a, nose"
+   },
+   {
+    "he": "אצבע",
+    "tr": "ʼẕbʻ",
+    "en": "finger"
+   },
+   {
+    "he": "בטן",
+    "tr": "btn",
+    "en": "stomach, belly"
+   },
+   {
+    "he": "בריאות",
+    "tr": "bryʼwţ",
+    "en": "health"
+   },
+   {
+    "he": "ברך",
+    "tr": "brk",
+    "en": "bless, bless (imp.), congratulate"
+   },
+   {
+    "he": "גב",
+    "tr": "gb",
+    "en": "back"
+   },
+   {
+    "he": "גולגולת",
+    "tr": "gwlgwlţ",
+    "en": "skull"
+   },
+   {
+    "he": "גוף",
+    "tr": "gwp",
+    "en": "body"
+   },
+   {
+    "he": "דיאטה",
+    "tr": "dyʼth",
+    "en": "diet"
+   },
+   {
+    "he": "דם",
+    "tr": "dm",
+    "en": "blood"
+   },
+   {
+    "he": "וירוס",
+    "tr": "wyrws",
+    "en": "virus"
+   },
+   {
+    "he": "זרוע",
+    "tr": "zrwʻ",
+    "en": "arm"
+   },
+   {
+    "he": "חזה",
+    "tr": "ẖzh",
+    "en": "chest"
+   },
+   {
+    "he": "חלום",
+    "tr": "ẖlwm",
+    "en": "dream"
+   },
+   {
+    "he": "טיפול",
+    "tr": "typwl",
+    "en": "treatment"
+   },
+   {
+    "he": "יד",
+    "tr": "yd",
+    "en": "hand"
+   },
+   {
+    "he": "כאב",
+    "tr": "kʼb",
+    "en": "pain, ache"
+   },
+   {
+    "he": "כף רגל",
+    "tr": "kp rgl",
+    "en": "foot"
+   },
+   {
+    "he": "לב",
+    "tr": "lb",
+    "en": "heart"
+   },
+   {
+    "he": "לחץ",
+    "tr": "lẖẕ",
+    "en": "pressure, stress"
+   },
+   {
+    "he": "לידה",
+    "tr": "lydh",
+    "en": "next to her, birth"
+   },
+   {
+    "he": "לשון",
+    "tr": "lşwn",
+    "en": "tongue"
+   },
+   {
+    "he": "מוח",
+    "tr": "mwẖ",
+    "en": "brain, mind"
+   },
+   {
+    "he": "מחלה",
+    "tr": "mẖlh",
+    "en": "disease"
+   },
+   {
+    "he": "מטופל",
+    "tr": "mtwpl",
+    "en": "patient"
+   },
+   {
+    "he": "מרפאה",
+    "tr": "mrpʼh",
+    "en": "clinic"
+   },
+   {
+    "he": "מרפק",
+    "tr": "mrpq",
+    "en": "elbow"
+   },
+   {
+    "he": "סם",
+    "tr": "sm",
+    "en": "drug"
+   },
+   {
+    "he": "סרטן",
+    "tr": "srtn",
+    "en": "a crab, crab, cancer (disease)"
+   },
+   {
+    "he": "עור",
+    "tr": "ʻwr",
+    "en": "skin"
+   },
+   {
+    "he": "עין",
+    "tr": "ʻyn",
+    "en": "eye"
+   },
+   {
+    "he": "עצם",
+    "tr": "ʻẕm",
+    "en": "object, bone"
+   },
+   {
+    "he": "פה",
+    "tr": "ph",
+    "en": "here, mouth"
+   },
+   {
+    "he": "פנים",
+    "tr": "pnym",
+    "en": "face"
+   },
+   {
+    "he": "צוואר",
+    "tr": "ẕwwʼr",
+    "en": "neck"
+   },
+   {
+    "he": "ראש",
+    "tr": "rʼş",
+    "en": "head"
+   },
+   {
+    "he": "רגל",
+    "tr": "rgl",
+    "en": "foot, leg"
+   },
+   {
+    "he": "רפואה",
+    "tr": "rpwʼh",
+    "en": "medical science, recovery, medicine (profession)"
+   },
+   {
+    "he": "שיער",
+    "tr": "şyʻr",
+    "en": "hair"
+   },
+   {
+    "he": "שן",
+    "tr": "şn",
+    "en": "tooth"
+   },
+   {
+    "he": "שפה",
+    "tr": "şph",
+    "en": "language"
+   },
+   {
+    "he": "שריר",
+    "tr": "şryr",
+    "en": "muscle"
+   },
+   {
+    "he": "תרופה",
+    "tr": "ţrwph",
+    "en": "medication, medicine, drug"
+   }
+  ]
+ },
+ {
+  "skill": "67 Future 2 Use the future tense",
+  "words": [
+   {
+    "he": "יֵדע",
+    "tr": "yédʻ",
+    "en": "will know"
+   },
+   {
+    "he": "יבקש",
+    "tr": "ybqş",
+    "en": "will request, will ask for"
+   },
+   {
+    "he": "יוכל",
+    "tr": "ywkl",
+    "en": "will be able"
+   },
+   {
+    "he": "יחליף",
+    "tr": "yẖlyp",
+    "en": "will replace"
+   },
+   {
+    "he": "ימכור",
+    "tr": "ymkwr",
+    "en": "will sell"
+   },
+   {
+    "he": "ימלא",
+    "tr": "ymlʼ",
+    "en": "(he) will fill"
+   },
+   {
+    "he": "ימצא",
+    "tr": "ymẕʼ",
+    "en": "will find"
+   },
+   {
+    "he": "ימשיך",
+    "tr": "ymşyk",
+    "en": "(he) will continue"
+   },
+   {
+    "he": "ינצח",
+    "tr": "ynẕẖ",
+    "en": "will win"
+   },
+   {
+    "he": "יסגור",
+    "tr": "ysgwr",
+    "en": "(he) will close"
+   },
+   {
+    "he": "יספר",
+    "tr": "yspr",
+    "en": "(he) will tell"
+   },
+   {
+    "he": "יעבוד",
+    "tr": "yʻbwd",
+    "en": "(he) will work"
+   },
+   {
+    "he": "יעזור",
+    "tr": "yʻzwr",
+    "en": "(he) will help"
+   },
+   {
+    "he": "יעצור",
+    "tr": "yʻẕwr",
+    "en": "(he) will stop, (he) will arrest"
+   },
+   {
+    "he": "יצליח",
+    "tr": "yẕlyẖ",
+    "en": "(he) will succeed"
+   },
+   {
+    "he": "יקרא",
+    "tr": "yqrʼ",
+    "en": "(he) will call, (he) will read"
+   },
+   {
+    "he": "ישבור",
+    "tr": "yşbwr",
+    "en": "(he) will break"
+   },
+   {
+    "he": "ישים",
+    "tr": "yşym",
+    "en": "(he) will put"
+   }
+  ]
+ },
+ {
+  "skill": "68 Religion Talk about religion",
+  "words": [
+   {
+    "he": "אל",
+    "tr": "ʼl",
+    "en": "towards, to, toward"
+   },
+   {
+    "he": "אלוהים",
+    "tr": "ʼlwhym",
+    "en": "god"
+   },
+   {
+    "he": "אמונה",
+    "tr": "ʼmwnh",
+    "en": "faith, belief"
+   },
+   {
+    "he": "אסלאם",
+    "tr": "ʼslʼm",
+    "en": "islam"
+   },
+   {
+    "he": "בודהיסטי",
+    "tr": "bwdhysty",
+    "en": "Buddhist"
+   },
+   {
+    "he": "דת",
+    "tr": "dţ",
+    "en": "religion"
+   },
+   {
+    "he": "דתי",
+    "tr": "dţy",
+    "en": "religious (sg. masc.)"
+   },
+   {
+    "he": "הכותל המערבי",
+    "tr": "hkwţl hmʻrby",
+    "en": "the Western Wall"
+   },
+   {
+    "he": "הר הבית",
+    "tr": "hr hbyţ",
+    "en": "The Temple Mount"
+   },
+   {
+    "he": "הר הזיתים",
+    "tr": "hr hzyţym",
+    "en": "the Mount of Olives"
+   },
+   {
+    "he": "הר ציון",
+    "tr": "hr ẕywn",
+    "en": "Mount Zion"
+   },
+   {
+    "he": "יהדות",
+    "tr": "yhdwţ",
+    "en": "Judaism"
+   },
+   {
+    "he": "יהודי",
+    "tr": "yhwdy",
+    "en": "Jew, jew."
+   },
+   {
+    "he": "כיפת הסלע",
+    "tr": "kypţ hslʻ",
+    "en": "The Dome of the Rock"
+   },
+   {
+    "he": "כנסיית הקבר",
+    "tr": "knsyyţ hqbr",
+    "en": "the Church of the Holy..., ...Sepulchre"
+   },
+   {
+    "he": "מלאך",
+    "tr": "mlʼk",
+    "en": "angel"
+   },
+   {
+    "he": "מסגד אל-אקצא",
+    "tr": "msgd ʼl-ʼqẕʼ",
+    "en": "Al-Aqsa Mosque"
+   },
+   {
+    "he": "מערת המכפלה",
+    "tr": "mʻrţ hmkplh",
+    "en": "Cave of the Patriarchs"
+   },
+   {
+    "he": "מקדש",
+    "tr": "mqdş",
+    "en": "temple"
+   },
+   {
+    "he": "משיח",
+    "tr": "mşyẖ",
+    "en": "messiah"
+   },
+   {
+    "he": "נצרות",
+    "tr": "nẕrwţ",
+    "en": "christianity"
+   },
+   {
+    "he": "נשמה",
+    "tr": "nşmh",
+    "en": "soul"
+   },
+   {
+    "he": "קדוש",
+    "tr": "qdwş",
+    "en": "holy, sacred"
+   },
+   {
+    "he": "רוחני",
+    "tr": "rwẖny",
+    "en": "spiritual"
+   },
+   {
+    "he": "תפילה",
+    "tr": "ţpylh",
+    "en": "prayer"
+   }
+  ]
+ },
+ {
+  "skill": "69 Arts Comment on art",
+  "words": [
+   {
+    "he": "אולפן",
+    "tr": "ʼwlpn",
+    "en": "ulpan"
+   },
+   {
+    "he": "אוסף",
+    "tr": "ʼwsp",
+    "en": "collection"
+   },
+   {
+    "he": "אופנה",
+    "tr": "ʼwpnh",
+    "en": "fashion"
+   },
+   {
+    "he": "איור",
+    "tr": "ʼywr",
+    "en": "illustration"
+   },
+   {
+    "he": "אמנות",
+    "tr": "ʼmnwţ",
+    "en": "art"
+   },
+   {
+    "he": "במה",
+    "tr": "bmh",
+    "en": "stage"
+   },
+   {
+    "he": "גלריה",
+    "tr": "glryh",
+    "en": "gallery"
+   },
+   {
+    "he": "דמות",
+    "tr": "dmwţ",
+    "en": "character"
+   },
+   {
+    "he": "מכחול",
+    "tr": "mkẖwl",
+    "en": "paintbrush"
+   },
+   {
+    "he": "מפיק",
+    "tr": "mpyq",
+    "en": "producing, produce, is producing, producer"
+   },
+   {
+    "he": "מצלמה",
+    "tr": "mẕlmh",
+    "en": "camera"
+   },
+   {
+    "he": "סגנון",
+    "tr": "sgnwn",
+    "en": "style"
+   },
+   {
+    "he": "סטודיו",
+    "tr": "stwdyw",
+    "en": "studio"
+   },
+   {
+    "he": "ספרות",
+    "tr": "sprwţ",
+    "en": "literature"
+   },
+   {
+    "he": "סרט",
+    "tr": "srt",
+    "en": "movie, film"
+   },
+   {
+    "he": "פסקול",
+    "tr": "psqwl",
+    "en": "soundtrack"
+   },
+   {
+    "he": "ציור",
+    "tr": "ẕywr",
+    "en": "painting, drawing"
+   },
+   {
+    "he": "צילום",
+    "tr": "ẕylwm",
+    "en": "photography"
+   },
+   {
+    "he": "צלם",
+    "tr": "ẕlm",
+    "en": "take a picture (imp.), photograph (imp.), photograph, photographer"
+   },
+   {
+    "he": "קהל",
+    "tr": "qhl",
+    "en": "crowd, audience"
+   },
+   {
+    "he": "ריקוד",
+    "tr": "ryqwd",
+    "en": "dance (n)"
+   },
+   {
+    "he": "רקדן",
+    "tr": "rqdn",
+    "en": "dancer"
+   },
+   {
+    "he": "שירה",
+    "tr": "şyrh",
+    "en": "poetry"
+   },
+   {
+    "he": "תיאטרון",
+    "tr": "ţyʼtrwn",
+    "en": "theater"
+   },
+   {
+    "he": "תסריט",
+    "tr": "ţsryt",
+    "en": "script"
+   }
+  ]
+ },
+ {
+  "skill": "70 Negative Imperatives Use negative commands",
+  "words": [
+   {
+    "he": "אַל",
+    "tr": "ʼal",
+    "en": "Do not"
+   }
+  ]
+ },
+ {
+  "skill": "71 Technology and Communication Discuss technology",
+  "words": [
+   {
+    "he": "אינטרנט",
+    "tr": "ʼyntrnt",
+    "en": "internet"
+   },
+   {
+    "he": "אתר",
+    "tr": "ʼţr",
+    "en": "site"
+   },
+   {
+    "he": "באג",
+    "tr": "bʼg",
+    "en": "bug"
+   },
+   {
+    "he": "בול",
+    "tr": "bwl",
+    "en": "stamp"
+   },
+   {
+    "he": "בלוג",
+    "tr": "blwg",
+    "en": "blog"
+   },
+   {
+    "he": "גלויה",
+    "tr": "glwyh",
+    "en": "postcard"
+   },
+   {
+    "he": "דפדפן",
+    "tr": "dpdpn",
+    "en": "browser"
+   },
+   {
+    "he": "הודעה",
+    "tr": "hwdʻh",
+    "en": "message"
+   },
+   {
+    "he": "הורדה",
+    "tr": "hwrdh",
+    "en": "download (n)"
+   },
+   {
+    "he": "חדשות",
+    "tr": "ẖdşwţ",
+    "en": "new, news (n)"
+   },
+   {
+    "he": "חומרה",
+    "tr": "ẖwmrh",
+    "en": "hardware"
+   },
+   {
+    "he": "חיפוש",
+    "tr": "ẖypwş",
+    "en": "search (n)"
+   },
+   {
+    "he": "להדליק",
+    "tr": "lhdlyq",
+    "en": "to turn on, to light"
+   },
+   {
+    "he": "לכבות",
+    "tr": "lkbwţ",
+    "en": "to turn off"
+   },
+   {
+    "he": "מחשב נייד",
+    "tr": "mẖşb nyyd",
+    "en": "laptop"
+   },
+   {
+    "he": "מידע",
+    "tr": "mydʻ",
+    "en": "information"
+   },
+   {
+    "he": "מייל",
+    "tr": "myyl",
+    "en": "e-mail"
+   },
+   {
+    "he": "מתכנת",
+    "tr": "mţknţ",
+    "en": "programmer"
+   },
+   {
+    "he": "נתונים",
+    "tr": "nţwnym",
+    "en": "data"
+   },
+   {
+    "he": "סיסמא",
+    "tr": "sysmʼ",
+    "en": "password"
+   },
+   {
+    "he": "עמוד בית",
+    "tr": "ʻmwd byţ",
+    "en": "homepage"
+   },
+   {
+    "he": "ערוץ",
+    "tr": "ʻrwẕ",
+    "en": "channel"
+   },
+   {
+    "he": "קובץ",
+    "tr": "qwbẕ",
+    "en": "file"
+   },
+   {
+    "he": "רובוט",
+    "tr": "rwbwt",
+    "en": "robot"
+   },
+   {
+    "he": "רשת",
+    "tr": "rşţ",
+    "en": "network"
+   },
+   {
+    "he": "תוכנה",
+    "tr": "ţwknh",
+    "en": "software"
+   },
+   {
+    "he": "תקשורת",
+    "tr": "ţqşwrţ",
+    "en": "communication, media"
+   }
+  ]
+ },
+ {
+  "skill": "72 Verbal Nouns Use verbal nouns",
+  "words": [
+   {
+    "he": "אימון",
+    "tr": "ʼymwn",
+    "en": "training, practice"
+   },
+   {
+    "he": "בישול",
+    "tr": "byşwl",
+    "en": "cooking"
+   },
+   {
+    "he": "דרישה",
+    "tr": "dryşh",
+    "en": "demand (n)"
+   },
+   {
+    "he": "הזמנה",
+    "tr": "hzmnh",
+    "en": "invitation"
+   },
+   {
+    "he": "הליכה",
+    "tr": "hlykh",
+    "en": "walking"
+   },
+   {
+    "he": "התנצלות",
+    "tr": "hţnẕlwţ",
+    "en": "apology"
+   },
+   {
+    "he": "חשיבה",
+    "tr": "ẖşybh",
+    "en": "thinking (gerund)"
+   },
+   {
+    "he": "כתיבה",
+    "tr": "kţybh",
+    "en": "writing (n)"
+   },
+   {
+    "he": "לימוד",
+    "tr": "lymwd",
+    "en": "learning (ger.), studying (ger.), learning, study"
+   },
+   {
+    "he": "למידה",
+    "tr": "lmydh",
+    "en": "learning"
+   },
+   {
+    "he": "מכירה",
+    "tr": "mkyrh",
+    "en": "knows, know, recognises"
+   },
+   {
+    "he": "סיפור",
+    "tr": "sypwr",
+    "en": "story"
+   },
+   {
+    "he": "פתיחה",
+    "tr": "pţyẖh",
+    "en": "opening"
+   },
+   {
+    "he": "צפייה",
+    "tr": "ẕpyyh",
+    "en": "watching (gerund)"
+   },
+   {
+    "he": "קנייה",
+    "tr": "qnyyh",
+    "en": "purchase (n), purchase"
+   },
+   {
+    "he": "קריאה",
+    "tr": "qryʼh",
+    "en": "reading (n)"
+   },
+   {
+    "he": "ריצה",
+    "tr": "ryẕh",
+    "en": "running"
+   },
+   {
+    "he": "שינה",
+    "tr": "şynh",
+    "en": "sleep (n), sleeping"
+   },
+   {
+    "he": "שמיעה",
+    "tr": "şmyʻh",
+    "en": "hearing"
+   }
+  ]
+ },
+ {
+  "skill": "73 Science Discuss scientific issues",
+  "words": [
+   {
+    "he": "איכות",
+    "tr": "ʼykwţ",
+    "en": "quality"
+   },
+   {
+    "he": "אלכוהול",
+    "tr": "ʼlkwhwl",
+    "en": "alcohol"
+   },
+   {
+    "he": "אנרגיה",
+    "tr": "ʼnrgyh",
+    "en": "energy"
+   },
+   {
+    "he": "ביולוגיה",
+    "tr": "bywlwgyh",
+    "en": "biology"
+   },
+   {
+    "he": "גודל",
+    "tr": "gwdl",
+    "en": "size"
+   },
+   {
+    "he": "גיאוגרפיה",
+    "tr": "gyʼwgrpyh",
+    "en": "Geography"
+   },
+   {
+    "he": "גנטיקה",
+    "tr": "gntyqh",
+    "en": "genetics"
+   },
+   {
+    "he": "גרם",
+    "tr": "grm",
+    "en": "gram, grams"
+   },
+   {
+    "he": "דגימה",
+    "tr": "dgymh",
+    "en": "sample"
+   },
+   {
+    "he": "הגדרה",
+    "tr": "hgdrh",
+    "en": "definition"
+   },
+   {
+    "he": "הפצה",
+    "tr": "hpẕh",
+    "en": "propagation"
+   },
+   {
+    "he": "חקירה",
+    "tr": "ẖqyrh",
+    "en": "investigation"
+   },
+   {
+    "he": "חשמלי",
+    "tr": "ẖşmly",
+    "en": "electric"
+   },
+   {
+    "he": "טון",
+    "tr": "twn",
+    "en": "ton"
+   },
+   {
+    "he": "טכנולוגיה",
+    "tr": "tknwlwgyh",
+    "en": "technology"
+   },
+   {
+    "he": "כוח משיכה",
+    "tr": "kwẖ mşykh",
+    "en": "gravity"
+   },
+   {
+    "he": "כימיה",
+    "tr": "kymyh",
+    "en": "Chemistry"
+   },
+   {
+    "he": "מאמר",
+    "tr": "mʼmr",
+    "en": "article"
+   },
+   {
+    "he": "מד חום",
+    "tr": "md ẖwm",
+    "en": "thermometer"
+   },
+   {
+    "he": "מדע",
+    "tr": "mdʻ",
+    "en": "science"
+   },
+   {
+    "he": "מדען",
+    "tr": "mdʻn",
+    "en": "scientist"
+   },
+   {
+    "he": "מהדורה",
+    "tr": "mhdwrh",
+    "en": "edition"
+   },
+   {
+    "he": "מהירות",
+    "tr": "mhyrwţ",
+    "en": "speed, velocity, fast"
+   },
+   {
+    "he": "מחזור",
+    "tr": "mẖzwr",
+    "en": "cycle, turnover"
+   },
+   {
+    "he": "מחקר",
+    "tr": "mẖqr",
+    "en": "study, research, piece of research"
+   },
+   {
+    "he": "מסה",
+    "tr": "msh",
+    "en": "mass"
+   },
+   {
+    "he": "מעבדה",
+    "tr": "mʻbdh",
+    "en": "lab"
+   },
+   {
+    "he": "מרחק",
+    "tr": "mrẖq",
+    "en": "distance"
+   },
+   {
+    "he": "משקל",
+    "tr": "mşql",
+    "en": "weight"
+   },
+   {
+    "he": "נוסחה",
+    "tr": "nwsẖh",
+    "en": "formula"
+   },
+   {
+    "he": "ניסוי",
+    "tr": "nyswy",
+    "en": "experiment"
+   },
+   {
+    "he": "עובדה",
+    "tr": "ʻwbdh",
+    "en": "fact"
+   },
+   {
+    "he": "עיקרון",
+    "tr": "ʻyqrwn",
+    "en": "principle"
+   },
+   {
+    "he": "פיזיקה",
+    "tr": "pyzyqh",
+    "en": "physics"
+   },
+   {
+    "he": "פילוסופיה",
+    "tr": "pylwswpyh",
+    "en": "philosophy"
+   },
+   {
+    "he": "פרויקט",
+    "tr": "prwyqt",
+    "en": "project"
+   },
+   {
+    "he": "שיטה",
+    "tr": "şyth",
+    "en": "method"
+   },
+   {
+    "he": "תגלית",
+    "tr": "ţglyţ",
+    "en": "discovery"
+   },
+   {
+    "he": "תזה",
+    "tr": "ţzh",
+    "en": "thesis"
+   }
+  ]
+ },
+ {
+  "skill": "74 Music Talk about music",
+  "words": [
+   {
+    "he": "אקורד",
+    "tr": "ʼqwrd",
+    "en": "chord"
+   },
+   {
+    "he": "בית",
+    "tr": "byţ",
+    "en": "verse, stanza, home, house, the coffee shop"
+   },
+   {
+    "he": "גיטרה",
+    "tr": "gytrh",
+    "en": "guitar"
+   },
+   {
+    "he": "גיטריסט",
+    "tr": "gytryst",
+    "en": "guitarist"
+   },
+   {
+    "he": "הד",
+    "tr": "hd",
+    "en": "echo"
+   },
+   {
+    "he": "הופעה",
+    "tr": "hwpʻh",
+    "en": "show"
+   },
+   {
+    "he": "ז'אנר",
+    "tr": "z'ʼnr",
+    "en": "genre"
+   },
+   {
+    "he": "זמר",
+    "tr": "zmr",
+    "en": "singer"
+   },
+   {
+    "he": "חליל",
+    "tr": "ẖlyl",
+    "en": "flute"
+   },
+   {
+    "he": "חצוצרה",
+    "tr": "ẖẕwẕrh",
+    "en": "trumpet"
+   },
+   {
+    "he": "יצירה",
+    "tr": "yẕyrh",
+    "en": "(music) piece, (music) work, composition"
+   },
+   {
+    "he": "כינור",
+    "tr": "kynwr",
+    "en": "violin, fiddle"
+   },
+   {
+    "he": "כלי נגינה",
+    "tr": "kly ngynh",
+    "en": "instruments, instrument"
+   },
+   {
+    "he": "כנר",
+    "tr": "knr",
+    "en": "violinist"
+   },
+   {
+    "he": "להקה",
+    "tr": "lhqh",
+    "en": "band"
+   },
+   {
+    "he": "לכוון",
+    "tr": "lkwwn",
+    "en": "to tune (instruments)"
+   },
+   {
+    "he": "לנגן",
+    "tr": "lngn",
+    "en": "to play (an instrument)"
+   },
+   {
+    "he": "מוזיקה",
+    "tr": "mwzyqh",
+    "en": "music"
+   },
+   {
+    "he": "מיקרופון",
+    "tr": "myqrwpwn",
+    "en": "microphone"
+   },
+   {
+    "he": "מנגינה",
+    "tr": "mngynh",
+    "en": "tune"
+   },
+   {
+    "he": "מנצח",
+    "tr": "mnẕẖ",
+    "en": "is beating, winning, wins, beats, is winning, conductor"
+   },
+   {
+    "he": "מפוחית",
+    "tr": "mpwẖyţ",
+    "en": "harmonica"
+   },
+   {
+    "he": "מתופף",
+    "tr": "mţwpp",
+    "en": "drummer"
+   },
+   {
+    "he": "נבל",
+    "tr": "nbl",
+    "en": "harp"
+   },
+   {
+    "he": "נגן",
+    "tr": "ngn",
+    "en": "player (music), player"
+   },
+   {
+    "he": "סולם",
+    "tr": "swlm",
+    "en": "(musical) scale, (musical) key, ladder, key"
+   },
+   {
+    "he": "סינתיסייזר",
+    "tr": "synţysyyzr",
+    "en": "synthesizer"
+   },
+   {
+    "he": "פסנתר",
+    "tr": "psnţr",
+    "en": "piano"
+   },
+   {
+    "he": "צליל",
+    "tr": "ẕlyl",
+    "en": "sound, note"
+   },
+   {
+    "he": "קונצרט",
+    "tr": "qwnẕrt",
+    "en": "concert"
+   },
+   {
+    "he": "שיר",
+    "tr": "şyr",
+    "en": "song"
+   },
+   {
+    "he": "תוף",
+    "tr": "ţwp",
+    "en": "drum"
+   }
+  ]
+ },
+ {
+  "skill": "75 Sports Discuss sport",
+  "words": [
+   {
+    "he": "אוהד",
+    "tr": "ʼwhd",
+    "en": "fan, support"
+   },
+   {
+    "he": "אולימפיאדה",
+    "tr": "ʼwlympyʼdh",
+    "en": "olympics"
+   },
+   {
+    "he": "איצטדיון",
+    "tr": "ʼyẕtdywn",
+    "en": "stadium"
+   },
+   {
+    "he": "אלוף",
+    "tr": "ʼlwp",
+    "en": "champion"
+   },
+   {
+    "he": "אליפות",
+    "tr": "ʼlypwţ",
+    "en": "championship"
+   },
+   {
+    "he": "אתלט",
+    "tr": "ʼţlt",
+    "en": "athlete"
+   },
+   {
+    "he": "בלם",
+    "tr": "blm",
+    "en": "defender"
+   },
+   {
+    "he": "גביע",
+    "tr": "gbyʻ",
+    "en": "cup"
+   },
+   {
+    "he": "הארכה",
+    "tr": "hʼrkh",
+    "en": "extra time, overtime"
+   },
+   {
+    "he": "התקפה",
+    "tr": "hţqph",
+    "en": "attack, offense"
+   },
+   {
+    "he": "חלוץ",
+    "tr": "ẖlwẕ",
+    "en": "forward, striker"
+   },
+   {
+    "he": "טניס",
+    "tr": "tnys",
+    "en": "tennis"
+   },
+   {
+    "he": "כדור",
+    "tr": "kdwr",
+    "en": "ball"
+   },
+   {
+    "he": "כדורגל",
+    "tr": "kdwrgl",
+    "en": "football, soccer"
+   },
+   {
+    "he": "כדורסל",
+    "tr": "kdwrsl",
+    "en": "basketball"
+   },
+   {
+    "he": "כדורעף",
+    "tr": "kdwrʻp",
+    "en": "volleyball"
+   },
+   {
+    "he": "כושר",
+    "tr": "kwşr",
+    "en": "fitness, exercise"
+   },
+   {
+    "he": "להבקיע",
+    "tr": "lhbqyʻ",
+    "en": "to score"
+   },
+   {
+    "he": "ליגה",
+    "tr": "lygh",
+    "en": "league"
+   },
+   {
+    "he": "מאמן",
+    "tr": "mʼmn",
+    "en": "trains, trainer, train, train (someone), coach, is training"
+   },
+   {
+    "he": "מגרש",
+    "tr": "mgrş",
+    "en": "pitch, court"
+   },
+   {
+    "he": "מדליה",
+    "tr": "mdlyh",
+    "en": "medal"
+   },
+   {
+    "he": "מחבט",
+    "tr": "mẖbt",
+    "en": "racket"
+   },
+   {
+    "he": "מכון כושר",
+    "tr": "mkwn kwşr",
+    "en": "gym"
+   },
+   {
+    "he": "מרתון",
+    "tr": "mrţwn",
+    "en": "marathon"
+   },
+   {
+    "he": "משחק",
+    "tr": "mşẖq",
+    "en": "is playing, match, play, game, plays, acting"
+   },
+   {
+    "he": "נקודה",
+    "tr": "nqwdh",
+    "en": "full stop, dot, period, point"
+   },
+   {
+    "he": "ספורט",
+    "tr": "spwrt",
+    "en": "sport, sports"
+   },
+   {
+    "he": "עמדה",
+    "tr": "ʻmdh",
+    "en": "position"
+   },
+   {
+    "he": "פנדל",
+    "tr": "pndl",
+    "en": "penalty kick"
+   },
+   {
+    "he": "צעד",
+    "tr": "ẕʻd",
+    "en": "step"
+   },
+   {
+    "he": "קבוצה",
+    "tr": "qbwẕh",
+    "en": "team, group, club"
+   },
+   {
+    "he": "קשָר",
+    "tr": "qşár",
+    "en": "midfielder"
+   },
+   {
+    "he": "שוער",
+    "tr": "şwʻr",
+    "en": "goalkeeper"
+   },
+   {
+    "he": "שחייה",
+    "tr": "şẖyyh",
+    "en": "swimming"
+   },
+   {
+    "he": "שחקן",
+    "tr": "şẖqn",
+    "en": "actor, an actor, player"
+   },
+   {
+    "he": "שלושער",
+    "tr": "şlwşʻr",
+    "en": "hattrick"
+   },
+   {
+    "he": "שער",
+    "tr": "şʻr",
+    "en": "gate, a gate, goal"
+   },
+   {
+    "he": "תחרות",
+    "tr": "ţẖrwţ",
+    "en": "competition"
+   },
+   {
+    "he": "תיקו",
+    "tr": "ţyqw",
+    "en": "draw"
+   }
+  ]
+ },
+ {
+  "skill": "76 Politics Argue about politics",
+  "words": [
+   {
+    "he": "איום",
+    "tr": "ʼywm",
+    "en": "threat (n), threat"
+   },
+   {
+    "he": "אלימות",
+    "tr": "ʼlymwţ",
+    "en": "violence"
+   },
+   {
+    "he": "אסטרטגיה",
+    "tr": "ʼstrtgyh",
+    "en": "strategy"
+   },
+   {
+    "he": "אשמה",
+    "tr": "ʼşmh",
+    "en": "fault, blame"
+   },
+   {
+    "he": "בחירות",
+    "tr": "bẖyrwţ",
+    "en": "elections"
+   },
+   {
+    "he": "בטיחות",
+    "tr": "btyẖwţ",
+    "en": "safety"
+   },
+   {
+    "he": "ביטחון",
+    "tr": "bytẖwn",
+    "en": "security"
+   },
+   {
+    "he": "הכנסת",
+    "tr": "hknsţ",
+    "en": "the Knesset"
+   },
+   {
+    "he": "המלצה",
+    "tr": "hmlẕh",
+    "en": "recommendation"
+   },
+   {
+    "he": "זכות",
+    "tr": "zkwţ",
+    "en": "a right"
+   },
+   {
+    "he": "חופש",
+    "tr": "ẖwpş",
+    "en": "freedom"
+   },
+   {
+    "he": "חוק",
+    "tr": "ẖwq",
+    "en": "law"
+   },
+   {
+    "he": "כלכלה",
+    "tr": "klklh",
+    "en": "economy, economics"
+   },
+   {
+    "he": "מדיניות",
+    "tr": "mdynywţ",
+    "en": "policy"
+   },
+   {
+    "he": "מועמד",
+    "tr": "mwʻmd",
+    "en": "candidate"
+   },
+   {
+    "he": "מלחמה",
+    "tr": "mlẖmh",
+    "en": "war"
+   },
+   {
+    "he": "ממשלה",
+    "tr": "mmşlh",
+    "en": "government"
+   },
+   {
+    "he": "מנהיג",
+    "tr": "mnhyg",
+    "en": "leader"
+   },
+   {
+    "he": "מס",
+    "tr": "ms",
+    "en": "tax"
+   },
+   {
+    "he": "מעצר",
+    "tr": "mʻẕr",
+    "en": "detention"
+   },
+   {
+    "he": "משרד האוצר",
+    "tr": "mşrd hʼwẕr",
+    "en": "the Ministry of Finance"
+   },
+   {
+    "he": "משרד הביטחון",
+    "tr": "mşrd hbytẖwn",
+    "en": "Ministry of Defense"
+   },
+   {
+    "he": "משרד החוץ",
+    "tr": "mşrd hẖwẕ",
+    "en": "the Ministry of Foreig..., ...n Affairs"
+   },
+   {
+    "he": "משרד המשפטים",
+    "tr": "mşrd hmşptym",
+    "en": "the Ministry of Justice"
+   },
+   {
+    "he": "נאום",
+    "tr": "nʼwm",
+    "en": "speech"
+   },
+   {
+    "he": "נשיא",
+    "tr": "nşyʼ",
+    "en": "president"
+   },
+   {
+    "he": "עושר",
+    "tr": "ʻwşr",
+    "en": "wealth"
+   },
+   {
+    "he": "עימות",
+    "tr": "ʻymwţ",
+    "en": "debate"
+   },
+   {
+    "he": "פרלמנט",
+    "tr": "prlmnt",
+    "en": "parliament"
+   },
+   {
+    "he": "פשע",
+    "tr": "pşʻ",
+    "en": "crime"
+   },
+   {
+    "he": "קונגרס",
+    "tr": "qwngrs",
+    "en": "Congress"
+   },
+   {
+    "he": "קמפיין",
+    "tr": "qmpyyn",
+    "en": "campaign"
+   },
+   {
+    "he": "ראש עיר",
+    "tr": "rʼş ʻyr",
+    "en": "mayor"
+   },
+   {
+    "he": "שביתה",
+    "tr": "şbyţh",
+    "en": "strike"
+   },
+   {
+    "he": "שוחד",
+    "tr": "şwẖd",
+    "en": "bribe, bribery"
+   },
+   {
+    "he": "שחיתות",
+    "tr": "şẖyţwţ",
+    "en": "corruption"
+   },
+   {
+    "he": "שלום",
+    "tr": "şlwm",
+    "en": "peace, hello, hi, greetings"
+   },
+   {
+    "he": "שר",
+    "tr": "şr",
+    "en": "sings, sing, is singing, minister"
+   }
+  ]
+ },
+ {
+  "skill": "77 Diminutives Make poetic descriptions",
+  "words": [
+   {
+    "he": "אדמדם",
+    "tr": "ʼdmdm",
+    "en": "reddish"
+   },
+   {
+    "he": "גחלילית",
+    "tr": "gẖlylyţ",
+    "en": "firefly"
+   },
+   {
+    "he": "חזרזיר",
+    "tr": "ẖzrzyr",
+    "en": "piglet"
+   },
+   {
+    "he": "חתלתול",
+    "tr": "ẖţlţwl",
+    "en": "kitten"
+   },
+   {
+    "he": "ידית",
+    "tr": "ydyţ",
+    "en": "handle"
+   },
+   {
+    "he": "ילדון",
+    "tr": "yldwn",
+    "en": "little boy"
+   },
+   {
+    "he": "ירקרק",
+    "tr": "yrqrq",
+    "en": "greenish"
+   },
+   {
+    "he": "כחלחל",
+    "tr": "kẖlẖl",
+    "en": "bluish"
+   },
+   {
+    "he": "כלבלב",
+    "tr": "klblb",
+    "en": "puppy"
+   },
+   {
+    "he": "מגבון",
+    "tr": "mgbwn",
+    "en": "towelette"
+   },
+   {
+    "he": "מחשבון",
+    "tr": "mẖşbwn",
+    "en": "calculator"
+   },
+   {
+    "he": "מלונית",
+    "tr": "mlwnyţ",
+    "en": "motel"
+   },
+   {
+    "he": "ספרון",
+    "tr": "sprwn",
+    "en": "booklet"
+   },
+   {
+    "he": "פילון",
+    "tr": "pylwn",
+    "en": "elephant calf, baby elephant"
+   },
+   {
+    "he": "צלוחית",
+    "tr": "ẕlwẖyţ",
+    "en": "saucer"
+   },
+   {
+    "he": "קשית",
+    "tr": "qşyţ",
+    "en": "drinking straw, straw"
+   },
+   {
+    "he": "שקית",
+    "tr": "şqyţ",
+    "en": "bag"
+   }
+  ]
+ },
+ {
+  "skill": "78 Legends Tell fairy tales",
+  "words": [
+   {
+    "he": "אביר",
+    "tr": "ʼbyr",
+    "en": "knight"
+   },
+   {
+    "he": "אגדה",
+    "tr": "ʼgdh",
+    "en": "a legend, legend"
+   },
+   {
+    "he": "איש זאב",
+    "tr": "ʼyş zʼb",
+    "en": "werewolf"
+   },
+   {
+    "he": "ארמון",
+    "tr": "ʼrmwn",
+    "en": "palace, a palace"
+   },
+   {
+    "he": "גיבור",
+    "tr": "gybwr",
+    "en": "hero"
+   },
+   {
+    "he": "גיבור על",
+    "tr": "gybwr ʻl",
+    "en": "superhero"
+   },
+   {
+    "he": "דרקון",
+    "tr": "drqwn",
+    "en": "a dragon, dragon"
+   },
+   {
+    "he": "חומה",
+    "tr": "ẖwmh",
+    "en": "is brown, wall"
+   },
+   {
+    "he": "חץ",
+    "tr": "ẖẕ",
+    "en": "arrow"
+   },
+   {
+    "he": "יצור",
+    "tr": "yẕwr",
+    "en": "creature"
+   },
+   {
+    "he": "כישוף",
+    "tr": "kyşwp",
+    "en": "spell, sorcery, witchcraft"
+   },
+   {
+    "he": "מגן",
+    "tr": "mgn",
+    "en": "shield"
+   },
+   {
+    "he": "מלכה",
+    "tr": "mlkh",
+    "en": "queen"
+   },
+   {
+    "he": "מפלצת",
+    "tr": "mplẕţ",
+    "en": "monster"
+   },
+   {
+    "he": "משרת",
+    "tr": "mşrţ",
+    "en": "servant"
+   },
+   {
+    "he": "נסיך",
+    "tr": "nsyk",
+    "en": "a prince"
+   },
+   {
+    "he": "נסיכה",
+    "tr": "nsykh",
+    "en": "princess"
+   },
+   {
+    "he": "ערפד",
+    "tr": "ʻrpd",
+    "en": "vampire"
+   },
+   {
+    "he": "קללה",
+    "tr": "qllh",
+    "en": "a curse"
+   },
+   {
+    "he": "קסדה",
+    "tr": "qsdh",
+    "en": "helmet"
+   },
+   {
+    "he": "קסם",
+    "tr": "qsm",
+    "en": "magic"
+   },
+   {
+    "he": "שיקוי",
+    "tr": "şyqwy",
+    "en": "potion"
+   },
+   {
+    "he": "שרביט",
+    "tr": "şrbyt",
+    "en": "wand"
+   },
+   {
+    "he": "שריון",
+    "tr": "şrywn",
+    "en": "armor"
+   }
+  ]
+ },
+ {
+  "skill": "79 Future Nif'al Form the future passive",
+  "words": [
+   {
+    "he": "להישאר",
+    "tr": "lhyşʼr",
+    "en": "to stay"
+   }
+  ]
+ },
+ {
+  "skill": "80 Formal Use formal language",
+  "words": [
+   {
+    "he": "אדוני",
+    "tr": "ʼdwny",
+    "en": "sir"
+   },
+   {
+    "he": "אינו",
+    "tr": "ʼynw",
+    "en": "is not, does not"
+   },
+   {
+    "he": "אנא",
+    "tr": "ʼnʼ",
+    "en": "please (formal)"
+   },
+   {
+    "he": "אנו",
+    "tr": "ʼnw",
+    "en": "we (formal)"
+   },
+   {
+    "he": "אשר",
+    "tr": "ʼşr",
+    "en": "who"
+   },
+   {
+    "he": "גברתי",
+    "tr": "gbrţy",
+    "en": "ma'am, madam"
+   },
+   {
+    "he": "הבה",
+    "tr": "hbh",
+    "en": "let us, let's"
+   },
+   {
+    "he": "היכן",
+    "tr": "hykn",
+    "en": "where, where are"
+   },
+   {
+    "he": "כיצד",
+    "tr": "kyẕd",
+    "en": "how"
+   },
+   {
+    "he": "מאין",
+    "tr": "mʼyn",
+    "en": "from where"
+   },
+   {
+    "he": "מדוע",
+    "tr": "mdwʻ",
+    "en": "why (formal)"
+   },
+   {
+    "he": "נא",
+    "tr": "nʼ",
+    "en": "please"
+   },
+   {
+    "he": "עתה",
+    "tr": "ʻţh",
+    "en": "now"
+   }
+  ]
+ },
+ {
+  "skill": "81 Business Talk business",
+  "words": [
+   {
+    "he": "אירו",
+    "tr": "ʼyrw",
+    "en": "euros"
+   },
+   {
+    "he": "ארגון",
+    "tr": "ʼrgwn",
+    "en": "organization"
+   },
+   {
+    "he": "ביטוח",
+    "tr": "bytwẖ",
+    "en": "insurance"
+   },
+   {
+    "he": "דולר",
+    "tr": "dwlr",
+    "en": "dollar"
+   },
+   {
+    "he": "השקעה",
+    "tr": "hşqʻh",
+    "en": "an investment, investment"
+   },
+   {
+    "he": "זהב",
+    "tr": "zhb",
+    "en": "gold"
+   },
+   {
+    "he": "חבְרה",
+    "tr": "ẖbĕrh",
+    "en": "company"
+   },
+   {
+    "he": "חוב",
+    "tr": "ẖwb",
+    "en": "debt"
+   },
+   {
+    "he": "חוזה",
+    "tr": "ẖwzh",
+    "en": "contract"
+   },
+   {
+    "he": "כסף",
+    "tr": "ksp",
+    "en": "money"
+   },
+   {
+    "he": "כרטיס",
+    "tr": "krtys",
+    "en": "ticket, card"
+   },
+   {
+    "he": "כרטיס אשראי",
+    "tr": "krtys ʼşrʼy",
+    "en": "credit card"
+   },
+   {
+    "he": "מוצר",
+    "tr": "mwẕr",
+    "en": "product"
+   },
+   {
+    "he": "מותג",
+    "tr": "mwţg",
+    "en": "brand"
+   },
+   {
+    "he": "מזומן",
+    "tr": "mzwmn",
+    "en": "cash"
+   },
+   {
+    "he": "מטבע",
+    "tr": "mtbʻ",
+    "en": "coin"
+   },
+   {
+    "he": "מנהל",
+    "tr": "mnhl",
+    "en": "manager"
+   },
+   {
+    "he": "משכורת",
+    "tr": "mşkwrţ",
+    "en": "salary"
+   },
+   {
+    "he": "סוכן",
+    "tr": "swkn",
+    "en": "agent"
+   },
+   {
+    "he": "סיכון",
+    "tr": "sykwn",
+    "en": "risk"
+   },
+   {
+    "he": "עודף",
+    "tr": "ʻwdp",
+    "en": "change (monetary)"
+   },
+   {
+    "he": "עסקה",
+    "tr": "ʻsqh",
+    "en": "deal"
+   },
+   {
+    "he": "עסקים",
+    "tr": "ʻsqym",
+    "en": "business"
+   },
+   {
+    "he": "פגישה",
+    "tr": "pgyşh",
+    "en": "meeting (n), meeting"
+   },
+   {
+    "he": "פרסום",
+    "tr": "prswm",
+    "en": "advertising"
+   },
+   {
+    "he": "פרסומת",
+    "tr": "prswmţ",
+    "en": "advertisement"
+   },
+   {
+    "he": "קידום",
+    "tr": "qydwm",
+    "en": "promotion"
+   },
+   {
+    "he": "ראיון",
+    "tr": "rʼywn",
+    "en": "interview"
+   },
+   {
+    "he": "שווי",
+    "tr": "şwwy",
+    "en": "worth, value"
+   },
+   {
+    "he": "שער",
+    "tr": "şʻr",
+    "en": "gate, a gate, goal"
+   },
+   {
+    "he": "שקל",
+    "tr": "şql",
+    "en": "Shekel"
+   },
+   {
+    "he": "תעשייה",
+    "tr": "ţʻşyyh",
+    "en": "industry"
+   },
+   {
+    "he": "תקציב",
+    "tr": "ţqẕyb",
+    "en": "budget"
+   }
+  ]
+ },
+ {
+  "skill": "82 Outer Space Describe outer space",
+  "words": [
+   {
+    "he": "אסטרונאוט",
+    "tr": "ʼstrwnʼwt",
+    "en": "astronaut"
+   },
+   {
+    "he": "גלקסיה",
+    "tr": "glqsyh",
+    "en": "galaxy"
+   },
+   {
+    "he": "גשושית",
+    "tr": "gşwşyţ",
+    "en": "probe (n), probe"
+   },
+   {
+    "he": "חללית",
+    "tr": "ẖllyţ",
+    "en": "spaceship"
+   },
+   {
+    "he": "חמה",
+    "tr": "ẖmh",
+    "en": "hot (sg. fem.), warm (sg. fem.)"
+   },
+   {
+    "he": "לוויין",
+    "tr": "lwwyyn",
+    "en": "satellite"
+   },
+   {
+    "he": "ליקוי",
+    "tr": "lyqwy",
+    "en": "eclipse"
+   },
+   {
+    "he": "מאדים",
+    "tr": "mʼdym",
+    "en": "Mars"
+   },
+   {
+    "he": "מטאור",
+    "tr": "mtʼwr",
+    "en": "meteor, a meteor"
+   },
+   {
+    "he": "מכתש",
+    "tr": "mkţş",
+    "en": "crater"
+   },
+   {
+    "he": "מסלול",
+    "tr": "mslwl",
+    "en": "a path, a trail, path, trail, trajectory, orbit, route"
+   },
+   {
+    "he": "צדק",
+    "tr": "ẕdq",
+    "en": "Jupiter"
+   },
+   {
+    "he": "שביל החלב",
+    "tr": "şbyl hẖlb",
+    "en": "the Milky Way"
+   },
+   {
+    "he": "שבתאי",
+    "tr": "şbţʼy",
+    "en": "saturn"
+   },
+   {
+    "he": "שיגור",
+    "tr": "şygwr",
+    "en": "launch"
+   }
+  ]
+ },
+ {
+  "skill": "83 Jewish Festivals Talk about festivals",
+  "words": [
+   {
+    "he": "חג",
+    "tr": "ẖg",
+    "en": "holiday"
+   },
+   {
+    "he": "חנוכה",
+    "tr": "ẖnwkh",
+    "en": "hanukkah"
+   },
+   {
+    "he": "חנוכייה",
+    "tr": "ẖnwkyyh",
+    "en": "Hanukkah Menorah, chanukiya"
+   },
+   {
+    "he": "ט\"ו בשבט",
+    "tr": "t\"w bşbt",
+    "en": "Tu Bi'Shvat"
+   },
+   {
+    "he": "יום כיפור",
+    "tr": "ywm kypwr",
+    "en": "Yom Kippur, the Day of Atonement"
+   },
+   {
+    "he": "יציאת מצרים",
+    "tr": "yẕyʼţ mẕrym",
+    "en": "the Exodus"
+   },
+   {
+    "he": "לחגוג",
+    "tr": "lẖgwg",
+    "en": "to celebrate"
+   },
+   {
+    "he": "ליל הסדר",
+    "tr": "lyl hsdr",
+    "en": "the Passover Seder"
+   },
+   {
+    "he": "מצה",
+    "tr": "mẕh",
+    "en": "matza"
+   },
+   {
+    "he": "משלוח מנות",
+    "tr": "mşlwẖ mnwţ",
+    "en": "mishloach manot, Purim basket"
+   },
+   {
+    "he": "סוכה",
+    "tr": "swkh",
+    "en": "sukkah"
+   },
+   {
+    "he": "סוכות",
+    "tr": "swkwţ",
+    "en": "Sukkot (holiday), sukkot"
+   },
+   {
+    "he": "פורים",
+    "tr": "pwrym",
+    "en": "Purim"
+   },
+   {
+    "he": "פסח",
+    "tr": "psẖ",
+    "en": "Passover"
+   },
+   {
+    "he": "צום",
+    "tr": "ẕwm",
+    "en": "fast (n), fast, fasting"
+   },
+   {
+    "he": "ראש השנה",
+    "tr": "rʼş hşnh",
+    "en": "Rosh Ha'shana, the Jewish New Year"
+   },
+   {
+    "he": "שבועות",
+    "tr": "şbwʻwţ",
+    "en": "Shavuot (holiday), weeks, shavuot"
+   },
+   {
+    "he": "שמחת תורה",
+    "tr": "şmẖţ ţwrh",
+    "en": "Simchat Torah"
+   },
+   {
+    "he": "תשעה באב",
+    "tr": "ţşʻh bʼb",
+    "en": "Tisha Be'Av, the Ninth of Av"
+   }
+  ]
+ },
+ {
+  "skill": "84 Welcome To Israel Describe Israel",
+  "words": [
+   {
+    "he": "ביסלי",
+    "tr": "bysly",
+    "en": "(Israeli savoury snack), Bissli"
+   },
+   {
+    "he": "בלאגן",
+    "tr": "blʼgn",
+    "en": "mess, chaos, mayhem"
+   },
+   {
+    "he": "במבה",
+    "tr": "bmbh",
+    "en": "Bamba, (peanut butter snack)"
+   },
+   {
+    "he": "חומוס",
+    "tr": "ẖwmws",
+    "en": "hummus"
+   },
+   {
+    "he": "חיפה",
+    "tr": "ẖyph",
+    "en": "Haifa"
+   },
+   {
+    "he": "טבריה",
+    "tr": "tbryh",
+    "en": "Tiberias"
+   },
+   {
+    "he": "יום העצמאות",
+    "tr": "ywm hʻẕmʼwţ",
+    "en": "Independence Day"
+   },
+   {
+    "he": "מטקות",
+    "tr": "mtqwţ",
+    "en": "matkot, (beach paddle/ball game)"
+   },
+   {
+    "he": "מצדה",
+    "tr": "mẕdh",
+    "en": "masada"
+   },
+   {
+    "he": "עגבניית שרי",
+    "tr": "ʻgbnyyţ şry",
+    "en": "cherry tomato"
+   },
+   {
+    "he": "על האש",
+    "tr": "ʻl hʼş",
+    "en": "(Israeli charcoal BBQ)"
+   },
+   {
+    "he": "עלייה",
+    "tr": "ʻlyyh",
+    "en": "Aliyah"
+   },
+   {
+    "he": "פיתה",
+    "tr": "pyţh",
+    "en": "pita"
+   },
+   {
+    "he": "פלאפל",
+    "tr": "plʼpl",
+    "en": "falafel"
+   },
+   {
+    "he": "צבר",
+    "tr": "ẕbr",
+    "en": "sabra, native Israeli"
+   },
+   {
+    "he": "קיבוץ",
+    "tr": "qybwẕ",
+    "en": "kibbutz"
+   },
+   {
+    "he": "קיסריה",
+    "tr": "qysryh",
+    "en": "Caesarea"
+   },
+   {
+    "he": "שקשוקה",
+    "tr": "şqşwqh",
+    "en": "shakshouka, (eggs poached in sauce), Shakshuka"
+   }
+  ]
+ }
+]

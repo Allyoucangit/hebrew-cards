@@ -1,0 +1,123 @@
+@unit 32|Use compound nouns
+n|בית חולים|beyt kholim|hospital|m|בתי חולים|batey kholim|הוא עובד בבית חולים.|He works in a hospital.
+n|בית כנסת|beyt kneset|synagogue|m|בתי כנסת|batey kneset|בית הכנסת סגור היום.|The synagogue is closed today.
+n|בית מלון|beyt malon|hotel|m|בתי מלון|batey malon|בית המלון קרוב לים.|The hotel is close to the sea.
+n|בית משפט|beyt mishpat|court|m|בתי משפט|batey mishpat|השופט בבית המשפט.|The judge is in court.
+n|בית ספר|beyt sefer|school|m|בתי ספר|batey sefer|הילדים בבית הספר.|The children are at school.
+n|בית קפה|beyt kafe|café|m|בתי קפה|batey kafe|אנחנו יושבים בבית קפה.|We're sitting in a café.
+n|מיץ תפוזים|mits tapuzim|orange juice|m|-|-|אני שותה מיץ תפוזים.|I drink orange juice.
+n|עוגת גבינה|ugat gvina|cheesecake|f|עוגות גבינה|ugot gvina|עוגת הגבינה טעימה.|The cheesecake is tasty.
+n|עוגת שוקולד|ugat shokolad|chocolate cake|f|עוגות שוקולד|ugot shokolad|אמא אופה עוגת שוקולד.|Mom is baking a chocolate cake.
+x|phrase|בקבוק מים|bakbuk mayim|a bottle of water|יש לך בקבוק מים?|Do you have a bottle of water?
+
+@unit 33|Form infinitives
+x|verb|להיות|lihyot|to be (no present tense: "אני רופא" = I am a doctor)|אני רוצה להיות רופא.|I want to be a doctor.
+x|verb|להגיד|lehagid|to say, to tell (present tense: אומר)|מה אתה רוצה להגיד?|What do you want to say?
+v|להכיל|lehakhil|כ-ו-ל|hifil|מכיל,מכילה,מכילים,מכילות|mekhil,mekhila,mekhilim,mekhilot|to contain|הבקבוק מכיל מים.|The bottle contains water.
+v|למנוע|limno'a|מ-נ-ע|paal|מונע,מונעת,מונעים,מונעות|mone'a,mona'at,mon'im,mon'ot|to prevent|המזגן מונע חום.|The air conditioner prevents heat.
+v|לסבול|lisbol|ס-ב-ל|paal|סובל,סובלת,סובלים,סובלות|sovel,sovelet,sovlim,sovlot|to suffer; to stand (someone)|אני לא סובל את החום.|I can't stand the heat.
+v|לצייר|letsayer|צ-י-ר|piel|מצייר,מציירת,מציירים,מציירות|metsayer,metsayeret,metsayrim,metsayrot|to draw, to paint|הילדה מציירת בית.|The girl is drawing a house.
+
+@unit 34|Discuss the weather
+n|מזג אוויר|mezeg avir|weather|m|-|-|מה מזג האוויר היום?|What's the weather today?
+n|גשם|geshem|rain|m|גשמים|gshamim|יש הרבה גשם בחורף.|There is a lot of rain in winter.
+n|שלג|sheleg|snow|m|-|-|יש שלג על ההר.|There's snow on the mountain.
+n|שמש|shemesh|sun|f|-|-|השמש חמה היום.|The sun is hot today.
+n|רוח|ru'akh|wind; spirit|f|רוחות|rukhot|יש רוח חזקה.|There's a strong wind.
+n|ענן|anan|cloud|m|עננים|ananim|יש עננים בשמיים.|There are clouds in the sky.
+n|ערפל|arafel|fog|m|-|-|יש ערפל בבוקר.|There's fog in the morning.
+n|סופה|sufa|storm|f|סופות|sufot|יש סופה בים.|There's a storm at sea.
+n|ברק|barak|lightning|m|ברקים|brakim|ראיתי ברק!|I saw lightning!
+n|רעם|ra'am|thunder|m|רעמים|re'amim|הילד מפחד מהרעם.|The boy is afraid of the thunder.
+n|ברד|barad|hail|m|-|-|יורד ברד!|It's hailing!
+n|הוריקן|hurikan|hurricane|m|הוריקנים|hurikanim|ההוריקן חזק מאוד.|The hurricane is very strong.
+n|טורנדו|tornado|tornado|m|-|-|טורנדו זה מפחיד.|A tornado is scary.
+n|הצפה|hatsafa|flood|f|הצפות|hatsafot|יש הצפה ברחוב.|There's a flood in the street.
+n|גל חום|gal khom|heat wave|m|גלי חום|galey khom|יש גל חום השבוע.|There's a heat wave this week.
+n|גל קור|gal kor|cold spell|m|גלי קור|galey kor|יש גל קור בחורף.|There's a cold spell in winter.
+n|מעלה|ma'ala|degree (temperature)|f|מעלות|ma'alot|היום שלושים מעלות.|Today it's thirty degrees.
+a|בהיר,בהירה,בהירים,בהירות|bahir,behira,behirim,behirot|clear, bright, light (color)|השמיים בהירים.|The sky is clear.
+a|גשום,גשומה,גשומים,גשומות|gashum,gshuma,gshumim,gshumot|rainy|זה יום גשום.|It's a rainy day.
+a|מעונן,מעוננת,מעוננים,מעוננות|me'unan,me'unenet,me'unanim,me'unanot|cloudy|היום מעונן.|Today it's cloudy.
+
+@unit 35|Describe places
+n|עיר|ir|city|f|ערים|arim|תל אביב היא עיר גדולה.|Tel Aviv is a big city.
+n|עיר בירה|ir bira|capital city|f|ערי בירה|arey bira|ירושלים היא עיר הבירה.|Jerusalem is the capital city.
+n|עיירה|ayara|small town|f|עיירות|ayarot|אני גר בעיירה קטנה.|I live in a small town.
+n|כפר|kfar|village|m|כפרים|kfarim|הכפר שקט.|The village is quiet.
+n|מדינה|medina|country, state|f|מדינות|medinot|ישראל היא מדינה קטנה.|Israel is a small country.
+n|רחוב|rekhov|street|m|רחובות|rekhovot|באיזה רחוב אתה גר?|Which street do you live on?
+n|שדרה|sdera|avenue, boulevard|f|שדרות|sderot|אנחנו הולכים בשדרה.|We're walking on the boulevard.
+n|כיכר|kikar|square; roundabout|f|כיכרות|kikarot|נפגשים בכיכר.|We meet in the square.
+n|שכונה|shkhuna|neighborhood|f|שכונות|shkhunot|השכונה שלנו יפה.|Our neighborhood is beautiful.
+n|מקום|makom|place|m|מקומות|mekomot|זה מקום יפה.|This is a beautiful place.
+n|איזור|ezor|area, region|m|איזורים|ezorim|זה איזור שקט.|This is a quiet area.
+n|מחוז|makhoz|district|m|מחוזות|mekhozot|זה מחוז הצפון.|This is the northern district.
+n|מרכז|merkaz|center, downtown|m|מרכזים|merkazim|אני עובד במרכז העיר.|I work in the city center.
+n|פינה|pina|corner|f|פינות|pinot|החנות בפינה.|The shop is on the corner.
+n|חנות|khanut|shop, store|f|חנויות|khanuyot|החנות פתוחה.|The shop is open.
+n|מכולת|makolet|grocery, corner shop|f|מכולות|makolot|אני הולך למכולת.|I'm going to the corner shop.
+n|סופרמרקט|supermarket|supermarket|m|סופרמרקטים|supermarketim|הסופרמרקט סגור בשבת.|The supermarket is closed on Shabbat.
+n|שוק|shuk|market|m|שווקים|shvakim|אני קונה פירות בשוק.|I buy fruit at the market.
+n|בנק|bank|bank|m|בנקים|bankim|הבנק סגור היום.|The bank is closed today.
+n|משרד|misrad|office; ministry|m|משרדים|misradim|אני במשרד.|I'm at the office.
+n|מוזיאון|muze'on|museum|m|מוזיאונים|muze'onim|המוזיאון מעניין.|The museum is interesting.
+n|בית קולנוע|beyt kolno'a|cinema|m|בתי קולנוע|batey kolno'a|נלך לבית הקולנוע.|Let's go to the cinema.
+n|בית כלא|beyt kele|prison|m|בתי כלא|batey kele|הגנב בבית הכלא.|The thief is in prison.
+n|בר|bar|bar|m|ברים|barim|נפגשים בבר.|We're meeting at the bar.
+n|פארק|park|park|m|פארקים|parkim|הילדים משחקים בפארק.|The children play in the park.
+n|גן חיות|gan khayot|zoo|m|גני חיות|ganey khayot|יש פיל בגן החיות.|There's an elephant at the zoo.
+n|ארמון|armon|palace|m|ארמונות|armonot|המלך גר בארמון.|The king lives in a palace.
+n|טירה|tira|castle|f|טירות|tirot|זאת טירה ישנה.|This is an old castle.
+n|כנסייה|knesiya|church|f|כנסיות|knesiyot|יש כנסייה בכפר.|There's a church in the village.
+n|מסגד|misgad|mosque|m|מסגדים|misgadim|המסגד גדול.|The mosque is big.
+n|גשר|gesher|bridge|m|גשרים|gsharim|אנחנו עוברים על הגשר.|We're crossing the bridge.
+n|נמל|namal|port, harbor|m|נמלים|nemalim|הספינה בנמל.|The ship is in the port.
+n|תחנה|takhana|station, stop|f|תחנות|takhanot|איפה התחנה?|Where is the station?
+n|שדה תעופה|sde te'ufa|airport|m|שדות תעופה|sdot te'ufa|אני נוסע לשדה התעופה.|I'm going to the airport.
+n|מגדל|migdal|tower|m|מגדלים|migdalim|המגדל גבוה מאוד.|The tower is very tall.
+n|מבנה|mivne|structure, building|m|מבנים|mivnim|זה מבנה ישן.|This is an old structure.
+n|נכס|nekhes|property, asset|m|נכסים|nekhasim|יש לו הרבה נכסים.|He has a lot of properties.
+n|חווה|khava|farm|f|חוות|khavot|יש פרות בחווה.|There are cows on the farm.
+n|אי|i|island|m|איים|iyim|זה אי קטן.|This is a small island.
+n|עמק|emek|valley|m|עמקים|amakim|הכפר בעמק.|The village is in the valley.
+n|גבול|gvul|border|m|גבולות|gvulot|אנחנו ליד הגבול.|We're near the border.
+n|מסלול|maslul|route, trail|m|מסלולים|maslulim|זה מסלול יפה.|This is a beautiful trail.
+n|קהילה|kehila|community|f|קהילות|kehilot|יש לנו קהילה חזקה.|We have a strong community.
+n|קרקע|karka|ground, land|f|קרקעות|karka'ot|הקרקע רטובה.|The ground is wet.
+n|שטח|shetakh|area, territory|m|שטחים|shtakhim|זה שטח פרטי.|This is private property.
+n|צפון|tsafon|north|m|-|-|אני גר בצפון.|I live in the north.
+n|דרום|darom|south|m|-|-|אילת בדרום.|Eilat is in the south.
+n|מזרח|mizrakh|east|m|-|-|השמש עולה במזרח.|The sun rises in the east.
+n|מערב|ma'arav|west|m|-|-|הים במערב.|The sea is in the west.
+n|ימין|yamin|right (side)|m|-|-|הבית מימין.|The house is on the right.
+n|שמאל|smol|left (side)|m|-|-|הבנק משמאל.|The bank is on the left.
+x|name|ישראל|yisra'el|Israel|אני גר בישראל.|I live in Israel.
+x|name|ירושלים|yerushalayim|Jerusalem|ירושלים עיר יפה.|Jerusalem is a beautiful city.
+x|name|תל אביב|tel aviv|Tel Aviv|אני אוהב את תל אביב.|I love Tel Aviv.
+x|adv|הביתה|habayta|home (towards home)|אני הולך הביתה.|I'm going home.
+x|adv|קדימה|kadima|forward; come on!|קדימה, מהר!|Come on, quickly!
+x|adv|אחורה|akhora|backwards|זוז קצת אחורה.|Move back a bit.
+x|prep|לאורך|le'orekh|along|הולכים לאורך הים.|We walk along the sea.
+x|prep|לתוך|letokh|into|החתול קופץ לתוך הקופסה.|The cat jumps into the box.
+x|prep|מתוך|mitokh|from inside, out of|הוא לוקח ספר מתוך התיק.|He takes a book out of the bag.
+x|prep|ברחבי|berakhavey|throughout, all over|יש חנויות ברחבי העיר.|There are shops all over the city.
+
+@unit 36|Use Hif'il verbs in the present
+v|להאמין|leha'amin|א-מ-ן|hifil|מאמין,מאמינה,מאמינים,מאמינות|ma'amin,ma'amina,ma'aminim,ma'aminot|to believe|אני מאמין לך.|I believe you.
+v|להבין|lehavin|ב-י-ן|hifil|מבין,מבינה,מבינים,מבינות|mevin,mevina,mevinim,mevinot|to understand|אני לא מבין.|I don't understand.
+v|להגיש|lehagish|נ-ג-ש|hifil|מגיש,מגישה,מגישים,מגישות|magish,magisha,magishim,magishot|to serve; to submit|המלצר מגיש את האוכל.|The waiter serves the food.
+v|להוסיף|lehosif|י-ס-ף|hifil|מוסיף,מוסיפה,מוסיפים,מוסיפות|mosif,mosifa,mosifim,mosifot|to add|אני מוסיף סוכר לקפה.|I add sugar to the coffee.
+v|להכריז|lehakhriz|כ-ר-ז|hifil|מכריז,מכריזה,מכריזים,מכריזות|makhriz,makhriza,makhrizim,makhrizot|to announce|הוא מכריז על החתונה.|He announces the wedding.
+v|להמשיך|lehamshikh|מ-ש-כ|hifil|ממשיך,ממשיכה,ממשיכים,ממשיכות|mamshikh,mamshikha,mamshikhim,mamshikhot|to continue|אנחנו ממשיכים ללמוד.|We continue studying.
+v|להניח|lehani'akh|נ-ו-ח|hifil|מניח,מניחה,מניחים,מניחות|mani'akh,manikha,manikhim,manikhot|to assume; to put down|אני מניח שהוא בבית.|I assume he's at home.
+v|להסביר|lehasbir|ס-ב-ר|hifil|מסביר,מסבירה,מסבירים,מסבירות|masbir,masbira,masbirim,masbirot|to explain|המורה מסבירה את השיעור.|The teacher explains the lesson.
+v|להסכים|lehaskim|ס-כ-ם|hifil|מסכים,מסכימה,מסכימים,מסכימות|maskim,maskima,maskimim,maskimot|to agree|אני מסכים איתך.|I agree with you.
+v|להעביר|leha'avir|ע-ב-ר|hifil|מעביר,מעבירה,מעבירים,מעבירות|ma'avir,ma'avira,ma'avirim,ma'avirot|to pass, to transfer|תעביר לי את המלח.|Pass me the salt.
+v|להציג|lehatsig|י-צ-ג|hifil|מציג,מציגה,מציגים,מציגות|matsig,matsiga,matsigim,matsigot|to present, to show|היא מציגה את העבודה.|She presents the work.
+v|להציע|lehatsi'a|י-צ-ע|hifil|מציע,מציעה,מציעים,מציעות|matsi'a,matsi'a,matsi'im,matsi'ot|to offer, to suggest|אני מציע ללכת הביתה.|I suggest going home.
+v|להקשיב|lehakshiv|ק-ש-ב|hifil|מקשיב,מקשיבה,מקשיבים,מקשיבות|makshiv,makshiva,makshivim,makshivot|to listen|הילדים מקשיבים למורה.|The children listen to the teacher.
+v|להרגיש|lehargish|ר-ג-ש|hifil|מרגיש,מרגישה,מרגישים,מרגישות|margish,margisha,margishim,margishot|to feel|איך אתה מרגיש?|How do you feel?
+v|להרשות|leharshot|ר-ש-ה|hifil|מרשה,מרשה,מרשים,מרשות|marshe,marsha,marshim,marshot|to allow, to permit|אמא לא מרשה לי.|Mom doesn't let me.
+v|להשכיר|lehaskir|ש-כ-ר|hifil|משכיר,משכירה,משכירים,משכירות|maskir,maskira,maskirim,maskirot|to rent out|הוא משכיר את הדירה.|He rents out the apartment.
+v|להתחיל|lehatkhil|ת-ח-ל|hifil|מתחיל,מתחילה,מתחילים,מתחילות|matkhil,matkhila,matkhilim,matkhilot|to start, to begin|השיעור מתחיל בשמונה.|The lesson starts at eight.

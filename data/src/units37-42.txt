@@ -1,0 +1,200 @@
+@unit 37|Describe relationships
+n|אדם|adam|person, human being|m|בני אדם|bney adam|הוא אדם טוב.|He is a good person.
+n|בן אדם|ben adam|human being, person|m|בני אדם|bney adam|כל בן אדם צריך חברים.|Every person needs friends.
+n|איש|ish|man, person|m|אנשים|anashim|יש הרבה אנשים ברחוב.|There are many people in the street.
+n|בחור|bakhur|guy, young man|m|בחורים|bakhurim|הוא בחור נחמד.|He's a nice guy.
+n|בחורה|bakhura|young woman|f|בחורות|bakhurot|היא בחורה חכמה.|She's a smart young woman.
+n|נער|na'ar|teenage boy|m|נערים|ne'arim|הנער משחק כדורגל.|The teenager plays soccer.
+n|נערה|na'ara|teenage girl|f|נערות|ne'arot|הנערה קוראת ספר.|The teenage girl is reading a book.
+n|נוער|no'ar|youth, young people|m|-|-|הנוער אוהב מוזיקה.|Young people love music.
+n|חבר|khaver|friend (m); boyfriend; member|m|חברים|khaverim|הוא החבר הכי טוב שלי.|He's my best friend.
+n|חברה|khavera|friend (f); girlfriend|f|חברות|khaverot|יש לי חברה בתל אביב.|I have a (female) friend in Tel Aviv.
+n|ידיד|yadid|friend (m, platonic)|m|ידידים|yedidim|אנחנו רק ידידים.|We're just friends.
+n|ידידה|yedida|friend (f, platonic)|f|ידידות|yedidot|היא ידידה טובה.|She's a good friend.
+n|זוג|zug|couple, pair|m|זוגות|zugot|הם זוג יפה.|They're a beautiful couple.
+n|מערכת יחסים|ma'arekhet yakhasim|relationship|f|מערכות יחסים|ma'arakhot yakhasim|יש לה מערכת יחסים טובה.|She has a good relationship.
+n|אויב|oyev|enemy|m|אויבים|oyvim|הוא לא אויב.|He's not an enemy.
+n|אזרח|ezrakh|citizen|m|אזרחים|ezrakhim|אני אזרח ישראלי.|I'm an Israeli citizen.
+n|אוכלוסייה|ukhlusiya|population|f|אוכלוסיות|ukhlusiyot|האוכלוסייה גדלה.|The population is growing.
+n|עם|am|nation, people|m|עמים|amim|זה עם עתיק.|This is an ancient people.
+n|ציבור|tsibur|public|m|-|-|הפארק פתוח לציבור.|The park is open to the public.
+n|קהל|kahal|audience, crowd|m|-|-|הקהל שמח.|The audience is happy.
+n|ועדה|va'ada|committee|f|ועדות|va'adot|הוועדה מחליטה מחר.|The committee decides tomorrow.
+n|כנס|kenes|conference|m|כנסים|kenasim|יש כנס בירושלים.|There's a conference in Jerusalem.
+n|פרט|prat|detail; individual|m|פרטים|pratim|אני צריך עוד פרטים.|I need more details.
+n|קורבן|korban|victim; sacrifice|m|קורבנות|korbanot|הוא לא קורבן.|He's not a victim.
+n|קרן|keren|foundation, fund; ray; horn|f|קרנות|keranot|הקרן עוזרת לילדים.|The foundation helps children.
+n|תרבות|tarbut|culture|f|תרבויות|tarbuyot|אני אוהב את התרבות הישראלית.|I love Israeli culture.
+a|מבוגר,מבוגרת,מבוגרים,מבוגרות|mevugar,mevugeret,mevugarim,mevugarot|adult; older|הוא מבוגר ממני.|He's older than me.
+a|ישראלי,ישראלית,ישראלים,ישראליות|yisra'eli,yisra'elit,yisra'elim,yisra'eliyot|Israeli|היא ישראלית.|She's Israeli.
+a|אמריקאי,אמריקאית,אמריקאים,אמריקאיות|amerika'i,amerika'it,amerika'im,amerika'iyot|American|הוא אמריקאי.|He's American.
+a|אנגלי,אנגלייה,אנגלים,אנגליות|angli,angliya,anglim,angliyot|English (person)|החבר שלי אנגלי.|My friend is English.
+a|אוסטרלי,אוסטרלית,אוסטרלים,אוסטרליות|ostrali,ostralit,ostralim,ostraliyot|Australian|היא אוסטרלית.|She's Australian.
+a|צרפתי,צרפתייה,צרפתים,צרפתיות|tsarfati,tsarfatiya,tsarfatim,tsarfatiyot|French|האוכל הצרפתי טעים.|French food is tasty.
+x|phrase|בן כמה אתה? / בת כמה את?|ben kama ata / bat kama at|how old are you? (m / f)|בן כמה אתה? אני בן שלושים.|How old are you? I'm thirty.
+
+@unit 38|Form bigger numbers
+x|num|שלושים|shloshim|thirty|הוא בן שלושים.|He's thirty.
+x|num|ארבעים|arba'im|forty|ארבעים שקלים.|Forty shekels.
+x|num|חמישים|khamishim|fifty|חמישים אחוז.|Fifty percent.
+x|num|שישים|shishim|sixty|שישים דקות בשעה.|Sixty minutes in an hour.
+x|num|שבעים|shiv'im|seventy|סבא בן שבעים.|Grandpa is seventy.
+x|num|שמונים|shmonim|eighty|שמונים קילומטר.|Eighty kilometers.
+x|num|תשעים|tish'im|ninety|תשעים אחוז.|Ninety percent.
+x|num|מאתיים|matayim|two hundred|מאתיים שקל.|Two hundred shekels.
+x|num|מאות|me'ot|hundreds|שלוש מאות אנשים.|Three hundred people.
+x|num|אלף|elef|thousand|אלף שקל.|A thousand shekels.
+x|num|מיליון|milyon|million|מיליון אנשים.|A million people.
+x|num|מיליארד|milyard|billion|מיליארד דולר.|A billion dollars.
+x|num|שלושת / חמשת / שבעת|shloshet / khameshet / shiv'at|the three / the five / the seven (of)|שלושת הילדים בבית.|The three children are at home.
+x|num|ראשון / ראשונה|rishon / rishona|first (m / f)|זה היום הראשון שלי.|It's my first day.
+x|num|שני / שנייה|sheni / shniya|second (m / f)|זאת הפעם השנייה.|It's the second time.
+x|num|שלישי / שלישית|shlishi / shlishit|third (m / f)|הבית השלישי ברחוב.|The third house on the street.
+a|אחרון,אחרונה,אחרונים,אחרונות|akharon,akharona,akharonim,akharonot|last|זה השיעור האחרון.|This is the last lesson.
+n|חצי|khetsi|half|m|-|-|חצי עוגה.|Half a cake.
+n|אחוז|akhuz|percent|m|אחוזים|akhuzim|עשרה אחוז.|Ten percent.
+n|רוב|rov|majority, most|m|-|-|רוב האנשים בבית.|Most people are at home.
+n|כמות|kamut|amount, quantity|f|כמויות|kamuyot|זאת כמות גדולה.|That's a large amount.
+n|ממוצע|memutsa|average|m|ממוצעים|memutsa'im|הממוצע שלי טוב.|My average is good.
+n|מטר|meter|meter|m|מטרים|metrim|הבית במרחק מאה מטר.|The house is a hundred meters away.
+x|math|ועוד|ve'od|plus|שתיים ועוד שתיים.|Two plus two.
+x|math|מינוס|minus|minus|עשר מינוס שלוש.|Ten minus three.
+x|math|כפול|kaful|times (×)|שלוש כפול שלוש.|Three times three.
+x|math|חלקי|khelkey|divided by|עשר חלקי שתיים.|Ten divided by two.
+x|math|שווה|shave|equals; is worth|שתיים ועוד שתיים שווה ארבע.|Two plus two equals four.
+
+@unit 39|Express what could be
+a|יכול,יכולה,יכולים,יכולות|yakhol,yekhola,yekholim,yekholot|can, able to|אני יכול לעזור.|I can help.
+a|חייב,חייבת,חייבים,חייבות|khayav,khayevet,khayavim,khayavot|must, have to|אני חייב ללכת.|I have to go.
+a|אמור,אמורה,אמורים,אמורות|amur,amura,amurim,amurot|supposed to|הוא אמור להגיע עכשיו.|He's supposed to arrive now.
+a|עשוי,עשויה,עשויים,עשויות|asuy,asuya,asuyim,asuyot|likely to; made of|הוא עשוי לבוא.|He may come.
+a|מומלץ,מומלצת,מומלצים,מומלצות|mumlats,mumletset,mumlatsim,mumlatsot|recommended|המסעדה מומלצת.|The restaurant is recommended.
+x|modal|אפשר|efshar|it's possible; may I|אפשר מים, בבקשה?|Can I have water, please?
+x|modal|אסור|asur|forbidden, not allowed|אסור לעשן כאן.|Smoking is not allowed here.
+x|modal|מותר|mutar|allowed|מותר לשבת כאן?|Is it allowed to sit here?
+
+@unit 40|Talk about school
+n|אוניברסיטה|universita|university|f|אוניברסיטאות|universita'ot|אני לומד באוניברסיטה.|I study at the university.
+n|כיתה|kita|class, classroom; grade|f|כיתות|kitot|הכיתה גדולה.|The classroom is big.
+n|שיעור|shi'ur|lesson|m|שיעורים|shi'urim|השיעור מתחיל עכשיו.|The lesson is starting now.
+n|שיעורי בית|shi'urey bayit|homework (pl.)|m|-|-|יש לי הרבה שיעורי בית.|I have a lot of homework.
+n|מבחן|mivkhan|exam, test|m|מבחנים|mivkhanim|יש לי מבחן מחר.|I have an exam tomorrow.
+n|סטודנט|student|(university) student|m|סטודנטים|studentim|הוא סטודנט.|He's a student.
+n|מורה|more|teacher|m|מורים|morim|המורה שלי נחמדה.|My teacher is nice.
+n|מרצה|martse|lecturer|m|מרצים|martsim|המרצה מסביר טוב.|The lecturer explains well.
+n|פרופסור|profesor|professor|m|פרופסורים|profesorim|היא פרופסור.|She's a professor.
+n|הרצאה|hartsa'a|lecture|f|הרצאות|hartsa'ot|ההרצאה מעניינת.|The lecture is interesting.
+n|קורס|kurs|course|m|קורסים|kursim|אני לומד קורס עברית.|I'm taking a Hebrew course.
+n|תואר|to'ar|degree; title|m|תארים|te'arim|יש לה תואר בהיסטוריה.|She has a degree in history.
+n|דוקטורט|doktorat|doctorate, PhD|m|-|-|הוא כותב דוקטורט.|He's writing a doctorate.
+n|מכון|makhon|institute|m|מכונים|mekhonim|הוא עובד במכון.|He works at an institute.
+n|חינוך|khinukh|education|m|-|-|חינוך זה חשוב.|Education is important.
+n|לימודים|limudim|studies (pl.)|m|-|-|הלימודים מתחילים בספטמבר.|Studies start in September.
+n|היסטוריה|historya|history|f|-|-|אני אוהב היסטוריה.|I like history.
+n|מילה|mila|word|f|מילים|milim|מה המילה בעברית?|What's the word in Hebrew?
+n|משמעות|mashma'ut|meaning|f|משמעויות|mashma'uyot|מה המשמעות של המילה?|What's the meaning of the word?
+n|דוגמה|dugma|example|f|דוגמאות|dugma'ot|תן לי דוגמה.|Give me an example.
+n|הסבר|hesber|explanation|m|הסברים|hesberim|תודה על ההסבר.|Thanks for the explanation.
+n|רעיון|ra'ayon|idea|m|רעיונות|ra'ayonot|יש לי רעיון!|I have an idea!
+n|מטרה|matara|goal, objective|f|מטרות|matarot|מה המטרה שלך?|What's your goal?
+n|קושי|koshi|difficulty|m|קשיים|kshayim|יש לי קושי בעברית.|I have difficulty with Hebrew.
+n|הכנה|hakhana|preparation|f|הכנות|hakhanot|ההכנה למבחן קשה.|Preparing for the exam is hard.
+n|ידע|yeda|knowledge|m|-|-|ידע זה כוח.|Knowledge is power.
+n|עט|et|pen|m|עטים|etim|יש לך עט?|Do you have a pen?
+n|עיפרון|iparon|pencil|m|עפרונות|efronot|אני כותב בעיפרון.|I'm writing with a pencil.
+n|עמוד|amud|page; pillar|m|עמודים|amudim|תפתחו בעמוד עשר.|Open to page ten.
+n|פרק|perek|chapter; episode|m|פרקים|prakim|קראתי את הפרק הראשון.|I read the first chapter.
+n|פתק|petek|note (paper)|m|פתקים|ptakim|יש פתק על המקרר.|There's a note on the fridge.
+n|מסמך|mismakh|document|m|מסמכים|mismakhim|אני צריך את המסמך.|I need the document.
+n|מצגת|matseget|presentation|f|מצגות|matsagot|אני מכין מצגת.|I'm preparing a presentation.
+n|ציור|tsiyur|painting, drawing|m|ציורים|tsiyurim|זה ציור יפה.|That's a beautiful painting.
+n|תוכנית|tokhnit|plan; program; show|f|תוכניות|tokhniyot|מה התוכנית שלך?|What's your plan?
+v|ללמד|lelamed|ל-מ-ד|piel|מלמד,מלמדת,מלמדים,מלמדות|melamed,melamedet,melamdim,melamdot|to teach|היא מלמדת עברית.|She teaches Hebrew.
+v|לתרגל|letargel|ת-ר-ג-ל|piel|מתרגל,מתרגלת,מתרגלים,מתרגלות|metargel,metargelet,metargelim,metargelot|to practice|אני מתרגל כל יום.|I practice every day.
+
+@unit 41|Discuss travel
+n|טיול|tiyul|trip, hike|m|טיולים|tiyulim|הטיול היה מעולה.|The trip was great.
+n|חופשה|khufsha|vacation|f|חופשות|khufshot|אני בחופשה.|I'm on vacation.
+n|ביקור|bikur|visit|m|ביקורים|bikurim|תודה על הביקור.|Thanks for the visit.
+n|מסע|masa|journey|m|מסעות|masa'ot|זה מסע ארוך.|It's a long journey.
+n|הרפתקה|harpatka|adventure|f|הרפתקאות|harpatka'ot|זאת הרפתקה גדולה.|It's a big adventure.
+n|טיסה|tisa|flight|f|טיסות|tisot|הטיסה בשש בבוקר.|The flight is at six in the morning.
+n|מטוס|matos|airplane|m|מטוסים|metosim|המטוס גדול.|The plane is big.
+n|רכבת|rakevet|train|f|רכבות|rakavot|אני נוסע ברכבת.|I travel by train.
+n|רכבת תחתית|rakevet takhtit|subway, metro|f|רכבות תחתיות|rakavot takhtiyot|יש רכבת תחתית בעיר?|Is there a subway in the city?
+n|אוטובוס|otobus|bus|m|אוטובוסים|otobusim|האוטובוס מאחר.|The bus is late.
+n|מכונית|mekhonit|car|f|מכוניות|mekhoniyot|יש לי מכונית חדשה.|I have a new car.
+n|רכב|rekhev|vehicle|m|כלי רכב|kley rekhev|הרכב חונה ברחוב.|The vehicle is parked in the street.
+n|אופנוע|ofno'a|motorcycle|m|אופנועים|ofno'im|הוא נוסע על אופנוע.|He rides a motorcycle.
+n|אופניים|ofanayim|bicycle (pl.)|m|-|-|אני רוכב על אופניים.|I ride a bicycle.
+n|סירה|sira|boat|f|סירות|sirot|יש סירה על המים.|There's a boat on the water.
+n|ספינה|sfina|ship|f|ספינות|sfinot|הספינה בנמל.|The ship is in the port.
+n|תחבורה|takhbura|transportation|f|-|-|התחבורה הציבורית טובה.|Public transportation is good.
+n|תחנת אוטובוס|takhanat otobus|bus stop|f|תחנות אוטובוס|takhanot otobus|איפה תחנת האוטובוס?|Where is the bus stop?
+n|תחנת רכבת|takhanat rakevet|train station|f|תחנות רכבת|takhanot rakevet|תחנת הרכבת קרובה.|The train station is close.
+n|רציף|retsif|platform|m|רציפים|retsifim|הרכבת ברציף שלוש.|The train is on platform three.
+n|קו|kav|line|m|קווים|kavim|איזה קו נוסע למרכז?|Which line goes to the center?
+n|דלק|delek|fuel, gas|m|-|-|אין דלק במכונית.|There's no fuel in the car.
+n|דרכון|darkon|passport|m|דרכונים|darkonim|איפה הדרכון שלי?|Where is my passport?
+n|מזוודה|mizvada|suitcase|f|מזוודות|mizvadot|המזוודה כבדה.|The suitcase is heavy.
+n|תיק גב|tik gav|backpack|m|תיקי גב|tikey gav|יש לי תיק גב חדש.|I have a new backpack.
+n|תיק|tik|bag|m|תיקים|tikim|התיק שלי על הכיסא.|My bag is on the chair.
+n|מפה|mapa|map|f|מפות|mapot|יש לך מפה?|Do you have a map?
+n|מדריך|madrikh|guide|m|מדריכים|madrikhim|המדריך מסביר על העיר.|The guide explains about the city.
+n|תייר|tayar|tourist|m|תיירים|tayarim|יש הרבה תיירים בירושלים.|There are many tourists in Jerusalem.
+n|עולם|olam|world|m|עולמות|olamot|אני רוצה לטייל בעולם.|I want to travel the world.
+n|ארץ|erets|country, land|f|ארצות|aratsot|זאת ארץ יפה.|It's a beautiful country.
+n|יבשת|yabeshet|continent|f|יבשות|yabashot|אסיה היא יבשת גדולה.|Asia is a big continent.
+a|אירופאי,אירופאית,אירופאים,אירופאיות|eyropa'i,eyropa'it,eyropa'im,eyropa'iyot|European|זאת עיר אירופאית.|It's a European city.
+a|בינלאומי,בינלאומית,בינלאומיים,בינלאומיות|beynle'umi,beynle'umit,beynle'umiyim,beynle'umiyot|international|זה שדה תעופה בינלאומי.|It's an international airport.
+x|place|אירופה|eyropa|Europe|אני מאירופה.|I'm from Europe.
+x|place|אמריקה|amerika|America|הוא גר באמריקה.|He lives in America.
+x|place|ארצות הברית|artsot habrit|the United States|היא מארצות הברית.|She's from the United States.
+x|place|אנגליה|anglia|England|אני נוסע לאנגליה.|I'm traveling to England.
+x|place|גרמניה|germanya|Germany|אני מגרמניה.|I'm from Germany.
+x|place|צרפת|tsarfat|France|פריז בצרפת.|Paris is in France.
+x|place|ספרד|sfarad|Spain|בספרד חם.|It's hot in Spain.
+x|place|יוון|yavan|Greece|יוון קרובה לישראל.|Greece is close to Israel.
+x|place|רוסיה|rusya|Russia|רוסיה גדולה מאוד.|Russia is very big.
+x|place|סין|sin|China|יש הרבה אנשים בסין.|There are a lot of people in China.
+x|place|מצרים|mitsrayim|Egypt|מצרים בדרום.|Egypt is in the south.
+x|place|אסיה|asya|Asia|הוא מטייל באסיה.|He's traveling in Asia.
+x|place|אפריקה|afrika|Africa|אפריקה יבשת גדולה.|Africa is a big continent.
+x|place|אוסטרליה|ostralya|Australia|אוסטרליה רחוקה.|Australia is far away.
+x|place|המזרח התיכון|hamizrakh hatikhon|the Middle East|ישראל במזרח התיכון.|Israel is in the Middle East.
+x|place|הים התיכון|hayam hatikhon|the Mediterranean Sea|תל אביב על הים התיכון.|Tel Aviv is on the Mediterranean.
+x|adv|מסביב|misaviv|around|יש עצים מסביב לבית.|There are trees around the house.
+v|לנסוע|linso'a|נ-ס-ע|paal|נוסע,נוסעת,נוסעים,נוסעות|nose'a,nosa'at,nos'im,nos'ot|to travel, to go (by vehicle)|אני נוסע לתל אביב.|I'm going to Tel Aviv.
+v|לטוס|latus|ט-ו-ס|paal|טס,טסה,טסים,טסות|tas,tasa,tasim,tasot|to fly|אנחנו טסים מחר.|We're flying tomorrow.
+v|לטייל|letayel|ט-י-ל|piel|מטייל,מטיילת,מטיילים,מטיילות|metayel,metayelet,metaylim,metaylot|to travel, to hike, to walk around|אנחנו מטיילים בצפון.|We're traveling in the north.
+v|לנהוג|linhog|נ-ה-ג|paal|נוהג,נוהגת,נוהגים,נוהגות|noheg,noheget,nohagim,nohagot|to drive|הוא נוהג מהר מדי.|He drives too fast.
+
+@unit 42|Use verbs in the past
+x|past|הייתי|hayiti|I was|הייתי בבית.|I was at home.
+x|past|היית / היית|hayita / hayit|you were (m / f)|איפה היית?|Where were you?
+x|past|היה|haya|he / it was|היה חם אתמול.|It was hot yesterday.
+x|past|הייתה|hayta|she / it was|היא הייתה עייפה.|She was tired.
+x|past|היינו|hayinu|we were|היינו בים.|We were at the beach.
+x|past|הייתם / הייתן|hayitem / hayiten|you were (m pl / f pl)|הייתם בירושלים?|Were you in Jerusalem?
+x|past|היו|hayu|they were|הם היו שמחים.|They were happy.
+x|time|אי פעם|ey pa'am|ever|היית אי פעם בישראל?|Have you ever been to Israel?
+x|time|מעולם לא|me'olam lo|never (in the past)|מעולם לא הייתי שם.|I've never been there.
+x|time|מאז|me'az|since|אני גר כאן מאז הקיץ.|I've lived here since the summer.
+n|עבר|avar|past; past tense|m|-|-|זה בעבר.|That's in the past.
+v|לאבד|le'abed|א-ב-ד|piel|מאבד,מאבדת,מאבדים,מאבדות|me'abed,me'abedet,me'abdim,me'abdot|to lose|אני תמיד מאבד מפתחות.|I always lose keys.
+v|לבזבז|levazbez|ב-ז-ב-ז|piel|מבזבז,מבזבזת,מבזבזים,מבזבזות|mevazbez,mevazbezet,mevazbezim,mevazbezot|to waste|אתה מבזבז זמן.|You're wasting time.
+v|לבקש|levakesh|ב-ק-ש|piel|מבקש,מבקשת,מבקשים,מבקשות|mevakesh,mevakeshet,mevakshim,mevakshot|to ask for, to request|אני מבקש עזרה.|I'm asking for help.
+v|לגדול|ligdol|ג-ד-ל|paal|גדל,גדלה,גדלים,גדלות|gadel,gdela,gdelim,gdelot|to grow, to grow up|הילד גדל מהר.|The child is growing fast.
+v|לגנוב|lignov|ג-נ-ב|paal|גונב,גונבת,גונבים,גונבות|gonev,gonevet,gonvim,gonvot|to steal|החתול גונב דג.|The cat steals a fish.
+v|להגיע|lehagi'a|נ-ג-ע|hifil|מגיע,מגיעה,מגיעים,מגיעות|magi'a,magi'a,magi'im,magi'ot|to arrive|האוטובוס מגיע עכשיו.|The bus is arriving now.
+v|להזמין|lehazmin|ז-מ-ן|hifil|מזמין,מזמינה,מזמינים,מזמינות|mazmin,mazmina,mazminim,mazminot|to invite; to order|אני מזמין פיצה.|I'm ordering pizza.
+v|להחליט|lehakhlit|ח-ל-ט|hifil|מחליט,מחליטה,מחליטים,מחליטות|makhlit,makhlita,makhlitim,makhlitot|to decide|אני לא מחליט מהר.|I don't decide quickly.
+v|להכיר|lehakir|נ-כ-ר|hifil|מכיר,מכירה,מכירים,מכירות|makir,makira,makirim,makirot|to know (a person, a place), to meet|אתה מכיר אותה?|Do you know her?
+v|להראות|lehar'ot|ר-א-ה|hifil|מראה,מראה,מראים,מראות|mar'e,mar'a,mar'im,mar'ot|to show|אני מראה לך את העיר.|I'm showing you the city.
+v|לנסות|lenasot|נ-ס-ה|piel|מנסה,מנסה,מנסים,מנסות|menase,menasa,menasim,menasot|to try|אני מנסה לדבר עברית.|I'm trying to speak Hebrew.
+v|ליפול|lipol|נ-פ-ל|paal|נופל,נופלת,נופלים,נופלות|nofel,nofelet,noflim,noflot|to fall|הספר נופל מהשולחן.|The book falls off the table.
+v|לספר|lesaper|ס-פ-ר|piel|מספר,מספרת,מספרים,מספרות|mesaper,mesaperet,mesaprim,mesaprot|to tell (a story)|סבא מספר סיפור.|Grandpa tells a story.
+v|לעבור|la'avor|ע-ב-ר|paal|עובר,עוברת,עוברים,עוברות|over,overet,ovrim,ovrot|to pass, to cross; to move (house)|אנחנו עוברים דירה.|We're moving apartments.
+v|לקנא|lekane|ק-נ-א|piel|מקנא,מקנאה,מקנאים,מקנאות|mekane,mekana,mekan'im,mekan'ot|to be jealous|אני מקנא בך!|I'm jealous of you!
+v|לקפוץ|likfots|ק-פ-צ|paal|קופץ,קופצת,קופצים,קופצות|kofets,kofetset,koftsim,koftsot|to jump|הכלב קופץ על הספה.|The dog jumps on the sofa.
+v|לשקר|leshaker|ש-ק-ר|piel|משקר,משקרת,משקרים,משקרות|meshaker,meshakeret,meshakrim,meshakrot|to lie (tell lies)|אתה משקר!|You're lying!
