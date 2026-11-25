@@ -1,0 +1,159 @@
+@unit 43|Make comparisons
+x|comp|יותר … מ|yoter … mi|more … than|הוא יותר גבוה ממני.|He is taller than me.
+x|comp|פחות … מ|pakhot … mi|less … than|זה פחות יקר מזה.|This is less expensive than that.
+x|comp|הכי|hakhi|the most (spoken)|זה הספר הכי טוב.|This is the best book.
+x|comp|ביותר|beyoter|the most (formal, after the adjective)|זה הספר הטוב ביותר.|This is the best book.
+
+@unit 44|Refer to objects
+n|חפץ|khefets|object, item|m|חפצים|khafatsim|יש הרבה חפצים בחדר.|There are many objects in the room.
+n|טלפון|telefon|telephone|m|טלפונים|telefonim|הטלפון מצלצל.|The phone is ringing.
+n|טלפון נייד|telefon nayad|cellphone|m|טלפונים ניידים|telefonim nayadim|איפה הטלפון הנייד שלי?|Where's my cellphone?
+n|מחשב|makhshev|computer|m|מחשבים|makhshevim|אני עובד על המחשב.|I work on the computer.
+n|מסך|masakh|screen|m|מסכים|masakhim|המסך גדול.|The screen is big.
+n|טלוויזיה|televizya|television|f|טלוויזיות|televizyot|אנחנו רואים טלוויזיה.|We're watching TV.
+n|רדיו|radyo|radio|m|-|-|אני שומע רדיו באוטו.|I listen to the radio in the car.
+n|בטרייה|batariya|battery|f|בטריות|batariyot|הבטרייה ריקה.|The battery is empty.
+n|מכונה|mekhona|machine|f|מכונות|mekhonot|המכונה לא עובדת.|The machine doesn't work.
+n|מנוע|mano'a|engine, motor|m|מנועים|mano'im|המנוע חזק.|The engine is strong.
+n|גלגל|galgal|wheel|m|גלגלים|galgalim|לאופניים יש שני גלגלים.|A bicycle has two wheels.
+n|שעון|sha'on|clock; watch|m|שעונים|sha'onim|השעון על הקיר.|The clock is on the wall.
+n|שעון יד|sha'on yad|wristwatch|m|שעוני יד|she'oney yad|יש לי שעון יד חדש.|I have a new watch.
+n|ארנק|arnak|wallet, purse|m|ארנקים|arnakim|הכסף בארנק.|The money is in the wallet.
+n|מטרייה|mitriya|umbrella|f|מטריות|mitriyot|יורד גשם, קח מטרייה.|It's raining, take an umbrella.
+n|מכתב|mikhtav|letter (mail)|m|מכתבים|mikhtavim|יש לך מכתב.|You have a letter.
+n|נייר|neyar|paper|m|ניירות|neyarot|יש לך נייר?|Do you have paper?
+n|מגזין|magazin|magazine|m|מגזינים|magazinim|היא קוראת מגזין.|She's reading a magazine.
+n|רומן|roman|novel|m|רומנים|romanim|זה רומן ארוך.|It's a long novel.
+n|עלון|alon|flyer, leaflet|m|עלונים|alonim|יש עלון על השולחן.|There's a flyer on the table.
+n|מתנה|matana|gift, present|f|מתנות|matanot|זאת מתנה בשבילך.|This is a gift for you.
+n|קופסה|kufsa|box|f|קופסאות|kufsa'ot|מה יש בקופסה?|What's in the box?
+n|סל|sal|basket|m|סלים|salim|הפירות בסל.|The fruit is in the basket.
+n|קניות|kniyot|shopping (pl.)|f|-|-|אני הולך לעשות קניות.|I'm going shopping.
+n|מספריים|misparayim|scissors (pl.)|m|-|-|איפה המספריים?|Where are the scissors?
+n|מסרק|masrek|comb|m|מסרקים|masrekim|יש לך מסרק?|Do you have a comb?
+n|סבון|sabon|soap|m|סבונים|sabonim|אין סבון בשירותים.|There's no soap in the restroom.
+n|ספוג|sfog|sponge|m|ספוגים|sfogim|אני שוטף כלים עם ספוג.|I wash dishes with a sponge.
+n|ספל|sefel|mug|m|ספלים|sfalim|ספל קפה, בבקשה.|A mug of coffee, please.
+n|מחבת|makhvat|frying pan|f|מחבתות|makhvatot|אני מטגן ביצה במחבת.|I fry an egg in the pan.
+n|מצעים|matsa'im|bed sheets (pl.)|m|-|-|אני מחליף מצעים.|I'm changing the sheets.
+n|נר|ner|candle|m|נרות|nerot|אנחנו מדליקים נרות בשבת.|We light candles on Shabbat.
+n|שולחן עבודה|shulkhan avoda|desk|m|שולחנות עבודה|shulkhanot avoda|המחשב על שולחן העבודה.|The computer is on the desk.
+n|בריכה|brekha|swimming pool|f|בריכות|brekhot|הילדים בבריכה.|The children are in the pool.
+n|גדר|geder|fence|f|גדרות|gderot|יש גדר מסביב לגינה.|There's a fence around the garden.
+n|דגל|degel|flag|m|דגלים|dgalim|הדגל כחול ולבן.|The flag is blue and white.
+n|חתיכה|khatikha|piece|f|חתיכות|khatikhot|אפשר חתיכה של עוגה?|Can I have a piece of cake?
+n|אבקה|avka|powder|f|אבקות|avakot|זאת אבקה לבנה.|It's a white powder.
+n|עצם|etsem|bone; object|f|עצמות|atsamot|הכלב אוכל עצם.|The dog is eating a bone.
+n|שורש|shoresh|root|m|שורשים|shorashim|מה השורש של המילה?|What's the root of the word?
+
+@unit 45|Use complex verbs
+v|להשתמש|lehishtamesh|ש-מ-ש|hitpael|משתמש,משתמשת,משתמשים,משתמשות|mishtamesh,mishtameshet,mishtamshim,mishtamshot|to use|אני משתמש במחשב.|I use the computer.
+v|להתאושש|lehit'oshesh|א-ו-ש-ש|hitpael|מתאושש,מתאוששת,מתאוששים,מתאוששות|mit'oshesh,mit'oshesht,mit'osheshim,mit'osheshot|to recover|הוא מתאושש מהר.|He's recovering quickly.
+v|להתגלח|lehitgale'akh|ג-ל-ח|hitpael|מתגלח,מתגלחת,מתגלחים,מתגלחות|mitgale'akh,mitgalakhat,mitgalkhim,mitgalkhot|to shave (oneself)|אבא מתגלח בבוקר.|Dad shaves in the morning.
+v|להתעלם|lehit'alem|ע-ל-ם|hitpael|מתעלם,מתעלמת,מתעלמים,מתעלמות|mit'alem,mit'alemet,mit'almim,mit'almot|to ignore|למה אתה מתעלם ממני?|Why are you ignoring me?
+v|להתעמל|lehit'amel|ע-מ-ל|hitpael|מתעמל,מתעמלת,מתעמלים,מתעמלות|mit'amel,mit'amelet,mit'amlim,mit'amlot|to exercise, to work out|אני מתעמל כל בוקר.|I exercise every morning.
+
+@unit 46|Describe attributes
+a|אישי,אישית,אישיים,אישיות|ishi,ishit,ishiyim,ishiyot|personal|זאת שאלה אישית.|That's a personal question.
+a|בודד,בודדה,בודדים,בודדות|boded,bodeda,bodedim,bodedot|lonely; single, isolated|הוא מרגיש בודד.|He feels lonely.
+a|בטוח,בטוחה,בטוחים,בטוחות|batu'akh,btukha,btukhim,btukhot|sure; safe|אתה בטוח?|Are you sure?
+a|בריא,בריאה,בריאים,בריאות|bari,bri'a,bri'im,bri'ot|healthy|ירקות זה בריא.|Vegetables are healthy.
+a|גרוע,גרועה,גרועים,גרועות|garu'a,gru'a,gru'im,gru'ot|bad, poor (quality)|הסרט גרוע.|The movie is bad.
+a|דתי,דתייה,דתיים,דתיות|dati,datiya,datiyim,datiyot|religious|המשפחה שלו דתית.|His family is religious.
+a|היסטורי,היסטורית,היסטוריים,היסטוריות|histori,historit,historiyim,historiyot|historic, historical|זה בניין היסטורי.|It's a historic building.
+a|זמין,זמינה,זמינים,זמינות|zamin,zmina,zminim,zminot|available|אני זמין מחר.|I'm available tomorrow.
+a|חד,חדה,חדים,חדות|khad,khada,khadim,khadot|sharp|הסכין חדה.|The knife is sharp.
+a|חודשי,חודשית,חודשיים,חודשיות|khodshi,khodshit,khodshiyim,khodshiyot|monthly|זה תשלום חודשי.|It's a monthly payment.
+a|חוקי,חוקית,חוקיים,חוקיות|khuki,khukit,khukiyim,khukiyot|legal|זה לא חוקי.|That's not legal.
+a|חכם,חכמה,חכמים,חכמות|khakham,khakhama,khakhamim,khakhamot|smart, wise|היא חכמה מאוד.|She's very smart.
+a|טהור,טהורה,טהורים,טהורות|tahor,tehora,tehorim,tehorot|pure|המים טהורים.|The water is pure.
+a|טיפש,טיפשה,טיפשים,טיפשות|tipesh,tipsha,tipshim,tipshot|stupid, silly|זאת שאלה טיפשה.|That's a silly question.
+a|טרי,טרייה,טריים,טריות|tari,triya,triyim,triyot|fresh|הלחם טרי.|The bread is fresh.
+a|יומי,יומית,יומיים,יומיות|yomi,yomit,yomiyim,yomiyot|daily|זה עיתון יומי.|It's a daily newspaper.
+a|מדהים,מדהימה,מדהימים,מדהימות|mad'him,mad'hima,mad'himim,mad'himot|amazing|הנוף מדהים!|The view is amazing!
+a|מודרני,מודרנית,מודרניים,מודרניות|moderni,modernit,moderniyim,moderniyot|modern|זאת דירה מודרנית.|It's a modern apartment.
+a|מוזר,מוזרה,מוזרים,מוזרות|muzar,muzara,muzarim,muzarot|strange, weird|זה מוזר.|That's strange.
+a|מוכן,מוכנה,מוכנים,מוכנות|mukhan,mukhana,mukhanim,mukhanot|ready|אני מוכן!|I'm ready!
+a|מכוער,מכוערת,מכוערים,מכוערות|mekho'ar,mekho'eret,mekho'arim,mekho'arot|ugly|הבניין מכוער.|The building is ugly.
+a|מסורתי,מסורתית,מסורתיים,מסורתיות|masorti,masortit,masortiyim,masortiyot|traditional|זה אוכל מסורתי.|It's traditional food.
+a|מקומי,מקומית,מקומיים,מקומיות|mekomi,mekomit,mekomiyim,mekomiyot|local|אני קונה בחנות מקומית.|I buy at a local shop.
+a|מרשים,מרשימה,מרשימים,מרשימות|marshim,marshima,marshimim,marshimot|impressive|זה מרשים מאוד.|That's very impressive.
+a|מרתק,מרתקת,מרתקים,מרתקות|meratek,merateket,meratkim,meratkot|fascinating|הספר מרתק.|The book is fascinating.
+a|נדיר,נדירה,נדירים,נדירות|nadir,nedira,nedirim,nedirot|rare|זאת ציפור נדירה.|It's a rare bird.
+a|נפלא,נפלאה,נפלאים,נפלאות|nifla,nifla'a,nifla'im,nifla'ot|wonderful|היה ערב נפלא.|It was a wonderful evening.
+a|סופי,סופית,סופיים,סופיות|sofi,sofit,sofiyim,sofiyot|final|זאת התשובה הסופית.|That's the final answer.
+a|עולמי,עולמית,עולמיים,עולמיות|olami,olamit,olamiyim,olamiyot|global, world-|זאת בעיה עולמית.|It's a global problem.
+a|עמוק,עמוקה,עמוקים,עמוקות|amok,amuka,amukim,amukot|deep|הבריכה עמוקה.|The pool is deep.
+a|עתיק,עתיקה,עתיקים,עתיקות|atik,atika,atikim,atikot|ancient, antique|זאת עיר עתיקה.|It's an ancient city.
+a|פופולרי,פופולרית,פופולריים,פופולריות|populari,popularit,populariyim,populariyot|popular|השיר פופולרי.|The song is popular.
+a|צר,צרה,צרים,צרות|tsar,tsara,tsarim,tsarot|narrow|הרחוב צר.|The street is narrow.
+a|רחב,רחבה,רחבים,רחבות|rakhav,rekhava,rekhavim,rekhavot|wide|הכביש רחב.|The road is wide.
+a|ראשי,ראשית,ראשיים,ראשיות|rashi,rashit,rashiyim,rashiyot|main, chief|זה הרחוב הראשי.|This is the main street.
+a|רשמי,רשמית,רשמיים,רשמיות|rishmi,rishmit,rishmiyim,rishmiyot|official|זה מכתב רשמי.|It's an official letter.
+a|שבועי,שבועית,שבועיים,שבועיות|shvu'i,shvu'it,shvu'iyim,shvu'iyot|weekly|יש פגישה שבועית.|There's a weekly meeting.
+a|שנתי,שנתית,שנתיים,שנתיות|shnati,shnatit,shnatiyim,shnatiyot|annual|זה כנס שנתי.|It's an annual conference.
+a|שלם,שלמה,שלמים,שלמות|shalem,shlema,shlemim,shlemot|whole, complete|אכלתי עוגה שלמה!|I ate a whole cake!
+a|תרבותי,תרבותית,תרבותיים,תרבותיות|tarbuti,tarbutit,tarbutiyim,tarbutiyot|cultural|זה מרכז תרבותי.|It's a cultural center.
+a|ימני,ימנית,ימניים,ימניות|yemani,yemanit,yemaniyim,yemaniyot|right-handed; right-wing|הוא ימני.|He's right-handed.
+a|שמאלי,שמאלית,שמאליים,שמאליות|smali,smalit,smaliyim,smaliyot|left-handed; left-wing|היא שמאלית.|She's left-handed.
+a|מטומטם,מטומטמת,מטומטמים,מטומטמות|metumtam,metumtemet,metumtamim,metumtamot|stupid (rude)|זה רעיון מטומטם.|That's a stupid idea.
+
+@unit 47|Form abstract concepts
+n|בעיה|be'aya|problem|f|בעיות|be'ayot|אין בעיה!|No problem!
+n|אפשרות|efsharut|possibility, option|f|אפשרויות|efsharuyot|יש עוד אפשרות.|There's another option.
+n|ברירה|brera|choice|f|ברירות|brerot|אין לי ברירה.|I have no choice.
+n|החלטה|hakhlata|decision|f|החלטות|hakhlatot|זאת החלטה קשה.|It's a hard decision.
+n|הזדמנות|hizdamnut|opportunity, chance|f|הזדמנויות|hizdamnuyot|זאת הזדמנות טובה.|It's a good opportunity.
+n|הצלחה|hatslakha|success|f|הצלחות|hatslakhot|ההצגה הייתה הצלחה.|The show was a success.
+n|כישלון|kishalon|failure|m|כישלונות|kishlonot|זה לא כישלון.|It's not a failure.
+n|התחלה|hatkhala|beginning|f|התחלות|hatkhalot|זאת רק ההתחלה.|It's only the beginning.
+n|סוף|sof|end|m|-|-|זה הסוף של הסרט.|It's the end of the movie.
+n|הסכם|heskem|agreement|m|הסכמים|heskemim|יש לנו הסכם.|We have an agreement.
+n|הגנה|hagana|defense, protection|f|-|-|הקרם נותן הגנה מהשמש.|The cream gives protection from the sun.
+n|הקדמה|hakdama|introduction|f|הקדמות|hakdamot|קראתי את ההקדמה.|I read the introduction.
+n|השפעה|hashpa'a|influence|f|השפעות|hashpa'ot|יש לו השפעה גדולה.|He has a big influence.
+n|השקפה|hashkafa|outlook, view|f|השקפות|hashkafot|יש לנו השקפות שונות.|We have different views.
+n|חושך|khoshekh|darkness|m|-|-|אני מפחד מהחושך.|I'm afraid of the dark.
+n|חלופה|khalufa|alternative|f|חלופות|khalufot|אין חלופה.|There's no alternative.
+n|חלק|khelek|part|m|חלקים|khalakim|זה חלק מהעבודה.|It's part of the job.
+n|חשבון|kheshbon|bill; account; math|m|חשבונות|kheshbonot|אפשר את החשבון?|Can I have the bill?
+n|ייצור|yitsur|production, manufacturing|m|-|-|הייצור בסין.|The production is in China.
+n|יציאה|yetsi'a|exit|f|יציאות|yetsi'ot|איפה היציאה?|Where's the exit?
+n|כוונה|kavana|intention|f|כוונות|kavanot|זאת לא הייתה הכוונה שלי.|That wasn't my intention.
+n|מנוחה|menukha|rest|f|-|-|אני צריך מנוחה.|I need rest.
+n|מערכת|ma'arekhet|system|f|מערכות|ma'arakhot|המערכת לא עובדת.|The system isn't working.
+n|מצב|matsav|situation, state|m|מצבים|matsavim|מה המצב?|How's it going? (what's the situation)
+n|מקרה|mikre|case, incident|m|מקרים|mikrim|במקרה הזה, כן.|In this case, yes.
+n|משאלה|mish'ala|wish|f|משאלות|mish'alot|יש לי משאלה.|I have a wish.
+n|משבר|mashber|crisis|m|משברים|mashberim|יש משבר בעבודה.|There's a crisis at work.
+n|נושא|nose|topic, subject|m|נושאים|nos'im|זה נושא מעניין.|It's an interesting topic.
+n|סוג|sug|kind, type|m|סוגים|sugim|איזה סוג מוזיקה אתה אוהב?|What kind of music do you like?
+n|עיצוב|itsuv|design|m|עיצובים|itsuvim|העיצוב יפה.|The design is beautiful.
+n|עניין|inyan|matter; interest|m|עניינים|inyanim|זה לא העניין שלך.|That's none of your business.
+n|ערך|erekh|value; entry|m|ערכים|arakhim|יש לזה ערך גדול.|It has great value.
+n|פקודה|pkuda|order, command|f|פקודות|pkudot|זאת פקודה!|That's an order!
+n|פרופיל|profil|profile|m|פרופילים|profilim|תעדכן את הפרופיל.|Update the profile.
+n|פרס|pras|prize, award|m|פרסים|prasim|היא קיבלה פרס.|She received a prize.
+n|צד|tsad|side|m|צדדים|tsdadim|באיזה צד אתה?|Which side are you on?
+n|ציוד|tsiyud|equipment|m|-|-|יש לנו את כל הציוד.|We have all the equipment.
+n|ציון|tsiyun|grade, mark|m|ציונים|tsiyunim|קיבלתי ציון טוב.|I got a good grade.
+n|קבוצה|kvutsa|group; team|f|קבוצות|kvutsot|הקבוצה שלנו ניצחה.|Our team won.
+n|קול|kol|voice; sound|m|קולות|kolot|יש לה קול יפה.|She has a beautiful voice.
+n|קטגוריה|kategorya|category|f|קטגוריות|kategoryot|באיזו קטגוריה?|In which category?
+n|רמה|rama|level|f|רמות|ramot|מה הרמה שלך בעברית?|What's your level in Hebrew?
+n|רעש|ra'ash|noise|m|רעשים|re'ashim|יש פה הרבה רעש.|There's a lot of noise here.
+n|רשימה|reshima|list|f|רשימות|reshimot|יש לי רשימת קניות.|I have a shopping list.
+n|שיא|si|record; peak|m|שיאים|si'im|זה שיא עולמי!|It's a world record!
+n|שיחה|sikha|conversation; call|f|שיחות|sikhot|הייתה לנו שיחה טובה.|We had a good conversation.
+n|שינוי|shinuy|change|m|שינויים|shinuyim|אני צריך שינוי.|I need a change.
+n|שירות|sherut|service|m|שירותים|sherutim|השירות במסעדה טוב.|The service in the restaurant is good.
+n|שליטה|shlita|control|f|-|-|הכל בשליטה.|Everything is under control.
+n|תגובה|tguva|response, reaction; comment|f|תגובות|tguvot|מה התגובה שלו?|What's his reaction?
+n|תוכן|tokhen|content|m|תכנים|tkhanim|התוכן מעניין.|The content is interesting.
+n|תוצאה|totsa'a|result|f|תוצאות|totsa'ot|מה התוצאה?|What's the result?
+n|תור|tor|turn; queue, line|m|תורים|torim|יש תור ארוך.|There's a long line.
+n|תיאור|te'ur|description|m|תיאורים|te'urim|זה תיאור טוב.|That's a good description.
+n|תמונה|tmuna|picture, photo|f|תמונות|tmunot|זאת תמונה יפה.|That's a beautiful picture.
+n|תפקיד|tafkid|role, job, position|m|תפקידים|tafkidim|מה התפקיד שלך?|What's your role?
+n|תקווה|tikva|hope|f|תקוות|tikvot|יש תקווה.|There's hope.
+n|ביצועים|bitsu'im|performance (pl.)|m|-|-|הביצועים של המחשב טובים.|The computer's performance is good.

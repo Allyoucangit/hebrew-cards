@@ -1,0 +1,125 @@
+@unit 48|Use commands
+x|imp|בוא / בואי|bo / bo'i|come! (to m / f)|בוא הנה!|Come here!
+x|imp|שב / שבי|shev / shvi|sit! (m / f)|שב, בבקשה.|Sit down, please.
+x|imp|חכה / חכי|khake / khaki|wait! (m / f)|חכה רגע!|Wait a moment!
+x|imp|תן / תני|ten / tni|give! (m / f)|תן לי את המפתח.|Give me the key.
+x|imp|קח / קחי|kakh / kkhi|take! (m / f)|קח את התיק.|Take the bag.
+x|imp|לך / לכי|lekh / lekhi|go! (m / f)|לך הביתה.|Go home.
+x|imp|צא / צאי|tse / tse'i|go out! get out! (m / f)|צא מפה!|Get out of here!
+x|imp|עצור / עצרי|atsor / itsri|stop! (m / f)|עצור את המכונית!|Stop the car!
+x|imp|רוץ / רוצי|ruts / rutsi|run! (m / f)|רוץ מהר!|Run fast!
+x|imp|שים / שימי|sim / simi|put! (m / f)|שים את זה על השולחן.|Put it on the table.
+x|imp|פתח / פתחי|ptakh / pitkhi|open! (m / f)|פתח את הדלת.|Open the door.
+x|imp|נסה / נסי|nase / nasi|try! (m / f)|נסה שוב!|Try again!
+x|imp|עשה / עשי|ase / asi|do! (m / f)|עשה מה שאתה רוצה.|Do what you want.
+x|imp|דבר / דברי|daber / dabri|speak! (m / f)|דבר לאט, בבקשה.|Speak slowly, please.
+x|imp|תראה / תראי|tir'e / tir'i|look! (m / f, spoken)|תראה את הים!|Look at the sea!
+x|imp|הקשב / הקשיבי|hakshev / hakshivi|listen! (m / f)|הקשב למורה.|Listen to the teacher.
+x|imp|שמור / שמרי|shmor / shimri|keep! save! (m / f)|שמור על עצמך.|Take care of yourself.
+x|imp|תתחיל / תתחילי|tatkhil / tatkhili|start! (m / f, spoken)|תתחיל עכשיו.|Start now.
+x|imp|תעזור / תעזרי|ta'azor / ta'azri|help! (m / f, spoken)|תעזור לי, בבקשה.|Help me, please.
+x|note|ציווי בעברית מדוברת|tsivuy be'ivrit medubeset|Spoken Hebrew usually uses the future form as a command: תשב, תבוא, תיקח|תבוא מחר!|Come tomorrow!
+v|לברך|levarekh|ב-ר-כ|piel|מברך,מברכת,מברכים,מברכות|mevarekh,mevarekhet,mevarkhim,mevarkhot|to bless; to congratulate|אני מברך אותך ליום ההולדת.|I congratulate you on your birthday.
+v|להחזיר|lehakhzir|ח-ז-ר|hifil|מחזיר,מחזירה,מחזירים,מחזירות|makhzir,makhzira,makhzirim,makhzirot|to return (something), to give back|אני מחזיר את הספר לספרייה.|I'm returning the book to the library.
+v|להחליף|lehakhlif|ח-ל-ף|hifil|מחליף,מחליפה,מחליפים,מחליפות|makhlif,makhlifa,makhlifim,makhlifot|to change, to exchange, to replace|אני מחליף בגדים.|I'm changing clothes.
+v|להסתכל|lehistakel|ס-כ-ל|hitpael|מסתכל,מסתכלת,מסתכלים,מסתכלות|mistakel,mistakelet,mistaklim,mistaklot|to look (at)|הוא מסתכל על הים.|He's looking at the sea.
+v|להסתפר|lehistaper|ס-פ-ר|hitpael|מסתפר,מסתפרת,מסתפרים,מסתפרות|mistaper,mistaperet,mistaprim,mistaprot|to get a haircut|אני מסתפר כל חודש.|I get a haircut every month.
+v|להצטרף|lehitstaref|צ-ר-ף|hitpael|מצטרף,מצטרפת,מצטרפים,מצטרפות|mitstaref,mitstarefet,mitstarfim,mitstarfot|to join|אתה מצטרף אלינו?|Are you joining us?
+v|להתחבא|lehitkhabe|ח-ב-א|hitpael|מתחבא,מתחבאת,מתחבאים,מתחבאות|mitkhabe,mitkhabet,mitkhab'im,mitkhab'ot|to hide (oneself)|החתול מתחבא מתחת למיטה.|The cat is hiding under the bed.
+v|להתחבר|lehitkhaber|ח-ב-ר|hitpael|מתחבר,מתחברת,מתחברים,מתחברות|mitkhaber,mitkhaberet,mitkhabrim,mitkhabrot|to connect; to log in|אני מתחבר לאינטרנט.|I'm connecting to the internet.
+v|להתכונן|lehitkonen|כ-ו-ן|hitpael|מתכונן,מתכוננת,מתכוננים,מתכוננות|mitkonen,mitkonenet,mitkonenim,mitkonenot|to get ready, to prepare|אני מתכונן למבחן.|I'm preparing for the exam.
+v|להתפלל|lehitpalel|פ-ל-ל|hitpael|מתפלל,מתפללת,מתפללים,מתפללות|mitpalel,mitpalelet,mitpalelim,mitpalelot|to pray|הוא מתפלל בבית הכנסת.|He prays in the synagogue.
+v|להתקלח|lehitkale'akh|ק-ל-ח|hitpael|מתקלח,מתקלחת,מתקלחים,מתקלחות|mitkale'akh,mitkalakhat,mitkalkhim,mitkalkhot|to shower|אני מתקלח בבוקר.|I shower in the morning.
+v|להתקרב|lehitkarev|ק-ר-ב|hitpael|מתקרב,מתקרבת,מתקרבים,מתקרבות|mitkarev,mitkarevet,mitkarvim,mitkarvot|to come closer, to approach|החורף מתקרב.|Winter is approaching.
+v|לחפש|lekhapes|ח-פ-ש|piel|מחפש,מחפשת,מחפשים,מחפשות|mekhapes,mekhapeset,mekhapsim,mekhapsot|to look for|אני מחפש את המפתח.|I'm looking for the key.
+v|לסמן|lesamen|ס-מ-ן|piel|מסמן,מסמנת,מסמנים,מסמנות|mesamen,mesamenet,mesamnim,mesamnot|to mark|אני מסמן את התשובה.|I'm marking the answer.
+v|לצלם|letsalem|צ-ל-ם|piel|מצלם,מצלמת,מצלמים,מצלמות|metsalem,metsalemet,metsalmim,metsalmot|to photograph|היא מצלמת את הים.|She's photographing the sea.
+v|לצפות|litspot|צ-פ-ה|paal|צופה,צופה,צופים,צופות|tsofe,tsofa,tsofim,tsofot|to watch|אנחנו צופים בסרט.|We're watching a movie.
+v|לרחם|lerakhem|ר-ח-ם|piel|מרחם,מרחמת,מרחמים,מרחמות|merakhem,merakhemet,merakhamim,merakhamot|to pity, to have mercy|אני מרחם עליו.|I feel sorry for him.
+v|לשבת|lashevet|י-ש-ב|paal|יושב,יושבת,יושבים,יושבות|yoshev,yoshevet,yoshvim,yoshvot|to sit|אני יושב על הכיסא.|I'm sitting on the chair.
+v|לשלוח|lishlo'akh|ש-ל-ח|paal|שולח,שולחת,שולחים,שולחות|shole'akh,sholakhat,sholkhim,sholkhot|to send|אני שולח לך הודעה.|I'm sending you a message.
+
+@unit 49|Talk about languages
+n|שפה|safa|language; lip|f|שפות|safot|כמה שפות אתה מדבר?|How many languages do you speak?
+n|מילון|milon|dictionary|m|מילונים|milonim|אני מחפש במילון.|I'm looking it up in the dictionary.
+n|אות|ot|letter (of the alphabet)|f|אותיות|otiyot|יש עשרים ושתיים אותיות.|There are twenty-two letters.
+n|משפט|mishpat|sentence; trial|m|משפטים|mishpatim|תכתוב משפט בעברית.|Write a sentence in Hebrew.
+n|פסקה|piska|paragraph|f|פסקאות|piska'ot|תקרא את הפסקה.|Read the paragraph.
+n|נקודה|nekuda|period, dot, point|f|נקודות|nekudot|יש נקודה בסוף המשפט.|There's a period at the end of the sentence.
+n|פסיק|psik|comma|m|פסיקים|psikim|שים פסיק כאן.|Put a comma here.
+n|שם עצם|shem etsem|noun|m|שמות עצם|shmot etsem|"ספר" הוא שם עצם.|"Book" is a noun.
+n|שם תואר|shem to'ar|adjective|m|שמות תואר|shmot to'ar|"גדול" הוא שם תואר.|"Big" is an adjective.
+n|פועל|po'al|verb|m|פעלים|pe'alim|"לאכול" הוא פועל.|"To eat" is a verb.
+n|דובר|dover|speaker (of a language)|m|דוברים|dovrim|הוא דובר עברית.|He's a Hebrew speaker.
+n|בלשן|balshan|linguist|m|בלשנים|balshanim|היא בלשנית.|She's a linguist.
+n|בלשנות|balshanut|linguistics|f|-|-|אני לומד בלשנות.|I study linguistics.
+x|lang|ערבית|aravit|Arabic|הוא מדבר ערבית.|He speaks Arabic.
+x|lang|רוסית|rusit|Russian|סבתא מדברת רוסית.|Grandma speaks Russian.
+x|lang|צרפתית|tsarfatit|French|אני לומד צרפתית.|I'm learning French.
+x|lang|ספרדית|sfaradit|Spanish|היא מדברת ספרדית.|She speaks Spanish.
+x|lang|גרמנית|germanit|German|אני מדבר גרמנית.|I speak German.
+x|lang|איטלקית|italkit|Italian|איטלקית שפה יפה.|Italian is a beautiful language.
+x|lang|יידיש|yidish|Yiddish|סבא מדבר יידיש.|Grandpa speaks Yiddish.
+x|lang|סינית|sinit|Chinese|סינית קשה.|Chinese is hard.
+x|lang|יפנית|yapanit|Japanese|הוא לומד יפנית.|He's learning Japanese.
+x|lang|יוונית|yevanit|Greek|אני לא מבין יוונית.|I don't understand Greek.
+x|lang|פורטוגזית|portugezit|Portuguese|היא מדברת פורטוגזית.|She speaks Portuguese.
+x|lang|הולנדית|holandit|Dutch|הולנדית דומה לגרמנית.|Dutch is similar to German.
+x|lang|פולנית|polanit|Polish|סבתא שלי מדברת פולנית.|My grandma speaks Polish.
+
+@unit 50|Describe emergencies
+x|phrase|הצילו!|hatsilu|help! (emergency)|הצילו! יש שריפה!|Help! There's a fire!
+x|phrase|זהירות!|zehirut|careful! watch out!|זהירות, הרצפה רטובה!|Careful, the floor is wet!
+n|עזרה|ezra|help|f|-|-|אני צריך עזרה.|I need help.
+n|עזרה ראשונה|ezra rishona|first aid|f|-|-|יש לך ערכת עזרה ראשונה?|Do you have a first-aid kit?
+n|מקרה חירום|mikre kherum|emergency|m|מקרי חירום|mikrey kherum|זה מקרה חירום!|It's an emergency!
+n|תאונה|te'una|accident|f|תאונות|te'unot|הייתה תאונה בכביש.|There was an accident on the road.
+n|שריפה|srefa|fire (blaze)|f|שריפות|srefot|יש שריפה ביער.|There's a fire in the forest.
+n|פיצוץ|pitsuts|explosion|m|פיצוצים|pitsutsim|שמעתי פיצוץ.|I heard an explosion.
+n|אזעקה|az'aka|siren, alarm|f|אזעקות|az'akot|יש אזעקה, הולכים למקלט!|There's a siren, we're going to the shelter!
+n|כבאי|kaba'i|firefighter|m|כבאים|kaba'im|הכבאים כאן.|The firefighters are here.
+n|חובש|khovesh|medic, paramedic|m|חובשים|khovshim|החובש עוזר לפצוע.|The medic helps the injured man.
+n|חילוץ|khilluts|rescue|m|חילוצים|khilutsim|זה חילוץ מסובך.|It's a complicated rescue.
+n|החייאה|hakhya'a|CPR, resuscitation|f|-|-|הוא עושה החייאה.|He's doing CPR.
+x|name|מגן דוד אדום|magen david adom|Magen David Adom (Israeli ambulance service, 101)|תתקשר למגן דוד אדום!|Call Magen David Adom!
+a|מסוכן,מסוכנת,מסוכנים,מסוכנות|mesukan,mesukenet,mesukanim,mesukanot|dangerous|הכביש מסוכן.|The road is dangerous.
+a|פצוע,פצועה,פצועים,פצועות|patsu'a,ptsu'a,ptsu'im,ptsu'ot|injured, wounded|הוא פצוע ברגל.|He's injured in the leg.
+a|לכוד,לכודה,לכודים,לכודות|lakhud,lekhuda,lekhudim,lekhudot|trapped|החתול לכוד על העץ.|The cat is trapped in the tree.
+
+@unit 51|Use the future tense
+x|future|אהיה|ehye|I will be|מחר אהיה בבית.|Tomorrow I'll be at home.
+x|future|תהיה / תהיי|tihye / tihyi|you will be (m / f)|תהיה בשקט!|Be quiet!
+x|future|יהיה|yihye|he / it will be|מחר יהיה חם.|Tomorrow it will be hot.
+x|future|תהיה (היא)|tihye|she / it (f) will be|היא תהיה שמחה.|She'll be happy.
+x|future|נהיה|nihye|we will be|נהיה שם בשמונה.|We'll be there at eight.
+x|future|תהיו|tihyu|you (pl.) will be|תהיו בשקט!|Be quiet! (pl.)
+x|future|יהיו|yihyu|they will be|הם יהיו בחופשה.|They'll be on vacation.
+x|phrase|יהיה בסדר|yihye beseder|it'll be fine|אל תדאג, יהיה בסדר.|Don't worry, it'll be fine.
+n|עתיד|atid|future; future tense|m|-|-|מה יהיה בעתיד?|What will happen in the future?
+x|time|לעולם לא|le'olam lo|never (in the future)|לעולם לא אשכח.|I will never forget.
+v|לאשר|le'asher|א-ש-ר|piel|מאשר,מאשרת,מאשרים,מאשרות|me'asher,me'asheret,me'ashrim,me'ashrot|to approve, to confirm|הבוס מאשר את החופשה.|The boss approves the vacation.
+v|לבחור|livkhor|ב-ח-ר|paal|בוחר,בוחרת,בוחרים,בוחרות|bokher,bokheret,bokhrim,bokhrot|to choose|אני בוחר את הכחול.|I choose the blue one.
+v|להזכיר|lehazkir|ז-כ-ר|hifil|מזכיר,מזכירה,מזכירים,מזכירות|mazkir,mazkira,mazkirim,mazkirot|to remind|זה מזכיר לי את סבתא.|This reminds me of grandma.
+v|להשתנות|lehishtanot|ש-נ-ה|hitpael|משתנה,משתנה,משתנים,משתנות|mishtane,mishtana,mishtanim,mishtanot|to change (oneself)|מזג האוויר משתנה.|The weather is changing.
+
+@unit 52|Form passive phrases
+a|אהוב,אהובה,אהובים,אהובות|ahuv,ahuva,ahuvim,ahuvot|beloved, favorite|זה הספר האהוב עליי.|This is my favorite book.
+a|ידוע,ידועה,ידועים,ידועות|yadu'a,yedu'a,yedu'im,yedu'ot|known, well-known|זה סופר ידוע.|He's a well-known writer.
+a|כתוב,כתובה,כתובים,כתובות|katuv,ktuva,ktuvim,ktuvot|written|מה כתוב כאן?|What's written here?
+a|שבור,שבורה,שבורים,שבורות|shavur,shvura,shvurim,shvurot|broken|הכוס שבורה.|The glass is broken.
+a|קשור,קשורה,קשורים,קשורות|kashur,kshura,kshurim,kshurot|connected, related; tied|זה לא קשור.|That's not related.
+a|צפוי,צפויה,צפויים,צפויות|tsafuy,tsfuya,tsfuyim,tsfuyot|expected|מחר צפוי גשם.|Rain is expected tomorrow.
+a|רצוי,רצויה,רצויים,רצויות|ratsuy,rtsuya,rtsuyim,rtsuyot|desirable, preferable|רצוי להגיע מוקדם.|It's best to arrive early.
+a|מבושל,מבושלת,מבושלים,מבושלות|mevushal,mevushelet,mevushalim,mevushalot|cooked|הירקות מבושלים.|The vegetables are cooked.
+a|מוגבל,מוגבלת,מוגבלים,מוגבלות|mugbal,mugbelet,mugbalim,mugbalot|limited|הזמן מוגבל.|Time is limited.
+a|מודאג,מודאגת,מודאגים,מודאגות|mud'ag,mud'eget,mud'agim,mud'agot|worried|אמא מודאגת.|Mom is worried.
+a|מוזמן,מוזמנת,מוזמנים,מוזמנות|muzman,muzmenet,muzmanim,muzmanot|invited; welcome (to do)|אתה מוזמן לבוא.|You're welcome to come.
+a|מוחלט,מוחלטת,מוחלטים,מוחלטות|mukhlat,mukhletet,mukhlatim,mukhlatot|absolute|זה שקט מוחלט.|It's absolute silence.
+a|מוצלח,מוצלחת,מוצלחים,מוצלחות|mutslakh,mutslakhat,mutslakhim,mutslakhot|successful, good|זה היה ערב מוצלח.|It was a great evening.
+a|מורכב,מורכבת,מורכבים,מורכבות|murkav,murkevet,murkavim,murkavot|complex; made up of|זה מצב מורכב.|It's a complex situation.
+a|מסודר,מסודרת,מסודרים,מסודרות|mesudar,mesuderet,mesudarim,mesudarot|tidy, organized|החדר מסודר.|The room is tidy.
+a|מקובל,מקובלת,מקובלים,מקובלות|mekubal,mekubelet,mekubalim,mekubalot|accepted, customary|זה מקובל בישראל.|That's customary in Israel.
+a|משוכנע,משוכנעת,משוכנעים,משוכנעות|meshukhna,meshukhna'at,meshukhna'im,meshukhna'ot|convinced|אני לא משוכנע.|I'm not convinced.
+a|משותף,משותפת,משותפים,משותפות|meshutaf,meshutefet,meshutafim,meshutafot|shared, common|יש לנו חבר משותף.|We have a mutual friend.
+x|adv|מובן|muvan|understood; of course|מובן!|Understood!
+x|phrase|מדובר ב|medubar be|it's about, we're talking about|מדובר בבעיה קטנה.|We're talking about a small problem.

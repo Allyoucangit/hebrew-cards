@@ -58,8 +58,9 @@ for (const file of readdirSync(srcDir).filter((f) => f.endsWith('.txt')).sort())
       }
       if (unit == null) throw new Error('entry before any @unit line');
       if (!item.he || !item.en || !item.ex || !item.exEn) throw new Error('missing field');
+      // Same spelling, different word (e.g. פועל po'el "worker" / po'al "verb"): later ones get #2, #3 …
       item.id = `${item.type}:${item.he}`;
-      if (ids.has(item.id)) throw new Error(`duplicate id ${item.id}`);
+      for (let k = 2; ids.has(item.id); k++) item.id = `${item.type}:${item.he}#${k}`;
       ids.add(item.id);
       item.unit = unit;
       item.source = 'duolingo';
