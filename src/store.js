@@ -8,6 +8,7 @@ const scheduler = fsrs(generatorParameters({ enable_fuzz: true, request_retentio
 
 const DEFAULT_SETTINGS = {
   newPerDay: 30,
+  duolingoUnit: 31, // words unlock up to this Duolingo unit
   answerMode: 'mix', // mix | choice | typing | self
   autoplay: true,
   speechRate: 1,

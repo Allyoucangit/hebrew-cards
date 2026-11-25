@@ -1,0 +1,215 @@
+@unit 75|Discuss sport
+n|ספורט|sport|sport(s)|m|-|-|אני עושה ספורט כל יום.|I do sports every day.
+n|כדור|kadur|ball|m|כדורים|kadurim|הילד זורק את הכדור.|The boy throws the ball.
+n|כדורגל|kaduregel|soccer, football|m|-|-|אנחנו משחקים כדורגל.|We play soccer.
+n|כדורסל|kadursal|basketball|m|-|-|הוא משחק כדורסל.|He plays basketball.
+n|כדורעף|kadur'af|volleyball|m|-|-|משחקים כדורעף בחוף.|We play volleyball on the beach.
+n|טניס|tenis|tennis|m|-|-|היא משחקת טניס.|She plays tennis.
+n|שחייה|skhiya|swimming|f|-|-|שחייה זה ספורט טוב.|Swimming is a good sport.
+n|משחק|miskhak|game, match|m|משחקים|miskhakim|המשחק מתחיל בשמונה.|The game starts at eight.
+n|קבוצת כדורגל|kvutsat kaduregel|soccer team|f|קבוצות כדורגל|kvutsot kaduregel|איזו קבוצת כדורגל אתה אוהד?|Which soccer team do you support?
+n|אוהד|ohed|fan, supporter|m|אוהדים|ohadim|האוהדים שרים.|The fans are singing.
+n|מאמן|me'amen|coach, trainer|m|מאמנים|me'amnim|המאמן כועס.|The coach is angry.
+n|אתלט|atlet|athlete|m|אתלטים|atletim|הוא אתלט מצוין.|He's an excellent athlete.
+n|אלוף|aluf|champion|m|אלופים|alufim|הם האלופים!|They're the champions!
+n|אליפות|alifut|championship|f|אליפויות|alifuyot|הם ניצחו באליפות.|They won the championship.
+n|תחרות|takharut|competition|f|תחרויות|takharuyot|יש תחרות מחר.|There's a competition tomorrow.
+n|ליגה|liga|league|f|ליגות|ligot|הקבוצה בליגה הראשונה.|The team is in the first league.
+n|גביע|gavi'a|cup, trophy|m|גביעים|gvi'im|הם זכו בגביע.|They won the cup.
+n|מדליה|medalya|medal|f|מדליות|medalyot|היא זכתה במדליה.|She won a medal.
+n|אולימפיאדה|olimpiyada|Olympics|f|אולימפיאדות|olimpiyadot|הוא השתתף באולימפיאדה.|He took part in the Olympics.
+n|איצטדיון|itstadyon|stadium|m|איצטדיונים|itstadyonim|האיצטדיון מלא.|The stadium is full.
+n|מגרש|migrash|field, court, pitch|m|מגרשים|migrashim|הילדים במגרש.|The kids are on the field.
+n|מכון כושר|makhon kosher|gym|m|מכוני כושר|makhoney kosher|אני הולך למכון כושר.|I'm going to the gym.
+n|כושר|kosher|fitness|m|-|-|אני בכושר טוב.|I'm in good shape.
+n|מרתון|maraton|marathon|m|מרתונים|maratonim|הוא רץ מרתון.|He runs a marathon.
+n|שוער|sho'er|goalkeeper|m|שוערים|sho'arim|השוער תפס את הכדור.|The goalkeeper caught the ball.
+n|חלוץ|khaluts|striker; pioneer|m|חלוצים|khalutsim|החלוץ הבקיע.|The striker scored.
+n|פנדל|pendel|penalty kick|m|פנדלים|pendelim|יש פנדל!|It's a penalty!
+n|תיקו|teyku|draw, tie (game)|m|-|-|המשחק נגמר בתיקו.|The game ended in a draw.
+n|התקפה|hatkafa|attack, offense|f|התקפות|hatkafot|הקבוצה בהתקפה.|The team is on the attack.
+n|צעד|tsa'ad|step|m|צעדים|tse'adim|צעד אחד קדימה.|One step forward.
+n|מחבט|makhbet|racket, bat|m|מחבטים|makhbetim|יש לך מחבט טניס?|Do you have a tennis racket?
+v|להבקיע|lehavki'a|ב-ק-ע|hifil|מבקיע,מבקיעה,מבקיעים,מבקיעות|mavki'a,mavki'a,mavki'im,mavki'ot|to score (a goal)|הוא מבקיע בכל משחק.|He scores in every game.
+
+@unit 76|Argue about politics
+n|ממשלה|memshala|government|f|ממשלות|memshalot|הממשלה החליטה.|The government decided.
+n|בחירות|bkhirot|elections (pl.)|f|-|-|הבחירות בחודש הבא.|The elections are next month.
+n|נשיא|nasi|president|m|נשיאים|nesi'im|הנשיא נואם.|The president is giving a speech.
+n|מנהיג|manhig|leader|m|מנהיגים|manhigim|הוא מנהיג חזק.|He's a strong leader.
+n|מועמד|mu'amad|candidate|m|מועמדים|mu'amadim|יש שלושה מועמדים.|There are three candidates.
+n|ראש עיר|rosh ir|mayor|m|ראשי ערים|rashey arim|ראש העיר פתח את הפארק.|The mayor opened the park.
+n|הכנסת|haknesset|the Knesset (Israeli parliament)|f|-|-|הכנסת בירושלים.|The Knesset is in Jerusalem.
+n|פרלמנט|parlament|parliament|m|פרלמנטים|parlamentim|הפרלמנט מצביע היום.|Parliament votes today.
+n|חוק|khok|law|m|חוקים|khukim|זה נגד החוק.|That's against the law.
+n|זכות|zkhut|right (legal); privilege|f|זכויות|zkhuyot|זאת הזכות שלי.|It's my right.
+n|חופש|khofesh|freedom; vacation|m|-|-|חופש הדיבור חשוב.|Freedom of speech is important.
+n|מלחמה|milkhama|war|f|מלחמות|milkhamot|אף אחד לא רוצה מלחמה.|Nobody wants war.
+n|ביטחון|bitakhon|security; confidence|m|-|-|יש לו ביטחון עצמי.|He has self-confidence.
+n|בטיחות|betikhut|safety|f|-|-|בטיחות קודם כל.|Safety first.
+n|כלכלה|kalkala|economy; economics|f|-|-|הכלכלה חזקה.|The economy is strong.
+n|מס|mas|tax|m|מסים|misim|אני משלם הרבה מסים.|I pay a lot of taxes.
+n|מדיניות|mediniyut|policy|f|-|-|זאת המדיניות של החברה.|That's the company's policy.
+n|אסטרטגיה|strategya|strategy|f|אסטרטגיות|strategyot|מה האסטרטגיה?|What's the strategy?
+n|נאום|ne'um|speech|m|נאומים|ne'umim|זה היה נאום טוב.|It was a good speech.
+n|עימות|imut|debate; confrontation|m|עימותים|imutim|יש עימות בטלוויזיה.|There's a debate on TV.
+n|קמפיין|kampeyn|campaign|m|קמפיינים|kampeynim|הקמפיין מתחיל.|The campaign is starting.
+n|המלצה|hamlatsa|recommendation|f|המלצות|hamlatsot|יש לך המלצה?|Do you have a recommendation?
+n|שביתה|shvita|strike|f|שביתות|shvitot|יש שביתה ברכבת.|There's a train strike.
+n|פשע|pesha|crime|m|פשעים|psha'im|זה פשע.|That's a crime.
+n|אלימות|alimut|violence|f|-|-|אין מקום לאלימות.|There's no place for violence.
+n|איום|iyum|threat|m|איומים|iyumim|זה איום?|Is that a threat?
+n|אשמה|ashma|blame, fault|f|-|-|זאת לא האשמה שלי.|It's not my fault.
+n|שחיתות|skhitut|corruption|f|-|-|יש שחיתות בממשלה.|There's corruption in the government.
+n|שוחד|shokhad|bribe|m|-|-|הוא לקח שוחד.|He took a bribe.
+n|מעצר|ma'atsar|arrest, detention|m|-|-|הוא במעצר.|He's under arrest.
+n|עושר|osher|wealth|m|-|-|עושר זה לא הכל.|Wealth isn't everything.
+n|שר|sar|minister (government)|m|שרים|sarim|השר מדבר בכנסת.|The minister speaks in the Knesset.
+n|משרד החוץ|misrad hakhuts|Ministry of Foreign Affairs|m|-|-|הוא עובד במשרד החוץ.|He works at the Foreign Ministry.
+n|משרד האוצר|misrad ha'otsar|Ministry of Finance|m|-|-|משרד האוצר אחראי על התקציב.|The Finance Ministry is responsible for the budget.
+
+@unit 77|Make poetic descriptions
+n|חתלתול|khataltul|kitten|m|חתלתולים|khataltulim|החתלתול קטן ומתוק.|The kitten is small and sweet.
+n|כלבלב|klavlav|puppy|m|כלבלבים|klavlavim|יש לנו כלבלב חדש.|We have a new puppy.
+n|ידית|yadit|handle|f|ידיות|yadiyot|הידית של הדלת שבורה.|The door handle is broken.
+n|שקית|sakit|(plastic) bag|f|שקיות|sakiyot|אפשר שקית?|Can I have a bag?
+n|קשית|kashit|drinking straw|f|קשיות|kashiyot|אפשר קשית?|Can I have a straw?
+n|מחשבון|makhshevon|calculator|m|מחשבונים|makhshevonim|אני צריך מחשבון.|I need a calculator.
+n|מגבון|magvon|wet wipe|m|מגבונים|magvonim|יש לך מגבון?|Do you have a wipe?
+n|מגבת|magevet|towel|f|מגבות|magavot|איפה המגבת?|Where's the towel?
+n|צלוחית|tslokhit|saucer, small dish|f|צלוחיות|tslokhiyot|הספל על הצלוחית.|The mug is on the saucer.
+n|ספרון|sifron|booklet|m|ספרונים|sifronim|יש ספרון הסבר בקופסה.|There's an instruction booklet in the box.
+a|אדמדם,אדמדמה,אדמדמים,אדמדמות|adamdam,adamdama,adamdamim,adamdamot|reddish|השמיים אדמדמים בשקיעה.|The sky is reddish at sunset.
+a|ירקרק,ירקרקה,ירקרקים,ירקרקות|yerakrak,yerakraka,yerakrakim,yerakrakot|greenish|המים ירקרקים.|The water is greenish.
+a|כחלחל,כחלחלה,כחלחלים,כחלחלות|kekhalkhal,kekhalkhala,kekhalkhalim,kekhalkhalot|bluish|האור כחלחל.|The light is bluish.
+
+@unit 78|Tell fairy tales
+n|אגדה|agada|legend, fairy tale|f|אגדות|agadot|סבתא מספרת אגדה.|Grandma tells a fairy tale.
+n|מלכה|malka|queen|f|מלכות|melakhot|המלכה יושבת בארמון.|The queen sits in the palace.
+n|נסיך|nasikh|prince|m|נסיכים|nesikhim|הנסיך רוכב על סוס.|The prince rides a horse.
+n|נסיכה|nesikha|princess|f|נסיכות|nesikhot|הנסיכה גרה בטירה.|The princess lives in a castle.
+n|אביר|abir|knight|m|אבירים|abirim|האביר אמיץ.|The knight is brave.
+n|גיבור|gibor|hero|m|גיבורים|giborim|אתה הגיבור שלי!|You're my hero!
+n|גיבור על|gibor al|superhero|m|גיבורי על|giborey al|הילד רוצה להיות גיבור על.|The boy wants to be a superhero.
+n|דרקון|drakon|dragon|m|דרקונים|drakonim|הדרקון שומר על האוצר.|The dragon guards the treasure.
+n|מפלצת|mifletset|monster|f|מפלצות|miflatsot|אין מפלצת מתחת למיטה.|There's no monster under the bed.
+n|ערפד|arpad|vampire|m|ערפדים|arpadim|הערפד יוצא בלילה.|The vampire comes out at night.
+n|איש זאב|ish ze'ev|werewolf|m|אנשי זאב|anshey ze'ev|האיש זאב מופיע בירח מלא.|The werewolf appears at full moon.
+n|יצור|yetsur|creature|m|יצורים|yetsurim|זה יצור מוזר.|It's a strange creature.
+n|קסם|kesem|magic|m|קסמים|ksamim|הוא עושה קסמים.|He does magic tricks.
+n|כישוף|kishuf|spell, witchcraft|m|כישופים|kishufim|זה כישוף!|It's a spell!
+n|קללה|klala|curse|f|קללות|klalot|יש קללה על הטירה.|There's a curse on the castle.
+n|שיקוי|shikuy|potion|m|שיקויים|shikuyim|המכשפה מכינה שיקוי.|The witch is preparing a potion.
+n|שרביט|sharvit|wand, scepter|m|שרביטים|sharvitim|יש לה שרביט קסמים.|She has a magic wand.
+n|חומה|khoma|wall (city/fortress)|f|חומות|khomot|יש חומה מסביב לעיר העתיקה.|There's a wall around the Old City.
+n|חרב|kherev|sword|f|חרבות|kharavot|לאביר יש חרב.|The knight has a sword.
+n|חץ|khets|arrow|m|חיצים|khitsim|החץ פגע במטרה.|The arrow hit the target.
+n|מגן|magen|shield|m|מגינים|maginim|האביר מחזיק מגן.|The knight holds a shield.
+n|שריון|shiryon|armor|m|-|-|האביר לובש שריון.|The knight wears armor.
+n|קסדה|kasda|helmet|f|קסדות|kasdot|תשים קסדה על האופניים.|Wear a helmet on the bike.
+n|משרת|mesharet|servant|m|משרתים|meshartim|המשרת מביא את האוכל.|The servant brings the food.
+
+@unit 80|Use formal language
+x|formal|אדוני|adoni|sir|סליחה, אדוני.|Excuse me, sir.
+x|formal|גברתי|gvirti|madam, ma'am|תודה, גברתי.|Thank you, ma'am.
+x|formal|אנא / נא|ana / na|please (formal, written)|נא לא לעשן.|Please do not smoke.
+x|formal|אנו|anu|we (formal)|אנו מודים לכם.|We thank you.
+x|formal|אשר|asher|who, which (formal = ש)|האיש אשר עומד שם.|The man who is standing there.
+x|formal|הבה|hava|let us|הבה נתחיל.|Let us begin.
+x|formal|היכן|heykhan|where (formal = איפה)|היכן התחנה?|Where is the station?
+x|formal|כיצד|keytsad|how (formal = איך)|כיצד אפשר לעזור?|How can we help?
+x|formal|מדוע|madu'a|why (formal = למה)|מדוע אתה כאן?|Why are you here?
+x|formal|מאין|me'ayin|from where (formal = מאיפה)|מאין באת?|Where did you come from?
+x|formal|עתה|ata|now (formal = עכשיו)|עתה נתחיל.|Now we'll begin.
+x|formal|אינו / אינה|eyno / eyna|is not (formal = לא)|הוא אינו בבית.|He is not at home.
+
+@unit 81|Talk business
+n|כסף|kesef|money; silver|m|-|-|אין לי כסף.|I have no money.
+n|שקל|shekel|shekel|m|שקלים|shkalim|זה עולה עשרה שקלים.|It costs ten shekels.
+n|דולר|dolar|dollar|m|דולרים|dolarim|מאה דולר.|A hundred dollars.
+n|אירו|yuro|euro|m|-|-|זה עולה עשרים אירו.|It costs twenty euros.
+n|מזומן|mezuman|cash|m|-|-|אפשר לשלם במזומן?|Can I pay in cash?
+n|מטבע|matbe'a|coin; currency|m|מטבעות|matbe'ot|יש לי מטבעות בכיס.|I have coins in my pocket.
+n|עודף|odef|change (money)|m|-|-|הנה העודף.|Here's the change.
+n|כרטיס|kartis|ticket; card|m|כרטיסים|kartisim|יש לי שני כרטיסים לסרט.|I have two tickets for the movie.
+n|כרטיס אשראי|kartis ashray|credit card|m|כרטיסי אשראי|kartisey ashray|אפשר לשלם בכרטיס אשראי?|Can I pay by credit card?
+n|מחיר|mekhir|price|m|מחירים|mekhirim|מה המחיר?|What's the price?
+n|משכורת|maskoret|salary|f|משכורות|maskorot|המשכורת נכנסת בעשירי.|The salary comes in on the tenth.
+n|חוב|khov|debt|m|חובות|khovot|יש לו חובות.|He has debts.
+n|חברה|khevra|company; society|f|חברות|khavarot|היא עובדת בחברה גדולה.|She works at a big company.
+n|ארגון|irgun|organization|m|ארגונים|irgunim|זה ארגון בינלאומי.|It's an international organization.
+n|עסקים|asakim|business (pl.)|m|-|-|הוא איש עסקים.|He's a businessman.
+n|עסקה|iska|deal|f|עסקאות|iska'ot|זאת עסקה טובה.|That's a good deal.
+n|חוזה|khoze|contract|m|חוזים|khozim|תחתום על החוזה.|Sign the contract.
+n|פגישה|pgisha|meeting; appointment|f|פגישות|pgishot|יש לי פגישה בעשר.|I have a meeting at ten.
+n|ראיון|re'ayon|interview|m|ראיונות|re'ayonot|יש לי ראיון עבודה.|I have a job interview.
+n|מנהל|menahel|manager, director|m|מנהלים|menahalim|המנהל בפגישה.|The manager is in a meeting.
+n|סוכן|sokhen|agent|m|סוכנים|sokhnim|הוא סוכן נדל"ן.|He's a real estate agent.
+n|מוצר|mutsar|product|m|מוצרים|mutsarim|זה מוצר חדש.|It's a new product.
+n|מותג|mutag|brand|m|מותגים|mutagim|איזה מותג זה?|Which brand is it?
+n|פרסומת|pirsomet|advertisement|f|פרסומות|pirsomot|יש יותר מדי פרסומות.|There are too many ads.
+n|פרסום|pirsum|advertising; publication|m|-|-|הוא עובד בפרסום.|He works in advertising.
+n|קידום|kidum|promotion; advancement|m|-|-|הוא קיבל קידום.|He got a promotion.
+n|השקעה|hashka'a|investment|f|השקעות|hashka'ot|זאת השקעה טובה.|It's a good investment.
+n|סיכון|sikun|risk|m|סיכונים|sikunim|זה סיכון גדול.|It's a big risk.
+n|ביטוח|bitu'akh|insurance|m|ביטוחים|bitukhim|יש לך ביטוח?|Do you have insurance?
+n|תקציב|taktsiv|budget|m|תקציבים|taktsivim|מה התקציב?|What's the budget?
+n|תעשייה|ta'asiya|industry|f|תעשיות|ta'asiyot|תעשיית ההייטק בישראל גדולה.|The high-tech industry in Israel is big.
+n|שווי|shovi|value, worth|m|-|-|מה השווי של הבית?|What's the value of the house?
+n|זהב|zahav|gold|m|-|-|זאת טבעת זהב.|It's a gold ring.
+
+@unit 82|Describe outer space
+n|אסטרונאוט|astrona'ut|astronaut|m|אסטרונאוטים|astrona'utim|האסטרונאוט בחלל.|The astronaut is in space.
+n|חללית|khalalit|spaceship|f|חלליות|khalaliyot|החללית טסה לירח.|The spaceship flies to the moon.
+n|לוויין|lavyan|satellite|m|לוויינים|lavyanim|הלוויין מסביב לכדור הארץ.|The satellite orbits the Earth.
+n|גלקסיה|galaksya|galaxy|f|גלקסיות|galaksyot|יש מיליארדי גלקסיות.|There are billions of galaxies.
+n|שביל החלב|shvil hakhalav|the Milky Way|m|-|-|אנחנו בשביל החלב.|We're in the Milky Way.
+n|מטאור|mete'or|meteor|m|מטאורים|mete'orim|ראיתי מטאור בשמיים.|I saw a meteor in the sky.
+n|מכתש|makhtesh|crater|m|מכתשים|makhteshim|מכתש רמון בנגב.|The Ramon Crater is in the Negev.
+n|ליקוי|likuy|eclipse|m|ליקויים|likuyim|יש ליקוי ירח הלילה.|There's a lunar eclipse tonight.
+n|שיגור|shigur|launch|m|שיגורים|shigurim|השיגור מחר.|The launch is tomorrow.
+x|space|מאדים|ma'adim|Mars|מאדים אדום.|Mars is red.
+x|space|צדק|tsedek|Jupiter|צדק הוא כוכב לכת ענק.|Jupiter is a giant planet.
+x|space|שבתאי|shabtay|Saturn|לשבתאי יש טבעות.|Saturn has rings.
+x|space|חמה|khama|the sun (poetic)|ליקוי חמה.|Solar eclipse.
+
+@unit 83|Talk about festivals
+n|חג|khag|holiday, festival|m|חגים|khagim|חג שמח!|Happy holiday!
+v|לחגוג|lakhgog|ח-ג-ג|paal|חוגג,חוגגת,חוגגים,חוגגות|khogeg,khogeget,khogegim,khogegot|to celebrate|אנחנו חוגגים יום הולדת.|We're celebrating a birthday.
+n|צום|tsom|fast (not eating)|m|צומות|tsomot|צום קל!|Have an easy fast!
+x|festival|ראש השנה|rosh hashana|Rosh Hashanah (New Year)|בראש השנה אוכלים תפוח בדבש.|On Rosh Hashanah we eat apple with honey.
+x|festival|יום כיפור|yom kipur|Yom Kippur|ביום כיפור צמים.|On Yom Kippur people fast.
+x|festival|סוכות|sukot|Sukkot|בסוכות יושבים בסוכה.|On Sukkot we sit in the sukkah.
+n|סוכה|suka|sukkah (hut)|f|סוכות|sukot|אנחנו בונים סוכה.|We're building a sukkah.
+x|festival|שמחת תורה|simkhat tora|Simchat Torah|בשמחת תורה רוקדים.|On Simchat Torah people dance.
+x|festival|חנוכה|khanuka|Hanukkah|בחנוכה מדליקים נרות.|On Hanukkah we light candles.
+n|חנוכייה|khanukiya|Hanukkah menorah|f|חנוכיות|khanukiyot|החנוכייה על החלון.|The menorah is on the window.
+x|festival|ט"ו בשבט|tu bishvat|Tu BiShvat (trees' New Year)|בט"ו בשבט שותלים עצים.|On Tu BiShvat we plant trees.
+x|festival|פורים|purim|Purim|בפורים מתחפשים.|On Purim people dress up.
+n|משלוח מנות|mishlo'akh manot|Purim food gifts|m|-|-|אנחנו מכינים משלוח מנות.|We're preparing Purim food gifts.
+x|festival|פסח|pesakh|Passover|בפסח אוכלים מצות.|On Passover we eat matzah.
+x|festival|ליל הסדר|leyl haseder|the Passover Seder night|כל המשפחה בליל הסדר.|The whole family is at the Seder.
+n|מצה|matsa|matzah|f|מצות|matsot|אני אוהב מצה עם חמאה.|I like matzah with butter.
+x|festival|יציאת מצרים|yetsi'at mitsrayim|the Exodus from Egypt|בפסח מספרים על יציאת מצרים.|On Passover we tell about the Exodus.
+x|festival|שבועות|shavu'ot|Shavuot|בשבועות אוכלים גבינות.|On Shavuot we eat cheese.
+x|festival|תשעה באב|tish'a be'av|Tisha B'Av (day of mourning)|תשעה באב הוא יום צום.|Tisha B'Av is a fast day.
+
+@unit 84|Describe Israel
+x|place|חיפה|kheyfa|Haifa|חיפה על הכרמל.|Haifa is on Mount Carmel.
+x|place|טבריה|tveriya|Tiberias|טבריה ליד הכנרת.|Tiberias is by the Sea of Galilee.
+x|place|קיסריה|keysarya|Caesarea|יש עתיקות בקיסריה.|There are antiquities in Caesarea.
+x|place|מצדה|metsada|Masada|עולים למצדה בבוקר.|We climb Masada in the morning.
+x|festival|יום העצמאות|yom ha'atsma'ut|Independence Day|ביום העצמאות עושים על האש.|On Independence Day we barbecue.
+n|קיבוץ|kibuts|kibbutz|m|קיבוצים|kibutsim|הוא גדל בקיבוץ.|He grew up on a kibbutz.
+n|עלייה|aliya|immigration to Israel; climb|f|-|-|הם עשו עלייה לפני שנה.|They immigrated to Israel a year ago.
+n|צבר|tsabar|native-born Israeli; prickly pear|m|צברים|tsabarim|היא צברית.|She's a native Israeli.
+n|בלגן|balagan|mess, chaos|m|-|-|איזה בלגן בחדר!|What a mess in the room!
+n|חומוס|khumus|hummus|m|-|-|אני אוכל חומוס עם פיתה.|I eat hummus with pita.
+n|פיתה|pita|pita bread|f|פיתות|pitot|פיתה עם פלאפל, בבקשה.|A pita with falafel, please.
+n|פלאפל|falafel|falafel|m|-|-|הפלאפל טעים פה.|The falafel is tasty here.
+n|שקשוקה|shakshuka|shakshuka (eggs in tomato sauce)|f|-|-|אבא מכין שקשוקה.|Dad makes shakshuka.
+n|במבה|bamba|Bamba (peanut snack)|f|-|-|הילדים אוכלים במבה.|The kids are eating Bamba.
+n|ביסלי|bisli|Bisli (salty snack)|m|-|-|אני אוהב ביסלי.|I like Bisli.
+n|עגבניית שרי|agvaniyat sheri|cherry tomato|f|עגבניות שרי|agvaniyot sheri|יש עגבניות שרי בסלט.|There are cherry tomatoes in the salad.
+n|על האש|al ha'esh|barbecue|m|-|-|בשבת עושים על האש.|On Saturday we barbecue.
+n|מטקות|matkot|matkot (beach paddle ball)|f|-|-|משחקים מטקות בחוף.|We play matkot on the beach.

@@ -77,10 +77,16 @@ export function dueCards(now = new Date(), filter = CATEGORY.all.match) {
     .map((x) => x.c);
 }
 
+/** Words are available up to the learner's current Duolingo unit; everyday extras always. */
+export const EXTRAS_UNIT = 100;
+export const isAvailable = (item) => item.unit === EXTRAS_UNIT || item.unit <= (settings().duolingoUnit || 31);
+// Extras are introduced after the present-tense basics (unit 16), not at the very end.
+const introOrder = (item) => (item.unit === EXTRAS_UNIT ? 16.5 : item.unit);
+
 export function newCardsAvailable(filter = CATEGORY.all.match) {
   return cards
-    .filter((c) => filter(c) && !isStarted(c.id) && unlocked(c))
-    .sort((a, b) => a.item.unit - b.item.unit || a.rank - b.rank || a.item.index - b.item.index);
+    .filter((c) => filter(c) && isAvailable(c.item) && !isStarted(c.id) && unlocked(c))
+    .sort((a, b) => introOrder(a.item) - introOrder(b.item) || a.rank - b.rank || a.item.index - b.item.index);
 }
 
 export const newLeftToday = () => Math.max(0, settings().newPerDay - dayStats().new);

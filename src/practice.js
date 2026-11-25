@@ -1,5 +1,5 @@
 // Practice session: picks cards, renders exercises, grades answers.
-import { items, dueCards, newCardsAvailable, newLeftToday, CATEGORY } from './deck.js';
+import { items, dueCards, newCardsAvailable, newLeftToday, CATEGORY, isAvailable } from './deck.js';
 import { getCard, review, preview, settings, Rating, audioFlags, toggleAudioFlag } from './store.js';
 import { check, alternatives, PERSONS, PRESENT_PRONOUNS, FORM_LABELS } from './hebrew.js';
 import { speak, stop } from './audio.js';
@@ -41,7 +41,7 @@ function distractors(correct, pool, n = 3) {
 }
 
 function similarItems(it) {
-  const same = items.filter((x) => x !== it && x.type === it.type);
+  const same = items.filter((x) => x !== it && x.type === it.type && isAvailable(x));
   const near = same.filter((x) => Math.abs(x.unit - it.unit) <= 6);
   return near.length >= 6 ? near : same;
 }
@@ -139,7 +139,7 @@ function buildQuestion(card) {
     const n = Number(k[1]);
     const g = n === 1 || n === 3 ? 'f' : 'm';
     const plural = n >= 2;
-    const nouns = items.filter((x) => x.type === 'n' && x.g === g && (!plural || x.pl) && !/\(pl\.\)/.test(x.en) && x.unit <= Math.max(it.unit, 12));
+    const nouns = items.filter((x) => x.type === 'n' && x.g === g && (!plural || x.pl) && !/\(pl\.\)/.test(x.en) && isAvailable(x) && x.unit <= Math.max(it.unit, 12));
     const noun = pick(nouns);
     const nounForm = plural ? noun.pl : noun.he;
     const phrase = `${nounForm} ${it.forms[n]}`;

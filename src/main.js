@@ -1,5 +1,5 @@
 import './style.css';
-import { loadDeck, units, items, cards, dueCards, newCardsAvailable, newLeftToday, itemStatus, weakItems, CATEGORY } from './deck.js';
+import { loadDeck, units, items, cards, dueCards, newCardsAvailable, newLeftToday, itemStatus, weakItems, CATEGORY, isAvailable, EXTRAS_UNIT } from './deck.js';
 import { settings, updateSettings, dayStats, allDays, exportBackup, importBackup, resetProgress, isStarted, audioFlags, toggleAudioFlag } from './store.js';
 import { initAudio, speak, hasAnyHebrewAudio } from './audio.js';
 import { startSession, infoBlock, V, handleFlagClick } from './practice.js';
@@ -40,8 +40,10 @@ function home() {
   const newToday = Math.min(newLeftToday(), newCardsAvailable().length);
   const t = dayStats();
   const statusCount = { new: 0, learning: 0, good: 0, known: 0 };
-  items.forEach((it) => statusCount[itemStatus(it)]++);
-  const started = cards.filter((c) => isStarted(c.id)).length;
+  const myItems = items.filter(isAvailable);
+  myItems.forEach((it) => statusCount[itemStatus(it)]++);
+  const myCards = cards.filter((c) => isAvailable(c.item));
+  const started = myCards.filter((c) => isStarted(c.id)).length;
   const days = Object.entries(allDays()).sort().slice(-14);
   const maxR = Math.max(10, ...days.map(([, d]) => d.reviews));
   const weak = weakItems(8);
@@ -77,7 +79,7 @@ function home() {
       <div class="legend">${['known', 'good', 'learning', 'new']
         .map((s) => `<span><i class="dot s-${s}"></i>${STATUS_LABEL[s]} ${statusCount[s]}</span>`)
         .join('')}</div>
-      <p class="muted small">${items.length} words from Duolingo units 1–31 · ${started} of ${cards.length} practice cards started</p>
+      <p class="muted small">${myItems.length} words (Duolingo units 1–${settings().duolingoUnit} + everyday extras) · ${started} of ${myCards.length} practice cards started</p>
     </section>
     ${
       days.length
@@ -110,7 +112,7 @@ function practice(category) {
 
 // ------------------------------------------------------------------ Words
 
-let wordFilter = { q: '', type: 'all' };
+let wordFilter = { q: '', type: 'all', upcoming: false };
 
 function words() {
   shell(`
@@ -130,6 +132,7 @@ function words() {
           .join('')}
       </select>
     </div>
+    <label class="check small muted"><input type="checkbox" id="upcoming" ${wordFilter.upcoming ? 'checked' : ''}> Also show units you haven't reached in Duolingo yet</label>
     <div id="wordlist"></div>`);
   const renderList = () => {
     const q = wordFilter.q.trim().toLowerCase();
@@ -140,7 +143,10 @@ function words() {
       .map((u) => {
         const list = items.filter((it) => it.unit === u.unit && match(it));
         if (!list.length) return '';
-        return `<section class="card unit"><h3>Unit ${u.unit} · ${esc(u.title)}</h3><ul class="list">${list
+        const locked = !isAvailable({ unit: u.unit });
+        if (locked && !wordFilter.upcoming) return '';
+        const head = u.unit === EXTRAS_UNIT ? 'Everyday extras' : `Unit ${u.unit} · ${esc(u.title)}`;
+        return `<section class="card unit ${locked ? 'locked' : ''}"><h3>${head}${locked ? ' <span class="tag">coming up</span>' : ''}</h3><ul class="list">${list
           .map(
             (it) => `<li data-item="${esc(it.id)}"><i class="dot s-${itemStatus(it)}" title="${STATUS_LABEL[itemStatus(it)]}"></i>${he(it.he)}<span>${esc(it.en)}</span>
               <button class="say mini" data-say="${esc(V.he(it))}" aria-label="Play">🔊</button></li>`,
@@ -152,6 +158,10 @@ function words() {
   renderList();
   app.querySelector('#q').oninput = (e) => {
     wordFilter.q = e.target.value;
+    renderList();
+  };
+  app.querySelector('#upcoming').onchange = (e) => {
+    wordFilter.upcoming = e.target.checked;
     renderList();
   };
   app.querySelector('#type').onchange = (e) => {
@@ -188,6 +198,8 @@ function settingsView() {
   shell(`
     <header class="page-head"><h1>Settings</h1></header>
     <section class="card form">
+      <label>My Duolingo unit <input type="number" min="1" max="84" id="duolingoUnit" value="${s.duolingoUnit}"></label>
+      <p class="muted small">Words unlock up to this unit (Section 1 has units 1–16, so Section 2 Unit 15 = unit 31). Raise it when you move on in Duolingo.</p>
       <label>New cards per day <input type="number" min="0" max="200" id="newPerDay" value="${s.newPerDay}"></label>
       <p class="muted small">Each word has several cards (meaning, listening, producing it, forms). Because you already know these words from Duolingo, 30–50 a day works well; press “Too easy”/“Easy” for words you know well.</p>
       <label>Answer style
@@ -220,8 +232,9 @@ function settingsView() {
       <label class="btn">Restore backup<input type="file" id="import" accept=".json,application/json" hidden></label></div>
       <button class="link danger" id="reset">Reset all progress…</button>
     </section>
-    <p class="muted small center">Hebrew Cards v0.2</p>`);
+    <p class="muted small center">Hebrew Cards v0.3</p>`);
   const bind = (id, fn) => (app.querySelector(`#${id}`).onchange = (e) => updateSettings({ [id]: fn(e.target) }));
+  bind('duolingoUnit', (el) => Math.max(1, Math.min(84, Number(el.value) || 31)));
   bind('newPerDay', (el) => Math.max(0, Math.min(200, Number(el.value) || 0)));
   bind('answerMode', (el) => el.value);
   bind('autoplay', (el) => el.checked);

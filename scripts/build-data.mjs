@@ -112,7 +112,8 @@ try {
 // everyday words most naturally; with vowel marks it sometimes shifts stress (tested, see
 // scripts/check-pronunciation.mjs). Ambiguous = (a) the same spelling has 2+ readings in our data
 // (רואה ro'e/ro'a, לך lekha/lakh, ישן yashan/yashen …) or (b) a known homograph / very short word.
-const HOMOGRAPHS = new Set(['חום', 'דבר', 'ספר', 'דוד', 'שער', 'מראה', 'נהג', 'שכן', 'חיה', 'דקה', 'את', 'ש', 'ל', 'ב', 'את (אות-)', 'עם (את-)', 'מן (מ-)']);
+const HOMOGRAPHS = new Set(['חום', 'דבר', 'ספר', 'דוד', 'שער', 'מראה', 'נהג', 'שכן', 'חיה', 'דקה', 'את', 'ש', 'ל', 'ב', 'את (אות-)', 'עם (את-)', 'מן (מ-)',
+  'עם', 'ברך', 'עור', 'פרס', 'סם', 'מטר', 'עצם', 'מורה', 'מדבר', 'שר', 'חמה', 'פה']);
 const readings = new Map();
 for (const it of items) {
   if (!it.voc) continue;
@@ -144,6 +145,11 @@ if (errors.length) {
   process.exit(1);
 }
 if (missing.length) console.warn(`No vowel marks yet for ${missing.length} entries (audio will guess), e.g. ${missing.slice(0, 5).join(', ')}`);
+// Keep units and entries in course order (file names would put extras.txt first).
+units.sort((a, b) => a.unit - b.unit);
+items.sort((a, b) => a.unit - b.unit);
+units.find((u) => u.unit === 100) && (units.find((u) => u.unit === 100).source = 'extra');
+items.forEach((it) => { if (it.unit === 100) it.source = 'extra'; });
 mkdirSync(outDir, { recursive: true });
 writeFileSync(join(outDir, 'words.json'), JSON.stringify({ units, items }));
 const counts = items.reduce((a, it) => ((a[it.type] = (a[it.type] || 0) + 1), a), {});

@@ -2,7 +2,7 @@
 // Usage: AZURE_SPEECH_KEY=... node scripts/generate-audio.mjs   (region: germanywestcentral)
 // In Claude cloud sessions the key is injected by the proxy: NODE_USE_ENV_PROXY=1 npm run audio
 // Existing files are skipped, so it can be re-run after adding words.
-import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync, unlinkSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -86,6 +86,13 @@ const worker = async () => {
 };
 await Promise.all(Array.from({ length: 4 }, worker));
 
+// Remove recordings that no current text uses (e.g. after a word changed).
+const wanted = new Set([...texts].map(audioKey));
+let removed = 0;
+for (const f of readdirSync(outDir).filter((f) => /^[0-9a-f]{8}\.mp3$/.test(f))) {
+  if (!wanted.has(f.slice(0, 8))) { unlinkSync(join(outDir, f)); removed++; }
+}
+if (removed) console.log(`Removed ${removed} unused recordings.`);
 const all = readdirSync(outDir).filter((f) => /^[0-9a-f]{8}\.mp3$/.test(f)).map((f) => f.slice(0, 8)).sort();
 writeFileSync(join(outDir, 'index.json'), JSON.stringify(all));
 console.log(`Generated ${done} files (${chars} characters). ${all.length} audio files in total.`);

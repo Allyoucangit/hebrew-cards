@@ -1,0 +1,91 @@
+# Everyday words that the Duolingo course does not teach. Unit 100 = "Everyday extras" (always available).
+@unit 100|Everyday extras
+x|phrase|בוקר טוב|boker tov|good morning|בוקר טוב, אמא!|Good morning, mom!
+x|phrase|ערב טוב|erev tov|good evening|ערב טוב לכולם.|Good evening, everyone.
+x|phrase|לילה טוב|layla tov|good night|לילה טוב, ילדים.|Good night, kids.
+x|phrase|שבת שלום|shabat shalom|Shabbat shalom (greeting for Friday/Saturday)|שבת שלום ולהתראות!|Shabbat shalom and goodbye!
+x|phrase|חג שמח|khag same'akh|happy holiday|חג שמח לכל המשפחה!|Happy holiday to the whole family!
+x|phrase|נעים מאוד|na'im me'od|nice to meet you|נעים מאוד, אני דני.|Nice to meet you, I'm Danny.
+x|phrase|איך קוראים לך?|eykh kor'im lekha / lakh|what's your name?|איך קוראים לך? קוראים לי שרה.|What's your name? My name is Sarah.
+x|phrase|קוראים לי …|kor'im li …|my name is …|קוראים לי טים.|My name is Tim.
+x|phrase|מה המצב?|ma hamatsav|how's it going?|היי, מה המצב?|Hey, how's it going?
+x|phrase|אני לא מבין / מבינה|ani lo mevin / mevina|I don't understand (m / f)|סליחה, אני לא מבין.|Sorry, I don't understand.
+x|phrase|אתה יכול לחזור על זה?|ata yakhol lakhzor al ze|can you repeat that?|אתה יכול לחזור על זה, בבקשה?|Can you repeat that, please?
+x|phrase|כמה זה עולה?|kama ze ole|how much is it?|כמה זה עולה? עשרים שקל.|How much is it? Twenty shekels.
+x|phrase|אין בעיה|eyn be'aya|no problem|תודה! - אין בעיה.|Thanks! - No problem.
+x|phrase|לא נורא|lo nora|never mind, no big deal|שכחתי. - לא נורא.|I forgot. - Never mind.
+x|phrase|אין לי מושג|eyn li musag|I have no idea|אין לי מושג איפה הוא.|I have no idea where he is.
+x|phrase|בטח|betakh|sure, of course|אתה בא? - בטח!|Are you coming? - Sure!
+x|phrase|יאללה|yalla|come on, let's go|יאללה, הולכים!|Come on, let's go!
+x|phrase|סבבה|sababa|cool, okay|נפגשים בשמונה? - סבבה.|Meet at eight? - Cool.
+x|phrase|אחלה|akhla|great, awesome|אחלה רעיון!|Great idea!
+x|phrase|נו|nu|well? come on!|נו, מה קרה?|Well, what happened?
+x|phrase|הנה|hine|here is, here you go|הנה הקפה שלך.|Here's your coffee.
+x|phrase|כמובן|kamuvan|of course|כמובן שאני בא.|Of course I'm coming.
+x|phrase|בעצם|be'etsem|actually|בעצם, אני לא רעב.|Actually, I'm not hungry.
+x|phrase|כאילו|ke'ilu|like (filler); as if|זה כאילו מוזר.|It's, like, weird.
+x|phrase|למשל|lemashal|for example|אני אוהב פירות, למשל תפוחים.|I like fruit, for example apples.
+x|phrase|כלומר|klomar|that is, I mean|מחר, כלומר ביום ראשון.|Tomorrow, I mean on Sunday.
+x|phrase|שים לב / שימי לב|sim lev / simi lev|pay attention! watch out! (m / f)|שים לב, יש מדרגה.|Watch out, there's a step.
+x|num|עשרים ואחד / עשרים ואחת|esrim ve'ekhad / esrim ve'akhat|twenty-one (m / f)|יש עשרים ואחד תלמידים.|There are twenty-one students.
+x|prep|לפני|lifney|before; ago|לפני הארוחה.|Before the meal.
+x|prep|אחרי|akharey|after|אחרי העבודה אני נח.|After work I rest.
+x|prep|בגלל|biglal|because of|בגלל הגשם אנחנו בבית.|Because of the rain we're at home.
+x|conj|כדי|kedey|in order to|אני לומד כדי לדבר עברית.|I study in order to speak Hebrew.
+x|adv|יחד|yakhad|together|אנחנו עובדים יחד.|We work together.
+x|adv|למעלה|lema'ala|up, upstairs|החדר שלי למעלה.|My room is upstairs.
+x|adv|למטה|lemata|down, downstairs|המטבח למטה.|The kitchen is downstairs.
+x|adv|ימינה|yamina|to the right|תפנה ימינה.|Turn right.
+x|adv|שמאלה|smola|to the left|תפנה שמאלה.|Turn left.
+x|adv|ישר|yashar|straight ahead|תמשיך ישר.|Keep going straight.
+v|ללבוש|lilbosh|ל-ב-ש|paal|לובש,לובשת,לובשים,לובשות|lovesh,loveshet,lovshim,lovshot|to wear, to put on|היא לובשת שמלה.|She's wearing a dress.
+v|להתלבש|lehitlabesh|ל-ב-ש|hitpael|מתלבש,מתלבשת,מתלבשים,מתלבשות|mitlabesh,mitlabeshet,mitlabshim,mitlabshot|to get dressed|אני מתלבש מהר.|I get dressed quickly.
+v|לקום|lakum|ק-ו-ם|paal|קם,קמה,קמים,קמות|kam,kama,kamim,kamot|to get up, to stand up|אני קם בשבע.|I get up at seven.
+v|להתעורר|lehit'orer|ע-ו-ר|hitpael|מתעורר,מתעוררת,מתעוררים,מתעוררות|mit'orer,mit'oreret,mit'orerim,mit'orerot|to wake up|אני מתעורר מוקדם.|I wake up early.
+v|לעמוד|la'amod|ע-מ-ד|paal|עומד,עומדת,עומדים,עומדות|omed,omedet,omdim,omdot|to stand|הוא עומד ליד הדלת.|He's standing by the door.
+v|לשכב|lishkav|ש-כ-ב|paal|שוכב,שוכבת,שוכבים,שוכבות|shokhev,shokhevet,shokhvim,shokhvot|to lie down|הכלב שוכב על הרצפה.|The dog is lying on the floor.
+v|לנוח|lanu'akh|נ-ו-ח|paal|נח,נחה,נחים,נחות|nakh,nakha,nakhim,nakhot|to rest|אני נח אחרי העבודה.|I rest after work.
+v|לעלות|la'alot|ע-ל-ה|paal|עולה,עולה,עולים,עולות|ole,ola,olim,olot|to go up; to cost|כמה זה עולה?|How much does it cost?
+v|להיכנס|lehikanes|כ-נ-ס|nifal|נכנס,נכנסת,נכנסים,נכנסות|nikhnas,nikhneset,nikhnasim,nikhnasot|to enter, to come in|אפשר להיכנס?|May I come in?
+v|לצאת|latset|י-צ-א|paal|יוצא,יוצאת,יוצאים,יוצאות|yotse,yotset,yots'im,yots'ot|to go out, to leave|אני יוצא עכשיו.|I'm going out now.
+v|להביא|lehavi|ב-ו-א|hifil|מביא,מביאה,מביאים,מביאות|mevi,mevi'a,mevi'im,mevi'ot|to bring|המלצר מביא מים.|The waiter brings water.
+v|לגמור|ligmor|ג-מ-ר|paal|גומר,גומרת,גומרים,גומרות|gomer,gomeret,gomrim,gomrot|to finish (spoken)|אני גומר לעבוד בחמש.|I finish work at five.
+v|להחזיק|lehakhzik|ח-ז-ק|hifil|מחזיק,מחזיקה,מחזיקים,מחזיקות|makhzik,makhzika,makhzikim,makhzikot|to hold|תחזיק את זה רגע.|Hold this for a moment.
+v|לדאוג|lid'og|ד-א-ג|paal|דואג,דואגת,דואגים,דואגות|do'eg,do'eget,do'agim,do'agot|to worry; to take care of|אמא דואגת לי.|Mom worries about me.
+v|להתכוון|lehitkaven|כ-ו-ן|hitpael|מתכוון,מתכוונת,מתכוונים,מתכוונות|mitkaven,mitkavenet,mitkavnim,mitkavnot|to mean; to intend|למה אתה מתכוון?|What do you mean?
+v|להפריע|lehafri'a|פ-ר-ע|hifil|מפריע,מפריעה,מפריעים,מפריעות|mafri'a,mafri'a,mafri'im,mafri'ot|to disturb, to bother|אני מפריע?|Am I disturbing?
+v|לאחר|le'akher|א-ח-ר|piel|מאחר,מאחרת,מאחרים,מאחרות|me'akher,me'akheret,me'akhrim,me'akhrot|to be late|האוטובוס מאחר.|The bus is late.
+v|להתחתן|lehitkhaten|ח-ת-ן|hitpael|מתחתן,מתחתנת,מתחתנים,מתחתנות|mitkhaten,mitkhatenet,mitkhatnim,mitkhatnot|to get married|הם מתחתנים בקיץ.|They're getting married in the summer.
+v|לחייך|lekhayekh|ח-י-כ|piel|מחייך,מחייכת,מחייכים,מחייכות|mekhayekh,mekhayekhet,mekhaykhim,mekhaykhot|to smile|התינוק מחייך.|The baby is smiling.
+v|לצחוק|litskhok|צ-ח-ק|paal|צוחק,צוחקת,צוחקים,צוחקות|tsokhek,tsokheket,tsokhakim,tsokhakot|to laugh|למה אתה צוחק?|Why are you laughing?
+v|לטעום|lit'om|ט-ע-ם|paal|טועם,טועמת,טועמים,טועמות|to'em,to'emet,to'amim,to'amot|to taste|אני טועם את המרק.|I'm tasting the soup.
+v|לנקות|lenakot|נ-ק-ה|piel|מנקה,מנקה,מנקים,מנקות|menake,menaka,menakim,menakot|to clean|אנחנו מנקים את הבית.|We're cleaning the house.
+v|לשטוף|lishtof|ש-ט-ף|paal|שוטף,שוטפת,שוטפים,שוטפות|shotef,shotefet,shotfim,shotfot|to wash, to rinse|אני שוטף כלים.|I'm washing dishes.
+v|לשנוא|lisno|ש-נ-א|paal|שונא,שונאת,שונאים,שונאות|sone,sonet,son'im,son'ot|to hate|אני שונא לחכות.|I hate waiting.
+v|לחיות|likhyot|ח-י-ה|paal|חי,חיה,חיים,חיות|khay,khaya,khayim,khayot|to live (be alive)|הוא חי בתל אביב.|He lives in Tel Aviv.
+v|להבטיח|lehavti'akh|ב-ט-ח|hifil|מבטיח,מבטיחה,מבטיחים,מבטיחות|mavti'akh,mavtikha,mavtikhim,mavtikhot|to promise|אני מבטיח!|I promise!
+v|לזוז|lazuz|ז-ו-ז|paal|זז,זזה,זזים,זזות|zaz,zaza,zazim,zazot|to move (oneself)|אל תזוז!|Don't move!
+a|עסוק,עסוקה,עסוקים,עסוקות|asuk,asuka,asukim,asukot|busy|אני עסוק עכשיו.|I'm busy now.
+a|חולה,חולה,חולים,חולות|khole,khola,kholim,kholot|sick, ill|אני חולה היום.|I'm sick today.
+a|שקט,שקטה,שקטים,שקטות|shaket,shketa,shketim,shketot|quiet|השכונה שקטה.|The neighborhood is quiet.
+a|רועש,רועשת,רועשים,רועשות|ro'esh,ro'eshet,ro'ashim,ro'ashot|noisy|הרחוב רועש.|The street is noisy.
+a|זקן,זקנה,זקנים,זקנות|zaken,zkena,zkenim,zkenot|old (person)|הכלב שלי זקן.|My dog is old.
+a|כועס,כועסת,כועסים,כועסות|ko'es,ko'eset,ko'asim,ko'asot|angry|למה אתה כועס?|Why are you angry?
+a|עצבני,עצבנית,עצבניים,עצבניות|atsbani,atsbanit,atsbaniyim,atsbaniyot|annoyed, irritable; nervous|הוא עצבני היום.|He's in a bad mood today.
+a|חמוד,חמודה,חמודים,חמודות|khamud,khamuda,khamudim,khamudot|cute, sweet|איזה כלב חמוד!|What a cute dog!
+a|מצחיק,מצחיקה,מצחיקים,מצחיקות|matskhik,matskhika,matskhikim,matskhikot|funny|הסרט מצחיק.|The movie is funny.
+a|מפחיד,מפחידה,מפחידים,מפחידות|mafkhid,mafkhida,mafkhidim,mafkhidot|scary|הסרט מפחיד.|The movie is scary.
+a|רך,רכה,רכים,רכות|rakh,raka,rakim,rakot|soft|הכרית רכה.|The pillow is soft.
+a|כבד,כבדה,כבדים,כבדות|kaved,kveda,kvedim,kvedot|heavy|המזוודה כבדה.|The suitcase is heavy.
+a|שונה,שונה,שונים,שונות|shone,shona,shonim,shonot|different|זה שונה.|That's different.
+a|דומה,דומה,דומים,דומות|dome,doma,domim,domot|similar|הם דומים מאוד.|They're very similar.
+a|פנוי,פנויה,פנויים,פנויות|panuy,pnuya,pnuyim,pnuyot|free, vacant, available|הכיסא הזה פנוי?|Is this seat free?
+a|מוקדם,מוקדמת,מוקדמים,מוקדמות|mukdam,mukdemet,mukdamim,mukdamot|early|זה מוקדם מדי.|It's too early.
+a|צודק,צודקת,צודקים,צודקות|tsodek,tsodeket,tsodkim,tsodkot|right (correct)|אתה צודק.|You're right.
+n|כביש|kvish|road|m|כבישים|kvishim|הכביש עמוס.|The road is busy.
+n|חוף|khof|beach, shore|m|חופים|khofim|נלך לחוף?|Shall we go to the beach?
+n|אורח|ore'akh|guest|m|אורחים|orkhim|יש לנו אורחים הערב.|We have guests tonight.
+n|מלון|malon|hotel|m|מלונות|melonot|המלון ליד הים.|The hotel is near the sea.
+n|רופא שיניים|rofe shinayim|dentist|m|רופאי שיניים|rof'ey shinayim|יש לי תור לרופא שיניים.|I have a dentist appointment.
+n|קניון|kanyon|shopping mall|m|קניונים|kanyonim|אנחנו הולכים לקניון.|We're going to the mall.
+n|תור (רופא)|tor|appointment|m|תורים|torim|קבעתי תור לרופא.|I made a doctor's appointment.

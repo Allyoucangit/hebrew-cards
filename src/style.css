@@ -172,3 +172,5 @@ table.forms td .he { font-size: 1.15rem; }
 
 .flag { font-size: 0.85rem; margin-top: 6px; }
 .form textarea { width: 100%; font: inherit; font-family: var(--he-font); font-size: 1.1rem; padding: 10px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); color: var(--text); }
+.card.unit.locked { opacity: 0.6; }
+label.check { display: flex; gap: 8px; align-items: center; margin: 4px 0 8px; }
